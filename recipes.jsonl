@@ -119,7 +119,7 @@
             "prepTime": 30,
             "cookTime": 12,
             "servings": 4,
-            "image": "",
+            "image": "https://github.com/ahmethakantoker/shopping-cart/blob/480c0e79d8373310100f982b8ca5946f239f2e4d/Recipe%20Images/classic_margherita_pizza.png",
             "ingredients": [
                 {
                     "name": "All-Purpose Flour (plus extra for dusting)",
