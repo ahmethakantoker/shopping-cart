@@ -255,7 +255,7 @@
             "prepTime": 15,
             "cookTime": 20,
             "servings": 8,
-            "image": "https://github.com/ahmethakantoker/shopping-cart/blob/75e6ae8739c2aadfc2ec2d36a90be0a68537bec2/Recipe%20Images/classic_ground_beef_tacos.png",
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
             "ingredients": [
                 {
                     "name": "Lean Ground Beef (80/20 or leaner)",
