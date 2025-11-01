@@ -1,100 +1,93 @@
 {
     "request": [
         {
-            "recipeName": "Gourmet Sautéed Mushroom Swiss Burger",
-            "calories": 750,
-            "prepTime": 15,
-            "cookTime": 15,
+            "recipeName": "Classic Diner Cheeseburger",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
             "servings": 4,
             "image": "",
             "ingredients": [
                 {
-                    "name": "Ground Beef (85% lean/15% fat)",
+                    "name": "Ground Beef (80% lean / 20% fat)",
                     "quantity": 680.0,
                     "type": "gram"
                 },
                 {
-                    "name": "Cremini Mushrooms, sliced",
-                    "quantity": 1.5,
-                    "type": "cup"
-                },
-                {
-                    "name": "Butter",
-                    "quantity": 2.0,
+                    "name": "Worcestershire Sauce",
+                    "quantity": 1.0,
                     "type": "tablespoon"
                 },
                 {
-                    "name": "Garlic, minced",
+                    "name": "Onion Powder",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garlic Powder",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt (Kosher or Sea)",
                     "quantity": 1.0,
                     "type": "teaspoon"
                 },
                 {
-                    "name": "Fresh Thyme Leaves",
-                    "quantity": 0.5,
+                    "name": "Black Pepper, freshly ground",
+                    "quantity": 0.25,
                     "type": "teaspoon"
                 },
                 {
-                    "name": "Kosher Salt (for patties and mushrooms)",
-                    "quantity": 1.5,
-                    "type": "teaspoon"
-                },
-                {
-                    "name": "Black Pepper",
-                    "quantity": 0.5,
-                    "type": "teaspoon"
-                },
-                {
-                    "name": "Swiss Cheese",
+                    "name": "American Cheese",
                     "quantity": 4.0,
                     "type": "piece"
                 },
                 {
-                    "name": "Brioche or Potato Buns",
+                    "name": "Potato Rolls or Hamburger Buns",
                     "quantity": 4.0,
                     "type": "piece"
                 },
                 {
-                    "name": "Mayonnaise (for spreading)",
+                    "name": "Mayonnaise",
                     "quantity": 4.0,
                     "type": "tablespoon"
+                },
+                {
+                    "name": "Dill Pickle Chips",
+                    "quantity": 1.0,
+                    "type": "cup"
                 }
             ],
             "steps": [
                 {
                     "stepOrder": 1,
-                    "stepDescription": "Prepare the mushrooms: In a large skillet, melt 1 tablespoon of butter over medium heat. Add the 1.5 cups of sliced mushrooms and sauté until they release their liquid and begin to brown (about 7 minutes). Add the 1 teaspoon of garlic and 0.5 teaspoon of thyme during the last minute. Season with a pinch of salt and pepper. Remove from skillet and set aside.",
+                    "stepDescription": "Combine the 680 grams of ground beef with the 1 tablespoon of Worcestershire sauce, 0.5 teaspoon of onion powder, 0.5 teaspoon of garlic powder, 1 teaspoon of salt, and 0.25 teaspoon of black pepper. Mix **gently** with your hands until just combined. Overmixing will make the burgers tough.",
                     "stepImage": "",
-                    "recipeTimer": [
-                        {
-                            "timerName": "Sauté Mushrooms",
-                            "timerHours": 0,
-                            "timerMinutes": 7,
-                            "timerSeconds": 0
-                        }
-                    ]
+                    "recipeTimer": []
                 },
                 {
                     "stepOrder": 2,
-                    "stepDescription": "Form the patties: Divide the 680 grams of ground beef into 4 equal portions. Gently form each portion into a patty about 2.5 centimeters thick. Create a slight indentation in the center of each patty. Season both sides heavily with the remaining salt and pepper.",
+                    "stepDescription": "Divide the mixture into 4 equal portions and form into patties about 2 centimeters thick. Make a small indentation in the center of each patty with your thumb to prevent them from puffing up while cooking.",
                     "stepImage": "",
                     "recipeTimer": []
                 },
                 {
                     "stepOrder": 3,
-                    "stepDescription": "Cook the patties: Heat the remaining 1 tablespoon of butter in the same skillet over medium-high heat. Cook the patties for 4-6 minutes per side, depending on desired doneness. Do not press down on the burgers while cooking.",
+                    "stepDescription": "Heat a skillet or grill to medium-high heat. Cook the patties for 3-5 minutes per side for medium doneness, or until the internal temperature reaches 71 degrees.",
                     "stepImage": "",
                     "recipeTimer": [
                         {
                             "timerName": "Patty Cook Time",
                             "timerHours": 0,
-                            "timerMinutes": 10,
+                            "timerMinutes": 8,
                             "timerSeconds": 0
                         }
                     ]
                 },
                 {
                     "stepOrder": 4,
-                    "stepDescription": "Melt the cheese: During the last 1 minute of cooking, top each patty with 1 piece of Swiss cheese. Cover the skillet to help the cheese melt quickly and evenly.",
+                    "stepDescription": "During the last minute of cooking, place 1 piece of American cheese on each patty. Cover the grill or skillet briefly to ensure the cheese melts nicely.",
                     "stepImage": "",
                     "recipeTimer": [
                         {
@@ -107,7 +100,7 @@
                 },
                 {
                     "stepOrder": 5,
-                    "stepDescription": "Assemble: Lightly toast the 4 pieces of buns. Spread 1 tablespoon of mayonnaise on the bottom bun. Place the cheeseburger patty on top, followed by a generous spoonful of the sautéed mushrooms. Top with the other half of the bun and serve immediately.",
+                    "stepDescription": "Toast the 4 pieces of buns cut-side down on the grill or a dry skillet for about 30 seconds. To assemble, spread 1 tablespoon of mayonnaise on both halves of the bun. Place the cheeseburger patty on the bottom bun, top with some of the 1 cup of dill pickle chips, and cap with the top bun.",
                     "stepImage": "",
                     "recipeTimer": []
                 }
@@ -128,7 +121,7 @@
                 },
                 {
                     "name": "Warm Water",
-                    "quantity": 240.0,
+                    "quantity": 240,
                     "type": "milliliter"
                 },
                 {
@@ -168,7 +161,7 @@
                 },
                 {
                     "name": "Fresh Mozzarella, sliced",
-                    "quantity": 300.0,
+                    "quantity": 300,
                     "type": "gram"
                 },
                 {
