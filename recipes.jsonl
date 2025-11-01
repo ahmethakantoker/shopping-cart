@@ -6,7 +6,7 @@
             "prepTime": 10,
             "cookTime": 10,
             "servings": 4,
-            "image": "",
+            "image": "https://github.com/ahmethakantoker/shopping-cart/blob/0e7655d26d85527e43803e24d79859b20a9cec2b/Recipe%20Images/classic_diner_cheeseburger.png",
             "ingredients": [
                 {
                     "name": "Ground Beef (80% lean / 20% fat)",
