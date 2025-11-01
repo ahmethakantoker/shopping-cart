@@ -248,6 +248,143 @@
                     ]
                 }
             ]
+        },
+        {
+            "recipeName": "Classic Ground Beef Tacos",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "",
+            "ingredients": [
+                {
+                    "name": "Lean Ground Beef (80/20 or leaner)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Olive Oil",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Chili Powder",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Ground Cumin",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Dried Oregano",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garlic Powder",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Black Pepper",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Tomato Paste",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Water",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Taco Shells or Tortillas (Corn or Flour)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Shredded Lettuce",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Shredded Cheddar Cheese or Mexican Blend",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Diced Tomatoes",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Sour Cream or Greek Yogurt (optional)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Heat the olive oil in a large skillet over medium-high heat. Add the ground beef and cook, breaking it up with a spoon, until fully browned and no longer pink.",
+                    "stepImage": "",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Drain any excess grease from the skillet and return the meat to the heat.",
+                    "stepImage": "",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Stir in the chili powder, cumin, oregano, garlic powder, salt, and black pepper. Cook for 1 minute, allowing the spices to toast.",
+                    "stepImage": "",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Toast Spices",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Add the tomato paste and water. Stir well to coat the meat. Bring the mixture to a simmer, then reduce heat to low and cook until the sauce has thickened and the liquid is mostly absorbed (the meat should still be moist, not dry).",
+                    "stepImage": "",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Simmer Meat",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "While the meat simmers, warm the taco shells or tortillas according to package directions.",
+                    "stepImage": "",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Spoon the seasoned taco meat into the shells or tortillas. Top with shredded lettuce, cheese, diced tomatoes, and a dollop of sour cream or yogurt (optional). Serve immediately.",
+                    "stepImage": "",
+                    "recipeTimer": []
+                }
+            ]
         }
     ]
 }
