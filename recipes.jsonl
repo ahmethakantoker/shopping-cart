@@ -10,7 +10,7 @@
             "ingredients": [
                 {
                     "name": "Ground Beef (85% lean/15% fat)",
-                    "quantity": 680,
+                    "quantity": 680.0,
                     "type": "gram"
                 },
                 {
@@ -128,7 +128,7 @@
                 },
                 {
                     "name": "Warm Water",
-                    "quantity": 240,
+                    "quantity": 240.0,
                     "type": "milliliter"
                 },
                 {
@@ -168,7 +168,7 @@
                 },
                 {
                     "name": "Fresh Mozzarella, sliced",
-                    "quantity": 300,
+                    "quantity": 300.0,
                     "type": "gram"
                 },
                 {
