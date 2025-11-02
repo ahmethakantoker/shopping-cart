@@ -337,7 +337,7 @@
                 {
                     "stepOrder": 1,
                     "stepDescription": "Heat the olive oil in a large skillet over medium-high heat. Add the ground beef and cook, breaking it up with a spoon, until fully browned and no longer pink.",
-                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
                     "recipeTimer": []
                 },
                 {
@@ -349,7 +349,7 @@
                 {
                     "stepOrder": 3,
                     "stepDescription": "Stir in the chili powder, cumin, oregano, garlic powder, salt, and black pepper. Cook for 1 minute, allowing the spices to toast.",
-                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
                     "recipeTimer": [
                         {
                             "timerName": "Toast Spices",
@@ -381,7 +381,7 @@
                 {
                     "stepOrder": 6,
                     "stepDescription": "Spoon the seasoned taco meat into the shells or tortillas. Top with shredded lettuce, cheese, diced tomatoes, and a dollop of sour cream or yogurt (optional). Serve immediately.",
-                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
                     "recipeTimer": []
                 }
             ]
