@@ -109,150 +109,6 @@
         },
         {
             "id": 2,
-            "recipeName": "Classic Margherita Pizza",
-            "calories": 400,
-            "prepTime": 30,
-            "cookTime": 12,
-            "servings": 4,
-            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
-            "ingredients": [
-                {
-                    "name": "All-Purpose Flour (plus extra for dusting)",
-                    "quantity": 2.5,
-                    "type": "cup"
-                },
-                {
-                    "name": "Warm Water",
-                    "quantity": 240,
-                    "type": "milliliter"
-                },
-                {
-                    "name": "Active Dry Yeast",
-                    "quantity": 2.25,
-                    "type": "teaspoon"
-                },
-                {
-                    "name": "Sugar",
-                    "quantity": 1.0,
-                    "type": "teaspoon"
-                },
-                {
-                    "name": "Fine Sea Salt (for dough)",
-                    "quantity": 1.0,
-                    "type": "teaspoon"
-                },
-                {
-                    "name": "Olive Oil (for dough and pan)",
-                    "quantity": 2.0,
-                    "type": "tablespoon"
-                },
-                {
-                    "name": "Crushed Tomatoes (canned, San Marzano style)",
-                    "quantity": 1.5,
-                    "type": "cup"
-                },
-                {
-                    "name": "Garlic Powder (for sauce)",
-                    "quantity": 0.5,
-                    "type": "teaspoon"
-                },
-                {
-                    "name": "Fine Sea Salt (for sauce)",
-                    "quantity": 1.0,
-                    "type": "pinch"
-                },
-                {
-                    "name": "Fresh Mozzarella, sliced",
-                    "quantity": 300,
-                    "type": "gram"
-                },
-                {
-                    "name": "Fresh Basil Leaves",
-                    "quantity": 1.0,
-                    "type": "cup"
-                },
-                {
-                    "name": "Olive Oil (for finishing drizzle)",
-                    "quantity": 1.0,
-                    "type": "tablespoon"
-                }
-            ],
-            "steps": [
-                {
-                    "stepOrder": 1,
-                    "stepDescription": "Activate the yeast: In a small bowl, combine the 240 milliliters of warm water, 2.25 teaspoons of active dry yeast, and 1 teaspoon of sugar. Let sit for 5 minutes until foamy.",
-                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
-                    "recipeTimer": [
-                        {
-                            "timerName": "Yeast Activation",
-                            "timerHours": 0,
-                            "timerMinutes": 5,
-                            "timerSeconds": 0
-                        }
-                    ]
-                },
-                {
-                    "stepOrder": 2,
-                    "stepDescription": "Make the dough: In a large bowl, whisk together the 2.5 cups of flour and 1 teaspoon of salt. Pour in the yeast mixture and 2 tablespoons of olive oil. Mix until a shaggy dough forms, then turn out onto a floured surface and knead for 5-7 minutes until smooth and elastic.",
-                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
-                    "recipeTimer": [
-                        {
-                            "timerName": "Dough Kneading",
-                            "timerHours": 0,
-                            "timerMinutes": 6,
-                            "timerSeconds": 0
-                        }
-                    ]
-                },
-                {
-                    "stepOrder": 3,
-                    "stepDescription": "Let the dough rise: Place the dough in a lightly oiled bowl, turning to coat. Cover and let rise in a warm place until doubled in size (about 60-90 minutes).",
-                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
-                    "recipeTimer": [
-                        {
-                            "timerName": "Dough Rise Time",
-                            "timerHours": 1,
-                            "timerMinutes": 30,
-                            "timerSeconds": 0
-                        }
-                    ]
-                },
-                {
-                    "stepOrder": 4,
-                    "stepDescription": "Preheat and prep: Preheat oven to with a pizza stone or baking steel inside for at least 30 minutes. Meanwhile, combine the 1.5 cups of crushed tomatoes, 0.5 teaspoon of garlic powder, and 1 pinch of salt for the sauce.",
-                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
-                    "recipeTimer": [
-                        {
-                            "timerName": "Oven Preheat",
-                            "timerHours": 0,
-                            "timerMinutes": 30,
-                            "timerSeconds": 0
-                        }
-                    ]
-                },
-                {
-                    "stepOrder": 5,
-                    "stepDescription": "Shape and top: Punch down the risen dough and divide it into 4 equal pieces. On a floured surface, stretch or roll one piece into a 10-12 inch circle. Transfer to a pizza peel or parchment-lined pan. Spread 1/4 of the sauce on top, leaving a small border, and distribute 1/4 of the 300 grams of sliced mozzarella.",
-                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
-                    "recipeTimer": []
-                },
-                {
-                    "stepOrder": 6,
-                    "stepDescription": "Bake and finish: Slide the pizza onto the preheated stone or place the pan in the oven. Bake for 10-12 minutes until the crust is golden brown and the cheese is bubbly. Once out of the oven, immediately scatter 1/4 cup of fresh basil leaves on top and drizzle with a little olive oil.",
-                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
-                    "recipeTimer": [
-                        {
-                            "timerName": "Pizza Bake Time",
-                            "timerHours": 0,
-                            "timerMinutes": 12,
-                            "timerSeconds": 0
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 3,
             "recipeName": "Classic Ground Beef Tacos",
             "calories": 300,
             "prepTime": 15,
@@ -385,6 +241,335 @@
                     "stepOrder": 6,
                     "stepDescription": "Spoon the seasoned taco meat into the shells or tortillas. Top with shredded lettuce, cheese, diced tomatoes, and a dollop of sour cream or yogurt (optional). Serve immediately.",
                     "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Classic Margherita Pizza",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "All-Purpose Flour",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Warm Water",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Active Dry Yeast",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Olive Oil (Dough)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Crushed Tomatoes",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Fresh Mozzarella Cheese",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Fresh Basil Leaves",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olive Oil (Topping)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Black Pepper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Activate the yeast by mixing it with warm water and a pinch of sugar (not listed in ingredients, but assumed for yeast activation) in a bowl. Let it sit for 5-10 minutes until foamy.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Yeast Activation",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "In a large bowl, combine the flour and salt. Pour in the yeast mixture and the 2 tablespoons of olive oil. Mix until a shaggy dough forms.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Turn the dough out onto a lightly floured surface and knead for 8-10 minutes until smooth and elastic. Place in a greased bowl, cover, and let rise in a warm place until doubled in size.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Dough Rise",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Preheat your oven to the highest temperature (usually 250°C/480°F) and place a pizza stone or baking sheet inside to heat up. Punch down the dough, divide it into two balls (for two medium pizzas), and let them rest for 10 minutes.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Oven Preheat",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Stretch or roll one dough ball into a 12-inch circle. Transfer it to a floured pizza peel or parchment paper. Spread half the crushed tomatoes evenly, top with half the torn mozzarella, and drizzle with a little olive oil and a pinch of pepper.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Bake the pizza for 12-15 minutes until the crust is golden and the cheese is bubbly. Once out of the oven, garnish immediately with fresh basil leaves. Slice and serve.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Bake Time",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Spicy Chicken Ranch Wrap",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Chicken Breast (boneless, skinless)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortillas (large)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ranch Dressing",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Hot Sauce (e.g., Buffalo style)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Romaine Lettuce (shredded)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Shredded Cheddar Cheese",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Smoked Paprika",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garlic Powder",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Olive Oil",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Cut the chicken breast into 1-inch strips. In a bowl, toss the chicken with olive oil, smoked paprika, garlic powder, and a pinch of salt until well coated.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Heat a large skillet over medium-high heat. Add the seasoned chicken strips and cook for 5-7 minutes, turning occasionally, until they are golden brown and fully cooked through (internal temperature of 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cook Chicken",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "While the chicken is still hot, remove it from the heat and transfer it to a clean bowl. Pour the ranch dressing and hot sauce over the chicken. Toss until every piece is coated in the spicy ranch mixture.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Lay out one tortilla. Spread a thin layer of shredded lettuce down the center, followed by a quarter of the shredded cheddar cheese. This forms the base of the wrap.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Place a quarter of the spicy ranch chicken mixture over the cheese and lettuce. Be careful not to overfill the wrap.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "To wrap, fold in the two sides of the tortilla over the filling, then tightly roll the wrap from the bottom up. Slice the finished wrap in half diagonally and serve immediately.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Classic French Omelette",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Eggs (large)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Butter",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Black Pepper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Chives (fresh, chopped)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Crack the eggs into a bowl. Add salt and pepper. Whisk vigorously until the yolks and whites are fully combined and slightly frothy, but avoid incorporating too much air.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Whisking",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Heat a non-stick skillet (about 8 inches) over medium heat. Add the butter and swirl it around until it melts, foams up, and then subsides, becoming a clear, nutty color.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Butter melting",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Pour the egg mixture into the hot skillet. Let the eggs set for about 10 seconds. Then, using a fork or rubber spatula, stir the eggs constantly and rapidly, tilting the pan, until the bottom is set but the top is still moist and creamy.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cooking Eggs",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Stop stirring and let the omelette cook undisturbed for another 30 seconds to fully set the bottom. Sprinkle the chopped chives over the center third of the omelette.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Final Set",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Tilt the pan, and using a spatula, fold one side of the omelette about a third of the way over the center. Gently roll the omelette out of the pan and onto a plate, seam-side down, to create a neat torpedo shape. Serve immediately.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
                     "recipeTimer": []
                 }
             ]
