@@ -1,6 +1,7 @@
 {
     "request": [
         {
+            "id": 1,
             "recipeName": "Classic Diner Cheeseburger",
             "calories": 620,
             "prepTime": 10,
@@ -107,6 +108,7 @@
             ]
         },
         {
+            "id": 2,
             "recipeName": "Classic Margherita Pizza",
             "calories": 400,
             "prepTime": 30,
@@ -250,6 +252,7 @@
             ]
         },
         {
+            "id": 3,
             "recipeName": "Classic Ground Beef Tacos",
             "calories": 300,
             "prepTime": 15,
