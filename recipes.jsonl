@@ -63,19 +63,19 @@
                 {
                     "stepOrder": 1,
                     "stepDescription": "Combine the 680 grams of ground beef with the 1 tablespoon of Worcestershire sauce, 0.5 teaspoon of onion powder, 0.5 teaspoon of garlic powder, 1 teaspoon of salt, and 0.25 teaspoon of black pepper. Mix **gently** with your hands until just combined. Overmixing will make the burgers tough.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
                     "recipeTimer": []
                 },
                 {
                     "stepOrder": 2,
                     "stepDescription": "Divide the mixture into 4 equal portions and form into patties about 2 centimeters thick. Make a small indentation in the center of each patty with your thumb to prevent them from puffing up while cooking.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
                     "recipeTimer": []
                 },
                 {
                     "stepOrder": 3,
                     "stepDescription": "Heat a skillet or grill to medium-high heat. Cook the patties for 3-5 minutes per side for medium doneness, or until the internal temperature reaches 71 degrees.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
                     "recipeTimer": [
                         {
                             "timerName": "Patty Cook Time",
@@ -88,7 +88,7 @@
                 {
                     "stepOrder": 4,
                     "stepDescription": "During the last minute of cooking, place 1 piece of American cheese on each patty. Cover the grill or skillet briefly to ensure the cheese melts nicely.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
                     "recipeTimer": [
                         {
                             "timerName": "Cheese Melt",
@@ -101,7 +101,7 @@
                 {
                     "stepOrder": 5,
                     "stepDescription": "Toast the 4 pieces of buns cut-side down on the grill or a dry skillet for about 30 seconds. To assemble, spread 1 tablespoon of mayonnaise on both halves of the bun. Place the cheeseburger patty on the bottom bun, top with some of the 1 cup of dill pickle chips, and cap with the top bun.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
                     "recipeTimer": []
                 }
             ]
