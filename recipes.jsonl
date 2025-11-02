@@ -179,7 +179,7 @@
                 {
                     "stepOrder": 1,
                     "stepDescription": "Activate the yeast: In a small bowl, combine the 240 milliliters of warm water, 2.25 teaspoons of active dry yeast, and 1 teaspoon of sugar. Let sit for 5 minutes until foamy.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": [
                         {
                             "timerName": "Yeast Activation",
@@ -192,7 +192,7 @@
                 {
                     "stepOrder": 2,
                     "stepDescription": "Make the dough: In a large bowl, whisk together the 2.5 cups of flour and 1 teaspoon of salt. Pour in the yeast mixture and 2 tablespoons of olive oil. Mix until a shaggy dough forms, then turn out onto a floured surface and knead for 5-7 minutes until smooth and elastic.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": [
                         {
                             "timerName": "Dough Kneading",
@@ -205,7 +205,7 @@
                 {
                     "stepOrder": 3,
                     "stepDescription": "Let the dough rise: Place the dough in a lightly oiled bowl, turning to coat. Cover and let rise in a warm place until doubled in size (about 60-90 minutes).",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": [
                         {
                             "timerName": "Dough Rise Time",
@@ -218,7 +218,7 @@
                 {
                     "stepOrder": 4,
                     "stepDescription": "Preheat and prep: Preheat oven to with a pizza stone or baking steel inside for at least 30 minutes. Meanwhile, combine the 1.5 cups of crushed tomatoes, 0.5 teaspoon of garlic powder, and 1 pinch of salt for the sauce.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": [
                         {
                             "timerName": "Oven Preheat",
@@ -231,13 +231,13 @@
                 {
                     "stepOrder": 5,
                     "stepDescription": "Shape and top: Punch down the risen dough and divide it into 4 equal pieces. On a floured surface, stretch or roll one piece into a 10-12 inch circle. Transfer to a pizza peel or parchment-lined pan. Spread 1/4 of the sauce on top, leaving a small border, and distribute 1/4 of the 300 grams of sliced mozzarella.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": []
                 },
                 {
                     "stepOrder": 6,
                     "stepDescription": "Bake and finish: Slide the pizza onto the preheated stone or place the pan in the oven. Bake for 10-12 minutes until the crust is golden brown and the cheese is bubbly. Once out of the oven, immediately scatter 1/4 cup of fresh basil leaves on top and drizzle with a little olive oil.",
-                    "stepImage": "[Image of baked pizza]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": [
                         {
                             "timerName": "Pizza Bake Time",
@@ -337,19 +337,19 @@
                 {
                     "stepOrder": 1,
                     "stepDescription": "Heat the olive oil in a large skillet over medium-high heat. Add the ground beef and cook, breaking it up with a spoon, until fully browned and no longer pink.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": []
                 },
                 {
                     "stepOrder": 2,
                     "stepDescription": "Drain any excess grease from the skillet and return the meat to the heat.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": []
                 },
                 {
                     "stepOrder": 3,
                     "stepDescription": "Stir in the chili powder, cumin, oregano, garlic powder, salt, and black pepper. Cook for 1 minute, allowing the spices to toast.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": [
                         {
                             "timerName": "Toast Spices",
@@ -362,7 +362,7 @@
                 {
                     "stepOrder": 4,
                     "stepDescription": "Add the tomato paste and water. Stir well to coat the meat. Bring the mixture to a simmer, then reduce heat to low and cook until the sauce has thickened and the liquid is mostly absorbed (the meat should still be moist, not dry).",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": [
                         {
                             "timerName": "Simmer Meat",
@@ -375,13 +375,13 @@
                 {
                     "stepOrder": 5,
                     "stepDescription": "While the meat simmers, warm the taco shells or tortillas according to package directions.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": []
                 },
                 {
                     "stepOrder": 6,
                     "stepDescription": "Spoon the seasoned taco meat into the shells or tortillas. Top with shredded lettuce, cheese, diced tomatoes, and a dollop of sour cream or yogurt (optional). Serve immediately.",
-                    "stepImage": "",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
                     "recipeTimer": []
                 }
             ]
