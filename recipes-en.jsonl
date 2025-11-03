@@ -573,6 +573,615 @@
                     "recipeTimer": []
                 }
             ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Classic Garlic and Olive Oil Spaghetti (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Spaghetti Pasta",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Extra Virgin Olive Oil",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Garlic",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Red Pepper Flakes (Chili)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Fresh Parsley (Chopped)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Black Pepper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Bring a large pot of water to a boil. Salt the water (it should be as salty as sea water). Add the spaghetti and cook according to package instructions until al dente. Reserve about 1 cup of the pasta cooking water.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Pasta Cooking",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "While the pasta is cooking, thinly slice the garlic. Heat a large skillet over medium heat and add 0.75 cup of extra virgin olive oil. Add the sliced garlic and 1 teaspoon of red pepper flakes to the skillet.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Sauté the garlic until golden and fragrant, about 2-3 minutes. **Be careful not to burn it**, otherwise it will become bitter. Add 0.5 cup of the reserved pasta cooking water to the skillet. Bring to a simmer.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Garlic Sautéing",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Drain the cooked pasta (do not rinse) and immediately transfer it to the skillet with the garlic sauce. Add the remaining 4 tablespoons of chopped fresh parsley. Quickly mix and toss the pan to coat all the pasta with the sauce.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Add a little more reserved pasta water if necessary to adjust the consistency of the sauce. Taste and add 1 pinch of black pepper and additional salt if needed. Serve immediately while hot.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Creamy Pesto Chicken Pasta",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Fettuccine Pasta",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Chicken Breast (boneless, skinless)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Heavy Cream",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Basil Pesto",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Parmesan Cheese (grated)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olive Oil",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Garlic Powder",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Black Pepper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Cut the 500 grams of chicken breast into 1-inch cubes. In a bowl, toss the chicken with 1 tablespoon of olive oil, 0.5 teaspoon of salt, 1 teaspoon of garlic powder, and 1 pinch of black pepper.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Heat the remaining 1 tablespoon of olive oil in a large skillet over medium-high heat. Add the seasoned chicken and cook for 6-8 minutes, turning occasionally, until golden brown and fully cooked through.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cook Chicken",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "While the chicken cooks, bring a large pot of salted water to a boil. Add the 350 grams of fettuccine and cook until al dente. Drain the pasta, reserving 1 cup of the cooking water.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cook Pasta",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Reduce the heat on the skillet (with the chicken) to low. Pour in the 250 milliliters of heavy cream and 0.5 cup of basil pesto. Stir well until combined. Let the sauce simmer gently for 2 minutes to thicken slightly.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sauce Simmer",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Add the drained pasta to the creamy pesto sauce and toss to coat. Stir in the 0.5 cup of grated Parmesan cheese and about 0.25 cup of the reserved pasta water. Add more water if needed to reach your desired consistency. Serve immediately.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Grilled Cheese Sandwich",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Sourdough Bread",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Cheddar Cheese (sharp)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Monterey Jack Cheese",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Unsalted Butter (softened)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Mayonnaise (optional for flavor)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Grate both the Cheddar and Monterey Jack cheeses and mix them together in a small bowl. Grating ensures even melting. ",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Spread the butter evenly on one side of each slice of bread. This is the side that will touch the pan. Optionally, spread a thin layer of mayonnaise on the opposite side (the inside) of one slice for extra flavor.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Place one slice of bread (butter-side down) in a non-stick skillet over medium-low heat. Sprinkle the mixed cheese evenly over the bread, then add a pinch of salt.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Top with the second slice of bread (butter-side up). Cook for 3 to 4 minutes until the bottom slice is golden brown and the cheese is starting to melt. ",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "First side cook time",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Carefully flip the sandwich using a spatula. Cook for another 3 to 4 minutes until the second side is golden brown and the cheese is fully melted and oozy. If the outside browns too quickly, lower the heat.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Second side cook time",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Remove from the skillet, slice diagonally, and serve immediately. ",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Perfect Pan-Seared Ribeye Steak with Garlic Herb Butter",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Ribeye Steak (1.5 inches thick)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Kosher Salt",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Freshly Ground Black Pepper",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Vegetable Oil (high smoke point)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Unsalted Butter",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Garlic Cloves (smashed)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Fresh Thyme Sprigs",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Pat the steaks completely dry with paper towels. Season generously on all sides with kosher salt and black pepper. Let the steaks sit at room temperature for 30 minutes before cooking.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Heat the vegetable oil in a cast-iron skillet over high heat until it begins to shimmer and smoke slightly. Carefully place the seasoned steaks into the hot pan. Sear for 3 to 4 minutes until a deep, dark brown crust has formed.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "First side sear time",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Flip the steaks. Reduce the heat to medium. Add the butter, smashed garlic cloves, and thyme sprigs to the pan. Tilt the pan slightly and use a large spoon to baste the melted herb butter over the steaks continuously for 1 to 2 minutes, or until the desired internal temperature is reached (e.g., 130°F for medium-rare).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Basting/Cooking Time",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Remove the steaks from the pan and place them on a cutting board. Pour the remaining herb butter from the pan over the steaks. Let them rest for 5 to 10 minutes to allow the juices to redistribute before slicing and serving.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Resting Time",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Classic Butter Chicken",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Boneless, Skinless Chicken Thighs (cubed)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Plain Yogurt",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ginger-Garlic Paste",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Chili Powder",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Turmeric Powder",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (for marinade)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Tomato Puree",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Unsalted Butter",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Heavy Cream",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (Dried Fenugreek Leaves)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Marinate the chicken: In a large bowl, mix the chicken with yogurt, ginger-garlic paste, chili powder, turmeric powder, and the marinade garam masala. Cover and refrigerate for at least 30 minutes, or up to 4 hours.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Marination time",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Cook the chicken: Grill, bake, or pan-fry the marinated chicken until fully cooked and slightly charred on the edges. Set aside.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Chicken cooking time",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Prepare the sauce base: In a large pot, melt half of the butter. Add the tomato puree and cook until the oil separates (about 10 minutes). Add 1/2 cup of water, simmer, then blend the sauce until completely smooth. Strain the blended sauce back into the pot.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sauce simmering time",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Finish the sauce: Add the remaining butter, sugar, and the remaining garam masala (if desired) to the strained sauce. Stir well. Add the cooked chicken pieces and simmer for 5 minutes.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Final simmer with chicken",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Serve: Stir in the heavy cream and crush the Kasuri Methi between your palms before adding it. Heat through but do not boil. Serve immediately with rice or naan bread.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Creamy Tomato Soup",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Canned Diced Tomatoes",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Chicken or Vegetable Broth",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Onion, chopped",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Garlic, minced",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Heavy Cream",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olive Oil",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Dried Basil",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Black Pepper",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Heat olive oil in a large pot over medium heat. Add chopped onion and sauté until softened, about 5-7 minutes. Add minced garlic and sauté for 1 minute more.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sauté Onion",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Stir in the canned diced tomatoes, broth, dried basil, salt, and pepper. Bring the mixture to a boil, then reduce heat and simmer for 20 minutes.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Simmer Soup",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Carefully transfer the soup to a blender or use an immersion blender to blend the soup until smooth. Return the soup to the pot.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Stir in the heavy cream and heat through for 2-3 minutes, but do not boil. Serve hot, optionally garnished with fresh basil or croutons.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
         }
     ]
 }
