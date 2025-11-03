@@ -1,0 +1,578 @@
+{
+"request": [
+{
+"id": 1,
+"recipeName": "Klasik Lokanta Çizburger",
+"calories": 620,
+"prepTime": 10,
+"cookTime": 10,
+"servings": 4,
+"image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+"ingredients": [
+{
+"name": "Kıyma (%80 yağsız / %20 yağlı)",
+"quantity": 680.0,
+"type": "gram"
+},
+{
+"name": "Worcestershire Sosu",
+"quantity": 1.0,
+"type": "tablespoon"
+},
+{
+"name": "Soğan Tozu",
+"quantity": 0.5,
+"type": "teaspoon"
+},
+{
+"name": "Sarımsak Tozu",
+"quantity": 0.5,
+"type": "teaspoon"
+},
+{
+"name": "Tuz (Koşer veya Deniz)",
+"quantity": 1.0,
+"type": "teaspoon"
+},
+{
+"name": "Taze Çekilmiş Kara Biber",
+"quantity": 0.25,
+"type": "teaspoon"
+},
+{
+"name": "Amerikan Peyniri",
+"quantity": 4.0,
+"type": "piece"
+},
+{
+"name": "Patatesli Ekmek veya Hamburger Ekmeği",
+"quantity": 4.0,
+"type": "piece"
+},
+{
+"name": "Mayonez",
+"quantity": 4.0,
+"type": "tablespoon"
+},
+{
+"name": "Dereotu Turşu Cipsleri",
+"quantity": 1.0,
+"type": "cup"
+}
+],
+"steps": [
+{
+"stepOrder": 1,
+"stepDescription": "680 gram kıymayı 1 yemek kaşığı Worcestershire sosu, 0.5 çay kaşığı soğan tozu, 0.5 çay kaşığı sarımsak tozu, 1 çay kaşığı tuz ve 0.25 çay kaşığı karabiber ile karıştırın. **Yavaşça** elinizle sadece birleşene kadar karıştırın. Fazla karıştırmak köfteleri sertleştirir.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+"recipeTimer": []
+},
+{
+"stepOrder": 2,
+"stepDescription": "Karışımı 4 eşit parçaya bölün ve yaklaşık 2 santimetre kalınlığında köfteler (patties) oluşturun. Pişirme sırasında şişmelerini önlemek için her bir köftenin ortasına başparmağınızla küçük bir çöküntü yapın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+"recipeTimer": []
+},
+{
+"stepOrder": 3,
+"stepDescription": "Bir tavayı veya ızgarayı orta-yüksek ateşte ısıtın. Köfteleri orta pişmişlik için her tarafını 3-5 dakika veya iç sıcaklık 71 dereceye ulaşana kadar pişirin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+"recipeTimer": [
+{
+"timerName": "Köfte Pişirme Süresi",
+"timerHours": 0,
+"timerMinutes": 8,
+"timerSeconds": 0
+}
+]
+},
+{
+"stepOrder": 4,
+"stepDescription": "Pişirmenin son dakikasında, her bir köftenin üzerine 1 parça Amerikan peyniri koyun. Peynirin güzelce erimesi için ızgarayı veya tavayı kısaca kapatın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+"recipeTimer": [
+{
+"timerName": "Peynir Eritme",
+"timerHours": 0,
+"timerMinutes": 1,
+"timerSeconds": 0
+}
+]
+},
+{
+"stepOrder": 5,
+"stepDescription": "4 adet ekmeği ızgarada veya kuru bir tavada kesik tarafı aşağı bakacak şekilde yaklaşık 30 saniye kızartın. Birleştirmek için ekmeğin her iki yarısına 1 yemek kaşığı mayonez sürün. Çizburger köftesini alt ekmeğe yerleştirin, üzerine 1 fincan dereotu turşu cipsinden biraz koyun ve üst ekmekle kapatın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+"recipeTimer": []
+}
+]
+},
+{
+"id": 2,
+"recipeName": "Klasik Kıymalı Takolar",
+"calories": 300,
+"prepTime": 15,
+"cookTime": 20,
+"servings": 8,
+"image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+"ingredients": [
+{
+"name": "Yağsız Kıyma (%80/20 veya daha yağsız)",
+"quantity": 0.45,
+"type": "kilogram"
+},
+{
+"name": "Zeytinyağı",
+"quantity": 1.0,
+"type": "tablespoon"
+},
+{
+"name": "Biber Tozu (Chili Powder)",
+"quantity": 2.0,
+"type": "teaspoon"
+},
+{
+"name": "Öğütülmüş Kimyon",
+"quantity": 2.0,
+"type": "teaspoon"
+},
+{
+"name": "Kuru Kekik",
+"quantity": 0.5,
+"type": "teaspoon"
+},
+{
+"name": "Sarımsak Tozu",
+"quantity": 0.5,
+"type": "teaspoon"
+},
+{
+"name": "Tuz",
+"quantity": 0.5,
+"type": "teaspoon"
+},
+{
+"name": "Kara Biber",
+"quantity": 0.25,
+"type": "teaspoon"
+},
+{
+"name": "Domates Salçası",
+"quantity": 2.0,
+"type": "tablespoon"
+},
+{
+"name": "Su",
+"quantity": 0.5,
+"type": "cup"
+},
+{
+"name": "Taco Kabukları veya Tortillalar (Mısır veya Un)",
+"quantity": 8.0,
+"type": "piece"
+},
+{
+"name": "Doğranmış Marul",
+"quantity": 1.0,
+"type": "cup"
+},
+{
+"name": "Rendelenmiş Çedar Peyniri veya Meksika Karışımı",
+"quantity": 0.5,
+"type": "cup"
+},
+{
+"name": "Küp Doğranmış Domates",
+"quantity": 0.5,
+"type": "cup"
+},
+{
+"name": "Ekşi Krema veya Yunan Yoğurdu (isteğe bağlı)",
+"quantity": 4.0,
+"type": "tablespoon"
+}
+],
+"steps": [
+{
+"stepOrder": 1,
+"stepDescription": "Zeytinyağını büyük bir tavada orta-yüksek ateşte ısıtın. Kıymayı ekleyin ve kaşıkla parçalayarak tamamen kahverengileşip pembe rengi kalmayana kadar pişirin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+"recipeTimer": []
+},
+{
+"stepOrder": 2,
+"stepDescription": "Tavadan fazla yağı boşaltın ve eti tekrar ateşe koyun.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+"recipeTimer": []
+},
+{
+"stepOrder": 3,
+"stepDescription": "Biber tozu, kimyon, kekik, sarımsak tozu, tuz ve karabiberi karıştırın. Baharatların kavrulması için 1 dakika pişirin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+"recipeTimer": [
+{
+"timerName": "Baharatları Kavurma",
+"timerHours": 0,
+"timerMinutes": 1,
+"timerSeconds": 0
+}
+]
+},
+{
+"stepOrder": 4,
+"stepDescription": "Domates salçası ve suyu ekleyin. Eti kaplamak için iyice karıştırın. Karışımı kaynamaya bırakın, ardından ateşi kısın ve sos kalınlaşana ve sıvı çoğunlukla emilene kadar (et hala nemli, kuru olmamalı) pişirin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+"recipeTimer": [
+{
+"timerName": "Etin Kısık Ateşte Pişirilmesi",
+"timerHours": 0,
+"timerMinutes": 5,
+"timerSeconds": 0
+}
+]
+},
+{
+"stepOrder": 5,
+"stepDescription": "Et kısık ateşte pişerken, taco kabuklarını veya tortillaları paket talimatlarına göre ısıtın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+"recipeTimer": []
+},
+{
+"stepOrder": 6,
+"stepDescription": "Baharatlı taco etini kabuklara veya tortillalara kaşıkla koyun. Üzerine rendelenmiş marul, peynir, küp doğranmış domates ve bir miktar ekşi krema veya yoğurt (isteğe bağlı) ekleyin. Hemen servis yapın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+"recipeTimer": []
+}
+]
+},
+{
+"id": 3,
+"recipeName": "Klasik Margherita Pizza",
+"calories": 350,
+"prepTime": 30,
+"cookTime": 15,
+"servings": 4,
+"image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+"ingredients": [
+{
+"name": "Çok Amaçlı Un",
+"quantity": 3.0,
+"type": "cup"
+},
+{
+"name": "Ilık Su",
+"quantity": 1.0,
+"type": "cup"
+},
+{
+"name": "Aktif Kuru Maya",
+"quantity": 2.25,
+"type": "teaspoon"
+},
+{
+"name": "Tuz",
+"quantity": 1.0,
+"type": "teaspoon"
+},
+{
+"name": "Zeytinyağı (Hamur)",
+"quantity": 2.0,
+"type": "tablespoon"
+},
+{
+"name": "Ezilmiş Domates",
+"quantity": 400.0,
+"type": "gram"
+},
+{
+"name": "Taze Mozzarella Peyniri",
+"quantity": 250.0,
+"type": "gram"
+},
+{
+"name": "Taze Fesleğen Yaprakları",
+"quantity": 1.0,
+"type": "cup"
+},
+{
+"name": "Zeytinyağı (Üst Malzeme)",
+"quantity": 1.0,
+"type": "tablespoon"
+},
+{
+"name": "Kara Biber",
+"quantity": 1.0,
+"type": "pinch"
+}
+],
+"steps": [
+{
+"stepOrder": 1,
+"stepDescription": "Mayayı ılık su ve bir tutam şekerle (malzemelerde listelenmemiş, ancak maya aktivasyonu için varsayılmıştır) bir kapta karıştırarak aktive edin. Köpürene kadar 5-10 dakika bekletin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+"recipeTimer": [
+{
+"timerName": "Maya Aktivasyonu",
+"timerHours": 0,
+"timerMinutes": 10,
+"timerSeconds": 0
+}
+]
+},
+{
+"stepOrder": 2,
+"stepDescription": "Büyük bir kapta unu ve tuzu birleştirin. Maya karışımını ve 2 yemek kaşığı zeytinyağını dökün. Kabarık bir hamur oluşana kadar karıştırın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+"recipeTimer": []
+},
+{
+"stepOrder": 3,
+"stepDescription": "Hamuru hafifçe unlanmış bir yüzeye alın ve pürüzsüz ve elastik olana kadar 8-10 dakika yoğurun. Yağlanmış bir kaba koyun, üzerini örtün ve sıcak bir yerde iki katına çıkana kadar kabarmaya bırakın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+"recipeTimer": [
+{
+"timerName": "Hamur Kabartma",
+"timerHours": 1,
+"timerMinutes": 30,
+"timerSeconds": 0
+}
+]
+},
+{
+"stepOrder": 4,
+"stepDescription": "Fırınınızı en yüksek sıcaklığa (genellikle 250°C/480°F) ısıtın ve bir pizza taşını veya fırın tepsisini içine koyarak ısınmasını sağlayın. Hamurun havasını indirin, iki topa bölün (iki orta boy pizza için) ve 10 dakika dinlenmeye bırakın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+"recipeTimer": [
+{
+"timerName": "Fırın Ön Isıtma",
+"timerHours": 0,
+"timerMinutes": 30,
+"timerSeconds": 0
+}
+]
+},
+{
+"stepOrder": 5,
+"stepDescription": "Bir hamur topunu 12 inçlik bir daire şeklinde gerin veya açın. Unlanmış bir pizza küreğine veya parşömen kağıdına aktarın. Ezilmiş domatesin yarısını eşit şekilde yayın, üzerine yırtılmış mozzarellanın yarısını koyun ve biraz zeytinyağı ve bir tutam biber gezdirin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+"recipeTimer": []
+},
+{
+"stepOrder": 6,
+"stepDescription": "Kabuk altın rengini alıp peynir köpürene kadar pizzayı 12-15 dakika pişirin. Fırından çıktıktan hemen sonra taze fesleğen yapraklarıyla süsleyin. Dilimleyip servis yapın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+"recipeTimer": [
+{
+"timerName": "Pişirme Süresi",
+"timerHours": 0,
+"timerMinutes": 15,
+"timerSeconds": 0
+}
+]
+}
+]
+},
+{
+"id": 4,
+"recipeName": "Acılı Tavuk Ranch Dürüm",
+"calories": 450,
+"prepTime": 15,
+"cookTime": 10,
+"servings": 4,
+"image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+"ingredients": [
+{
+"name": "Tavuk Göğsü (kemiksiz, derisiz)",
+"quantity": 500.0,
+"type": "gram"
+},
+{
+"name": "Tortillalar (büyük)",
+"quantity": 4.0,
+"type": "piece"
+},
+{
+"name": "Ranch Sosu",
+"quantity": 0.5,
+"type": "cup"
+},
+{
+"name": "Acı Sos (örneğin, Buffalo tarzı)",
+"quantity": 2.0,
+"type": "tablespoon"
+},
+{
+"name": "Romaine Marulu (doğranmış)",
+"quantity": 2.0,
+"type": "cup"
+},
+{
+"name": "Rendelenmiş Çedar Peyniri",
+"quantity": 1.0,
+"type": "cup"
+},
+{
+"name": "İsli Biber Tozu (Smoked Paprika)",
+"quantity": 1.0,
+"type": "teaspoon"
+},
+{
+"name": "Sarımsak Tozu",
+"quantity": 1.0,
+"type": "teaspoon"
+},
+{
+"name": "Tuz",
+"quantity": 1.0,
+"type": "pinch"
+},
+{
+"name": "Zeytinyağı",
+"quantity": 1.0,
+"type": "tablespoon"
+}
+],
+"steps": [
+{
+"stepOrder": 1,
+"stepDescription": "Tavuk göğsünü 1 inçlik şeritler halinde kesin. Bir kapta tavuğu zeytinyağı, isli biber tozu, sarımsak tozu ve bir tutam tuz ile iyice kaplanana kadar karıştırın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+"recipeTimer": []
+},
+{
+"stepOrder": 2,
+"stepDescription": "Büyük bir tavayı orta-yüksek ateşte ısıtın. Baharatlı tavuk şeritlerini ekleyin ve ara sıra çevirerek, altın rengini alana ve tamamen pişene kadar (iç sıcaklığı 74°C/165°F) 5-7 dakika pişirin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+"recipeTimer": [
+{
+"timerName": "Tavuk Pişirme",
+"timerHours": 0,
+"timerMinutes": 7,
+"timerSeconds": 0
+}
+]
+},
+{
+"stepOrder": 3,
+"stepDescription": "Tavuk hala sıcakken, ısıdan alın ve temiz bir kaseye aktarın. Ranch sosu ve acı sosu tavuğun üzerine dökün. Her parçası acılı ranch karışımıyla kaplanana kadar karıştırın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+"recipeTimer": []
+},
+{
+"stepOrder": 4,
+"stepDescription": "Bir tortillayı yayın. Ortasına ince bir kat doğranmış marul, ardından rendelenmiş çedar peynirinin dörtte birini yayın. Bu, dürümün tabanını oluşturur.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+"recipeTimer": []
+},
+{
+"stepOrder": 5,
+"stepDescription": "Acılı ranch tavuk karışımının dörtte birini peynir ve marulun üzerine yerleştirin. Dürümü aşırı doldurmamaya dikkat edin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+"recipeTimer": []
+},
+{
+"stepOrder": 6,
+"stepDescription": "Sarmak için, tortillanın iki kenarını dolgunun üzerine katlayın, ardından dürümu alttan yukarı doğru sıkıca sarın. Bitmiş dürümu çapraz olarak ikiye bölün ve hemen servis yapın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+"recipeTimer": []
+}
+]
+},
+{
+"id": 5,
+"recipeName": "Klasik Fransız Omleti",
+"calories": 250,
+"prepTime": 5,
+"cookTime": 8,
+"servings": 1,
+"image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+"ingredients": [
+{
+"name": "Yumurta (büyük)",
+"quantity": 3.0,
+"type": "piece"
+},
+{
+"name": "Tereyağı",
+"quantity": 1.0,
+"type": "tablespoon"
+},
+{
+"name": "Tuz",
+"quantity": 0.5,
+"type": "teaspoon"
+},
+{
+"name": "Kara Biber",
+"quantity": 1.0,
+"type": "pinch"
+},
+{
+"name": "Taze Frenk Soğanı (doğranmış)",
+"quantity": 0.5,
+"type": "tablespoon"
+}
+],
+"steps": [
+{
+"stepOrder": 1,
+"stepDescription": "Yumurtaları bir kaseye kırın. Tuz ve karabiber ekleyin. Sarısı ve beyazı tamamen birleşene ve hafif köpüklü olana kadar kuvvetlice çırpın, ancak çok fazla hava karıştırmaktan kaçının.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+"recipeTimer": [
+{
+"timerName": "Çırpma",
+"timerHours": 0,
+"timerMinutes": 1,
+"timerSeconds": 0
+}
+]
+},
+{
+"stepOrder": 2,
+"stepDescription": "Yapışmaz bir tavayı (yaklaşık 8 inç) orta ateşte ısıtın. Tereyağını ekleyin ve eriyip köpürene, ardından köpüğü azalana ve berrak, cevizli bir renk alana kadar tavayı çevirin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+"recipeTimer": [
+{
+"timerName": "Tereyağı Eritme",
+"timerHours": 0,
+"timerMinutes": 1,
+"timerSeconds": 30
+}
+]
+},
+{
+"stepOrder": 3,
+"stepDescription": "Yumurta karışımını sıcak tavaya dökün. Yumurtaların yaklaşık 10 saniye donmasına izin verin. Ardından, bir çatal veya lastik spatula kullanarak, tavanın tabanı donmuş ama üstü hala nemli ve kremsi olana kadar yumurtaları sürekli ve hızlı bir şekilde karıştırın, tavayı eğin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+"recipeTimer": [
+{
+"timerName": "Yumurta Pişirme",
+"timerHours": 0,
+"timerMinutes": 1,
+"timerSeconds": 30
+}
+]
+},
+{
+"stepOrder": 4,
+"stepDescription": "Karıştırmayı bırakın ve omletin altının tamamen donması için 30 saniye daha dokunmadan pişirin. Doğranmış frenk soğanlarını omletin orta üçte birlik kısmının üzerine serpin.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+"recipeTimer": [
+{
+"timerName": "Son Donma",
+"timerHours": 0,
+"timerMinutes": 0,
+"timerSeconds": 30
+}
+]
+},
+{
+"stepOrder": 5,
+"stepDescription": "Tavayı eğin ve bir spatula kullanarak omletin bir tarafını ortanın yaklaşık üçte biri kadar katlayın. Omleti tavadan yavaşça, dikiş tarafı aşağı bakacak şekilde, düzgün bir torpido şekli oluşturacak şekilde bir tabağa yuvarlayın. Hemen servis yapın.",
+"stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+"recipeTimer": []
+}
+]
+}
+]
+}
