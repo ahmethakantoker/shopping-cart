@@ -1,0 +1,1187 @@
+{
+  "request": [
+    {
+      "id": 1,
+      "recipeName": "คลาสสิกไดเนอร์ชีสเบอร์เกอร์",
+      "calories": 620,
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+      "ingredients": [
+        {
+          "name": "เนื้อบด (เนื้อแดง 80% / ไขมัน 20%)",
+          "quantity": 680.0,
+          "type": "gram"
+        },
+        {
+          "name": "ซอสวูสเตอร์เชียร์",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "ผงหัวหอม",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "ผงกระเทียม",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "เกลือ (โคเชอร์หรือทะเล)",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "พริกไทยดำบดใหม่",
+          "quantity": 0.25,
+          "type": "teaspoon"
+        },
+        {
+          "name": "อเมริกันชีส",
+          "quantity": 4.0,
+          "type": "piece"
+        },
+        {
+          "name": "ขนมปังมันฝรั่งหรือขนมปังแฮมเบอร์เกอร์",
+          "quantity": 4.0,
+          "type": "piece"
+        },
+        {
+          "name": "มายองเนส",
+          "quantity": 4.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "แตงกวาดองชิป",
+          "quantity": 1.0,
+          "type": "cup"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "ผสมเนื้อบด 680 กรัม กับซอสวูสเตอร์เชียร์ 1 ช้อนโต๊ะ, ผงหัวหอม 0.5 ช้อนชา, ผงกระเทียม 0.5 ช้อนชา, เกลือ 1 ช้อนชา และพริกไทยดำ 0.25 ช้อนชา คลุกเคล้าด้วยมือ **เบาๆ** จนเข้ากันดี การผสมมากเกินไปจะทำให้เบอร์เกอร์แข็ง [cite: 12, 13, 14]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "แบ่งส่วนผสมออกเป็น 4 ส่วนเท่าๆ กัน และปั้นเป็นแพตตี้หนาประมาณ 2 เซนติเมตร ทำรอยบุ๋มเล็กน้อยตรงกลางของแต่ละแพตตี้ด้วยนิ้วหัวแม่มือเพื่อป้องกันไม่ให้เบอร์เกอร์พองขึ้นขณะทำอาหาร [cite: 15, 16]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "ตั้งกระทะหรือเตาย่างให้ร้อนปานกลางถึงสูง [cite: 17] ปรุงแพตตี้ 3-5 นาทีต่อด้านสำหรับความสุกระดับกลาง (medium doneness) หรือจนอุณหภูมิภายในถึง 71 องศา [cite: 18]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "เวลาทำแพตตี้",
+              "timerHours": 0,
+              "timerMinutes": 8,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "ในช่วงนาทีสุดท้ายของการปรุงอาหาร ให้วางอเมริกันชีส 1 ชิ้นบนแพตตี้แต่ละชิ้น [cite: 21] ปิดฝาเตาย่างหรือกระทะชั่วครู่เพื่อให้แน่ใจว่าชีสละลายอย่างสวยงาม [cite: 22]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+          "recipeTimer": [
+            {
+              "timerName": "ชีสละลาย",
+              "timerHours": 0,
+              "timerMinutes": 1,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "ปิ้งขนมปัง 4 ชิ้นโดยคว่ำด้านที่ตัดลงบนเตาย่างหรือกระทะแห้งประมาณ 30 วินาที [cite: 25] ในการประกอบ ให้ทามายองเนส 1 ช้อนโต๊ะบนขนมปังทั้งสองซีก [cite: 26] วางแพตตี้ชีสเบอร์เกอร์บนขนมปังซีกด้านล่าง โรยหน้าด้วยแตงกวาดองชิป 1 ถ้วย แล้วปิดด้วยขนมปังซีกด้านบน [cite: 27]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "recipeName": "คลาสสิกทาโก้เนื้อบด",
+      "calories": 300,
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 8,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+      "ingredients": [
+        {
+          "name": "เนื้อบดไม่ติดมัน (80/20 หรือติดมันน้อยกว่า)",
+          "quantity": 0.45,
+          "type": "kilogram"
+        },
+        {
+          "name": "น้ำมันมะกอก",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "ผงพริก",
+          "quantity": 2.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "ยี่หร่าป่น",
+          "quantity": 2.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "ออริกาโนแห้ง",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "ผงกระเทียม",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "เกลือ",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "พริกไทยดำ",
+          "quantity": 0.25,
+          "type": "teaspoon"
+        },
+        {
+          "name": "มะเขือเทศเข้มข้น",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "น้ำเปล่า",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "เปลือกทาโก้หรือแป้งตอร์ติญ่า (ข้าวโพดหรือแป้ง)",
+          "quantity": 8.0,
+          "type": "piece"
+        },
+        {
+          "name": "ผักกาดหอมขูด",
+          "quantity": 1.0,
+          "type": "cup"
+        },
+        {
+          "name": "เชดดาร์ชีสขูดหรือชีสผสมแบบเม็กซิกัน",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "มะเขือเทศหั่นสี่เหลี่ยมลูกเต๋า",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "ซาวครีมหรือโยเกิร์ตกรีก (เลือกได้)",
+          "quantity": 4.0,
+          "type": "tablespoon"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "ตั้งน้ำมันมะกอกในกระทะขนาดใหญ่บนไฟกลาง-สูง [cite: 44] ใส่เนื้อบดลงไปและปรุงอาหาร โดยใช้ช้อนบี้ให้แตกออกจากกัน จนเป็นสีน้ำตาลทั่วและไม่เป็นสีชมพูแล้ว [cite: 45]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "ระบายน้ำมันส่วนเกินออกจากกระทะ และนำเนื้อกลับไปตั้งไฟ [cite: 46]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "คนผงพริก, ยี่หร่า, ออริกาโน, ผงกระเทียม, เกลือ และพริกไทยดำลงไป [cite: 47] ปรุงอาหารเป็นเวลา 1 นาที เพื่อให้เครื่องเทศหอม [cite: 48]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "อบเครื่องเทศ",
+              "timerHours": 0,
+              "timerMinutes": 1,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "เติมมะเขือเทศเข้มข้นและน้ำเปล่า [cite: 51] คนให้เข้ากันดีเพื่อให้เนื้อเคลือบซอส นำส่วนผสมไปเคี่ยวเบาๆ จากนั้นลดความร้อนลงต่ำและปรุงอาหารต่อจนซอสข้นขึ้นและของเหลวส่วนใหญ่ถูกดูดซึม (เนื้อควรยังคงชุ่มชื้น ไม่แห้ง) [cite: 52]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "เคี่ยวเนื้อ",
+              "timerHours": 0,
+              "timerMinutes": 5,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "ในขณะที่เนื้อกำลังเคี่ยว ให้อุ่นเปลือกทาโก้หรือแป้งตอร์ติญ่าตามคำแนะนำบนบรรจุภัณฑ์ [cite: 55]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 6,
+          "stepDescription": "ตักเนื้อทาโก้ที่ปรุงรสแล้วใส่ในเปลือกหรือแป้งตอร์ติญ่า [cite: 57] โรยหน้าด้วยผักกาดหอมขูด, ชีส, มะเขือเทศหั่นเต๋า และซาวครีมหรือโยเกิร์ต (เลือกได้) [cite: 58] เสิร์ฟทันที [cite: 58]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "recipeName": "คลาสสิกพิซซ่ามาร์เกริต้า",
+      "calories": 350,
+      "prepTime": 30,
+      "cookTime": 15,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+      "ingredients": [
+        {
+          "name": "แป้งอเนกประสงค์",
+          "quantity": 3.0,
+          "type": "cup"
+        },
+        {
+          "name": "น้ำอุ่น",
+          "quantity": 1.0,
+          "type": "cup"
+        },
+        {
+          "name": "ยีสต์แห้งแบบแอคทีฟ",
+          "quantity": 2.25,
+          "type": "teaspoon"
+        },
+        {
+          "name": "เกลือ",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "น้ำมันมะกอก (สำหรับแป้งโด)",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "มะเขือเทศบด",
+          "quantity": 400.0,
+          "type": "gram"
+        },
+        {
+          "name": "มอสซาเรลล่าชีสสด",
+          "quantity": 250.0,
+          "type": "gram"
+        },
+        {
+          "name": "ใบโหระพาฝรั่งสด",
+          "quantity": 1.0,
+          "type": "cup"
+        },
+        {
+          "name": "น้ำมันมะกอก (สำหรับหน้า)",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "พริกไทยดำ",
+          "quantity": 1.0,
+          "type": "pinch"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "กระตุ้นยีสต์โดยการผสมกับน้ำอุ่นและน้ำตาลเล็กน้อย (ไม่ได้ระบุในส่วนผสม แต่สันนิษฐานว่าใช้สำหรับกระตุ้นยีสต์) ในชาม [cite: 70] ทิ้งไว้ 5-10 นาทีจนเป็นฟอง [cite: 71]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+          "recipeTimer": [
+            {
+              "timerName": "การกระตุ้นยีสต์",
+              "timerHours": 0,
+              "timerMinutes": 10,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "ในชามขนาดใหญ่ ผสมแป้งและเกลือ [cite: 74] เทส่วนผสมยีสต์และน้ำมันมะกอก 2 ช้อนโต๊ะลงไป [cite: 75] ผสมจนเกิดแป้งโดที่มีลักษณะหยาบ [cite: 76]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "นำแป้งโดออกมาบนพื้นผิวที่โรยแป้งเบาๆ และนวด 8-10 นาทีจนเนียนและยืดหยุ่น [cite: 77] ใส่ในชามทาน้ำมัน ปิดฝา และปล่อยให้ขึ้นฟูในที่อุ่นจนมีขนาดเพิ่มขึ้นเป็นสองเท่า [cite: 78]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "การขึ้นฟูของแป้งโด",
+              "timerHours": 1,
+              "timerMinutes": 30,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "เปิดเตาอบให้ร้อนที่อุณหภูมิสูงสุด (ปกติคือ 250°C/480°F) และวางพิซซ่าสโตนหรือแผ่นอบไว้ข้างในเพื่อให้ร้อนขึ้น [cite: 81] ชกไล่ลมแป้งโด แบ่งเป็นสองก้อน (สำหรับพิซซ่าขนาดกลางสองถาด) และปล่อยให้พัก 10 นาที [cite: 82]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "การอุ่นเตาอบล่วงหน้า",
+              "timerHours": 0,
+              "timerMinutes": 30,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "ยืดหรือรีดแป้งโดก้อนหนึ่งเป็นวงกลมขนาด 12 นิ้ว [cite: 85] ย้ายไปวางบนพิซซ่าพีลที่โรยแป้งหรือกระดาษรองอบ [cite: 86] เกลี่ยซอสมะเขือเทศบดครึ่งหนึ่งให้ทั่ว โรยหน้าด้วยมอสซาเรลล่าที่ฉีกเป็นชิ้นครึ่งหนึ่ง และโรยน้ำมันมะกอกเล็กน้อยกับพริกไทยเล็กน้อย [cite: 87]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 6,
+          "stepDescription": "อบพิซซ่า 12-15 นาทีจนกระทั่งขอบกรอบเป็นสีทองและชีสเดือดเป็นฟอง [cite: 88] เมื่อนำออกจากเตาอบ ให้ตกแต่งทันทีด้วยใบโหระพาฝรั่งสด [cite: 89] หั่นเป็นชิ้นและเสิร์ฟ [cite: 90]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "เวลาอบ",
+              "timerHours": 0,
+              "timerMinutes": 15,
+              "timerSeconds": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "recipeName": "สไปซี่แรนช์แรปไก่",
+      "calories": 450,
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+      "ingredients": [
+        {
+          "name": "อกไก่ (ไร้กระดูก, ไร้หนัง)",
+          "quantity": 500.0,
+          "type": "gram"
+        },
+        {
+          "name": "แป้งตอร์ติญ่า (ขนาดใหญ่)",
+          "quantity": 4.0,
+          "type": "piece"
+        },
+        {
+          "name": "น้ำสลัดแรนช์",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "ซอสเผ็ด (เช่น สไตล์บัฟฟาโล)",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "ผักกาดหอมโรเมน (ขูด)",
+          "quantity": 2.0,
+          "type": "cup"
+        },
+        {
+          "name": "เชดดาร์ชีสขูด",
+          "quantity": 1.0,
+          "type": "cup"
+        },
+        {
+          "name": "ปาปริก้า รมควัน",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "ผงกระเทียม",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "เกลือ",
+          "quantity": 1.0,
+          "type": "pinch"
+        },
+        {
+          "name": "น้ำมันมะกอก",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "หั่นอกไก่เป็นเส้นขนาด 1 นิ้ว [cite: 104] ในชาม คลุกไก่กับน้ำมันมะกอก, ปาปริก้ารมควัน, ผงกระเทียม และเกลือเล็กน้อย จนเคลือบอย่างดี [cite: 105]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "ตั้งกระทะขนาดใหญ่บนไฟกลาง-สูง [cite: 106] ใส่เส้นไก่ที่ปรุงรสแล้วลงไปและปรุงอาหาร 5-7 นาที พลิกเป็นครั้งคราว จนเป็นสีน้ำตาลทองและสุกทั่ว (อุณหภูมิภายใน 74°C/165°F) [cite: 107]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+          "recipeTimer": [
+            {
+              "timerName": "ปรุงไก่",
+              "timerHours": 0,
+              "timerMinutes": 7,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "ในขณะที่ไก่ยังร้อนอยู่ ให้นำออกจากความร้อนและย้ายไปยังชามที่สะอาด [cite: 110] เทน้ำสลัดแรนช์และซอสเผ็ดลงบนไก่ [cite: 111] คลุกเคล้าจนทุกชิ้นเคลือบด้วยส่วนผสมแรนช์รสเผ็ด [cite: 112]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "กางแป้งตอร์ติญ่าออกหนึ่งแผ่น [cite: 113] เกลี่ยผักกาดหอมขูดบางๆ ตรงกลาง ตามด้วยเชดดาร์ชีสขูดหนึ่งในสี่ส่วน [cite: 114] นี่เป็นฐานของแรป [cite: 115]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "วางส่วนผสมไก่แรนช์รสเผ็ดหนึ่งในสี่ส่วนลงบนชีสและผักกาดหอม [cite: 116] ระวังอย่าใส่ไส้มากเกินไป [cite: 117]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 6,
+          "stepDescription": "ในการห่อ ให้พับด้านข้างทั้งสองของแป้งตอร์ติญ่าทับไส้ จากนั้นม้วนแรปแน่นจากด้านล่างขึ้น [cite: 118] หั่นแรปที่เสร็จแล้วครึ่งหนึ่งในแนวทแยงและเสิร์ฟทันที [cite: 119]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "recipeName": "คลาสสิกเฟรนช์ออมเล็ต",
+      "calories": 250,
+      "prepTime": 5,
+      "cookTime": 8,
+      "servings": 1,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+      "ingredients": [
+        {
+          "name": "ไข่ไก่ (ขนาดใหญ่)",
+          "quantity": 3.0,
+          "type": "piece"
+        },
+        {
+          "name": "เนย",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "เกลือ",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "พริกไทยดำ",
+          "quantity": 1.0,
+          "type": "pinch"
+        },
+        {
+          "name": "ใบกุยช่าย (สด, สับ)",
+          "quantity": 0.5,
+          "type": "tablespoon"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "ตอกไข่ใส่ชาม [cite: 126] ใส่เกลือและพริกไทย [cite: 127] ตีแรงๆ จนกระทั่งไข่แดงและไข่ขาวเข้ากันอย่างสมบูรณ์และเป็นฟองเล็กน้อย แต่หลีกเลี่ยงการรวมอากาศเข้าไปมากเกินไป [cite: 127]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+          "recipeTimer": [
+            {
+              "timerName": "การตี",
+              "timerHours": 0,
+              "timerMinutes": 1,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "ตั้งกระทะ non-stick (ประมาณ 8 นิ้ว) บนไฟกลาง [cite: 130] ใส่เนยลงไปและหมุนให้ทั่วจนกระทั่งละลาย เป็นฟอง และจากนั้นฟองยุบลง กลายเป็นสีน้ำตาลอ่อนแบบถั่ว [cite: 131]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+          "recipeTimer": [
+            {
+              "timerName": "เนยละลาย",
+              "timerHours": 0,
+              "timerMinutes": 1,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "เทส่วนผสมไข่ลงในกระทะร้อน [cite: 134] ปล่อยให้ไข่เซ็ตตัวประมาณ 10 วินาที [cite: 135] จากนั้นใช้ส้อมหรือไม้พายยางคนไข่อย่างต่อเนื่องและรวดเร็ว พลิกกระทะ จนกระทั่งด้านล่างเซ็ตตัว แต่ด้านบนยังคงชื้นและครีม [cite: 135]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "ปรุงไข่",
+              "timerHours": 0,
+              "timerMinutes": 1,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "หยุดคนและปล่อยให้ไข่เจียวปรุงอาหารโดยไม่รบกวนอีก 30 วินาทีเพื่อให้ด้านล่างเซ็ตตัวอย่างสมบูรณ์ [cite: 138] โรยใบกุยช่ายสับลงบนส่วนกลางของไข่เจียว [cite: 139]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "การเซ็ตตัวสุดท้าย",
+              "timerHours": 0,
+              "timerMinutes": 0,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "เอียงกระทะ และใช้ไม้พายพับด้านหนึ่งของไข่เจียวประมาณหนึ่งในสามของทางเข้ากลาง [cite: 142] ค่อยๆ ม้วนไข่เจียวออกจากกระทะและวางบนจาน โดยให้ด้านที่เป็นรอยต่อคว่ำลง เพื่อสร้างรูปทรงตอร์ปิโดที่เรียบร้อย [cite: 143] เสิร์ฟทันที [cite: 144]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "recipeName": "คลาสสิกสปาเก็ตตี้กระเทียมและน้ำมันมะกอก (Aglio e Olio)",
+      "calories": 480,
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+      "ingredients": [
+        {
+          "name": "เส้นสปาเก็ตตี้",
+          "quantity": 400.0,
+          "type": "gram"
+        },
+        {
+          "name": "น้ำมันมะกอกบริสุทธิ์พิเศษ",
+          "quantity": 0.75,
+          "type": "cup"
+        },
+        {
+          "name": "กระเทียม",
+          "quantity": 6.0,
+          "type": "piece"
+        },
+        {
+          "name": "พริกแดงป่น (พริก)",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "เกลือ",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "พาร์สลีย์สด (สับ)",
+          "quantity": 4.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "พริกไทยดำ",
+          "quantity": 1.0,
+          "type": "pinch"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "ต้มน้ำในหม้อขนาดใหญ่จนเดือด [cite: 153] ใส่เกลือในน้ำ (ควรเค็มเหมือนน้ำทะเล) [cite: 154] ใส่เส้นสปาเก็ตตี้และปรุงอาหารตามคำแนะนำบนบรรจุภัณฑ์จนกระทั่งสุกแบบอัลเดนเต้ [cite: 155] สำรองน้ำสำหรับปรุงอาหารไว้ประมาณ 1 ถ้วย [cite: 156]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "การปรุงพาสต้า",
+              "timerHours": 0,
+              "timerMinutes": 10,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "ในขณะที่พาสต้ากำลังปรุงอาหาร ให้หั่นกระเทียมเป็นแผ่นบางๆ [cite: 159] ตั้งกระทะขนาดใหญ่บนไฟกลางและเติมน้ำมันมะกอกบริสุทธิ์พิเศษ 0.75 ถ้วย [cite: 160] ใส่กระเทียมหั่นบางๆ และพริกแดงป่น 1 ช้อนชาลงในกระทะ [cite: 161]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "ผัดกระเทียมจนเป็นสีทองและมีกลิ่นหอม ประมาณ 2-3 นาที [cite: 162] **ระวังอย่าให้ไหม้** มิฉะนั้นจะมีรสขม [cite: 163] เติมน้ำสำหรับปรุงพาสต้าที่สำรองไว้ 0.5 ถ้วยลงในกระทะ [cite: 164] นำไปเคี่ยวเบาๆ [cite: 165]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "การผัดกระเทียม",
+              "timerHours": 0,
+              "timerMinutes": 2,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "สะเด็ดน้ำพาสต้าที่ปรุงสุกแล้ว (ไม่ต้องล้าง) และย้ายไปยังกระทะที่มีซอสกระเทียมทันที [cite: 168] ใส่พาร์สลีย์สดสับ 4 ช้อนโต๊ะที่เหลือ [cite: 169] ผสมและคลุกเคล้าในกระทะอย่างรวดเร็วเพื่อให้พาสต้าทั้งหมดเคลือบด้วยซอส [cite: 169]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "เติมน้ำพาสต้าที่สำรองไว้เพิ่มเล็กน้อยหากจำเป็นเพื่อปรับความข้นของซอส [cite: 170] ชิมและเติมพริกไทยดำ 1 หยิบมือ และเกลือเพิ่มเติมหากต้องการ [cite: 171] เสิร์ฟทันทีขณะร้อน [cite: 172]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "recipeName": "พาสต้าไก่ครีมซอสเพสโต้",
+      "calories": 750,
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+      "ingredients": [
+        {
+          "name": "เส้นเฟตตูชินี",
+          "quantity": 350.0,
+          "type": "gram"
+        },
+        {
+          "name": "อกไก่ (ไร้กระดูก, ไร้หนัง)",
+          "quantity": 500.0,
+          "type": "gram"
+        },
+        {
+          "name": "ครีมหนัก",
+          "quantity": 250.0,
+          "type": "milliliter"
+        },
+        {
+          "name": "ซอสเพสโต้ใบโหระพา",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "พาร์เมซานชีส (ขูด)",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "น้ำมันมะกอก",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "ผงกระเทียม",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "เกลือ",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "พริกไทยดำ",
+          "quantity": 1.0,
+          "type": "pinch"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "หั่นอกไก่ 500 กรัมเป็นลูกเต๋าขนาด 1 นิ้ว [cite: 183] ในชาม คลุกไก่กับน้ำมันมะกอก 1 ช้อนโต๊ะ, เกลือ 0.5 ช้อนชา, ผงกระเทียม 1 ช้อนชา และพริกไทยดำ 1 หยิบมือ [cite: 184]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "ตั้งน้ำมันมะกอก 1 ช้อนโต๊ะที่เหลือในกระทะขนาดใหญ่บนไฟกลาง-สูง [cite: 185] ใส่ไก่ที่ปรุงรสแล้วลงไปและปรุงอาหาร 6-8 นาที พลิกเป็นครั้งคราว จนกระทั่งเป็นสีน้ำตาลทองและสุกทั่ว [cite: 186]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+          "recipeTimer": [
+            {
+              "timerName": "ปรุงไก่",
+              "timerHours": 0,
+              "timerMinutes": 7,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "ในขณะที่ไก่กำลังปรุงอาหาร ให้นำน้ำใส่หม้อขนาดใหญ่ใส่เกลือตั้งไฟให้เดือด [cite: 189] ใส่เส้นเฟตตูชินี 350 กรัมลงไปและปรุงจนสุกแบบอัลเดนเต้ [cite: 190] สะเด็ดน้ำพาสต้า โดยสำรองน้ำสำหรับปรุงอาหารไว้ 1 ถ้วย [cite: 191]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "ปรุงพาสต้า",
+              "timerHours": 0,
+              "timerMinutes": 9,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "ลดความร้อนบนกระทะ (ที่มีไก่) ลงต่ำ [cite: 194] เทครีมหนัก 250 มิลลิลิตร และซอสเพสโต้ใบโหระพา 0.5 ถ้วยลงไป [cite: 195] คนให้เข้ากันดี [cite: 195] ปล่อยให้ซอสเคี่ยวเบาๆ เป็นเวลา 2 นาทีเพื่อให้ข้นขึ้นเล็กน้อย [cite: 196]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+          "recipeTimer": [
+            {
+              "timerName": "เคี่ยวซอส",
+              "timerHours": 0,
+              "timerMinutes": 2,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "เติมพาสต้าที่สะเด็ดน้ำแล้วลงในซอสเพสโต้ครีมและคลุกเคล้าให้เคลือบ [cite: 199] คนพาร์เมซานชีสขูด 0.5 ถ้วย และน้ำพาสต้าที่สำรองไว้ประมาณ 0.25 ถ้วยลงไป [cite: 200] เติมน้ำเพิ่มหากจำเป็นเพื่อให้ได้ความข้นที่คุณต้องการ [cite: 201] เสิร์ฟทันที [cite: 202]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "recipeName": "แซนวิชชีสย่าง",
+      "calories": 480,
+      "prepTime": 5,
+      "cookTime": 8,
+      "servings": 1,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+      "ingredients": [
+        {
+          "name": "ขนมปังซาวโดว์",
+          "quantity": 2.0,
+          "type": "piece"
+        },
+        {
+          "name": "เชดดาร์ชีส (รสจัด)",
+          "quantity": 50.0,
+          "type": "gram"
+        },
+        {
+          "name": "มอนเทอเรย์แจ็คชีส",
+          "quantity": 50.0,
+          "type": "gram"
+        },
+        {
+          "name": "เนยจืด (นิ่ม)",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "มายองเนส (เลือกได้เพื่อเพิ่มรสชาติ)",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "เกลือ",
+          "quantity": 1.0,
+          "type": "pinch"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "ขูดเชดดาร์และมอนเทอเรย์แจ็คชีสทั้งสองอย่างและผสมเข้าด้วยกันในชามขนาดเล็ก [cite: 210] การขูดทำให้มั่นใจได้ว่าจะละลายอย่างสม่ำเสมอ [cite: 211]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "ทาเนยให้ทั่วด้านหนึ่งของขนมปังแต่ละชิ้น [cite: 212] ด้านนี้จะเป็นด้านที่สัมผัสกับกระทะ [cite: 213] เลือกทามายองเนสบางๆ บนด้านตรงข้าม (ด้านใน) ของขนมปังหนึ่งชิ้นเพื่อเพิ่มรสชาติ [cite: 213]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "วางขนมปังหนึ่งชิ้น (ด้านที่ทาเนยคว่ำลง) ในกระทะ non-stick บนไฟกลาง-ต่ำ [cite: 214] โรยชีสผสมให้ทั่วขนมปัง จากนั้นเติมเกลือเล็กน้อย [cite: 215]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "ปิดด้วยขนมปังชิ้นที่สอง (ด้านที่ทาเนยหงายขึ้น) [cite: 216] ปรุงอาหาร 3 ถึง 4 นาทีจนกระทั่งชิ้นด้านล่างเป็นสีน้ำตาลทองและชีสเริ่มละลาย [cite: 217, 218]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "เวลาทำด้านแรก",
+              "timerHours": 0,
+              "timerMinutes": 3,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "พลิกแซนวิชอย่างระมัดระวังโดยใช้ไม้พาย [cite: 221] ปรุงอาหารต่ออีก 3 ถึง 4 นาทีจนกระทั่งด้านที่สองเป็นสีน้ำตาลทองและชีสละลายอย่างสมบูรณ์และเยิ้ม [cite: 222] หากด้านนอกเป็นสีน้ำตาลเร็วเกินไป ให้ลดความร้อนลง [cite: 223]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "เวลาทำด้านที่สอง",
+              "timerHours": 0,
+              "timerMinutes": 3,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 6,
+          "stepDescription": "นำออกจากกระทะ หั่นในแนวทแยงและเสิร์ฟทันที [cite: 226, 227]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "recipeName": "สเต็กริบอายย่างกระทะที่สมบูรณ์แบบพร้อมเนยกระเทียมและสมุนไพร",
+      "calories": 750,
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+      "ingredients": [
+        {
+          "name": "สเต็กริบอาย (หนา 1.5 นิ้ว)",
+          "quantity": 2.0,
+          "type": "piece"
+        },
+        {
+          "name": "เกลือโคเชอร์",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "พริกไทยดำบดสด",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "น้ำมันพืช (จุดเกิดควันสูง)",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "เนยจืด",
+          "quantity": 60.0,
+          "type": "gram"
+        },
+        {
+          "name": "กลีบกระเทียม (บุบ)",
+          "quantity": 4.0,
+          "type": "piece"
+        },
+        {
+          "name": "ก้านไทม์สด",
+          "quantity": 3.0,
+          "type": "piece"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "ซับสเต็กให้แห้งสนิทด้วยกระดาษชำระ [cite: 236] ปรุงรสอย่างทั่วถึงทุกด้านด้วยเกลือโคเชอร์และพริกไทยดำ [cite: 237] ปล่อยให้สเต็กวางไว้ที่อุณหภูมิห้องเป็นเวลา 30 นาที ก่อนปรุงอาหาร [cite: 238]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "ตั้งน้ำมันพืชในกระทะเหล็กหล่อบนไฟสูง จนกระทั่งเริ่มส่องประกายและมีควันเล็กน้อย [cite: 239] วางสเต็กที่ปรุงรสแล้วลงในกระทะร้อนอย่างระมัดระวัง ย่างเป็นเวลา 3 ถึง 4 นาทีจนกระทั่งเกิดเปลือกสีน้ำตาลเข้ม [cite: 240]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+          "recipeTimer": [
+            {
+              "timerName": "เวลาทำด้านแรก",
+              "timerHours": 0,
+              "timerMinutes": 3,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "พลิกสเต็ก [cite: 243] ลดความร้อนลงเป็นกลาง [cite: 244] ใส่เนย, กลีบกระเทียมบุบ, และก้านไทม์ลงในกระทะ [cite: 244] เอียงกระทะเล็กน้อยและใช้ช้อนขนาดใหญ่ราดเนยสมุนไพรที่ละลายแล้วลงบนสเต็กอย่างต่อเนื่องเป็นเวลา 1 ถึง 2 นาที หรือจนกว่าจะถึงอุณหภูมิภายในที่ต้องการ (เช่น 130°F สำหรับ medium-rare) [cite: 245]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "เวลาการราด/ปรุงอาหาร",
+              "timerHours": 0,
+              "timerMinutes": 2,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "นำสเต็กออกจากกระทะและวางบนเขียง [cite: 248] เทเนยสมุนไพรที่เหลือจากกระทะลงบนสเต็ก [cite: 249] ปล่อยให้พัก 5 ถึง 10 นาทีเพื่อให้ของเหลวมีการกระจายตัวใหม่ ก่อนที่จะหั่นและเสิร์ฟ [cite: 250]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+          "recipeTimer": [
+            {
+              "timerName": "เวลาพัก",
+              "timerHours": 0,
+              "timerMinutes": 7,
+              "timerSeconds": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "recipeName": "คลาสสิกบัตเตอร์ชิกเก้น",
+      "calories": 680,
+      "prepTime": 25,
+      "cookTime": 35,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+      "ingredients": [
+        {
+          "name": "เนื้อไก่ส่วนสะโพกไม่มีกระดูกและหนัง (หั่นลูกเต๋า)",
+          "quantity": 1.0,
+          "type": "kilogram"
+        },
+        {
+          "name": "โยเกิร์ตธรรมดา",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "ขิง-กระเทียมบด",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "ผงพริก",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "ผงขมิ้น",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "การัมมาซาล่า (สำหรับหมัก)",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "มะเขือเทศบดละเอียด",
+          "quantity": 1.0,
+          "type": "cup"
+        },
+        {
+          "name": "เนยจืด",
+          "quantity": 120.0,
+          "type": "gram"
+        },
+        {
+          "name": "ครีมหนัก",
+          "quantity": 0.75,
+          "type": "cup"
+        },
+        {
+          "name": "กสุรี เมธี (ใบฟีนูกรีกแห้ง)",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "น้ำตาล",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "หมักไก่: ในชามขนาดใหญ่ ผสมไก่กับโยเกิร์ต, ขิง-กระเทียมบด, ผงพริก, ผงขมิ้น, และการัมมาซาล่าสำหรับหมัก [cite: 265] ปิดฝาและแช่ตู้เย็นอย่างน้อย 30 นาที หรือสูงสุด 4 ชั่วโมง [cite: 266]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+          "recipeTimer": [
+            {
+              "timerName": "เวลาหมัก",
+              "timerHours": 0,
+              "timerMinutes": 30,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "ปรุงไก่: ย่าง, อบ, หรือทอดไก่ที่หมักไว้จนสุกทั่วและมีรอยไหม้เล็กน้อยตามขอบ [cite: 269] พักไว้ [cite: 270]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "เวลาปรุงไก่",
+              "timerHours": 0,
+              "timerMinutes": 10,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "เตรียมฐานซอส: ในหม้อขนาดใหญ่ ละลายเนยครึ่งหนึ่ง [cite: 273] ใส่เนื้อมะเขือเทศบดละเอียดลงไปและปรุงอาหารจนน้ำมันแยกตัวออกมา (ประมาณ 10 นาที) [cite: 274] เติมน้ำ 1/2 ถ้วย, เคี่ยวเบาๆ, จากนั้นปั่นซอสจนเนียนสนิท [cite: 275] กรองซอสที่ปั่นแล้วกลับลงในหม้อ [cite: 276]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "เวลาเคี่ยวซอส",
+              "timerHours": 0,
+              "timerMinutes": 10,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "ทำซอสให้เสร็จ: ใส่เนยที่เหลือ, น้ำตาล, และการัมมาซาล่าที่เหลือ (ถ้าต้องการ) ลงในซอสที่กรองแล้ว [cite: 279] คนให้เข้ากันดี [cite: 280] ใส่ไก่ที่ปรุงสุกแล้วลงไปและเคี่ยว 5 นาที [cite: 280]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+          "recipeTimer": [
+            {
+              "timerName": "เคี่ยวสุดท้ายกับไก่",
+              "timerHours": 0,
+              "timerMinutes": 5,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "เสิร์ฟ: คนครีมหนักลงไปและบดใบกสุรี เมธีระหว่างฝ่ามือของคุณก่อนที่จะเพิ่มลงไป [cite: 283] อุ่นให้ร้อนแต่ห้ามต้ม [cite: 284] เสิร์ฟทันทีพร้อมข้าวหรือขนมปังนาน [cite: 284]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "recipeName": "ซุปมะเขือเทศครีม",
+      "calories": 250,
+      "prepTime": 10,
+      "cookTime": 30,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+      "ingredients": [
+        {
+          "name": "มะเขือเทศหั่นเต๋าแบบกระป๋อง",
+          "quantity": 28.0,
+          "type": "ounce"
+        },
+        {
+          "name": "น้ำซุปไก่หรือผัก",
+          "quantity": 4.0,
+          "type": "cup"
+        },
+        {
+          "name": "หัวหอม, สับ",
+          "quantity": 1.0,
+          "type": "piece"
+        },
+        {
+          "name": "กระเทียม, สับละเอียด",
+          "quantity": 2.0,
+          "type": "cloves"
+        },
+        {
+          "name": "ครีมหนัก",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "น้ำมันมะกอก",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "ใบโหระพาแห้ง",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "เกลือ",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "พริกไทยดำ",
+          "quantity": 0.25,
+          "type": "teaspoon"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "ตั้งน้ำมันมะกอกในหม้อขนาดใหญ่บนไฟกลาง [cite: 295] ใส่หัวหอมสับลงไปและผัดจนนิ่ม ประมาณ 5-7 นาที [cite: 296] ใส่กระเทียมสับลงไปและผัดต่ออีก 1 นาที [cite: 297]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+          "recipeTimer": [
+            {
+              "timerName": "ผัดหัวหอม",
+              "timerHours": 0,
+              "timerMinutes": 7,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "คนมะเขือเทศหั่นเต๋าแบบกระป๋อง, น้ำซุป, ใบโหระพาแห้ง, เกลือ, และพริกไทยลงไป [cite: 300] นำส่วนผสมไปต้มจนเดือด จากนั้นลดความร้อนลงและเคี่ยวเบาๆ เป็นเวลา 20 นาที [cite: 301]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "เคี่ยวซุป",
+              "timerHours": 0,
+              "timerMinutes": 20,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "ย้ายซุปอย่างระมัดระวังไปยังเครื่องปั่นหรือใช้เครื่องปั่นแบบมือถือเพื่อปั่นซุปจนเนียน [cite: 304] นำซุปกลับไปที่หม้อ [cite: 305]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "คนครีมหนักลงไปและอุ่นให้ร้อน 2-3 นาที แต่ห้ามต้ม [cite: 307] เสิร์ฟร้อนๆ โดยเลือกตกแต่งด้วยใบโหระพาฝรั่งสดหรือขนมปังกรอบก็ได้ [cite: 307]",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    }
+  ]
+}

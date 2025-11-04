@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Klasyczny Cheeseburger z Baru",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Mielona Wołowina (80% chude / 20% tłuste)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Sos Worcestershire",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Proszek Cebulowy",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Proszek Czosnkowy",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sól (Koszerna lub Morska)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Czarny Pieprz, świeżo mielony",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Ser Amerykański",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Bułki Ziemniaczane lub Bułki Hamburgerowe",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Majonez",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Plasterki Ogórków Kiszonech z Koperkiem",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Połącz 680 gramów mielonej wołowiny z 1 łyżką stołową sosu Worcestershire, 0,5 łyżeczki proszku cebulowego, 0,5 łyżeczki proszku czosnkowego, 1 łyżeczką soli i 0,25 łyżeczki czarnego pieprzu. Mieszaj **delikatnie** rękami, aż się połączą. Nadmierne mieszanie sprawi, że burgery będą twarde.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Podziel mieszankę na 4 równe porcje i uformuj kotlety o grubości około 2 centymetrów. Zrób małe wgłębienie na środku każdego kotleta kciukiem, aby zapobiec ich puchnięciu podczas gotowania.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Rozgrzej patelnię lub grill do średnio-wysokiej temperatury. Smaż kotlety przez 3-5 minut na stronę dla średniego wysmażenia lub do momentu, gdy temperatura wewnętrzna osiągnie 71 stopni.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Czas Smażenia Kotleta",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "W ostatniej minucie gotowania połóż 1 kawałek sera amerykańskiego na każdym kotlecie. Przykryj krótko grill lub patelnię, aby ser ładnie się roztopił.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Topienie Sera",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Opiekaj 4 bułki przekrojoną stroną w dół na grillu lub suchej patelni przez około 30 sekund. Aby złożyć, rozsmaruj 1 łyżkę stołową majonezu na obu połówkach bułki. Połóż kotlet cheeseburgera na dolnej bułce, na wierzch dodaj część z 1 kubka plasterków ogórków kiszonych z koperkiem i przykryj górną bułką.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Klasyczne Tacos z Mieloną Wołowiną",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Chuda Mielona Wołowina (80/20 lub chudsza)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Oliwa z Oliwek",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Chili w Proszku",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Kmin Rzymski Mielony",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Suszone Oregano",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Proszek Czosnkowy",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sól",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Czarny Pieprz",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pasta Pomidorowa (Koncentrat)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Woda",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Skorupy Taco lub Tortille (Kukurydziane lub Pszenne)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Poszatkowana Sałata",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Starty Ser Cheddar lub Mieszanka Meksykańska",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pomidory Pokrojone w Kostkę",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kwaśna Śmietana lub Jogurt Grecki (opcjonalnie)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Rozgrzej oliwę z oliwek na dużej patelni na średnio-wysokim ogniu. Dodaj mieloną wołowinę i gotuj, rozdrabniając ją łyżką, aż będzie całkowicie brązowa i przestanie być różowa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Odsącz nadmiar tłuszczu z patelni i zwróć mięso na ogień.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Wymieszaj chili w proszku, kmin rzymski, oregano, proszek czosnkowy, sól i czarny pieprz. Gotuj przez 1 minutę, pozwalając przyprawom się podpiec.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Podpiekanie Przypraw",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Dodaj pastę pomidorową i wodę. Dobrze wymieszaj, aby pokryć mięso. Doprowadź mieszankę do wrzenia, a następnie zmniejsz ogień do niskiego i gotuj, aż sos zgęstnieje, a płyn zostanie w większości wchłonięty (mięso powinno być nadal wilgotne, a nie suche).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Duszenie Mięsa",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Podczas gdy mięso się dusi, podgrzej skorupy taco lub tortille zgodnie z instrukcją na opakowaniu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Nałóż przyprawione mięso taco do skorupek lub tortilli. Udekoruj poszatkowaną sałatą, serem, pomidorami pokrojonymi w kostkę i kleksem kwaśnej śmietany lub jogurtu (opcjonalnie). Podawaj natychmiast.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Klasyczna Pizza Margherita",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Mąka Pszenna Uniwersalna",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ciepła Woda",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Aktywne Suche Drożdże",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sól",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Oliwa z Oliwek (Ciasto)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pomidory Krojone (Crushed Tomatoes)",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Świeża Mozzarella",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Świeże Liście Bazylii",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Oliwa z Oliwek (Polewa)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Czarny Pieprz",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Aktywuj drożdże, mieszając je z ciepłą wodą i szczyptą cukru (nie wymienionego w składnikach, ale zakładanego do aktywacji drożdży) w misce. Odstaw na 5-10 minut, aż się spieni.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Aktywacja Drożdży",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "W dużej misce połącz mąkę i sól. Wlej mieszankę drożdżową i 2 łyżki stołowe oliwy z oliwek. Mieszaj, aż utworzy się nierówne ciasto.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Wyłóż ciasto na lekko oprószoną mąką powierzchnię i ugniataj przez 8-10 minut, aż będzie gładkie i elastyczne. Umieść w natłuszczonej misce, przykryj i odstaw do wyrośnięcia w ciepłym miejscu, aż podwoi swoją objętość.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Wyrastanie Ciasta",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Rozgrzej piekarnik do najwyższej temperatury (zwykle 250°C/480°F) i umieść w nim kamień do pizzy lub blachę do pieczenia, aby się nagrzały. Uderz pięścią w ciasto, podziel je na dwie kule (na dwie średnie pizze) i odstaw na 10 minut do odpoczęcia.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Rozgrzewanie Piekarnika",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Rozciągnij lub rozwałkuj jedną kulę ciasta na 12-calowy okrąg. Przenieś ją na oprószoną mąką łopatę do pizzy lub papier do pieczenia. Równomiernie rozprowadź połowę krojonych pomidorów, na wierzch połóż połowę podartej mozzarelli i polej odrobiną oliwy z oliwek oraz szczyptą pieprzu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Piecz pizzę przez 12-15 minut, aż skórka będzie złota, a ser bulgoczący. Po wyjęciu z piekarnika natychmiast udekoruj świeżymi liśćmi bazylii. Pokrój i podawaj.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Czas Pieczenia",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Pikantny Kurczak w Sosie Ranch w Wrapie",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Pierś z Kurczaka (bez kości, bez skóry)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortille (duże)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Sos Ranch",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ostry Sos (np. w stylu Buffalo)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Sałata Rzymska (poszatkowana)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Starty Ser Cheddar",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Wędzona Papryka",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Proszek Czosnkowy",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sól",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Oliwa z Oliwek",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Pokrój pierś z kurczaka w 1-calowe paski. W misce, obtocz kurczaka w oliwie z oliwek, wędzonej papryce, proszku czosnkowym i szczyptce soli, aż będzie dobrze pokryty.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rozgrzej dużą patelnię na średnio-wysokim ogniu. Dodaj przyprawione paski kurczaka i smaż przez 5-7 minut, obracając od czasu do czasu, aż będą złocistobrązowe i całkowicie ugotowane (temperatura wewnętrzna 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Smażenie Kurczaka",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Gdy kurczak jest jeszcze gorący, zdejmij go z ognia i przełóż do czystej miski. Polej kurczaka sosem ranch i ostrym sosem. Wymieszaj, aż każdy kawałek zostanie pokryty pikantną mieszanką ranch.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Rozłóż jedną tortillę. Rozprowadź cienką warstwę poszatkowanej sałaty na środku, a następnie ćwierć startego sera cheddar. Stanowi to bazę wrapa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Połóż ćwierć pikantnej mieszanki kurczaka w sosie ranch na serze i sałacie. Uważaj, aby nie przepełnić wrapa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Aby zawinąć, złóż dwie strony tortilli nad nadzieniem, a następnie zwiń ciasno wrap od dołu do góry. Pokrój gotowego wrapa na pół po przekątnej i podawaj natychmiast.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Klasyczny Omlet Francuski",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Jajka (duże)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Masło",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Sól",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Czarny Pieprz",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Szczypiorek (świeży, posiekany)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Wbij jajka do miski. Dodaj sól i pieprz. Ubij energicznie, aż żółtka i białka będą w pełni połączone i lekko spienione, ale unikaj włączania zbyt dużej ilości powietrza.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Ubijanie",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rozgrzej patelnię nieprzywierającą (około 8 cali) na średnim ogniu. Dodaj masło i obracaj nim, aż się roztopi, spieni, a następnie opadnie, uzyskując klarowny, orzechowy kolor.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Topienie Masła",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Wlej mieszankę jajeczną na gorącą patelnię. Pozwól jajkom zsiąść się przez około 10 sekund. Następnie, używając widelca lub gumowej szpatułki, mieszaj jajka ciągle i szybko, przechylając patelnię, aż dno się zetnie, ale góra będzie nadal wilgotna i kremowa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Gotowanie Jajek",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Przestań mieszać i pozwól omletowi gotować się bez zakłóceń przez kolejne 30 sekund, aby dno całkowicie się ścięło. Posyp posiekanym szczypiorkiem na środkowej jednej trzeciej omletu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Ostateczne Ścinanie",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Przechyl patelnię i używając szpatułki, złóż jedną stronę omletu na około jedną trzecią nad środek. Delikatnie zroluj omlet z patelni na talerz, szwem do dołu, aby stworzyć zgrabny kształt torpedy. Podawaj natychmiast.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Klasyczne Spaghetti z Czosnkiem i Oliwy z Oliwek (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Makaron Spaghetti",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Oliwa z Oliwek Extra Virgin",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Czosnek",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Płatki Czerwonej Papryki (Chili)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sól",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Świeża Natka Pietruszki (Posiekana)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Czarny Pieprz",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Zagotuj duży garnek wody. Posól wodę (powinna być tak słona jak woda morska). Dodaj spaghetti i gotuj zgodnie z instrukcją na opakowaniu do momentu, gdy będzie al dente. Zachowaj około 1 kubka wody z gotowania makaronu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Gotowanie Makaronu",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Podczas gdy makaron się gotuje, pokrój czosnek w cienkie plasterki. Rozgrzej dużą patelnię na średnim ogniu i dodaj 0,75 kubka oliwy z oliwek extra virgin. Dodaj pokrojony czosnek i 1 łyżeczkę płatków czerwonej papryki do patelni.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Smaż czosnek, aż będzie złoty i pachnący, około 2-3 minut. **Uważaj, aby go nie spalić**, w przeciwnym razie stanie się gorzki. Dodaj 0,5 kubka zarezerwowanej wody z gotowania makaronu do patelni. Zagotuj.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Smażenie Czosnku",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Odcedź ugotowany makaron (nie płucz) i natychmiast przenieś go na patelnię z sosem czosnkowym. Dodaj pozostałe 4 łyżki stołowe posiekanej świeżej natki pietruszki. Szybko wymieszaj i podrzuć na patelni, aby pokryć cały makaron sosem.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Dodaj trochę więcej zarezerwowanej wody z makaronu, jeśli to konieczne, aby dostosować konsystencję sosu. Spróbuj i dodaj 1 szczyptę czarnego pieprzu i dodatkową sól w razie potrzeby. Podawaj natychmiast, gdy jest gorące.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Kremowy Makaron z Kurczakiem i Pesto",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Makaron Fettuccine",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Pierś z Kurczaka (bez kości, bez skóry)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Śmietana Kremówka",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Pesto Bazyliowe",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ser Parmezan (starty)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Oliwa z Oliwek",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Proszek Czosnkowy",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sól",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Czarny Pieprz",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Pokrój 500 gramów piersi z kurczaka w 1-calowe kostki. W misce obtocz kurczaka w 1 łyżce stołowej oliwy z oliwek, 0,5 łyżeczki soli, 1 łyżeczce proszku czosnkowego i 1 szczypty czarnego pieprzu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rozgrzej pozostałą 1 łyżkę stołową oliwy z oliwek na dużej patelni na średnio-wysokim ogniu. Dodaj przyprawionego kurczaka i smaż przez 6-8 minut, odwracając od czasu do czasu, aż będzie złocistobrązowy i całkowicie ugotowany.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Smażenie Kurczaka",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Podczas gdy kurczak się gotuje, zagotuj duży garnek osolonej wody. Dodaj 350 gramów fettuccine i gotuj do momentu, gdy będzie al dente. Odcedź makaron, zachowując 1 kubek wody z gotowania.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Gotowanie Makaronu",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Zmniejsz ogień na patelni (z kurczakiem) do niskiego. Wlej 250 mililitrów śmietany kremówki i 0,5 kubka pesto bazyliowego. Dobrze wymieszaj, aż się połączą. Pozwól sosowi delikatnie gotować się przez 2 minuty, aby lekko zgęstniał.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Duszenie Sosu",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Dodaj odcedzony makaron do kremowego sosu pesto i wymieszaj. Wsyp 0,5 kubka startego sera Parmezan i około 0,25 kubka zarezerwowanej wody z makaronu. Dodaj więcej wody, jeśli to konieczne, aby osiągnąć pożądaną konsystencję. Podawaj natychmiast.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Grillowana Kanapka z Serem (Grilled Cheese Sandwich)",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Chleb na Zakwasie",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ser Cheddar (ostry)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Ser Monterey Jack",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Masło Niesolone (zmiękczone)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Majonez (opcjonalnie dla smaku)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sól",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Zetrzyj na tarce ser Cheddar i Monterey Jack i wymieszaj je razem w małej misce. Ścieranie zapewnia równomierne topienie.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rozprowadź masło równomiernie na jednej stronie każdej kromki chleba. To jest strona, która dotknie patelni. Opcjonalnie, rozsmaruj cienką warstwę majonezu na przeciwnej stronie (wewnętrznej) jednej kromki dla dodatkowego smaku.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Umieść jedną kromkę chleba (stroną z masłem do dołu) na patelni nieprzywierającej na średnio-niskim ogniu. Równomiernie posyp mieszanką serów na chlebie, a następnie dodaj szczyptę soli.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Przykryj drugą kromką chleba (stroną z masłem do góry). Smaż przez 3 do 4 minut, aż dolna kromka będzie złocistobrązowa, a ser zacznie się topić.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Czas Smażenia Pierwszej Strony",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Ostrożnie przewróć kanapkę za pomocą szpatułki. Smaż przez kolejne 3 do 4 minut, aż druga strona będzie złocistobrązowa, a ser całkowicie roztopiony i ciągnący. Jeśli zewnętrzna strona zbyt szybko się brązowieje, zmniejsz ogień.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Czas Smażenia Drugiej Strony",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Zdejmij z patelni, pokrój po przekątnej i podawaj natychmiast.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Doskonały Smażony na Patelni Ribeye Steak z Masłem Ziołowo-Czosnkowym",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Stek Ribeye (1,5 cala grubości)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Sól Koszerna",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Świeżo Mielony Czarny Pieprz",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Olej Roślinny (wysoki punkt dymienia)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Masło Niesolone",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Ząbki Czosnku (zmiażdżone)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Świeże Gałązki Tymianku",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Osusz steki całkowicie ręcznikami papierowymi. Obficie dopraw ze wszystkich stron solą koszerną i czarnym pieprzem. Pozwól stekom osiągnąć temperaturę pokojową przez 30 minut przed gotowaniem.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rozgrzej olej roślinny na żeliwnej patelni na dużym ogniu, aż zacznie migotać i lekko dymić. Ostrożnie umieść przyprawione steki na gorącej patelni. Smaż przez 3 do 4 minut, aż utworzy się głęboka, ciemnobrązowa skorupa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Czas Smażenia Pierwszej Strony",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Odwróć steki. Zmniejsz ogień do średniego. Dodaj masło, zmiażdżone ząbki czosnku i gałązki tymianku do patelni. Lekko przechyl patelnię i użyj dużej łyżki do ciągłego polewania steków roztopionym masłem ziołowym przez 1 do 2 minut lub do osiągnięcia pożądanej temperatury wewnętrznej (np. 54°C dla medium-rare).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Czas Polewania/Gotowania",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Zdejmij steki z patelni i połóż je na desce do krojenia. Polej steki pozostałym masłem ziołowym z patelni. Pozwól im odpocząć przez 5 do 10 minut, aby soki się rozprowadziły przed pokrojeniem i podaniem.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Czas Odpoczynku",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Klasyczny Kurczak Maślany (Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Uda Kurczaka bez Kości i Skóry (pokrojone w kostkę)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Jogurt Naturalny",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pasta Imbirowo-Czosnkowa",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Chili w Proszku",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Kurkuma w Proszku",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (do marynaty)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Przecier Pomidorowy",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Masło Niesolone",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Śmietana Kremówka",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (Suszone Liście Kozieradki)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Cukier",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Marynuj kurczaka: W dużej misce wymieszaj kurczaka z jogurtem, pastą imbirowo-czosnkową, chili w proszku, kurkumą w proszku i garam masalą do marynaty. Przykryj i wstaw do lodówki na co najmniej 30 minut, lub do 4 godzin.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Czas Marynowania",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Ugotuj kurczaka: Grilluj, piecz lub smaż na patelni marynowanego kurczaka, aż będzie w pełni ugotowany i lekko przypalony na brzegach. Odstaw na bok.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Czas Gotowania Kurczaka",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Przygotuj bazę sosu: W dużym garnku roztop połowę masła. Dodaj przecier pomidorowy i gotuj, aż olej się oddzieli (około 10 minut). Dodaj 1/2 kubka wody, gotuj na wolnym ogniu, a następnie zmiksuj sos, aż będzie całkowicie gładki. Odcedź zmiksowany sos z powrotem do garnka.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Czas Duszenia Sosu",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Dokończ sos: Dodaj pozostałe masło, cukier i pozostałą garam masalę (jeśli chcesz) do przecedzonego sosu. Dobrze wymieszaj. Dodaj ugotowane kawałki kurczaka i duś przez 5 minut.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Ostateczne Duszenie z Kurczakiem",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Podawaj: Wymieszaj śmietanę kremówkę i rozgnieć Kasuri Methi między dłońmi przed dodaniem. Podgrzej, ale nie gotuj. Podawaj natychmiast z ryżem lub chlebem naan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Kremowa Zupa Pomidorowa",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Pomidory w Kostkach z Puszki",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Bulion Drobiowy lub Warzywny",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Cebula, posiekana",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Czosnek, posiekany",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Śmietana Kremówka",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Oliwa z Oliwek",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Suszona Bazylia",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sól",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Czarny Pieprz",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Rozgrzej oliwę z oliwek w dużym garnku na średnim ogniu. Dodaj posiekaną cebulę i smaż, aż zmięknie, około 5-7 minut. Dodaj posiekany czosnek i smaż przez 1 minutę dłużej.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Smażenie Cebuli",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Wymieszaj pomidory w kostkach z puszki, bulion, suszoną bazylię, sól i pieprz. Doprowadź mieszankę do wrzenia, a następnie zmniejsz ogień i duś przez 20 minut.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Duszenie Zupy",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Ostrożnie przełóż zupę do blendera lub użyj blendera zanurzeniowego, aby zmiksować zupę na gładką masę. Zwróć zupę do garnka.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Wymieszaj śmietanę kremówkę i podgrzewaj przez 2-3 minuty, ale nie gotuj. Podawaj na gorąco, opcjonalnie udekorowane świeżą bazylią lub grzankami.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Cheeseburger Classico da Diner",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Carne Macinata di Manzo (80% magra / 20% grassa)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Salsa Worcestershire",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Cipolla in Polvere",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Aglio in Polvere",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sale (Kosher o Marino)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pepe Nero, macinato fresco",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Formaggio Americano",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Panini di Patate o Panini per Hamburger",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Maionese",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Fettine di Cetriolini Sottaceto (Dill Pickle Chips)",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Combina i 680 grammi di carne macinata con 1 cucchiaio di Salsa Worcestershire, 0,5 cucchiaino di Cipolla in Polvere, 0,5 cucchiaino di Aglio in Polvere, 1 cucchiaino di sale e 0,25 cucchiaino di pepe nero. Mescola **delicatamente** con le mani finché non sono appena combinati. Mescolare troppo renderà gli hamburger duri.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Dividi il composto in 4 porzioni uguali e forma dei medaglioni spessi circa 2 centimetri. Crea una piccola rientranza al centro di ogni medaglione con il pollice per evitare che si gonfino durante la cottura.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Scalda una padella di ghisa o una griglia a fuoco medio-alto. Cuoci gli hamburger per 3-5 minuti per lato per una cottura media (medium doneness), o fino a quando la temperatura interna raggiunge i 71 gradi.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo di cottura dell'hamburger",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Durante l'ultimo minuto di cottura, posiziona 1 fetta di Formaggio Americano su ogni hamburger. Copri brevemente la griglia o la padella per assicurarti che il formaggio si sciolga bene.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sciogliere il formaggio",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Tosta i 4 panini con il lato tagliato verso il basso sulla griglia o in una padella asciutta per circa 30 secondi. Per assemblare, spalma 1 cucchiaio di Maionese su entrambe le metà del panino. Metti il medaglione del cheeseburger sul panino inferiore, aggiungi alcune Fettine di Cetriolini Sottaceto (1 tazza), e copri con il panino superiore.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Tacos Classici di Carne Macinata",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Carne Macinata di Manzo Magra (80/20 o più magra)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Olio d'Oliva",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Peperoncino in Polvere",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Cumino Macinato",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Origano Secco",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Aglio in Polvere",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sale",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pepe Nero",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Concentrato di Pomodoro",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Acqua",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Gusci per Taco o Tortillas (di mais o farina)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Lattuga Tritata",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Formaggio Cheddar Grattugiato o Misto Messicano",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pomodori Tagliati a Dadini",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Panna Acida (Sour Cream) o Yogurt Greco (opzionale)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Scalda l'Olio d'Oliva in una padella grande a fuoco medio-alto. Aggiungi la Carne Macinata e cuoci, rompendo i grumi con un cucchiaio, finché non sarà completamente rosolata e non più rosa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Scola il grasso in eccesso dalla padella e rimetti la carne sul fuoco.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Incorpora il Peperoncino in Polvere, il Cumino, l'Origano, l'Aglio in Polvere, il Sale e il Pepe Nero. Cuoci per 1 minuto, lasciando tostare le spezie.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tostatura spezie",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Aggiungi il Concentrato di Pomodoro e l'Acqua. Mescola bene per ricoprire la carne. Porta il composto a ebollizione, quindi riduci la fiamma al minimo e cuoci a fuoco lento finché la salsa non si addensa e il liquido è in gran parte assorbito (la carne dovrebbe essere ancora umida, non secca).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sobbollire la carne",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Mentre la carne sobbolle, scalda i Gusci per Taco o le Tortillas secondo le istruzioni sulla confezione.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Metti la carne per taco condita nei gusci o nelle tortillas con un cucchiaio. Guarnisci con Lattuga Tritata, Formaggio, Pomodori Tagliati a Dadini e un cucchiaio di Panna Acida o Yogurt (opzionale). Servi immediatamente.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Pizza Margherita Classica",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Farina per Tutti gli Usi",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Acqua Tiepida",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Lievito Secco Attivo",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sale",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Olio d'Oliva (Impasto)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pomodori Schiacciati",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Mozzarella Fresca",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Foglie di Basilico Fresco",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olio d'Oliva (Condimento)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pepe Nero",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Attiva il Lievito mescolandolo con Acqua Tiepida e un pizzico di zucchero (non elencato negli ingredienti, ma presunto per l'attivazione del lievito) in una ciotola. Lascia riposare per 5-10 minuti finché non diventa spumoso.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Attivazione Lievito",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "In una ciotola grande, combina la Farina e il Sale. Versa il composto di lievito e i 2 cucchiai di Olio d'Oliva. Mescola finché non si forma un impasto grezzo.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Capovolgi l'impasto su una superficie leggermente infarinata e impasta per 8-10 minuti finché non diventa liscio ed elastico. Mettilo in una ciotola unta, copri e lascia lievitare in un luogo caldo fino a quando raddoppia di volume.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Lievitazione dell'impasto",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Preriscalda il forno alla temperatura più alta (solitamente 250°C/480°F) e metti all'interno una pietra per pizza o una teglia per riscaldarla. Sgonfia l'impasto, dividilo in due palline (per due pizze medie) e lasciale riposare per 10 minuti.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Preriscaldamento forno",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Allunga o stendi una palla di impasto in un cerchio di 12 pollici. Trasferiscilo su una pala per pizza infarinata o carta da forno. Spalma uniformemente metà dei Pomodori Schiacciati, aggiungi metà della Mozzarella a pezzi, e condisci con un filo di Olio d'Oliva e un pizzico di Pepe.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Cuoci la pizza per 12-15 minuti finché la crosta non è dorata e il formaggio non bolle. Appena tolta dal forno, guarnisci immediatamente con Foglie di Basilico Fresco. Taglia a fette e servi.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo di cottura",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Wrap Piccante di Pollo al Ranch",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Petto di Pollo (disossato, senza pelle)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortillas (grandi)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Salsa Ranch",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Salsa Piccante (es. stile Buffalo)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Lattuga Romana (sminuzzata)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Formaggio Cheddar Grattugiato",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Paprica Affumicata",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Aglio in Polvere",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sale",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Olio d'Oliva",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Taglia il Petto di Pollo a strisce da 1 pollice. In una ciotola, mescola il pollo con Olio d'Oliva, Paprica Affumicata, Aglio in Polvere e un pizzico di Sale fino a quando non sarà ben ricoperto.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Scalda una padella grande a fuoco medio-alto. Aggiungi le strisce di pollo condite e cuoci per 5-7 minuti, girando occasionalmente, finché non sono dorate e completamente cotte (temperatura interna 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cottura Pollo",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Mentre il pollo è ancora caldo, toglilo dal fuoco e trasferiscilo in una ciotola pulita. Versa la Salsa Ranch e la Salsa Piccante sul pollo. Mescola finché ogni pezzo non è ricoperto dal mix Ranch Piccante.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Stendi una Tortilla. Distribuisci un sottile strato di Lattuga Sminuzzata al centro, seguito da un quarto del Formaggio Cheddar Grattugiato. Questo forma la base del wrap.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Posiziona un quarto del mix di Pollo al Ranch Piccante sopra il formaggio e la lattuga. Fai attenzione a non riempire troppo il wrap.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Per arrotolare, piega i due lati della Tortilla sopra il ripieno, quindi arrotola strettamente il wrap dal basso verso l'alto. Taglia il wrap finito a metà in diagonale e servi immediatamente.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Omelette Francese Classica",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Uova (grandi)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Burro",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Sale",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pepe Nero",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Erba Cipollina (fresca, tritata)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Rompi le Uova in una ciotola. Aggiungi Sale e Pepe. Sbattili energicamente finché i tuorli e gli albumi non sono completamente combinati e leggermente spumosi, ma evita di incorporare troppa aria.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sbattitura",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Scalda una padella antiaderente (circa 8 pollici) a fuoco medio. Aggiungi il Burro e fallo roteare finché non si scioglie, schiuma e poi si placa, assumendo un colore chiaro e nocciolato.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sciogliere il burro",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Versa il composto di uova nella padella calda. Lascia che le uova si rapprendano per circa 10 secondi. Poi, usando una forchetta o una spatola di gomma, mescola le uova continuamente e velocemente, inclinando la padella, finché il fondo non si è rappreso ma la parte superiore rimane umida e cremosa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cottura uova",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Smetti di mescolare e lascia cuocere l'Omelette indisturbata per altri 30 secondi in modo che il fondo si rapprenda completamente. Cospargi l'Erba Cipollina tritata sul terzo centrale dell'omelette.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Rapprendimento finale",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Inclina la padella e, usando una spatola, piega un lato dell'Omelette per circa un terzo sopra il centro. Spingi delicatamente l'Omelette fuori dalla padella su un piatto, con il lato della cucitura rivolto verso il basso, per creare una forma a siluro ordinata. Servi immediatamente.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Spaghetti Aglio e Olio Classici",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Spaghetti",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Olio Extra Vergine d'Oliva",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Aglio",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Fiocchi di Peperoncino Rosso",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sale",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Prezzemolo Fresco (Tritato)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pepe Nero",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Porta a ebollizione una grande pentola d'acqua. Sala l'acqua (dovrebbe essere salata come l'acqua di mare). Aggiungi gli Spaghetti e cuoci secondo le istruzioni sulla confezione fino a quando non sono al dente. Conserva circa 1 tazza dell'acqua di cottura della pasta.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cottura Pasta",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Mentre la pasta cuoce, affetta finemente l'Aglio. Scalda una padella grande a fuoco medio e aggiungi 0,75 tazze di Olio Extra Vergine d'Oliva. Aggiungi l'Aglio affettato e 1 cucchiaino di Fiocchi di Peperoncino Rosso nella padella.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Soffriggi l'Aglio finché non è dorato e fragrante, circa 2-3 minuti. **Fai attenzione a non bruciarlo**, altrimenti diventerà amaro. Aggiungi 0,5 tazza dell'acqua di cottura della pasta conservata nella padella. Porta a ebollizione.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Soffriggere l'aglio",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Scola la pasta cotta (non sciacquare) e trasferiscila immediatamente nella padella con il sugo all'Aglio. Aggiungi i restanti 4 cucchiai di Prezzemolo Fresco tritato. Mescola rapidamente e salta la padella per ricoprire tutti gli spaghetti con il sugo.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Aggiungi un altro po' di acqua della pasta conservata se necessario per regolare la consistenza del sugo. Assaggia e aggiungi 1 pizzico di Pepe Nero e Sale extra se necessario. Servi immediatamente mentre è caldo.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Pasta Cremosa al Pesto e Pollo",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Fettuccine",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Petto di Pollo (disossato, senza pelle)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Panna Pesante",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Pesto al Basilico",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Formaggio Parmigiano (grattugiato)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olio d'Oliva",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Aglio in Polvere",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sale",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pepe Nero",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Taglia i 500 grammi di Petto di Pollo a cubetti da 1 pollice. In una ciotola, mescola il pollo con 1 cucchiaio di Olio d'Oliva, 0,5 cucchiaino di Sale, 1 cucchiaino di Aglio in Polvere e 1 pizzico di Pepe Nero.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Scalda il restante 1 cucchiaio di Olio d'Oliva in una padella grande a fuoco medio-alto. Aggiungi il Pollo condito e cuoci per 6-8 minuti, girando occasionalmente, finché non è dorato e completamente cotto.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cottura Pollo",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Mentre il pollo cuoce, porta a ebollizione una grande pentola d'acqua salata. Aggiungi i 350 grammi di Fettuccine e cuoci al dente. Scola la pasta, conservando 1 tazza dell'acqua di cottura.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cottura Pasta",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Riduci la fiamma sulla padella (con il pollo) al minimo. Versa i 250 millilitri di Panna Pesante e 0,5 tazza di Pesto al Basilico. Mescola bene fino a quando non sono combinati. Lascia sobbollire delicatamente la salsa per 2 minuti per farla addensare leggermente.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sobbollire la salsa",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Aggiungi la pasta scolata alla salsa cremosa al pesto e mescola per ricoprire. Incorpora 0,5 tazza di Formaggio Parmigiano grattugiato e circa 0,25 tazza di acqua della pasta conservata. Aggiungi più acqua se necessario per raggiungere la consistenza desiderata. Servi immediatamente.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Toast al Formaggio Grigliato (Grilled Cheese Sandwich)",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Pane a Lievitazione Naturale (Sourdough)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Formaggio Cheddar (forte)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Formaggio Monterey Jack",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Burro non Salato (ammorbidito)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Maionese (opzionale per il gusto)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sale",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Grattugia sia il Formaggio Cheddar che il Monterey Jack e mescolali insieme in una piccola ciotola. Grattugiare assicura uno scioglimento uniforme.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Spalma il Burro uniformemente su un lato di ogni fetta di pane. Questo è il lato che toccherà la padella. Opzionalmente, spalma uno strato sottile di Maionese sul lato opposto (interno) di una fetta per un sapore extra.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Posiziona una fetta di Pane (lato imburrato verso il basso) in una padella antiaderente a fuoco medio-basso. Cospargi il Formaggio misto uniformemente sopra il pane, quindi aggiungi un pizzico di Sale.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Copri con la seconda fetta di pane (lato imburrato verso l'alto). Cuoci per 3 o 4 minuti finché la fetta inferiore non è dorata e il formaggio non inizia a sciogliersi.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo di cottura primo lato",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Capovolgi con attenzione il sandwich usando una spatola. Cuoci per altri 3 o 4 minuti finché il secondo lato non è dorato e il formaggio è completamente fuso e filante. Se l'esterno sta dorando troppo velocemente, abbassa la fiamma.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo di cottura secondo lato",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Togli dalla padella, taglia in diagonale e servi immediatamente.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Bistecca di Ribeye Perfetta Scottata in Padella con Burro Aromatico all'Aglio",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Bistecca Ribeye (spessore 1,5 pollici)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Sale Kosher",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pepe Nero Macinato Fresco",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Olio Vegetale (alto punto di fumo)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Burro non Salato",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Spicchi d'Aglio (schiacciati)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Rametti di Timo Fresco",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Asciuga completamente le Bistecche con carta da cucina. Condisci generosamente su tutti i lati con Sale Kosher e Pepe Nero. Lascia riposare le bistecche a temperatura ambiente per 30 minuti prima della cottura.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Scalda l'Olio Vegetale in una padella di ghisa a fuoco vivo finché non inizia a luccicare e a fumare leggermente. Metti con attenzione le bistecche condite nella padella calda. Scottale per 3-4 minuti finché non si forma una crosta scura e profonda.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo di scottatura primo lato",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Gira le Bistecche. Riduci la fiamma a medio. Aggiungi il Burro, gli Spicchi d'Aglio schiacciati e i Rametti di Timo nella padella. Inclina leggermente la padella e usa un cucchiaio grande per versare continuamente il burro aromatico fuso sulle bistecche per 1-2 minuti, o fino a quando viene raggiunta la temperatura interna desiderata (ad esempio, 130°F per media al sangue).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo di 'basting'/cottura",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Togli le Bistecche dalla padella e mettile su un tagliere. Versa il Burro aromatico rimasto dalla padella sulle bistecche. Lasciale riposare per 5-10 minuti per consentire ai succhi di ridistribuirsi prima di affettare e servire.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo di riposo",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Butter Chicken Classico",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Cosce di Pollo Disossate, Senza Pelle (tagliate a cubetti)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Yogurt Naturale",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pasta di Zenzero e Aglio",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Peperoncino in Polvere",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Curcuma in Polvere",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (per la marinatura)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Passata di Pomodoro",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Burro non Salato",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Panna Pesante",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (Foglie di Fieno Greco Secche)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Zucchero",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Marinare il Pollo: In una ciotola grande, mescola il pollo con Yogurt, Pasta di Zenzero e Aglio, Peperoncino in Polvere, Curcuma in Polvere e il Garam Masala per la marinatura. Copri e metti in frigo per almeno 30 minuti, o fino a 4 ore.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo di Marinatura",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Cuocere il Pollo: Griglia, cuoci al forno o in padella il pollo marinato finché non è completamente cotto e leggermente carbonizzato sui bordi. Metti da parte.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo di cottura pollo",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Prepara la Base della Salsa: In una pentola grande, sciogli metà del Burro. Aggiungi la Passata di Pomodoro e cuoci fino a quando l'olio non si separa (circa 10 minuti). Aggiungi 1/2 tazza d'acqua, fai sobbollire, quindi frulla la salsa fino a renderla completamente liscia. Filtra la salsa frullata di nuovo nella pentola.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo di sobbollire la salsa",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Completa la Salsa: Aggiungi il Burro rimasto, lo Zucchero e il restante Garam Masala (se desiderato) alla salsa filtrata. Mescola bene. Aggiungi i pezzi di pollo cotto e fai sobbollire delicatamente per 5 minuti.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sobbollire finale con pollo",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Servi: Incorpora la Panna Pesante e sbriciola il Kasuri Methi tra i palmi delle mani prima di aggiungerlo. Riscalda, ma non portare a ebollizione. Servi immediatamente con riso o naan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Zuppa di Pomodoro Cremosa",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Pomodori a Cubetti in Scatola",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Brodo di Pollo o Vegetale",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Cipolla, tritata",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Aglio, tritato",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Panna Pesante",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olio d'Oliva",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Basilico Secco",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sale",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pepe Nero",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Scalda l'Olio d'Oliva in una pentola grande a fuoco medio. Aggiungi la Cipolla tritata e soffriggi finché non si ammorbidisce, circa 5-7 minuti. Aggiungi l'Aglio tritato e soffriggi per 1 minuto in più.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Soffriggere la cipolla",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Incorpora i Pomodori a Cubetti in Scatola, il Brodo, il Basilico Secco, il Sale e il Pepe. Porta il composto a ebollizione, quindi riduci la fiamma e fai sobbollire per 20 minuti.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sobbollire la zuppa",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Trasferisci con cautela la zuppa in un frullatore o usa un frullatore a immersione per frullare la zuppa fino a renderla liscia. Rimetti la zuppa nella pentola.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Incorpora la Panna Pesante e riscalda per 2-3 minuti, ma non far bollire. Servi calda, opzionalmente guarnita con Basilico fresco o crostini.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

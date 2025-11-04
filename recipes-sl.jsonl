@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Klasični Diner Cheeseburger",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Mleto Goveje Meso (80% pusto / 20% maščobe)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Worcesterska Omaka",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Čebula v Prahu",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Česen v Prahu",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sol (Košer ali Morska)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Črni Poper, sveže mlet",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Ameriški Sir",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Krompirjeve Žemlje ali Hamburgerjeve Žemlje",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Majoneza",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Rezine Kislih Kumaric z Koprom",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Združite 680 gramov mletega govejega mesa z 1 žlico Worcesterske omake, 0,5 čajne žličke čebule v prahu, 0,5 čajne žličke česna v prahu, 1 čajno žličko soli in 0,25 čajne žličke črnega popra. **Nežno** premešajte z rokami, dokler se ne poveže. Prekomerno mešanje bo burgerje naredilo žilave.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Zmes razdelite na 4 enake dele in oblikujte polpete, debele približno 2 centimetra. S palcem naredite majhno vdolbino na sredini vsakega polpeta, da preprečite, da bi se med peko napihnili.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Segrejte ponev ali žar na srednje visoko temperaturo. Polpete pecite 3-5 minut na vsaki strani za srednje pečene, ali dokler notranja temperatura ne doseže 71 stopinj.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Pečenja Polpeta",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Med zadnjo minuto pečenja položite 1 kos ameriškega sira na vsak polpet. Na kratko pokrijte žar ali ponev, da se sir lepo stopi.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Topljenje Sira",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Opecite 4 žemlje s prerezano stranjo navzdol na žaru ali suhi ponvi približno 30 sekund. Za sestavljanje namažite 1 žlico majoneze na obe polovici žemlje. Cheeseburger polpet položite na spodnjo žemljo, prekrijte z nekaj rezinami kislih kumaric z koprom in pokrijte z zgornjo žemljo.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Klasični Tacos z Mletim Govejim Mesom",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Pusto Mleto Goveje Meso (80/20 ali bolj pusto)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Olivno Olje",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Čili v Prahu",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Mleta Kumina",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Posušen Origano",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Česen v Prahu",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sol",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Črni Poper",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Paradižnikova Pasta",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Voda",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Taco Lupine ali Tortilje (koruzne ali pšenične)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Nastrgana Solata Romaine",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Nariban Sir Cheddar ali Mehiška Mešanica",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Narezan Paradižnik",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kisla Smetana ali Grški Jogurt (izbirno)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Segrejte olivno olje v veliki ponvi na srednje visoko temperaturo. Dodajte mleto goveje meso in kuhajte, razbijajte ga z žlico, dokler ni popolnoma rjavo in ni več rožnato.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Odcedite odvečno maščobo iz ponve in vrnite meso na ogenj.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Vmešajte čili v prahu, kumino, origano, česen v prahu, sol in črni poper. Kuhajte 1 minuto, da se začimbe popečejo.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Praženje Začimb",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Dodajte paradižnikovo pasto in vodo. Dobro premešajte, da prekrijete meso. Mešanico zavrite, nato zmanjšajte ogenj na nizko in dušite, dokler se omaka ne zgosti in se tekočina večinoma vpije (meso mora biti še vedno vlažno, ne suho).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Dušenje Mesa",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Medtem ko se meso duši, segrejte taco lupine ali tortilje po navodilih na embalaži.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Naložite začinjeno taco mesno mešanico v lupine ali tortilje. Prekrijte z naribano solato, sirom, narezanim paradižnikom in žlico kisle smetane ali jogurta (izbirno). Postrezite takoj.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Klasična Pizza Margherita",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Univerzalna Pšenična Moka",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Topla Voda",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Aktivni Suhi Kvas",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sol",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Olivno Olje (Testo)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Zdrobljen Paradižnik",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Sveža Mocarela",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Sveži Listi Bazilike",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olivno Olje (Preliv)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Črni Poper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Aktivirajte kvas tako, da ga zmešate s toplo vodo in ščepcem sladkorja (ni na seznamu sestavin, vendar se predvideva za aktivacijo kvasa) v skledi. Pustite stati 5-10 minut, dokler ne postane penasto.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Aktivacija Kvasa",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "V veliki skledi zmešajte moko in sol. Vlijte kvasno mešanico in 2 žlici olivnega olja. Mešajte, dokler se ne oblikuje grobo testo.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Testo stresite na rahlo pomokano površino in gnetite 8-10 minut, dokler ne postane gladko in elastično. Postavite ga v naoljeno skledo, pokrijte in pustite vzhajati na toplem mestu, dokler ne podvoji svojega volumna.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Vzhajanje Testa",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Predhodno segrejte pečico na najvišjo temperaturo (običajno 250°C/480°F) in vanjo postavite kamen za pico ali pekač, da se segreje. Iz testa iztisnite zrak, ga razdelite na dve krogli (za dve srednje veliki pici) in ju pustite počivati 10 minut.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Predgrevanje Pečice",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Raztegnite ali razvaljajte eno kroglo testa v krog s premerom 12 palcev (približno 30 cm). Prenesite jo na pomokano lopato za pico ali peki papir. Enakomerno razporedite polovico zdrobljenega paradižnika, prelijte s polovico raztrgane mocarele in pokapajte z malo olivnega olja in ščepcem popra.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Pecite pico 12-15 minut, dokler skorja ne postane zlata in sir ne brbota. Takoj, ko jo vzamete iz pečice, okrasite s svežimi listi bazilike. Narežite in postrezite.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Pečenja",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Pikanten Piščančji Wrap z Ranch Omako",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Piščančje Prsi (brez kosti, brez kože)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortilje (velike)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ranch Omaka",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pikantna Omaka (npr. Buffalo stil)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Rimska Solata (nastrgana)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Nariban Sir Cheddar",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Dimljena Pekoča Paprika",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Česen v Prahu",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sol",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Olivno Olje",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Piščančje prsi narežite na 1-palčne (približno 2,5 cm) trakove. V skledi piščanca premešajte z olivnim oljem, dimljeno pekočo papriko, česnom v prahu in ščepcem soli, dokler ni dobro obložen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Segrejte veliko ponev na srednje visoko temperaturo. Dodajte začinjene piščančje trakove in pecite 5-7 minut, občasno obrnite, dokler niso zlato rjavi in popolnoma pečeni (notranja temperatura 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Pečenje Piščanca",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Medtem ko je piščanec še vroč, ga odstranite z ognja in ga prenesite v čisto skledo. Prelijte piščanca z ranch omako in pikantno omako. Premešajte, dokler ni vsak kos prekrit s pikantno ranch mešanico.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Položite tortiljo. Razporedite tanek sloj nastrgane solate na sredino, čemur sledi četrtina naribanega sira cheddar. To tvori osnovo wrapa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Postavite četrtino pikantne piščančje ranch mešanice na sir in solato. Bodite previdni, da wrap ne preveč napolnite.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Za zavijanje zložite dve strani tortilje čez nadev, nato pa wrap tesno zavijte od spodaj navzgor. Končani wrap prerežite diagonalno na pol in takoj postrezite.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Klasična Francoska Omleta",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Jajca (velika)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Maslo",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Sol",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Črni Poper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Drobnjak (svež, sesekljan)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Jajca razbijte v skledo. Dodajte sol in poper. Energično stepajte, dokler se rumenjaki in beljaki popolnoma ne združijo in so rahlo penasti, vendar se izogibajte vnašanju preveč zraka.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Stepanje",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Segrejte nelepljivo ponev (približno 8 palcev/20 cm) na srednji temperaturi. Dodajte maslo in ga obračajte, dokler se ne stopi, speni in nato umiri, pri čemer dobi bistro, oreškasto barvo.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Topljenje Masla",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Vročo ponev prelijte z jajčno zmesjo. Pustite, da se jajca usedejo približno 10 sekund. Nato z vilico ali gumijasto lopatko jajca nenehno in hitro mešajte, pri tem pa nagibajte ponev, dokler se dno ne strdi, vendar je vrh še vedno vlažen in kremast.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Kuhanje Jajc",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Prenehajte mešati in pustite, da se omleta kuha brez motenj še 30 sekund, da se dno popolnoma strdi. Sesekljan drobnjak potresite čez srednjo tretjino omlete.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Končno Strjevanje",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Ponev nagnite in z lopatko prepognite eno stran omlete približno za tretjino čez sredino. Omleto nežno zvijte iz ponve na krožnik, s šivom navzdol, da ustvarite elegantno obliko torpeda. Postrezite takoj.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Klasični Špageti s Česnom in Olivnim Oljem (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Špageti Testenine",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Ekstra Deviško Olivno Olje",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Česen",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Kosmiči Rdeče Paprike (Čili)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sol",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Svež Peteršilj (Sesekljan)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Črni Poper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Zavrite velik lonec vode. Osolite vodo (morala bi biti slana kot morska voda). Dodajte špagete in kuhajte po navodilih na embalaži, dokler niso al dente. Shranite približno 1 skodelico vode, v kateri so se kuhale testenine.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Kuhanje Testenin",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Medtem ko se testenine kuhajo, narežite česen na tanke rezine. Segrejte veliko ponev na srednji temperaturi in dodajte 0,75 skodelice ekstra deviškega olivnega olja. V ponev dodajte narezan česen in 1 čajno žličko kosmičev rdeče paprike.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Pražite česen, dokler ni zlat in dišeč, približno 2-3 minute. **Pazite, da ga ne zažgete**, sicer bo postal grenak. V ponev dodajte 0,5 skodelice shranjene vode od kuhanja testenin. Zavrite.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Praženje Česna",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Odcedite kuhane testenine (ne izpirajte) in jih takoj prenesite v ponev s česnovo omako. Dodajte preostale 4 žlice sesekljanega svežega peteršilja. Hitro premešajte in premetavajte testenine v ponvi, da se vsa omaka obloži.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Po potrebi dodajte še malo shranjene vode od testenin, da prilagodite konsistenco omake. Poskusite in dodajte 1 ščepec črnega popra ter dodatno sol, če je potrebno. Postrezite takoj, dokler je vroče.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Kremaste Piščančje Testenine s Pestom",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+                    "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Testenine Fettuccine",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Piščančje Prsi (brez kosti, brez kože)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Smetana za Kuhanje",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Bazilikin Pesto",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Nariban Sir Parmezan",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olivno Olje",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Česen v Prahu",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sol",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Črni Poper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Narežite 500 gramov piščančjih prsi na 1-palčne (približno 2,5 cm) kocke. V skledi piščanca premešajte z 1 žlico olivnega olja, 0,5 čajne žličke soli, 1 čajno žličko česna v prahu in 1 ščepcem črnega popra.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Segrejte preostalo 1 žlico olivnega olja v veliki ponvi na srednje visoko temperaturo. Dodajte začinjenega piščanca in pecite 6-8 minut, občasno obrnite, dokler ni zlato rjav in popolnoma pečen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Pečenje Piščanca",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Medtem ko se piščanec peče, zavrite velik lonec slane vode. Dodajte 350 gramov fettuccine in kuhajte, dokler niso al dente. Testenine odcedite in shranite 1 skodelico vode, v kateri so se kuhale.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Kuhanje Testenin",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Zmanjšajte ogenj na ponvi (s piščancem) na nizko. Vlijte 250 mililitrov smetane za kuhanje in 0,5 skodelice bazilikinega pesta. Dobro premešajte, da se združi. Pustite omako nežno vreti 2 minuti, da se nekoliko zgosti.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Dušenje Omake",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Odcejene testenine dodajte kremasti pesto omaki in premešajte, da se obložijo. Vmešajte 0,5 skodelice naribanega parmezana in približno 0,25 skodelice shranjene vode od testenin. Po potrebi dodajte še malo vode, da dosežete želeno konsistenco. Postrezite takoj.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Sendvič s Sirom na Žaru (Grilled Cheese Sandwich)",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Kruh iz Kislega Testa",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Sir Cheddar (oster)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Sir Monterey Jack",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Nesoljeno Maslo (zmehčano)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Majoneza (izbirno za okus)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sol",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Naribajte sir Cheddar in Monterey Jack ter ju zmešajte v majhni skledi. Ribanje zagotavlja enakomerno topitev.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Maslo enakomerno razmažite na eno stran vsakega kosa kruha. To je stran, ki se bo dotikala ponve. Izbirno, na nasprotno stran (notranjost) enega kosa razmažite tanek sloj majoneze za dodaten okus.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Položite en kos kruha (z masleno stranjo navzdol) v nelepljivo ponev na srednje nizek ogenj. Zmes sirov enakomerno potresite po kruhu, nato dodajte ščepec soli.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Pokrijte z drugim kosom kruha (z masleno stranjo navzgor). Pecite 3 do 4 minute, dokler spodnji kos ni zlato rjav in se sir ne začne topiti.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Pečenja Prve Strani",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Sendvič previdno obrnite z lopatko. Pecite še 3 do 4 minute, dokler ni druga stran zlato rjava in sir popolnoma stopljen in se vleče. Če zunanja stran prehitro porjavi, zmanjšajte ogenj.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Pečenja Druge Strani",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Odstranite iz ponve, prerežite diagonalno in takoj postrezite.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Popoln Ribeye Zrezek Pečen v Ponvi z Maslom s Česnom in Zelišči",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Ribeye Zrezek (1,5 palca/približno 3,8 cm debel)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Košer Sol",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Sveže Mlet Črni Poper",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Rastlinsko Olje (visoka točka dimljenja)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Nesoljeno Maslo",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Stroki Česna (zdrobljeni)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Sveže Vejice Timijana",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Zrezke popolnoma osušite s papirnatimi brisačami. Radodarno začinite po vseh straneh s košer soljo in črnim poprom. Pustite, da zrezki stojijo na sobni temperaturi 30 minut pred pečenjem.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Segrejte rastlinsko olje v litoželezni ponvi na visoki temperaturi, dokler se ne začne lesketati in rahlo dimiti. Skrbno položite začinjene zrezke v vročo ponev. Pecite 3 do 4 minute, dokler se ne oblikuje globoka, temno rjava skorja.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Pečenja Prve Strani",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Obrnite zrezke. Zmanjšajte ogenj na srednjo temperaturo. V ponev dodajte maslo, zdrobljene stroke česna in vejice timijana. Ponev rahlo nagnite in z veliko žlico nenehno prelivajte zrezke s stopljenim maslom z zelišči 1 do 2 minuti ali dokler ni dosežena želena notranja temperatura (npr. 54°C za srednje pečeno).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Prelivanja/Kuhanja",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Odstranite zrezke iz ponve in jih položite na desko za rezanje. Prelijte zrezke s preostalim zeliščnim maslom iz ponve. Pustite jim počivati 5 do 10 minut, da se sokovi ponovno porazdelijo, preden jih narežete in postrežete.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Počivanja",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Klasičen Masleni Piščanec (Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Piščančja Stegna Brez Kosti in Kože (narezana na kocke)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Navaden Jogurt",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ingverjeva in Česnova Pasta",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Čili v Prahu",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Kurkuma v Prahu",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (za marinado)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Paradižnikov Pire",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Nesoljeno Maslo",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Smetana za Kuhanje",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (Posušeni Listi Piskavice)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sladkor",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Marinirajte piščanca: V veliki skledi zmešajte piščanca z jogurtom, pasto ingverja in česna, čilijem v prahu, kurkumo v prahu in garam masalo za marinado. Pokrijte in dajte v hladilnik za vsaj 30 minut ali do 4 ure.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Mariniranja",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Skuhajte piščanca: Pecite na žaru, pecite v pečici ali na ponvi mariniranega piščanca, dokler ni popolnoma kuhan in rahlo zapečen na robovih. Odložite na stran.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Kuhanja Piščanca",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Pripravite osnovo omake: V velikem loncu stopite polovico masla. Dodajte paradižnikov pire in kuhajte, dokler se olje ne loči (približno 10 minut). Dodajte 1/2 skodelice vode, zavrite in nato omako zmešajte do popolnoma gladke teksture. Pretlačite mešano omako nazaj v lonec.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Dušenja Omake",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Dokončajte omako: Presejani omaki dodajte preostalo maslo, sladkor in preostalo garam masalo (če želite). Dobro premešajte. Dodajte kuhane kose piščanca in dušite 5 minut.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Končno Dušenje s Piščancem",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Postrezite: Vmešajte smetano za kuhanje in Kasuri Methi zdrobite med dlanmi, preden ga dodate. Segrejte, vendar ne zavrite. Postrezite takoj z rižem ali naan kruhom.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Kremna Paradižnikova Juha",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+                    "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Paradižnik v Kockah iz Konzerve",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Piščančja ali Zelenjavna Jušna Osnova",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Čebula, sesekljana",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Česen, drobno sesekljan",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Smetana za Kuhanje",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olivno Olje",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Posušena Bazilika",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sol",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Črni Poper",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Segrejte olivno olje v velikem loncu na srednji temperaturi. Dodajte sesekljano čebulo in pražite, dokler se ne zmehča, približno 5-7 minut. Dodajte drobno sesekljan česen in pražite še 1 minuto.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Praženje Čebule",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Vmešajte paradižnik v kockah iz konzerve, jušno osnovo, posušeno baziliko, sol in poper. Zmes zavrite, nato zmanjšajte ogenj in dušite 20 minut.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Dušenje Juhe",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Juho previdno prenesite v mešalnik ali uporabite palični mešalnik, da juho zmešate do gladkega. Vrnite juho v lonec.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Vmešajte smetano za kuhanje in segrevajte 2-3 minute, vendar ne zavrite. Postrezite vroče, po želji okrašeno s svežo baziliko ali krutoni.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

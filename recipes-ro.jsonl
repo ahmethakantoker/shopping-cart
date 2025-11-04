@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Cheeseburger Clasic de Diner",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Carne de Vită Tocată (80% slabă / 20% grăsime)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Sos Worcestershire",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pudră de Ceapă",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pudră de Usturoi",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sare (Kosher sau de Mare)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Piper Negru, proaspăt măcinat",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Brânză Americană",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Chifle de Cartofi sau Chifle de Hamburger",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Maioneză",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Felii de Castraveți Murați cu Mărar",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Combinați cele 680 de grame de carne de vită tocată cu 1 lingură de sos Worcestershire, 0,5 linguriță de pudră de ceapă, 0,5 linguriță de pudră de usturoi, 1 linguriță de sare și 0,25 linguriță de piper negru. Amestecați **ușor** cu mâinile până când sunt abia combinate. Amestecarea excesivă va face burgerii tari.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Împărțiți amestecul în 4 porții egale și formați chifle de carne de aproximativ 2 centimetri grosime. Faceți o mică adâncitură în centrul fiecărei chifle cu degetul mare pentru a preveni umflarea lor în timpul gătirii.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Încingeți o tigaie sau un grătar la foc mediu-mare. Gătiți chiflele de carne timp de 3-5 minute pe fiecare parte pentru o gătire medie sau până când temperatura internă atinge 71 de grade.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Timp de Gătire a Chiflei de Carne",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "În ultimul minut de gătire, așezați 1 bucată de brânză americană pe fiecare chiflă de carne. Acoperiți grătarul sau tigaia scurt pentru a vă asigura că brânza se topește frumos.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Topirea Brânzei",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Prăjiți cele 4 bucăți de chifle cu partea tăiată în jos pe grătar sau o tigaie uscată timp de aproximativ 30 de secunde. Pentru a asambla, întindeți 1 lingură de maioneză pe ambele jumătăți ale chiflei. Așezați chifla de cheeseburger pe chifla de jos, acoperiți cu câteva dintre cele 1 ceașcă de felii de castraveți murați cu mărar și acoperiți cu chifla de sus.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Tacos Clasice cu Carne de Vită Tocată",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Carne de Vită Tocată Slabă (80/20 sau mai slabă)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Ulei de Măsline",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pudră de Chili",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Chimion Măcinat",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Oregano Uscat",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pudră de Usturoi",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sare",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Piper Negru",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pastă de Roșii",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Apă",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Coajă de Taco sau Tortillas (Porumb sau Făină)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Salată Tăiată Fâșii",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Brânză Cheddar Rasă sau Amestec Mexican",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Roșii Tăiate Cuburi",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Smântână sau Iaurt Grecesc (opțional)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Încingeți uleiul de măsline într-o tigaie mare la foc mediu-mare. Adăugați carnea de vită tocată și gătiți, sfărâmând-o cu o lingură, până când este complet rumenită și nu mai este roz.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Scurgeți orice exces de grăsime din tigaie și readuceți carnea la foc.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Încorporați pudra de chili, chimionul, oregano, pudra de usturoi, sarea și piperul negru. Gătiți timp de 1 minut, lăsând condimentele să se prăjească ușor.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Prăjirea Condimentelor",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Adăugați pasta de roșii și apa. Amestecați bine pentru a acoperi carnea. Aduceți amestecul la fierbere, apoi reduceți focul la mic și gătiți până când sosul s-a îngroșat și lichidul este în mare parte absorbit (carnea ar trebui să fie încă umedă, nu uscată).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Fierbere Ușoară Carne",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "În timp ce carnea fierbe ușor, încălziți cojile de taco sau tortillas conform instrucțiunilor de pe ambalaj.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Puneți carnea de taco asezonată în coji sau tortillas. Acoperiți cu salată tăiată fâșii, brânză, roșii tăiate cuburi și un strop de smântână sau iaurt (opțional). Serviți imediat.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Pizza Margherita Clasică",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Făină pentru Toate Scopurile",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Apă Caldă",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Drojdie Uscată Activă",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sare",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Ulei de Măsline (Aluat)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Roșii Zdrobite",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Brânză Mozzarella Proaspătă",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Frunze de Busuioc Proaspăt",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ulei de Măsline (Topping)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Piper Negru",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Activați drojdia amestecând-o cu apă caldă și un praf de zahăr (nu este listat în ingrediente, dar este asumat pentru activarea drojdiei) într-un bol. Lăsați să stea timp de 5-10 minute până devine spumoasă.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Activarea Drojdiei",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Într-un bol mare, combinați făina și sarea. Turnați amestecul de drojdie și cele 2 linguri de ulei de măsline. Amestecați până se formează un aluat neuniform.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Răsturnați aluatul pe o suprafață ușor înfăinată și frământați timp de 8-10 minute până devine neted și elastic. Așezați-l într-un bol uns, acoperiți și lăsați să crească într-un loc cald până când își dublează dimensiunea.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Creșterea Aluatului",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Preîncălziți cuptorul la cea mai mare temperatură (de obicei 250°C/480°F) și așezați o piatră de pizza sau o tavă de copt în interior pentru a se încălzi. Apăsați aluatul, împărțiți-l în două bile (pentru două pizza medii) și lăsați-le să se odihnească timp de 10 minute.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Preîncălzire Cuptor",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Întindeți sau rulați o bilă de aluat într-un cerc de 12 inch. Transferați-o pe o lopată de pizza înfăinată sau pe hârtie de copt. Întindeți uniform jumătate din roșiile zdrobite, acoperiți cu jumătate din mozzarella ruptă și stropiți cu puțin ulei de măsline și un praf de piper.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Coaceți pizza timp de 12-15 minute până când crusta este aurie și brânza este spumoasă. Odată scoasă din cuptor, garnisiți imediat cu frunze de busuioc proaspăt. Tăiați felii și serviți.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Timp de Coacere",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Wrap Picant de Pui cu Sos Ranch",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Piept de Pui (dezososat, fără piele)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortillas (mari)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Sos Ranch",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Sos Picant (ex: stil Buffalo)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Salată Romaine (tăiată fâșii)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Brânză Cheddar Rasă",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Boia Afumată",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pudră de Usturoi",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sare",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Ulei de Măsline",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Tăiați pieptul de pui în fâșii de 1 inch. Într-un bol, amestecați puiul cu ulei de măsline, boia afumată, pudră de usturoi și un praf de sare până când este bine acoperit.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Încingeți o tigaie mare la foc mediu-mare. Adăugați fâșiile de pui asezonate și gătiți timp de 5-7 minute, întorcând ocazional, până când sunt aurii și complet gătite (temperatura internă de 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Gătirea Puiului",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "În timp ce puiul este încă fierbinte, scoateți-l de pe foc și transferați-l într-un bol curat. Turnați sosul ranch și sosul picant peste pui. Amestecați până când fiecare bucată este acoperită de amestecul picant ranch.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Întindeți o tortilla. Întindeți un strat subțire de salată tăiată fâșii pe mijloc, urmat de un sfert din brânza cheddar rasă. Aceasta formează baza wrap-ului.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Așezați un sfert din amestecul de pui picant ranch peste brânză și salată. Aveți grijă să nu umpleți excesiv wrap-ul.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Pentru a înfășura, pliați cele două laturi ale tortillas peste umplutură, apoi rulați wrap-ul strâns de jos în sus. Tăiați wrap-ul finit în jumătate pe diagonală și serviți imediat.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Omletă Franceză Clasică",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Ouă (mari)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Unt",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Sare",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Piper Negru",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Arpagic (proaspăt, tocat)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Spargeți ouăle într-un bol. Adăugați sare și piper. Bateți energic până când gălbenușurile și albușurile sunt complet combinate și ușor spumoase, dar evitați să încorporați prea mult aer.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Bătutul",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Încingeți o tigaie antiaderentă (de aproximativ 8 inch) la foc mediu. Adăugați untul și rotiți-l până se topește, spumează și apoi se așează, devenind o culoare limpede, de nucă.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Topirea Untului",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Turnați amestecul de ouă în tigaia fierbinte. Lăsați ouăle să se așeze timp de aproximativ 10 secunde. Apoi, folosind o furculiță sau o spatulă de cauciuc, amestecați ouăle constant și rapid, înclinând tigaia, până când fundul este așezat, dar partea de sus este încă umedă și cremoasă.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Gătirea Ouălor",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Opriți amestecarea și lăsați omleta să se gătească nederanjată timp de încă 30 de secunde pentru a așeza complet fundul. Presărați arpagicul tocat peste treimea centrală a omletei.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Așezarea Finală",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Înclinați tigaia și, folosind o spatulă, pliați o parte a omletei cam o treime peste centru. Rulați ușor omleta din tigaie pe o farfurie, cu marginea pliată în jos, pentru a crea o formă elegantă de torpilă. Serviți imediat.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Spaghetti Clasice cu Usturoi și Ulei de Măsline (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Paste Spaghetti",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Ulei de Măsline Extra Virgin",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Usturoi",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Fulgi de Ardei Roșu (Chili)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sare",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pătrunjel Proaspăt (Toccat)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Piper Negru",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Puneți o oală mare de apă să fiarbă. Sărați apa (ar trebui să fie la fel de sărată ca apa de mare). Adăugați spaghetele și gătiți conform instrucțiunilor de pe ambalaj până la stadiul al dente. Păstrați aproximativ 1 ceașcă din apa de gătit a pastelor.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Gătirea Pastelor",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "În timp ce pastele se gătesc, tăiați usturoiul felii subțiri. Încingeți o tigaie mare la foc mediu și adăugați 0,75 ceașcă de ulei de măsline extra virgin. Adăugați usturoiul feliat și 1 linguriță de fulgi de ardei roșu în tigaie.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Sotați usturoiul până devine auriu și parfumat, aproximativ 2-3 minute. **Aveți grijă să nu-l ardeți**, altfel va deveni amar. Adăugați 0,5 ceașcă din apa de gătit a pastelor rezervată în tigaie. Aduceți la fierbere ușoară.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sotarea Usturoiului",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Scurgeți pastele gătite (nu le clătiți) și transferați-le imediat în tigaie cu sosul de usturoi. Adăugați cele 4 linguri rămase de pătrunjel proaspăt tocat. Amestecați rapid și aruncați pastele în tigaie pentru a acoperi toate pastele cu sosul.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Adăugați puțin mai multă apă de la paste rezervată, dacă este necesar, pentru a ajusta consistența sosului. Gustați și adăugați 1 praf de piper negru și sare suplimentară, dacă este necesar. Serviți imediat cât este fierbinte.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Paste Cremose de Pui cu Pesto",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Paste Fettuccine",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Piept de Pui (dezososat, fără piele)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Smântână Groasă",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Pesto de Busuioc",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Brânză Parmezan (rasă)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ulei de Măsline",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pudră de Usturoi",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sare",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Piper Negru",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Tăiați cele 500 de grame de piept de pui în cuburi de 1 inch. Într-un bol, amestecați puiul cu 1 lingură de ulei de măsline, 0,5 linguriță de sare, 1 linguriță de pudră de usturoi și 1 praf de piper negru.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Încingeți restul de 1 lingură de ulei de măsline într-o tigaie mare la foc mediu-mare. Adăugați puiul asezonat și gătiți timp de 6-8 minute, întorcând ocazional, până devine auriu și complet gătit.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Gătirea Puiului",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "În timp ce puiul se gătește, puneți o oală mare cu apă sărată să fiarbă. Adăugați cele 350 de grame de fettuccine și gătiți până la stadiul al dente. Scurgeți pastele, rezervând 1 ceașcă din apa de gătit.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Gătirea Pastelor",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Reduceți focul la tigaie (cu puiul) la mic. Turnați cei 250 de mililitri de smântână groasă și 0,5 ceașcă de pesto de busuioc. Amestecați bine până se combină. Lăsați sosul să fiarbă ușor timp de 2 minute pentru a se îngroșa ușor.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Fierbere Ușoară Sos",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Adăugați pastele scurse la sosul cremos de pesto și amestecați pentru a le acoperi. Încorporați 0,5 ceașcă de brânză Parmezan rasă și aproximativ 0,25 ceașcă din apa de la paste rezervată. Adăugați mai multă apă dacă este necesar pentru a ajunge la consistența dorită. Serviți imediat.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Sandviș cu Brânză Gătit pe Grătar (Grilled Cheese Sandwich)",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Pâine cu Maia",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Brânză Cheddar (ascuțită)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Brânză Monterey Jack",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Unt Nesarăt (înmuiat)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Maioneză (opțional pentru aromă)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sare",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Radeți atât brânza Cheddar, cât și brânza Monterey Jack și amestecați-le într-un bol mic. Răzuirea asigură o topire uniformă.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Întindeți untul uniform pe o parte a fiecărei felii de pâine. Aceasta este partea care va atinge tigaia. Opțional, întindeți un strat subțire de maioneză pe partea opusă (interiorul) unei felii pentru un gust suplimentar.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Așezați o felie de pâine (cu partea unsă în jos) într-o tigaie antiaderentă la foc mediu-mic. Presărați brânza amestecată uniform peste pâine, apoi adăugați un praf de sare.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Acoperiți cu a doua felie de pâine (cu partea unsă în sus). Gătiți timp de 3 până la 4 minute până când felia de jos este auriu-maro și brânza începe să se topească.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Timp de Gătire Prima Parte",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Întoarceți sandvișul cu grijă folosind o spatulă. Gătiți timp de încă 3 până la 4 minute până când a doua parte este auriu-maro și brânza este complet topită și curge. Dacă exteriorul se rumenește prea repede, reduceți focul.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Timp de Gătire Partea a Doua",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Scoateți din tigaie, tăiați pe diagonală și serviți imediat.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Friptură Ribeye Perfectă Gătită la Tigaie cu Unt cu Usturoi și Ierburi",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Friptură Ribeye (1,5 inch grosime)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Sare Kosher",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Piper Negru Proaspăt Măcinat",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Ulei Vegetal (punct de fum ridicat)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Unt Nesarăt",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Căței de Usturoi (zdrobiți)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Crenguțe Proaspete de Cimbru",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Uscați complet fripturile cu prosoape de hârtie. Asezonați generos pe toate părțile cu sare kosher și piper negru. Lăsați fripturile să stea la temperatura camerei timp de 30 de minute înainte de gătire.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Încingeți uleiul vegetal într-o tigaie din fontă la foc mare până când începe să pâlpâie și să fumege ușor. Așezați cu grijă fripturile asezonate în tigaia fierbinte. Sigilați timp de 3 până la 4 minute până când s-a format o crustă adâncă, maro închis.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Timp de Sigilare Prima Parte",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Întoarceți fripturile. Reduceți focul la mediu. Adăugați untul, cățeii de usturoi zdrobiți și crenguțele de cimbru în tigaie. Înclinați ușor tigaia și folosiți o lingură mare pentru a unge continuu fripturile cu untul de ierburi topit timp de 1 până la 2 minute sau până când se atinge temperatura internă dorită (ex: 54°C pentru mediu-în sânge).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Timp de Ungere/Gătire",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Scoateți fripturile din tigaie și așezați-le pe un tocător. Turnați untul de ierburi rămas din tigaie peste fripturi. Lăsați-le să se odihnească timp de 5 până la 10 minute pentru a permite sucurilor să se redistribuie înainte de a le felia și servi.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Timp de Repaus",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Pui cu Unt Clasicc (Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Pulpe de Pui Dezosate, fără Piele (tăiate cuburi)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Iaurt Simplu",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pastă de Ghimbir și Usturoi",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pudră de Chili",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pudră de Turmeric",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (pentru marinadă)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Piure de Roșii",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Unt Nesarăt",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Smântână Groasă",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (Frunze Uscate de Schinduf)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Zahăr",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Marinează puiul: Într-un bol mare, amestecă puiul cu iaurt, pastă de ghimbir și usturoi, pudră de chili, pudră de turmeric și garam masala pentru marinadă. Acoperă și lasă la frigider pentru cel puțin 30 de minute sau până la 4 ore.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Timp de Marinare",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Gătește puiul: Frige, coace sau prăjește puiul marinat până când este complet gătit și ușor ars pe margini. Dă deoparte.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Timp de Gătire a Puiului",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Pregătește baza sosului: Într-o oală mare, topește jumătate din unt. Adaugă piureul de roșii și gătește până când uleiul se separă (aproximativ 10 minute). Adaugă 1/2 ceașcă de apă, fierbe la foc mic, apoi amestecă sosul până devine complet omogen. Strecoară sosul amestecat înapoi în oală.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Timp de Fierbere Ușoară a Sosului",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Termină sosul: Adaugă untul rămas, zahărul și restul de garam masala (dacă dorești) la sosul strecurat. Amestecă bine. Adaugă bucățile de pui gătite și fierbe la foc mic timp de 5 minute.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Fierbere Ușoară Finală cu Pui",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Servește: Încorporează smântâna groasă și zdrobește Kasuri Methi între palme înainte de a-l adăuga. Încălzește bine, dar nu fierbe. Servește imediat cu orez sau pâine naan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Supă Cremă de Roșii",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Roșii Tăiate Cuburi la Conservă",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Supă de Pui sau de Legume",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ceapă, tocată",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Usturoi, tocat mărunt",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Smântână Groasă",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ulei de Măsline",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Busuioc Uscat",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sare",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Piper Negru",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Încingeți uleiul de măsline într-o oală mare la foc mediu. Adăugați ceapa tocată și sotați până se înmoaie, aproximativ 5-7 minute. Adăugați usturoiul tocat mărunt și sotați încă 1 minut.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sotarea Cepei",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Încorporați roșiile tăiate cuburi la conservă, supa, busuiocul uscat, sarea și piperul. Aduceți amestecul la fierbere, apoi reduceți focul și fierbeți la foc mic timp de 20 de minute.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Fierbere Ușoară Supă",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Transferați cu grijă supa într-un blender sau folosiți un blender de imersie pentru a amesteca supa până devine omogenă. Readuceți supa în oală.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Încorporați smântâna groasă și încălziți timp de 2-3 minute, dar nu fierbeți. Serviți fierbinte, opțional garnisit cu busuioc proaspăt sau crutoane.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

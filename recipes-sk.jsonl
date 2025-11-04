@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Klasický Cheeseburger z Dineru",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Mleté Hovädzie Mäso (80% chudé / 20% tučné)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Worcesterská Omáčka",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Cibuľový Prášok",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Cesnakový Prášok",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Soľ (Kóšer alebo Morská)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Čierne Korenie, čerstvo mleté",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Americký Syr",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Zemiakové Žemle alebo Hamburgerové Žemle",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Majonéza",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Plátky Kôprovej Nakladanej Uhorky (Pickles)",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Zmiešajte 680 gramov mletého hovädzieho mäsa s 1 polievkovou lyžicou Worcesterskej omáčky, 0,5 čajovej lyžičky cibuľového prášku, 0,5 čajovej lyžičky cesnakového prášku, 1 čajovou lyžičkou soli a 0,25 čajovej lyžičky čierneho korenia. **Jemne** premiešajte rukami, kým sa zmes len spojí. Prílišné miešanie urobí burgery tuhými.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rozdeľte zmes na 4 rovnaké porcie a vytvarujte placky s hrúbkou asi 2 centimetre. Palcom urobte v strede každej placky malú jamku, aby ste zabránili jej nafúknutiu počas varenia.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Rozpáľte panvicu alebo gril na stredne vysokú teplotu. Opekajte placky 3–5 minút na každú stranu pre stredné prepečenie, alebo kým vnútorná teplota nedosiahne 71 stupňov.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Opekania Placky",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Počas poslednej minúty pečenia položte na každú placku 1 kúsok amerického syra. Krátko zakryte gril alebo panvicu, aby sa syr pekne roztopil.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Topenie Syra",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Opečte 4 žemle rozrezanou stranou nadol na grile alebo suchej panvici asi 30 sekúnd. Na zostavenie natrite 1 polievkovú lyžicu majonézy na obe polovice žemle. Položte placku cheeseburgera na spodnú žemľu, navrch pridajte časť z 1 šálky plátkov kôprových nakladaných uhoriek a prikryte vrchnou žemľou.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Klasické Tacos s Mletým Hovädzím Mäsom",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Chudé Mleté Hovädzie Mäso (80/20 alebo chudšie)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Olivový Olej",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Chilli Korenie",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Mletá Rasca (Kumín)",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sušené Oregano",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Cesnakový Prášok",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Soľ",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Čierne Korenie",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Paradajkový Pretlačený Pretláčok (Koncentrát)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Voda",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Taco Škrupiny alebo Tortilly (Kukuričné alebo Pšeničné)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Nakrájaný Hlávkový Šalát",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Strúhaný Syr Cheddar alebo Mexická Zmes",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Nakrájané Paradajky",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kyslá Smotana alebo Grécky Jogurt (voliteľné)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Rozpáľte olivový olej vo veľkej panvici na stredne vysokú teplotu. Pridajte mleté hovädzie mäso a varte, rozbíjajúc ho lyžicou, kým úplne nezhnedne a prestane byť ružové.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Olejte prebytočný tuk z panvice a vráťte mäso na oheň.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Vmiešajte chilli korenie, rascu, oregano, cesnakový prášok, soľ a čierne korenie. Varte 1 minútu, aby sa korenie opražilo.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Opraženie Korenia",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Pridajte paradajkový pretlačený pretláčok a vodu. Dobre premiešajte, aby ste pokryli mäso. Priveďte zmes do varu, potom znížte teplotu na nízku a duste, kým omáčka nezhustne a väčšina tekutiny sa neabsorbuje (mäso by malo byť stále vlhké, nie suché).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Dusenie Mäsa",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Zatiaľ čo sa mäso dusí, zohrejte taco škrupiny alebo tortilly podľa pokynov na obale.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Naberte ochutenú mäsovú zmes taco do škrupín alebo tortíl. Navrch dajte nakrájaný šalát, syr, nakrájané paradajky a kopček kyslej smotany alebo jogurtu (voliteľné). Podávajte okamžite.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Klasická Pizza Margherita",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Hladká Pšeničná Múka",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Teplá Voda",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Aktívne Sušené Droždie",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Soľ",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Olivový Olej (Cesto)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Drvené Paradajky",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Čerstvá Mozzarella",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Čerstvé Lístky Bazalky",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olivový Olej (Poleva)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Čierne Korenie",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Aktivujte droždie zmiešaním s teplou vodou a štipkou cukru (nie je uvedený v prísadách, ale predpokladá sa na aktiváciu droždia) v miske. Nechajte odstáť 5-10 minút, kým nezačne peniť.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Aktivácia Droždia",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Vo veľkej miske zmiešajte múku a soľ. Prilejte drožďovú zmes a 2 polievkové lyžice olivového oleja. Miešajte, kým sa nevytvorí drsné cesto.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Vyklopte cesto na mierne pomúčenú plochu a mieste 8-10 minút, kým nie je hladké a elastické. Vložte do naolejovanej misy, prikryte a nechajte kysnúť na teplom mieste, kým nezdvojnásobí svoj objem.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Kysnutie Cesta",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Predhrejte rúru na najvyššiu teplotu (zvyčajne 250°C/480°F) a vložte do nej kameň na pizzu alebo plech na pečenie, aby sa zahrial. Päsťou vyrazte vzduch z cesta, rozdeľte ho na dve gule (pre dve stredne veľké pizze) a nechajte ich odpočívať 10 minút.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Predohrev Rúry",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Roztiahnite alebo vyvaľkajte jednu guľu cesta do 12-palcového kruhu. Preložte ju na pomúčenú lopatu na pizzu alebo papier na pečenie. Rovnomerne rozložte polovicu drvených paradajok, navrch dajte polovicu roztrhanej mozzarelly a pokvapkajte trochou olivového oleja a štipkou korenia.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Pečte pizzu 12-15 minút, kým kôrka nie je zlatistá a syr bublinkuje. Hneď po vybratí z rúry okamžite ozdobte čerstvými lístkami bazalky. Nakrájajte a podávajte.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Pečenia",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Pikantný Kurací Wrap s Ranch Dresingom",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Kuracie Prsia (bez kosti, bez kože)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortilly (veľké)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ranch Dresing",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pikantná Omáčka (napr. Buffalo štýl)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Rímsky Šalát (nakrájaný)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Strúhaný Syr Cheddar",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Údená Paprika",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Cesnakový Prášok",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Soľ",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Olivový Olej",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Nakrájajte kuracie prsia na 1-palcové prúžky. V miske obaľte kurča v olivovom oleji, údenej paprike, cesnakovom prášku a štipke soli, kým nie je dobre pokryté.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rozpáľte veľkú panvicu na stredne vysokú teplotu. Pridajte ochutené prúžky kurčaťa a opekajte 5-7 minút, občas otočte, kým nie sú zlatohnedé a úplne uvarené (vnútorná teplota 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Opečenie Kurčaťa",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Kým je kurča ešte horúce, vyberte ho z ohňa a preložte do čistej misky. Prelejte kurča ranch dresingom a pikantnou omáčkou. Premiešajte, kým nie je každý kúsok pokrytý pikantnou zmesou ranch.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Rozložte jednu tortillu. Rozotrite tenkú vrstvu nakrájaného šalátu do stredu, po ktorej nasleduje štvrtina strúhaného syra cheddar. Toto tvorí základ wrapu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Položte štvrtinu pikantnej kuracej zmesi ranch na syr a šalát. Dávajte pozor, aby ste wrap nepreplnili.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Pre zabalenie preložte dve strany tortilly cez náplň, potom pevne zrolujte wrap zdola nahor. Hotový wrap prekrojte diagonálne na polovicu a podávajte okamžite.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Klasická Francúzska Omeleta",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Vajcia (veľké)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Maslo",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Soľ",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Čierne Korenie",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Pažítka (čerstvá, nasekaná)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Rozbite vajcia do misky. Pridajte soľ a korenie. Energicky šľahajte, kým sa žĺtky a bielky úplne nespoja a nie sú mierne penivé, ale vyhnite sa zapracovaniu príliš veľkého množstva vzduchu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Šľahanie",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rozpáľte nepriľnavú panvicu (asi 8 palcovú) na strednú teplotu. Pridajte maslo a krúžte ním, kým sa neroztopí, nepení a potom neusadí, pričom získa číru, orieškovú farbu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Topenie Masla",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Vylejte vaječnú zmes na horúcu panvicu. Nechajte vajcia tuhnúť asi 10 sekúnd. Potom pomocou vidličky alebo gumovej stierky vajcia neustále a rýchlo miešajte, nakláňajúc panvicu, kým dno neztuhne, ale vrch zostane stále vlhký a krémový.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Varenie Vajec",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Prestaňte miešať a nechajte omeletu variť nerušene ďalších 30 sekúnd, aby dno úplne stuhlo. Nasekanú pažítku posypte na strednú tretinu omelety.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Záverečné Tuhnutie",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Nakloňte panvicu a pomocou stierky preložte jednu stranu omelety asi o tretinu cez stred. Opatrne zrolujte omeletu z panvice na tanier, so spojom smerom nadol, aby ste vytvorili elegantný tvar torpéda. Podávajte okamžite.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Klasické Špagety s Cesnakom a Olivovým Olejom (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Špagety",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Extra Panenský Olivový Olej",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Cesnak",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Vločky Červenej Papriky (Chilli)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Soľ",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Čerstvá Petržlenová Vňať (Nasekaná)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Čierne Korenie",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Priveďte veľký hrniec vody do varu. Osoľte vodu (mala by byť slaná ako morská voda). Pridajte špagety a varte podľa pokynov na obale, kým nebudú al dente. Odložte si asi 1 šálku vody, v ktorej sa varili cestoviny.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Varenie Cestovín",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Kým sa cestoviny varia, nakrájajte cesnak na tenké plátky. Rozpáľte veľkú panvicu na strednom ohni a pridajte 0,75 šálky extra panenského olivového oleja. Pridajte nakrájaný cesnak a 1 čajovú lyžičku vločiek červenej papriky do panvice.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Smažte cesnak, kým nie je zlatistý a voňavý, asi 2-3 minúty. **Dávajte pozor, aby ste ho nespálili**, inak bude horký. Pridajte 0,5 šálky odloženej vody z varenia cestovín do panvice. Priveďte do mierneho varu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Smaženie Cesnaku",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Sceďte uvarené cestoviny (neoplachujte) a okamžite ich preložte do panvice s cesnakovou omáčkou. Pridajte zostávajúce 4 polievkové lyžice nasekanej čerstvej petržlenovej vňate. Rýchlo premiešajte a prehoďte cestoviny v panvici, aby sa celá omáčka obalila.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "V prípade potreby pridajte ešte trochu odloženej vody z cestovín, aby ste upravili konzistenciu omáčky. Ochutnajte a pridajte 1 štipku čierneho korenia a ďalšiu soľ, ak je to potrebné. Podávajte okamžite, kým sú teplé.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Krémové Kuracie Cestoviny s Pestom",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Cestoviny Fettuccine",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Kuracie Prsia (bez kosti, bez kože)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Hustá Smotana",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Bazalkové Pesto",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Strúhaný Syr Parmezán",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olivový Olej",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Cesnakový Prášok",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Soľ",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Čierne Korenie",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Nakrájajte 500 gramov kuracích pŕs na 1-palcové kocky. V miske obaľte kurča v 1 polievkovej lyžici olivového oleja, 0,5 čajovej lyžičky soli, 1 čajovej lyžičke cesnakového prášku a 1 štipke čierneho korenia.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rozpáľte zostávajúcu 1 polievkovú lyžicu olivového oleja vo veľkej panvici na stredne vysokú teplotu. Pridajte ochutené kurča a opekajte 6-8 minút, občas otočte, kým nie je zlatohnedé a úplne uvarené.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Opečenie Kurčaťa",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Zatiaľ čo sa kurča varí, priveďte veľký hrniec s osolenou vodou do varu. Pridajte 350 gramov fettuccine a varte, kým nebudú al dente. Cestoviny sceďte, pričom si odložte 1 šálku vody z varenia.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Varenie Cestovín",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Znížte teplotu na panvici (s kurčaťom) na nízku. Vlejte 250 mililitrov hustej smotany a 0,5 šálky bazalkového pesta. Dobre premiešajte, kým sa nespoja. Nechajte omáčku jemne vrieť 2 minúty, aby mierne zhustla.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Varenie Omáčky",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Pridajte scedené cestoviny do krémovej pesto omáčky a premiešajte, aby sa obalili. Vmiešajte 0,5 šálky strúhaného syra parmezán a asi 0,25 šálky odloženej vody z cestovín. Ak je to potrebné, pridajte viac vody, aby ste dosiahli požadovanú konzistenciu. Podávajte okamžite.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Grilovaný Syr (Grilled Cheese Sandwich)",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Chlieb z Kvaseného Cesta",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Syr Cheddar (ostrý)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Syr Monterey Jack",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Nesolené Maslo (zmäknuté)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Majonéza (voliteľné pre chuť)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Soľ",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Nastrúhajte syry Cheddar aj Monterey Jack a zmiešajte ich v malej miske. Strúhanie zabezpečí rovnomerné topenie.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Maslo rovnomerne rozotrite na jednu stranu každého plátku chleba. Táto strana sa dotkne panvice. Voliteľne, rozotrite tenkú vrstvu majonézy na opačnú stranu (vnútornú) jedného plátku pre extra chuť.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Položte jeden plátok chleba (maslovou stranou nadol) na nepriľnavú panvicu na stredne nízku teplotu. Rovnomerne posypte zmesou syrov na chlieb a potom pridajte štipku soli.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Prikryte druhým plátkom chleba (maslovou stranou nahor). Opekajte 3 až 4 minúty, kým spodný plátok nie je zlatohnedý a syr sa nezačne topiť.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Opekania Prvej Strany",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Opatrne otočte sendvič pomocou stierky. Opekajte ďalších 3 až 4 minúty, kým druhá strana nie je zlatohnedá a syr nie je úplne roztopený a ťahavý. Ak sa vonkajšia strana príliš rýchlo hnedne, znížte teplotu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Opekania Druhej Strany",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Odstráňte z panvice, nakrájajte diagonálne a podávajte okamžite.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Perfektný Ribeye Steak Opečený na Panvici s Cesnakovým a Bylinkovým Maslom",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Ribeye Steak (1,5 palca hrubý)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Kóšer Soľ",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Čerstvo Mleté Čierne Korenie",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Rastlinný Olej (vysoký bod dymenia)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Nesolené Maslo",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Strúčiky Cesnaku (rozdrvené)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Čerstvé Vetvičky Tymiánu",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Steaky úplne osušte papierovými utierkami. Štedro osoľte zo všetkých strán kóšer soľou a čiernym korením. Pred varením nechajte steaky odpočívať pri izbovej teplote 30 minút.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rozpáľte rastlinný olej na liatinovej panvici na vysokú teplotu, kým sa nezačne lesknúť a mierne dymiť. Opatrne položte ochutené steaky na horúcu panvicu. Opekajte 3 až 4 minúty, kým sa nevytvorí hlboká, tmavohnedá kôrka.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Opekania Prvej Strany",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Otočte steaky. Znížte teplotu na strednú. Pridajte maslo, rozdrvené strúčiky cesnaku a vetvičky tymiánu do panvice. Mierne nakloňte panvicu a pomocou veľkej lyžice nepretržite polievajte steaky roztopeným bylinkovým maslom 1 až 2 minúty alebo kým sa nedosiahne požadovaná vnútorná teplota (napr. 54°C pre stredne prepečené).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Polievania/Varenia",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Odstráňte steaky z panvice a položte ich na dosku na krájanie. Prelejte steaky zostávajúcim bylinkovým maslom z panvice. Nechajte ich odpočívať 5 až 10 minút, aby sa šťavy prerozdelili, predtým ako ich nakrájate a podávate.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Odpočinku",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Klasické Maslové Kurča (Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Kuracie Stehná Bez Kosti a Kože (nakrájané na kocky)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Biely Jogurt",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Zázvorovo-Cesnaková Pasta",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Chilli Korenie",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Kurkumový Prášok",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (na marinádu)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Paradajkové Pyré",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Nesolené Maslo",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Hustá Smotana",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (Sušené Lístky Senovky Gréckej)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Cukor",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Marinujte kurča: Vo veľkej miske zmiešajte kurča s jogurtom, zázvorovo-cesnakovou pastou, chilli korením, kurkumovým práškom a garam masalou na marinádu. Zakryte a dajte do chladničky na minimálne 30 minút, alebo až 4 hodiny.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Marinovania",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Uvarte kurča: Grilujte, pečte alebo opekajte na panvici marinované kurča, kým nie je úplne uvarené a mierne pripálené na okrajoch. Odložte bokom.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Varenia Kurčaťa",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Pripravte základ omáčky: Vo veľkom hrnci roztopte polovicu masla. Pridajte paradajkové pyré a varte, kým sa neoddeli olej (asi 10 minút). Pridajte 1/2 šálky vody, nechajte vrieť a potom rozmixujte omáčku dohladka. Preceďte rozmixovanú omáčku späť do hrnca.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Čas Vrenia Omáčky",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Dokončite omáčku: Do precedenej omáčky pridajte zvyšné maslo, cukor a zostávajúcu garam masalu (ak je to žiaduce). Dobre premiešajte. Pridajte uvarené kúsky kurčaťa a duste 5 minút.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Záverečné Dusenie s Kurčaťom",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Podávajte: Vmiešajte hustú smotanu a rozdrvte Kasuri Methi medzi dlaňami pred pridaním. Prehrejte, ale nevarte. Podávajte okamžite s ryžou alebo naan chlebom.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Krémová Paradajková Polievka",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Konzervované Nakrájané Paradajky",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Kurací alebo Zeleninový Vývar",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Cibuľa, nasekaná",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Cesnak, jemne nasekaný",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Hustá Smotana",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olivový Olej",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Sušená Bazalka",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Soľ",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Čierne Korenie",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Rozpáľte olivový olej vo veľkom hrnci na strednú teplotu. Pridajte nasekanú cibuľu a smažte, kým nezmäkne, asi 5-7 minút. Pridajte jemne nasekaný cesnak a smažte ešte 1 minútu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Smaženie Cibule",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Vmiešajte konzervované nakrájané paradajky, vývar, sušenú bazalku, soľ a korenie. Priveďte zmes do varu, potom znížte teplotu a duste 20 minút.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Dusenie Polievky",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Opatrne preložte polievku do mixéra alebo použite ponorný mixér na rozmixovanie polievky dohladka. Vráťte polievku späť do hrnca.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Vmiešajte hustú smotanu a prehrejte 2-3 minúty, ale nevarte. Podávajte horúce, voliteľne ozdobené čerstvou bazalkou alebo krutónmi.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Hamburguesa clàssica de restaurant amb formatge",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Carn picada de vedella (80% magra / 20% grassa)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Salsa Worcestershire",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Ceba en pols",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "All en pols",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal (Kosher o marina)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pebre negre, acabat de mòlt",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Formatge Americà",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Pans de patata o pans d'hamburguesa",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Maionesa",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Rodanxes de cogombrets 'Dill Pickle'",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Combina els 680 grams de carn picada amb 1 cullerada de salsa Worcestershire, 0.5 culleradeta de ceba en pols, 0.5 culleradeta d'all en pols, 1 culleradeta de sal i 0.25 culleradeta de pebre negre. Barreja **suaument** amb les mans fins que estigui just combinat. Barrejar en excés farà que les hamburgueses siguin dures.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Divideix la barreja en 4 porcions iguals i forma coques d'uns 2 centímetres de gruix. Fes una petita marca al centre de cada coca amb el polze per evitar que s'inflin mentre es couen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Escalfa una paella o graella a foc mitjà-alt. Cou les coques durant 3-5 minuts per cada costat per a un punt de cocció mitjà, o fins que la temperatura interna arribi als 71 graus.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Temps de cocció de la coca",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Durant l'últim minut de cocció, col·loca 1 peça de formatge americà a cada coca. Tapa la graella o paella breument per assegurar-te que el formatge es fongui bé.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Fusió del formatge",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Torra les 4 peces de panets amb el costat tallat cap avall a la graella o una paella seca durant uns 30 segons. Per muntar, estén 1 cullerada de maionesa a les dues meitats del panet. Col·loca la coca de l'hamburguesa amb formatge a la part inferior del panet, cobreix-la amb algunes de les 1 tassa de rodanxes de cogombrets 'Dill Pickle', i tapa amb el panet superior.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Tacos clàssics de carn picada",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Carn picada de vedella magra (80/20 o més magra)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Oli d'oliva",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Xili en pols",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Comí molt",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Orenga seca",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "All en pols",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pebre negre",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pasta de tomàquet concentrada",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Aigua",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Closques de taco o Tortilles (de blat de moro o de farina)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Enciam triturat",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Formatge Cheddar triturat o barreja mexicana",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Tomàquets tallats a daus",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Nata agra o iogurt grec (opcional)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Escalfa l'oli d'oliva en una paella gran a foc mitjà-alt. Afegeix la carn picada i cou-la, trencant-la amb una cullera, fins que estigui completament daurada i ja no sigui rosada.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Escorre qualsevol excés de greix de la paella i torna la carn al foc.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Incorpora el xili en pols, el comí, l'orenga, l'all en pols, la sal i el pebre negre. Cou durant 1 minut, permetent que les espècies es torrin.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Torrar les espècies",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Afegeix la pasta de tomàquet concentrada i l'aigua. Remena bé per cobrir la carn. Porta la barreja a ebullició lenta, després redueix el foc a baix i cou fins que la salsa hagi espessit i el líquid estigui majoritàriament absorbit (la carn encara ha de ser humida, no seca).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Bullir lentament la carn",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Mentre la carn bull a foc lent, escalfa les closques de taco o les tortilles segons les instruccions del paquet.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Omple les closques o tortilles amb la carn de taco assaonada. Cobreix amb enciam triturat, formatge, tomàquets tallats a daus, i una cullerada de nata agra o iogurt (opcional). Serveix immediatament.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Pizza Margherita Clàssica",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Farina de blat de tot ús",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Aigua tèbia",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Llevat sec actiu",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Oli d'oliva (Massa)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Tomàquets triturats",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Formatge Mozzarella fresc",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Fulles d'alfàbrega fresca",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Oli d'oliva (Cobertura)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pebre negre",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Activa el llevat barrejant-lo amb aigua tèbia i un pessic de sucre (no llistat als ingredients, però assumit per a l'activació del llevat) en un bol. Deixa-ho reposar de 5 a 10 minuts fins que estigui escumós.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Activació del Llevat",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "En un bol gran, combina la farina i la sal. Aboca la barreja de llevat i les 2 cullerades d'oli d'oliva. Barreja fins que es formi una massa irregular.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Aboca la massa sobre una superfície lleugerament enfarinada i amassa durant 8-10 minuts fins que estigui suau i elàstica. Col·loca-la en un bol untat amb oli, cobreix-la i deixa-la pujar en un lloc càlid fins que dobli la seva mida.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Pujada de la Massa",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Preescalfa el forn a la temperatura més alta (normalment 250°C/480°F) i col·loca una pedra de pizza o una safata de forn a dins per escalfar. Punxa la massa cap avall, divideix-la en dues boles (per a dues pizzes mitjanes) i deixa-les reposar durant 10 minuts.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Preescalfament del Forn",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Estira o enrotlla una bola de massa en un cercle de 12 polzades. Transfereix-la a una pala de pizza enfarinada o paper de forn. Estén la meitat dels tomàquets triturats de manera uniforme, cobreix amb la meitat de la mozzarella trencada, i ruixa amb una mica d'oli d'oliva i un pessic de pebre.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Cou la pizza al forn durant 12-15 minuts fins que la crosta estigui daurada i el formatge bombollegi. Un cop fora del forn, guarneix immediatament amb fulles d'alfàbrega fresca. Talla i serveix.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Temps de Cocció",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Wrap picant de pollastre i Ranch",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Pit de pollastre (sense os, sense pell)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortilles (grans)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Salsa Ranch",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Salsa picant (per exemple, estil Buffalo)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Enciam Romà (triturat)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Formatge Cheddar triturat",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pebre vermell fumat",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "All en pols",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Oli d'oliva",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Talla el pit de pollastre a tires d'1 polzada. En un bol, barreja el pollastre amb oli d'oliva, pebre vermell fumat, all en pols i un pessic de sal fins que estigui ben cobert.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Escalfa una paella gran a foc mitjà-alt. Afegeix les tires de pollastre assaonades i cou-les durant 5-7 minuts, girant ocasionalment, fins que estiguin daurades i completament cuites (temperatura interna de 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cocció del Pollastre",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Mentre el pollastre encara està calent, retira'l del foc i transfereix-lo a un bol net. Aboca la salsa Ranch i la salsa picant sobre el pollastre. Remena fins que cada peça estigui coberta amb la barreja picant de Ranch.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Estén una tortilla. Estén una capa fina d'enciam triturat pel centre, seguida d'una quarta part del formatge cheddar triturat. Això forma la base del wrap.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Col·loca una quarta part de la barreja picant de pollastre i Ranch sobre el formatge i l'enciam. Vés amb compte de no omplir massa el wrap.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Per embolicar, plega els dos costats de la tortilla sobre el farciment, després enrotlla el wrap amb força des de la part inferior cap amunt. Talla el wrap acabat per la meitat en diagonal i serveix immediatament.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Truita francesa clàssica",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Ous (grans)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Mantega",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pebre negre",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Cibulet (fresc, picat)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Trenca els ous en un bol. Afegeix sal i pebre. Bat enèrgicament fins que els rovells i les clares estiguin completament combinats i lleugerament escumosos, però evita incorporar massa aire.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Batut",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Escalfa una paella antiadherent (d'unes 8 polzades) a foc mitjà. Afegeix la mantega i fes-la girar fins que es fongui, faci escuma i després s'assenti, adquirint un color clar i de nou.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Fusió de la Mantega",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Aboca la barreja d'ous a la paella calenta. Deixa que els ous es quallin durant uns 10 segons. Després, utilitzant una forquilla o espàtula de goma, remena els ous constantment i ràpidament, inclinant la paella, fins que el fons estigui quallat però la part superior encara estigui humida i cremosa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cocció dels Ous",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Deixa de remenar i deixa que la truita es cogui sense molestar durant 30 segons més per quallar completament la part inferior. Espolvoreja el cibulet picat sobre el terç central de la truita.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Quallat Final",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Inclina la paella, i utilitzant una espàtula, plega un costat de la truita aproximadament un terç cap al centre. Roda suaument la truita fora de la paella cap a un plat, amb el costat de la costura cap avall, per crear una forma de torpede neta. Serveix immediatament.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Espaguetis clàssics d'all i oli d'oliva (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Pasta Espagueti",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Oli d'oliva verge extra",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "All",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Flakes de pebre vermell (Xili)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Julivert fresc (picat)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pebre negre",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Bull una olla gran d'aigua. Sala l'aigua (ha de ser tan salada com l'aigua de mar). Afegeix els espaguetis i cou segons les instruccions del paquet fins que estiguin al dente. Reserva aproximadament 1 tassa de l'aigua de cocció de la pasta.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cocció de la Pasta",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Mentre la pasta es cou, talla l'all a làmines fines. Escalfa una paella gran a foc mitjà i afegeix 0.75 tassa d'oli d'oliva verge extra. Afegeix l'all laminat i 1 culleradeta de flakes de pebre vermell a la paella.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Sofregeix l'all fins que estigui daurat i aromàtic, uns 2-3 minuts. **Vés amb compte de no cremar-lo**, ja que es tornaria amarg. Afegeix 0.5 tassa de l'aigua de cocció de la pasta reservada a la paella. Porta a ebullició lenta.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sofregit d'All",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Escorre la pasta cuita (no l'esbandeixis) i transfereix-la immediatament a la paella amb la salsa d'all. Afegeix les 4 cullerades restants de julivert fresc picat. Barreja ràpidament i llença la paella per cobrir tota la pasta amb la salsa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Afegeix una mica més d'aigua de pasta reservada si cal per ajustar la consistència de la salsa. Tasta i afegeix 1 pessic de pebre negre i sal addicional si cal. Serveix immediatament mentre estigui calent.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Pasta cremosa de pollastre al Pesto",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Pasta Fettuccine",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Pit de pollastre (sense os, sense pell)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Nata de cuina (crema de llet per a cuinar)",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Pesto d'alfàbrega",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Formatge Parmesà (ratllat)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Oli d'oliva",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "All en pols",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pebre negre",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Talla els 500 grams de pit de pollastre a daus d'1 polzada. En un bol, barreja el pollastre amb 1 cullerada d'oli d'oliva, 0.5 culleradeta de sal, 1 culleradeta d'all en pols i 1 pessic de pebre negre.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Escalfa la cullerada restant d'oli d'oliva en una paella gran a foc mitjà-alt. Afegeix el pollastre assaonat i cou-lo durant 6-8 minuts, girant ocasionalment, fins que estigui daurat i completament cuit.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cocció del Pollastre",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Mentre el pollastre es cou, bull una olla gran d'aigua salada. Afegeix els 350 grams de fettuccine i cou-los fins que estiguin al dente. Escorre la pasta, reservant 1 tassa de l'aigua de cocció.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cocció de la Pasta",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Redueix el foc de la paella (amb el pollastre) a baix. Aboca els 250 mil·lilitres de nata de cuina i 0.5 tassa de pesto d'alfàbrega. Remena bé fins que es combinin. Deixa que la salsa bulli suaument durant 2 minuts per espessir lleugerament.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Bullir lentament la Salsa",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Afegeix la pasta escorreguda a la salsa cremosa de pesto i remena per cobrir-la. Incorpora 0.5 tassa de formatge parmesà ratllat i aproximadament 0.25 tassa de l'aigua de pasta reservada. Afegeix més aigua si cal per aconseguir la consistència desitjada. Serveix immediatament.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Sandvitx de Formatge a la Planxa",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Pa de massa mare",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Formatge Cheddar (fort)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Formatge Monterey Jack",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Mantega sense sal (estovada)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Maionesa (opcional per al gust)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Ratlla tant el formatge Cheddar com el Monterey Jack i barreja'ls en un bol petit. El ratllat assegura una fusió uniforme.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Estén la mantega de manera uniforme en un costat de cada llesca de pa. Aquest és el costat que tocarà la paella. Opcionalment, estén una capa fina de maionesa a la cara oposada (la interior) d'una llesca per a un gust extra.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Col·loca una llesca de pa (amb el costat de la mantega cap avall) en una paella antiadherent a foc mitjà-baix. Espolvoreja el formatge barrejat uniformement sobre el pa, i després afegeix un pessic de sal.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Cobreix amb la segona llesca de pa (amb el costat de la mantega cap amunt). Cou durant 3 a 4 minuts fins que la llesca inferior estigui daurada i el formatge comenci a fondre's.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Temps de cocció del primer costat",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Gira amb cura el sandvitx utilitzant una espàtula. Cou durant 3 a 4 minuts més fins que el segon costat estigui daurat i el formatge estigui completament fos i s'escorri. Si l'exterior es dora massa ràpidament, baixa el foc.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Temps de cocció del segon costat",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Retira de la paella, talla en diagonal i serveix immediatament.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Tall de Ribeye perfecte a la paella amb mantega d'herbes i all",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Tall de Ribeye (1.5 polzades de gruix)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Sal Kosher",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pebre negre acabat de mòlt",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Oli vegetal (punt de fum alt)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Mantega sense sal",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Claus d'all (aixafats)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Branques de farigola fresca",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Asseca completament els talls de carn amb paper de cuina. Assaona generosament per tots els costats amb sal kosher i pebre negre. Deixa reposar els talls a temperatura ambient durant 30 minuts abans de cuinar.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Escalfa l'oli vegetal en una paella de ferro colat a foc alt fins que comenci a brillar i fumar lleugerament. Col·loca amb cura els talls de carn assaonats a la paella calenta. Sella'ls durant 3 a 4 minuts fins que s'hagi format una crosta marró fosc i profund.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Temps de segellat del primer costat",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Gira els talls. Redueix el foc a mitjà. Afegeix la mantega, els claus d'all aixafats i les branques de farigola a la paella. Inclina la paella lleugerament i utilitza una cullera gran per ruixar la mantega d'herbes fosa sobre els talls contínuament durant 1 a 2 minuts, o fins que s'assoleixi la temperatura interna desitjada (per exemple, 130°F per a poc fet).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Temps de ruixat/cocció",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Retira els talls de carn de la paella i col·loca'ls en una taula de tallar. Aboca la mantega d'herbes restant de la paella sobre els talls. Deixa-los reposar de 5 a 10 minuts per permetre que els sucs es redistribueixin abans de tallar i servir.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Temps de Repòs",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Pollastre a la mantega clàssic (Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Cuixes de pollastre sense os ni pell (tallades a daus)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Iogurt natural",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pasta de gingebre i all",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Xili en pols",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Cúrcuma en pols",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (per a la marinada)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Puré de tomàquet",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Mantega sense sal",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Nata de cuina (crema de llet per a cuinar)",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (fulles de fenigrec seques)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sucre",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Marinar el pollastre: En un bol gran, barreja el pollastre amb iogurt, pasta de gingebre i all, xili en pols, cúrcuma en pols i el garam masala de la marinada. Tapa i refrigera durant almenys 30 minuts, o fins a 4 hores.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Temps de marinada",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Cou el pollastre: Fes a la graella, al forn o a la paella el pollastre marinat fins que estigui completament cuit i lleugerament carbonitzat a les vores. Reserva'l.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Temps de cocció del pollastre",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Prepara la base de la salsa: En una olla gran, desfés la meitat de la mantega. Afegeix el puré de tomàquet i cou fins que l'oli se separi (uns 10 minuts). Afegeix 1/2 tassa d'aigua, bull a foc lent, i després tritura la salsa fins que estigui completament llisa. Col·loca la salsa triturada de nou a l'olla.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Temps d'ebullició lenta de la salsa",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Acaba la salsa: Afegeix la mantega restant, el sucre i el garam masala restant (si es desitja) a la salsa colada. Remena bé. Afegeix els trossos de pollastre cuits i bull a foc lent durant 5 minuts.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Ebullició lenta final amb pollastre",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Serveix: Incorpora la nata de cuina i tritura el Kasuri Methi entre els palmells de les mans abans d'afegir-lo. Escalfa bé però no bullis. Serveix immediatament amb arròs o pa naan.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Sopa de tomàquet cremosa",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Tomàquets en llauna tallats a daus",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Brou de pollastre o vegetal",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ceba, picada",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "All, picat finament",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Nata de cuina (crema de llet per a cuinar)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Oli d'oliva",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Alfàbrega seca",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pebre negre",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Escalfa l'oli d'oliva en una olla gran a foc mitjà. Afegeix la ceba picada i sofregeix fins que estigui estovada, uns 5-7 minuts. Afegeix l'all picat i sofregeix durant 1 minut més.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sofregit de Ceba",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Incorpora els tomàquets en llauna tallats a daus, el brou, l'alfàbrega seca, la sal i el pebre. Porta la barreja a ebullició, després redueix el foc i bull a foc lent durant 20 minuts.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Bullir lentament la Sopa",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Transfereix amb cura la sopa a una batedora o utilitza una batedora d'immersió per triturar la sopa fins que quedi llisa. Torna la sopa a l'olla.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Incorpora la nata de cuina i escalfa durant 2-3 minuts, però no bullis. Serveix calent, opcionalment guarnit amb alfàbrega fresca o crostons.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

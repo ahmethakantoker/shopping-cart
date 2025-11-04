@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "经典美式餐厅芝士汉堡",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "免治牛肉 (80% 瘦肉 / 20% 脂肪)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "伍斯特郡酱汁 (Worcestershire Sauce)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "洋葱粉",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "蒜头粉",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "盐 (犹太盐或海盐)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "新鲜黑胡椒碎",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "美式芝士",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "土豆卷或汉堡包",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "蛋黄酱",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "刁草青瓜片 (Dill Pickle Chips)",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "将 680 克免治牛肉与 1 汤匙伍斯特郡酱汁、0.5 茶匙洋葱粉、0.5 茶匙蒜头粉、1 茶匙盐和 0.25 茶匙黑胡椒碎混合。用手**轻轻地**搅拌，直到刚好处在混合均匀的状态。过度搅拌会使汉堡变硬。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "将混合物分成 4 等份，塑形为约 2 厘米厚的肉饼。用拇指在每个肉饼的中心压出一个小凹痕，以防止它们在烹饪时鼓起。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "将平底锅或烤架加热至中高火。将肉饼每面煎煮 3-5 分钟以达到中等熟度，或直到内部温度达到 71 摄氏度。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "肉饼烹饪时间",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "在烹饪的最后 1 分钟，在每个肉饼上放 1 片美式芝士。短暂地盖上烤架或平底锅，以确保芝士漂亮地融化。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "芝士融化",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "将 4 个面包切面朝下放在烤架或干锅上烤约 30 秒。组装时，在面包的两半涂上 1 汤匙蛋黄酱。将芝士汉堡肉饼放在下层面包上，上面放上一些 1 杯刁草青瓜片，然后盖上上层面包。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "经典免治牛肉玉米卷 (Tacos)",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "免治瘦牛肉 (80/20 或更瘦)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "橄榄油",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "辣椒粉 (Chili Powder)",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "孜然粉",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "干牛至",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "蒜头粉",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "盐",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "黑胡椒",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "番茄酱 (Tomato Paste)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "水",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "玉米卷壳或薄饼 (玉米或面粉)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "生菜丝",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "切达芝士碎或墨西哥混合芝士",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "番茄粒",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "酸奶油或希腊酸奶 (可选)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "在一个大平底锅中，用中高火加热橄榄油。加入免治牛肉并用勺子将其捣碎，煮至完全变成棕色，不再呈粉红色。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "沥干平底锅中多余的油脂，然后将肉放回火上。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "拌入辣椒粉、孜然粉、牛至、蒜头粉、盐和黑胡椒。煮 1 分钟，让香料烤香。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "烤香料",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "加入番茄酱和水。充分搅拌以裹住肉。将混合物煮至微沸，然后转小火煮至酱汁变稠且液体大部分被吸收（肉应该仍然湿润，而不是干燥）。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "慢炖肉",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "在肉慢炖时，按照包装说明加热玉米卷壳或薄饼。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "将调味好的玉米卷肉舀入壳或薄饼中。上面放上生菜丝、芝士、番茄粒和一团酸奶油或酸奶（可选）。立即上菜。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "经典玛格丽特披萨 (Pizza Margherita)",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "通用面粉",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "温水",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "活性干酵母",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "盐",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "橄榄油 (面团用)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "压碎的番茄 (Crushed Tomatoes)",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "新鲜水牛芝士 (Mozzarella Cheese)",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "新鲜罗勒叶",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "橄榄油 (作面层用)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "黑胡椒",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "将酵母与温水和一小撮糖（配料中未列出，但假定用于酵母激活）混合在碗中，以激活酵母。静置 5-10 分钟，直到出现泡沫。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "酵母激活",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "在一个大碗中，混合面粉和盐。倒入酵母混合物和 2 汤匙橄榄油。搅拌直到形成一个蓬松的面团。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "将面团倒在撒有少许面粉的表面上，揉搓 8-10 分钟直到光滑且有弹性。放入涂有油的碗中，盖上，放在温暖的地方发酵，直到体积增加一倍。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "面团发酵",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "将烤箱预热至最高温度（通常为 250°C/480°F），并将披萨石或烤盘放入其中加热。将面团压下，分成两团（制作两个中型披萨），让它们休息 10 分钟。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "烤箱预热",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "将其中一个面团拉伸或擀成一个 12 英寸的圆形。转移到撒有面粉的披萨铲或烤盘纸上。均匀地涂上面团一半的压碎番茄，上面放上面团一半的撕碎水牛芝士，并淋上少许橄榄油和一小撮黑胡椒。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "烤制披萨 12-15 分钟，直到饼皮呈金黄色，芝士起泡。一从烤箱取出，立即用新鲜罗勒叶装饰。切片并上菜。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "烘烤时间",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "香辣 Ranch 鸡肉卷饼",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "鸡胸肉 (无骨、去皮)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "薄饼 (大)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ranch 酱",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "辣酱 (例如：Buffalo 风味)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "罗马生菜 (切丝)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "切达芝士碎",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "烟熏红椒粉",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "蒜头粉",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "盐",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "橄榄油",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "将鸡胸肉切成 1 英寸条状。在碗中，将鸡肉与橄榄油、烟熏红椒粉、蒜头粉和一小撮盐搅拌，直到完全裹上调味料。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "在一个大平底锅中用中高火加热。加入调味好的鸡肉条，煮 5-7 分钟，偶爾翻动，直到金黄色并完全煮熟（内部温度达 74°C/165°F）。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "烹煮鸡肉",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "趁鸡肉仍然热时，从火上取出并转移到一个干净的碗中。将 Ranch 酱和辣酱倒在鸡肉上。搅拌直到每块肉都裹上香辣 Ranch 混合物。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "摊开一个薄饼。在中心铺上一层薄薄的生菜丝，然后是四分之一的切达芝士碎。这形成了卷饼的底部。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "将四分之一的香辣 Ranch 鸡肉混合物放在芝士和生菜上。小心不要过度填充卷饼。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "卷起时，将薄饼的两侧向内折叠在馅料上，然后从底部向上卷紧。将完成的卷饼对角切成两半，立即上菜。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "经典法式煎蛋卷",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "鸡蛋 (大)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "牛油",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "盐",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "黑胡椒",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "新鲜细香葱 (切碎)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "将鸡蛋打入碗中。加入盐和黑胡椒。用力搅拌直到蛋黄和蛋白完全混合并略微起泡，但要避免混入过多的空气。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "搅拌",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "在中火上加热一个不粘锅（约 8 英寸）。加入牛油并旋转，直到它融化、起泡，然后消退，变成清澈的坚果色。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "牛油融化",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "将鸡蛋混合物倒入热锅中。让鸡蛋凝固约 10 秒。然后，用叉子或橡胶刮刀不断快速地搅拌鸡蛋，倾斜锅，直到底部凝固但顶部仍然湿润和奶油状。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "烹饪鸡蛋",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "停止搅拌，让煎蛋卷不受干扰地再煮 30 秒，以完全凝固底部。将切碎的细香葱撒在煎蛋卷的中心三分之一处。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "最后凝固",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "倾斜锅，用刮刀将煎蛋卷的一侧折叠约三分之一盖住中心。轻轻地将煎蛋卷从锅中滚出，放到盘子上，接缝朝下，形成一个整洁的鱼雷形状。立即上菜。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "经典蒜蓉橄榄油意面 (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "意大利面 (Spaghetti Pasta)",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "特级初榨橄榄油",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "蒜头",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "红辣椒片 (Chili)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "盐",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "新鲜欧芹 (切碎)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "黑胡椒",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "烧开一大锅水。为水加盐（应该像海水一样咸）。加入意大利面，按照包装说明煮至有嚼劲 (al dente)。保留约 1 杯煮面的水。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "意面烹饪",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "在煮面的时候，将蒜头切成薄片。将一个大平底锅用中火加热，加入 0.75 杯特级初榨橄榄油。将蒜片和 1 茶匙红辣椒片加入平底锅中。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "将蒜头炒至金黄色并散发香味，约 2-3 分钟。**小心不要烧焦**，否则会变苦。将 0.5 杯保留的煮面水加入平底锅中。煮至微沸。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "蒜头炒香",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "沥干煮好的意面（不要冲洗），立即将其转移到装有蒜蓉酱汁的平底锅中。加入剩余的 4 汤匙切碎的新鲜欧芹。快速混合并翻炒锅，使所有意面都裹上酱汁。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "如果需要，加入少量更多的保留煮面水来调整酱汁的稠度。品尝并根据需要加入 1 小撮黑胡椒和额外的盐。趁热立即上菜。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "香滑罗勒香蒜酱鸡肉意面",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "扁意面 (Fettuccine Pasta)",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "鸡胸肉 (无骨、去皮)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "浓奶油",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "罗勒香蒜酱 (Basil Pesto)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "帕尔马森芝士 (磨碎)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "橄榄油",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "蒜头粉",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "盐",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "黑胡椒",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "将 500 克鸡胸肉切成 1 英寸方块。在碗中，将鸡肉与 1 汤匙橄榄油、0.5 茶匙盐、1 茶匙蒜头粉和 1 小撮黑胡椒搅拌。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "在一个大平底锅中用中高火加热剩余的 1 汤匙橄榄油。加入调味好的鸡肉，煮 6-8 分钟，偶爾翻动，直到金黄色并完全煮熟。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "烹煮鸡肉",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "在鸡肉烹饪的同时，烧开一大锅盐水。加入 350 克扁意面，煮至有嚼劲 (al dente)。沥干意面，保留 1 杯煮面的水。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "烹煮意面",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "将平底锅（连鸡肉）的火力调低至小火。倒入 250 毫升浓奶油和 0.5 杯罗勒香蒜酱。充分搅拌直到混合均匀。让酱汁轻轻慢炖 2 分钟，使其稍微变稠。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "酱汁慢炖",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "将沥干的意面加入香滑罗勒香蒜酱中，搅拌使其裹上酱汁。拌入 0.5 杯磨碎的帕尔马森芝士和约 0.25 杯保留的煮面水。如果需要，加入更多的水以达到所需的稠度。立即上菜。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "烤芝士三明治",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "酸种面包 (Sourdough Bread)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "切达芝士 (浓味)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "蒙特里杰克芝士 (Monterey Jack Cheese)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "无盐牛油 (软化)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "蛋黄酱 (可选，用于增味)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "盐",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "将切达芝士和蒙特里杰克芝士都磨碎，然后在一个小碗中混合。磨碎可以确保均匀融化。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "将牛油均匀地涂抹在每片面包的一面上。这是将接触平底锅的一面。可选择地，在一片面包的另一面（内侧）涂上一层薄薄的蛋黄酱以增加风味。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "将一片面包（涂有牛油的一面朝下）放入中低火的不粘锅中。将混合芝士均匀地撒在面包上，然后加一小撮盐。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "盖上第二片面包（涂有牛油的一面朝上）。煮 3 到 4 分钟直到底部面包变成金黄色，芝士开始融化。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "第一面烹煮时间",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "小心地用刮刀翻转三明治。再煮 3 到 4 分钟，直到第二面变成金黄色，芝士完全融化流出。如果外面棕色得太快，请调低火力。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "第二面烹煮时间",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "从平底锅中取出，对角切开，立即上菜。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "蒜蓉香草牛油煎顶级肉眼扒",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "肉眼扒 (1.5 英寸厚)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "犹太盐 (Kosher Salt)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "新鲜黑胡椒碎",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "植物油 (高烟点)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "无盐牛油",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "蒜瓣 (拍扁)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "新鲜百里香枝",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "用厨房纸将牛扒完全拍干。用犹太盐和黑胡椒在所有侧面慷慨地调味。让牛扒在室温下静置 30 分钟后烹饪。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "在铸铁平底锅中用高火加热植物油，直到油开始闪烁并轻微冒烟。小心地将调味好的牛扒放入热锅中。每面煎 3 到 4 分钟，直到形成深而黑的脆皮。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "第一面煎封时间",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "翻转牛扒。将火力调低至中等。在锅中加入牛油、拍扁的蒜瓣和百里香枝。稍微倾斜锅，用大勺子将融化的香草牛油持续淋在牛扒上 1 到 2 分钟，或直到达到所需的内部温度（例如：130°F 为中等偏生）。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "淋油/烹饪时间",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "将牛扒从锅中取出，放在砧板上。将锅中剩余的香草牛油淋在牛扒上。让它们静置 5 到 10 分钟，让肉汁重新分佈，然后再切片上菜。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "静置时间",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "经典牛油鸡 (Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "去骨、去皮鸡腿肉 (切块)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "原味酸奶",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "姜蒜酱",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "辣椒粉",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "姜黄粉",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "马萨拉粉 (Garam Masala) (腌料用)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "番茄浓汤 (Tomato Puree)",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "无盐牛油",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "浓奶油",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "干葫芦巴叶 (Kasuri Methi)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "糖",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "腌制鸡肉：在一个大碗中，将鸡肉与酸奶、姜蒜酱、辣椒粉、姜黄粉和腌料马萨拉粉混合。盖上并放入冰箱冷藏至少 30 分钟，或最多 4 小时。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "腌制时间",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "烹煮鸡肉：将腌制好的鸡肉烤、烘烤或平底锅煎，直到完全煮熟，边缘略微焦黑。放在一旁备用。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "鸡肉烹饪时间",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "准备酱汁底：在一个大锅中，融化一半的牛油。加入番茄浓汤并煮，直到油分离（约 10 分钟）。加入 1/2 杯水，慢炖，然后将酱汁搅拌至完全光滑。将搅拌好的酱汁过滤回锅中。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "酱汁慢炖时间",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "完成酱汁：将剩余的牛油、糖和剩余的马萨拉粉（如果需要）加入过滤后的酱汁中。充分搅拌。加入煮熟的鸡肉块，慢炖 5 分钟。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "鸡肉最后慢炖",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "上菜：拌入浓奶油，并在加入干葫芦巴叶前将其在掌心揉碎。加热但不要煮沸。立即与米饭或烤饼 (naan) 一起上菜。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "香滑番茄汤",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "罐装切粒番茄",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "鸡肉或蔬菜高汤",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "洋葱，切碎",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "蒜头，切末",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "浓奶油",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "橄榄油",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "干罗勒",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "盐",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "黑胡椒",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "在大锅中用中火加热橄榄油。加入切碎的洋葱并炒至软化，约 5-7 分钟。加入切末的蒜头，再炒 1 分钟。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "炒洋葱",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "拌入罐装切粒番茄、高汤、干罗勒、盐和黑胡椒。将混合物煮沸，然后转小火慢炖 20 分钟。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "慢炖汤",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "小心地将汤转移到搅拌机或使用浸入式搅拌器搅拌汤直到光滑。将汤倒回锅中。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "拌入浓奶油并加热 2-3 分钟，但不要煮沸。趁热上菜，可选择地用新鲜罗勒或面包粒 (croutons) 装饰。",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

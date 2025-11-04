@@ -1,0 +1,1187 @@
+{
+  "request": [
+    {
+      "id": 1,
+      "recipeName": "Класичний Чизбургер у Закусочній",
+      "calories": 620,
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+      "ingredients": [
+        {
+          "name": "Яловичий Фарш (80% нежирний / 20% жирний)",
+          "quantity": 680.0,
+          "type": "gram"
+        },
+        {
+          "name": "Вустерширський Соус",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Цибулевий Порошок",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Часниковий Порошок",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Сіль (Кошерна або Морська)",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Свіжомелений Чорний Перець",
+          "quantity": 0.25,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Американський Сир",
+          "quantity": 4.0,
+          "type": "piece"
+        },
+        {
+          "name": "Картопляні Булочки або Булочки для Гамбургерів",
+          "quantity": 4.0,
+          "type": "piece"
+        },
+        {
+          "name": "Майонез",
+          "quantity": 4.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Нарізані Солоні Огірки",
+          "quantity": 1.0,
+          "type": "cup"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "З'єднайте 680 грамів яловичого фаршу з 1 столовою ложкою Вустерширського соусу, 0.5 чайної ложки цибулевого порошку, 0.5 чайної ложки часникового порошку, 1 чайною ложкою солі та 0.25 чайної ложки чорного перцю. **Акуратно** перемішайте руками до з'єднання. Надмірне перемішування зробить котлети жорсткими.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "Розділіть суміш на 4 рівні частини та сформуйте котлети товщиною приблизно 2 сантиметри. Зробіть невелике заглиблення в центрі кожної котлети великим пальцем, щоб запобігти їх здуванню під час готування.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Розігрійте сковороду або гриль до середньо-сильного вогню. Смажте котлети по 3-5 хвилин з кожного боку для середньої прожарки, або поки внутрішня температура не досягне 71 градуса.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "Час Приготування Котлети",
+              "timerHours": 0,
+              "timerMinutes": 8,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Протягом останньої хвилини готування покладіть 1 шматочок американського сиру на кожну котлету. Коротко накрийте гриль або сковороду, щоб сир добре розплавився.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+          "recipeTimer": [
+            {
+              "timerName": "Розтоплення Сиру",
+              "timerHours": 0,
+              "timerMinutes": 1,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "Підсмажте 4 булочки, поклавши їх зрізаною стороною вниз на гриль або суху сковороду приблизно на 30 секунд. Для збирання, змастіть 1 столовою ложкою майонезу обидві половинки булочки. Покладіть чизбургер-котлету на нижню половинку булочки, зверху додайте трохи з 1 склянки нарізаних солоних огірків і накрийте верхньою половинкою булочки.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "recipeName": "Класичні Тако з Яловичим Фаршем",
+      "calories": 300,
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 8,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+      "ingredients": [
+        {
+          "name": "Нежирний Яловичий Фарш (80/20 або нежирніший)",
+          "quantity": 0.45,
+          "type": "kilogram"
+        },
+        {
+          "name": "Оливкова Олія",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Порошок Чилі",
+          "quantity": 2.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Мелений Кмин",
+          "quantity": 2.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Сушений Орегано",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Часниковий Порошок",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Сіль",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Чорний Перець",
+          "quantity": 0.25,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Томатна Паста",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Вода",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "Оболонки для Тако або Тортильї (Кукурудзяні або Пшеничні)",
+          "quantity": 8.0,
+          "type": "piece"
+        },
+        {
+          "name": "Нарізаний Салат",
+          "quantity": 1.0,
+          "type": "cup"
+        },
+        {
+          "name": "Тертий Сир Чеддер або Мексиканська Суміш",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "Нарізані Кубиками Помідори",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "Сметана або Грецький Йогурт (за бажанням)",
+          "quantity": 4.0,
+          "type": "tablespoon"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "Розігрійте оливкову олію у великій сковороді на середньо-сильному вогні. Додайте яловичий фарш і готуйте, розбиваючи його ложкою, доки він повністю не підрум'яниться і не залишиться рожевим.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "Злийте зайвий жир зі сковороди та поверніть м'ясо на вогонь.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Додайте порошок чилі, кмин, орегано, часниковий порошок, сіль та чорний перець. Готуйте 1 хвилину, дозволяючи спеціям прогрітися.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "Прогрівання Спецій",
+              "timerHours": 0,
+              "timerMinutes": 1,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Додайте томатну пасту та воду. Добре перемішайте, щоб покрити м'ясо. Доведіть суміш до кипіння, потім зменште вогонь до мінімуму і тушкуйте, доки соус не загусне і рідина не вбереться (м'ясо повинно залишатися вологим, не сухим).",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "Тушкування М'яса",
+              "timerHours": 0,
+              "timerMinutes": 5,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "Поки м'ясо тушкується, розігрійте оболонки для тако або тортильї згідно з інструкцією на упаковці.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 6,
+          "stepDescription": "Викладіть приправлене м'ясо для тако в оболонки або тортильї. Зверху посипте нарізаним салатом, сиром, помідорами, нарізаними кубиками, та ложкою сметани або йогурту (за бажанням). Подавайте негайно.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "recipeName": "Класична Піца Маргарита",
+      "calories": 350,
+      "prepTime": 30,
+      "cookTime": 15,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+      "ingredients": [
+        {
+          "name": "Універсальне Борошно",
+          "quantity": 3.0,
+          "type": "cup"
+        },
+        {
+          "name": "Тепла Вода",
+          "quantity": 1.0,
+          "type": "cup"
+        },
+        {
+          "name": "Активні Сухі Дріжджі",
+          "quantity": 2.25,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Сіль",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Оливкова Олія (Тісто)",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Подрібнені Помідори",
+          "quantity": 400.0,
+          "type": "gram"
+        },
+        {
+          "name": "Свіжий Сир Моцарела",
+          "quantity": 250.0,
+          "type": "gram"
+        },
+        {
+          "name": "Свіже Листя Базиліка",
+          "quantity": 1.0,
+          "type": "cup"
+        },
+        {
+          "name": "Оливкова Олія (Для Топпінгу)",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Чорний Перець",
+          "quantity": 1.0,
+          "type": "pinch"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "Активуйте дріжджі, змішавши їх з теплою водою та дрібкою цукру (не вказаний у складі, але передбачається для активації дріжджів) у мисці. Залиште на 5-10 хвилин, поки не спіниться.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+          "recipeTimer": [
+            {
+              "timerName": "Активація Дріжджів",
+              "timerHours": 0,
+              "timerMinutes": 10,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "У великій мисці з'єднайте борошно та сіль. Влийте дріжджову суміш та 2 столові ложки оливкової олії. Змішуйте, доки не утвориться грубе тісто.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Викладіть тісто на злегка посипану борошном поверхню і місіть 8-10 хвилин, поки воно не стане гладким та еластичним. Помістіть його в змащену олією миску, накрийте і дайте піднятися в теплому місці до подвоєння об'єму.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "Час Підйому Тіста",
+              "timerHours": 1,
+              "timerMinutes": 30,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Розігрійте духовку до найвищої температури (зазвичай 250°C/480°F) і помістіть всередину камінь для піци або деко, щоб вони нагрілися. Випустіть повітря з тіста, розділіть його на дві кульки (для двох середніх піц) і дайте їм відпочити 10 хвилин.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "Попереднє Розігрівання Духовки",
+              "timerHours": 0,
+              "timerMinutes": 30,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "Розтягніть або розкачайте одну з кульок тіста у 12-дюймове коло. Перекладіть її на посипану борошном лопатку для піци або пергаментний папір. Рівномірно розподіліть половину подрібнених помідорів, зверху викладіть половину розірваної моцарели та збризніть невеликою кількістю оливкової олії та дрібкою перцю.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 6,
+          "stepDescription": "Випікайте піцу 12-15 хвилин, поки скоринка не стане золотистою, а сир не почне пузиритися. Як тільки витягнете з духовки, негайно прикрасьте свіжим листям базиліка. Наріжте та подавайте.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "Час Випікання",
+              "timerHours": 0,
+              "timerMinutes": 15,
+              "timerSeconds": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "recipeName": "Гострий Курячий Ранч-Рол",
+      "calories": 450,
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+      "ingredients": [
+        {
+          "name": "Куряча Грудинка (без кісток, без шкіри)",
+          "quantity": 500.0,
+          "type": "gram"
+        },
+        {
+          "name": "Тортильї (великі)",
+          "quantity": 4.0,
+          "type": "piece"
+        },
+        {
+          "name": "Соус Ранч",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "Гострий Соус (наприклад, у стилі Баффало)",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Салат Ромен (нарізаний)",
+          "quantity": 2.0,
+          "type": "cup"
+        },
+        {
+          "name": "Тертий Сир Чеддер",
+          "quantity": 1.0,
+          "type": "cup"
+        },
+        {
+          "name": "Копчена Паприка",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Часниковий Порошок",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Сіль",
+          "quantity": 1.0,
+          "type": "pinch"
+        },
+        {
+          "name": "Оливкова Олія",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "Наріжте курячу грудинку смужками по 1 дюйму. У мисці змішайте курку з оливковою олією, копченою паприкою, часниковим порошком та дрібкою солі, доки вона не покриється повністю.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "Розігрійте велику сковороду на середньо-сильному вогні. Додайте приправлені смужки курки та готуйте 5-7 хвилин, час від часу перевертаючи, доки вони не стануть золотисто-коричневими та повністю просмаженими (внутрішня температура 74°C/165°F).",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+          "recipeTimer": [
+            {
+              "timerName": "Готування Курки",
+              "timerHours": 0,
+              "timerMinutes": 7,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Поки курка ще гаряча, зніміть її з вогню та перекладіть у чисту миску. Полийте курку соусом ранч та гострим соусом. Перемішайте, доки кожен шматочок не покриється гострою ранч-сумішшю.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Розгорніть тортилью. Викладіть тонкий шар нарізаного салату по центру, а потім четвертину тертого сиру чеддер. Це формує основу рола.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "Покладіть четвертину гострої ранч-курки поверх сиру та салату. Будьте обережні, щоб не переповнити рол.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 6,
+          "stepDescription": "Щоб загорнути, складіть дві сторони тортильї поверх начинки, потім щільно загорніть рол знизу вгору. Розріжте готовий рол навпіл по діагоналі та негайно подавайте.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "recipeName": "Класичний Французький Омлет",
+      "calories": 250,
+      "prepTime": 5,
+      "cookTime": 8,
+      "servings": 1,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+      "ingredients": [
+        {
+          "name": "Яйця (великі)",
+          "quantity": 3.0,
+          "type": "piece"
+        },
+        {
+          "name": "Вершкове Масло",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Сіль",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Чорний Перець",
+          "quantity": 1.0,
+          "type": "pinch"
+        },
+        {
+          "name": "Цибуля-Різанець (свіжа, нарізана)",
+          "quantity": 0.5,
+          "type": "tablespoon"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "Розбийте яйця в миску. Додайте сіль та перець. Енергійно збивайте, доки жовтки та білки повністю не з'єднаються і не стануть злегка пінистими, але уникайте надмірного насичення повітрям.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+          "recipeTimer": [
+            {
+              "timerName": "Збивання",
+              "timerHours": 0,
+              "timerMinutes": 1,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "Розігрійте антипригарну сковороду (приблизно 8 дюймів) на середньому вогні. Додайте вершкове масло і обертайте його, доки воно не розплавиться, не спіниться, а потім не осяде, набуваючи чистого, горіхового кольору.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+          "recipeTimer": [
+            {
+              "timerName": "Розтоплення Масла",
+              "timerHours": 0,
+              "timerMinutes": 1,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Вилийте яєчну суміш на гарячу сковороду. Дайте яйцям схопитися приблизно 10 секунд. Потім, використовуючи виделку або гумову лопатку, постійно і швидко перемішуйте яйця, нахиляючи сковороду, доки низ не схопиться, але верх залишиться вологим і кремовим.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "Готування Яєць",
+              "timerHours": 0,
+              "timerMinutes": 1,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Припиніть перемішувати і дайте омлету готуватися без перешкод ще 30 секунд, щоб низ повністю схопився. Посипте подрібненою цибулею-різанцем середню третину омлету.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "Кінцеве Схоплювання",
+              "timerHours": 0,
+              "timerMinutes": 0,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "Нахиліть сковороду і, використовуючи лопатку, складіть одну сторону омлету приблизно на третину до центру. Акуратно викотіть омлет зі сковороди на тарілку, швом донизу, щоб створити акуратну торпедоподібну форму. Подавайте негайно.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "recipeName": "Класичні Спагеті з Часником та Оливковою Олією (Aglio e Olio)",
+      "calories": 480,
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+      "ingredients": [
+        {
+          "name": "Спагеті",
+          "quantity": 400.0,
+          "type": "gram"
+        },
+        {
+          "name": "Оливкова Олія Extra Virgin",
+          "quantity": 0.75,
+          "type": "cup"
+        },
+        {
+          "name": "Часник",
+          "quantity": 6.0,
+          "type": "piece"
+        },
+        {
+          "name": "Пластівці Червоного Перцю (Чилі)",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Сіль",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Свіжа Петрушка (Нарізана)",
+          "quantity": 4.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Чорний Перець",
+          "quantity": 1.0,
+          "type": "pinch"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "Доведіть велику каструлю води до кипіння. Посоліть воду (вона має бути такою ж солоною, як морська вода). Додайте спагеті та варіть відповідно до інструкцій на упаковці до стану аль денте. Відкладіть приблизно 1 склянку води, в якій варилася паста.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "Варіння Пасти",
+              "timerHours": 0,
+              "timerMinutes": 10,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "Поки паста вариться, тонко наріжте часник. Розігрійте велику сковороду на середньому вогні та додайте 0.75 склянки оливкової олії Extra Virgin. Додайте нарізаний часник та 1 чайну ложку пластівців червоного перцю в сковороду.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Смажте часник, доки він не стане золотистим та ароматним, приблизно 2-3 хвилини. **Будьте обережні, не спаліть його**, інакше він стане гірким. Додайте 0.5 склянки відкладеної води для варіння пасти в сковороду. Доведіть до кипіння.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "Смаження Часнику",
+              "timerHours": 0,
+              "timerMinutes": 2,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Злийте воду з готової пасти (не промивайте) і негайно перекладіть її в сковороду з часниковим соусом. Додайте 4 столові ложки подрібненої свіжої петрушки, що залишилися. Швидко перемішайте та струсіть сковороду, щоб покрити всю пасту соусом.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "Додайте трохи більше відкладеної води для пасти, якщо необхідно, щоб відрегулювати консистенцію соусу. Скуштуйте і додайте 1 дрібку чорного перцю та додаткову сіль, якщо потрібно. Подавайте негайно, поки гаряче.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "recipeName": "Вершкова Паста з Куркою та Песто",
+      "calories": 750,
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+      "ingredients": [
+        {
+          "name": "Паста Феттучіні",
+          "quantity": 350.0,
+          "type": "gram"
+        },
+        {
+          "name": "Куряча Грудинка (без кісток, без шкіри)",
+          "quantity": 500.0,
+          "type": "gram"
+        },
+        {
+          "name": "Жирні Вершки",
+          "quantity": 250.0,
+          "type": "milliliter"
+        },
+        {
+          "name": "Базиліковий Песто",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "Сир Пармезан (тертий)",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "Оливкова Олія",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Часниковий Порошок",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Сіль",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Чорний Перець",
+          "quantity": 1.0,
+          "type": "pinch"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "Наріжте 500 грамів курячої грудинки кубиками по 1 дюйму. У мисці змішайте курку з 1 столовою ложкою оливкової олії, 0.5 чайної ложки солі, 1 чайною ложкою часникового порошку та 1 дрібкою чорного перцю.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "Розігрійте 1 столову ложку оливкової олії, що залишилася, у великій сковороді на середньо-сильному вогні. Додайте приправлену курку і готуйте 6-8 хвилин, час від часу перевертаючи, доки вона не стане золотисто-коричневою та повністю просмаженою.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+          "recipeTimer": [
+            {
+              "timerName": "Готування Курки",
+              "timerHours": 0,
+              "timerMinutes": 7,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Поки курка готується, доведіть велику каструлю солоної води до кипіння. Додайте 350 грамів феттучіні та варіть до стану аль денте. Злийте воду з пасти, відклавши 1 склянку води, в якій вона варилася.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "Варіння Пасти",
+              "timerHours": 0,
+              "timerMinutes": 9,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Зменште вогонь на сковороді (з куркою) до мінімуму. Влийте 250 мілілітрів жирних вершків та 0.5 склянки базилікового песто. Добре перемішайте до з'єднання. Дайте соусу м'яко кипіти 2 хвилини, щоб він трохи загус.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+          "recipeTimer": [
+            {
+              "timerName": "Тушкування Соусу",
+              "timerHours": 0,
+              "timerMinutes": 2,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "Додайте злиту пасту до вершкового песто-соусу і перемішайте, щоб покрити. Додайте 0.5 склянки тертого сиру пармезан та приблизно 0.25 склянки відкладеної води для пасти. Додайте більше води, якщо необхідно, для досягнення бажаної консистенції. Подавайте негайно.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "recipeName": "Сендвіч з Сиром на Грилі",
+      "calories": 480,
+      "prepTime": 5,
+      "cookTime": 8,
+      "servings": 1,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+      "ingredients": [
+        {
+          "name": "Хліб на Заквасці",
+          "quantity": 2.0,
+          "type": "piece"
+        },
+        {
+          "name": "Сир Чеддер (гострий)",
+          "quantity": 50.0,
+          "type": "gram"
+        },
+        {
+          "name": "Сир Монтерей Джек",
+          "quantity": 50.0,
+          "type": "gram"
+        },
+        {
+          "name": "Несолоне Вершкове Масло (розм'якшене)",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Майонез (за бажанням, для смаку)",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Сіль",
+          "quantity": 1.0,
+          "type": "pinch"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "Натріть обидва сири Чеддер і Монтерей Джек та змішайте їх у невеликій мисці. Тертя забезпечує рівномірне плавлення.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "Рівномірно змастіть вершковим маслом один бік кожного шматочка хліба. Це та сторона, яка торкнеться сковороди. За бажанням, нанесіть тонкий шар майонезу на протилежний бік (внутрішній) одного шматка для додаткового аромату.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Покладіть один шматочок хліба (вершковим маслом донизу) на антипригарну сковороду на середньо-слабкому вогні. Рівномірно посипте змішаним сиром поверх хліба, потім додайте дрібку солі.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Накрийте другим шматочком хліба (вершковим маслом догори). Смажте 3-4 хвилини, доки нижній шматочок не стане золотисто-коричневим, а сир не почне плавитися.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "Час готування першої сторони",
+              "timerHours": 0,
+              "timerMinutes": 3,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "Обережно переверніть сендвіч за допомогою лопатки. Смажте ще 3-4 хвилини, доки друга сторона не стане золотисто-коричневою, а сир повністю не розплавиться та не стане тягучим. Якщо зовнішня частина занадто швидко підрум'янюється, зменште вогонь.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "Час готування другої сторони",
+              "timerHours": 0,
+              "timerMinutes": 3,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 6,
+          "stepDescription": "Зніміть зі сковороди, розріжте по діагоналі та негайно подавайте.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "recipeName": "Ідеальний Стейк Рібай, Обсмажений на Пательні, з Часниково-Трав'яним Маслом",
+      "calories": 750,
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+      "ingredients": [
+        {
+          "name": "Стейк Рібай (товщиною 1.5 дюйма)",
+          "quantity": 2.0,
+          "type": "piece"
+        },
+        {
+          "name": "Кошерна Сіль",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Свіжомелений Чорний Перець",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Рослинна Олія (з високою точкою димлення)",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Несолоне Вершкове Масло",
+          "quantity": 60.0,
+          "type": "gram"
+        },
+        {
+          "name": "Зубчики Часнику (розчавлені)",
+          "quantity": 4.0,
+          "type": "piece"
+        },
+        {
+          "name": "Гілочки Свіжого Чебрецю",
+          "quantity": 3.0,
+          "type": "piece"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "Повністю обсушіть стейки паперовими рушниками. Щедро приправте їх з усіх боків кошерною сіллю та чорним перцем. Дайте стейкам постояти при кімнатній температурі 30 хвилин перед готуванням.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "Розігрійте рослинну олію в чавунній сковороді на сильному вогні, доки вона не почне мерехтіти та злегка диміти. Обережно покладіть приправлені стейки на гарячу сковороду. Обсмажте по 3-4 хвилини, доки не утвориться глибока, темно-коричнева скоринка.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+          "recipeTimer": [
+            {
+              "timerName": "Час обсмажування першої сторони",
+              "timerHours": 0,
+              "timerMinutes": 3,
+              "timerSeconds": 30
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Переверніть стейки. Зменште вогонь до середнього. Додайте вершкове масло, розчавлені зубчики часнику та гілочки чебрецю в сковороду. Злегка нахиліть сковороду і використовуйте велику ложку, щоб постійно поливати розтопленим трав'яним маслом стейки протягом 1-2 хвилин, або до досягнення бажаної внутрішньої температури (наприклад, 130°F для середньо-сирої прожарки).",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "Час Поливання/Готування",
+              "timerHours": 0,
+              "timerMinutes": 2,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Зніміть стейки зі сковороди та покладіть на обробну дошку. Полийте стейки вершковим маслом з травами, що залишилося в сковороді. Дайте їм відпочити 5-10 хвилин, щоб соки перерозподілилися, перш ніж нарізати та подавати.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+          "recipeTimer": [
+            {
+              "timerName": "Час Відпочинку",
+              "timerHours": 0,
+              "timerMinutes": 7,
+              "timerSeconds": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "recipeName": "Класичний Курча в Маслі (Butter Chicken)",
+      "calories": 680,
+      "prepTime": 25,
+      "cookTime": 35,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+      "ingredients": [
+        {
+          "name": "Курячі Стегна без Кісток і Шкіри (нарізані кубиками)",
+          "quantity": 1.0,
+          "type": "kilogram"
+        },
+        {
+          "name": "Натуральний Йогурт",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "Імбирно-Часникова Паста",
+          "quantity": 1.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Порошок Чилі",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Порошок Куркуми",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Гарам Масала (для маринаду)",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Томатне Пюре",
+          "quantity": 1.0,
+          "type": "cup"
+        },
+        {
+          "name": "Несолоне Вершкове Масло",
+          "quantity": 120.0,
+          "type": "gram"
+        },
+        {
+          "name": "Жирні Вершки",
+          "quantity": 0.75,
+          "type": "cup"
+        },
+        {
+          "name": "Касурі Метхі (Сушене Листя Пажитника)",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Цукор",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "Маринуйте курку: У великій мисці змішайте курку з йогуртом, імбирно-часниковою пастою, порошком чилі, порошком куркуми та гарам масалою для маринаду. Накрийте кришкою та поставте в холодильник мінімум на 30 хвилин або до 4 годин.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+          "recipeTimer": [
+            {
+              "timerName": "Час Маринування",
+              "timerHours": 0,
+              "timerMinutes": 30,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "Приготуйте курку: Запечіть на грилі, засмажте в духовці або на сковороді мариновану курку, доки вона повністю не приготується і не матиме злегка обвуглені краї. Відкладіть убік.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "Час Готування Курки",
+              "timerHours": 0,
+              "timerMinutes": 10,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Приготуйте основу для соусу: У великій каструлі розтопіть половину вершкового масла. Додайте томатне пюре і готуйте, доки олія не відокремиться (близько 10 хвилин). Додайте 1/2 склянки води, доведіть до кипіння, а потім збийте соус блендером до повної гладкості. Процідіть збитий соус назад у каструлю.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+          "recipeTimer": [
+            {
+              "timerName": "Час Кипіння Соусу",
+              "timerHours": 0,
+              "timerMinutes": 10,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Завершіть соус: Додайте вершкове масло, цукор і залишок гарам масали (за бажанням) у проціджений соус. Добре перемішайте. Додайте шматочки готової курки і тушкуйте 5 хвилин.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+          "recipeTimer": [
+            {
+              "timerName": "Фінальне Кипіння з Куркою",
+              "timerHours": 0,
+              "timerMinutes": 5,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 5,
+          "stepDescription": "Подавайте: Додайте жирні вершки та розітріть Касурі Метхі між долонями перед додаванням. Розігрійте, не доводячи до кипіння. Подавайте негайно з рисом або коржами наан.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "recipeName": "Вершковий Томатний Суп",
+      "calories": 250,
+      "prepTime": 10,
+      "cookTime": 30,
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+      "ingredients": [
+        {
+          "name": "Консервовані Нарізані Кубиками Помідори",
+          "quantity": 28.0,
+          "type": "ounce"
+        },
+        {
+          "name": "Курячий або Овочевий Бульйон",
+          "quantity": 4.0,
+          "type": "cup"
+        },
+        {
+          "name": "Цибуля, нарізана",
+          "quantity": 1.0,
+          "type": "piece"
+        },
+        {
+          "name": "Часник, подрібнений",
+          "quantity": 2.0,
+          "type": "cloves"
+        },
+        {
+          "name": "Жирні Вершки",
+          "quantity": 0.5,
+          "type": "cup"
+        },
+        {
+          "name": "Оливкова Олія",
+          "quantity": 2.0,
+          "type": "tablespoon"
+        },
+        {
+          "name": "Сушений Базилік",
+          "quantity": 1.0,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Сіль",
+          "quantity": 0.5,
+          "type": "teaspoon"
+        },
+        {
+          "name": "Чорний Перець",
+          "quantity": 0.25,
+          "type": "teaspoon"
+        }
+      ],
+      "steps": [
+        {
+          "stepOrder": 1,
+          "stepDescription": "Розігрійте оливкову олію у великій каструлі на середньому вогні. Додайте нарізану цибулю і пасеруйте, доки вона не стане м'якою, приблизно 5-7 хвилин. Додайте подрібнений часник і пасеруйте ще 1 хвилину.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+          "recipeTimer": [
+            {
+              "timerName": "Пасерування Цибулі",
+              "timerHours": 0,
+              "timerMinutes": 7,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 2,
+          "stepDescription": "Додайте консервовані нарізані кубиками помідори, бульйон, сушений базилік, сіль та перець. Доведіть суміш до кипіння, потім зменште вогонь і тушкуйте 20 хвилин.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": [
+            {
+              "timerName": "Тушкування Супу",
+              "timerHours": 0,
+              "timerMinutes": 20,
+              "timerSeconds": 0
+            }
+          ]
+        },
+        {
+          "stepOrder": 3,
+          "stepDescription": "Обережно перекладіть суп у блендер або використовуйте занурювальний блендер, щоб збити суп до однорідності. Поверніть суп у каструлю.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+          "recipeTimer": []
+        },
+        {
+          "stepOrder": 4,
+          "stepDescription": "Додайте жирні вершки та прогрійте 2-3 хвилини, але не доводьте до кипіння. Подавайте гарячим, за бажанням прикрасивши свіжим базиліком або грінками.",
+          "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+          "recipeTimer": []
+        }
+      ]
+    }
+  ]
+}

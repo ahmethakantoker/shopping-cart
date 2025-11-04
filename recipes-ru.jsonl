@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Классический Чизбургер из Закусочной",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Говяжий Фарш (80% постное / 20% жирное)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Вустерширский Соус",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Луковый Порошок",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Чесночный Порошок",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Соль (Кошерная или Морская)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Черный Перец, свежемолотый",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Американский Сыр",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Картофельные Булочки или Булочки для Гамбургера",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Майонез",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Ломтики Соленых Огурцов с Укропом",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Соедините 680 граммов говяжьего фарша с 1 столовой ложкой вустерширского соуса, 0,5 чайной ложки лукового порошка, 0,5 чайной ложки чесночного порошка, 1 чайной ложкой соли и 0,25 чайной ложки черного перца. **Осторожно** перемешайте руками до однородности. Чрезмерное перемешивание сделает бургеры жесткими.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Разделите смесь на 4 равные порции и сформируйте котлеты толщиной около 2 сантиметров. Сделайте небольшое углубление в центре каждой котлеты большим пальцем, чтобы предотвратить их вздутие во время приготовления.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Разогрейте сковороду или гриль до средне-сильного огня. Жарьте котлеты по 3-5 минут с каждой стороны для средней прожарки, или пока внутренняя температура не достигнет 71 градуса.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Время Жарки Котлеты",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "В последнюю минуту приготовления положите по 1 куску американского сыра на каждую котлету. Кратковременно накройте гриль или сковороду, чтобы сыр красиво расплавился.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Плавление Сыра",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Поджарьте 4 булочки срезанной стороной вниз на гриле или сухой сковороде в течение примерно 30 секунд. Для сборки, намажьте 1 столовую ложку майонеза на обе половины булочки. Положите котлету чизбургера на нижнюю булочку, сверху добавьте немного из 1 чашки ломтиков соленых огурцов с укропом и накройте верхней булочкой.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Классические Тако с Говяжьим Фаршем",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Постный Говяжий Фарш (80/20 или постнее)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Оливковое Масло",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Порошок Чили",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Молотый Кумин (Зира)",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Сушеный Орегано",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Чесночный Порошок",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Соль",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Черный Перец",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Томатная Паста",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Вода",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Раковины Тако или Тортильи (Кукурузные или Пшеничные)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Нашинкованный Салат Ромэн",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Тертый Сыр Чеддер или Мексиканская Смесь",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Нарезанные Кубиками Помидоры",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Сметана или Греческий Йогурт (по желанию)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Разогрейте оливковое масло в большой сковороде на средне-сильном огне. Добавьте говяжий фарш и готовьте, разбивая его ложкой, пока он полностью не подрумянится и не перестанет быть розовым.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Слейте лишний жир со сковороды и верните мясо на огонь.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Вмешайте порошок чили, кумин, орегано, чесночный порошок, соль и черный перец. Готовьте 1 минуту, чтобы специи поджарились.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Обжарка Специй",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Добавьте томатную пасту и воду. Хорошо перемешайте, чтобы покрыть мясо. Доведите смесь до кипения, затем уменьшите огонь до минимума и тушите, пока соус не загустеет и жидкость в основном не впитается (мясо должно оставаться влажным, а не сухим).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Тушение Мяса",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Пока мясо тушится, разогрейте раковины тако или тортильи в соответствии с инструкцией на упаковке.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Выложите приправленную мясную смесь тако в раковины или тортильи. Сверху украсьте нашинкованным салатом, сыром, нарезанными кубиками помидорами и ложкой сметаны или йогурта (по желанию). Подавайте немедленно.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Классическая Пицца Маргарита",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Универсальная Пшеничная Мука",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Теплая Вода",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Активные Сухие Дрожжи",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Соль",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Оливковое Масло (Тесто)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Измельченные Помидоры",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Свежий Сыр Моцарелла",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Свежие Листья Базилика",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Оливковое Масло (Сверху)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Черный Перец",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Активируйте дрожжи, смешав их с теплой водой и щепоткой сахара (не указан в ингредиентах, но предполагается для активации дрожжей) в миске. Дайте постоять 5-10 минут, пока не появится пена.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Активация Дрожжей",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "В большой миске соедините муку и соль. Влейте дрожжевую смесь и 2 столовые ложки оливкового масла. Перемешайте до образования рваного теста.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Выложите тесто на слегка посыпанную мукой поверхность и месите 8-10 минут, пока оно не станет гладким и эластичным. Поместите в смазанную маслом миску, накройте и дайте подняться в теплом месте до удвоения объема.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Подъем Теста",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Предварительно разогрейте духовку до самой высокой температуры (обычно 250°C/480°F) и поместите внутрь камень для пиццы или противень для разогрева. Обомните тесто, разделите его на два шара (для двух средних пицц) и дайте им отдохнуть 10 минут.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Предварительный Разогрев Духовки",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Растяните или раскатайте один шар теста в круг диаметром 12 дюймов. Переложите его на посыпанную мукой лопатку для пиццы или пергаментную бумагу. Равномерно распределите половину измельченных помидоров, сверху выложите половину порванной моцареллы и сбрызните небольшим количеством оливкового масла и щепоткой перца.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Выпекайте пиццу 12-15 минут, пока корочка не станет золотистой, а сыр не начнет пузыриться. Как только достанете из духовки, немедленно украсьте свежими листьями базилика. Нарежьте и подавайте.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Время Выпекания",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Острый Ролл с Курицей и Соусом Ранч",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Куриная Грудка (без кости, без кожи)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Тортильи (большие)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Соус Ранч",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Острый Соус (например, в стиле Баффало)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Салат Ромэн (нашинкованный)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Тертый Сыр Чеддер",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Копченая Паприка",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Чесночный Порошок",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Соль",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Оливковое Масло",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Нарежьте куриную грудку полосками по 1 дюйму. В миске смешайте курицу с оливковым маслом, копченой паприкой, чесночным порошком и щепоткой соли до полного покрытия.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Разогрейте большую сковороду на средне-сильном огне. Добавьте приправленные полоски курицы и жарьте 5-7 минут, периодически переворачивая, пока они не станут золотисто-коричневыми и полностью приготовленными (внутренняя температура 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Жарка Курицы",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Пока курица еще горячая, снимите ее с огня и переложите в чистую миску. Полейте курицу соусом ранч и острым соусом. Перемешайте, пока каждый кусочек не покроется острой смесью ранч.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Разложите одну тортилью. Распределите тонкий слой нашинкованного салата по центру, затем четверть тертого сыра чеддер. Это формирует основу ролла.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Положите четверть острой куриной смеси ранч поверх сыра и салата. Будьте осторожны, чтобы не переполнить ролл.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Чтобы завернуть, сложите две стороны тортильи поверх начинки, затем плотно сверните ролл снизу вверх. Разрежьте готовый ролл по диагонали пополам и подавайте немедленно.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Классический Французский Омлет",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Яйца (большие)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Сливочное Масло",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Соль",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Черный Перец",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Зеленый Лук (свежий, нарезанный)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Разбейте яйца в миску. Добавьте соль и перец. Взбейте энергично, пока желтки и белки полностью не соединятся и не станут слегка пенистыми, но избегайте попадания слишком большого количества воздуха.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Взбивание",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Разогрейте антипригарную сковороду (около 8 дюймов) на среднем огне. Добавьте сливочное масло и повращайте его, пока оно не растает, не вспенится, а затем не осядет, приобретая прозрачный, ореховый цвет.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Плавление Масла",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Вылейте яичную смесь на горячую сковороду. Дайте яйцам схватиться в течение примерно 10 секунд. Затем, используя вилку или резиновую лопатку, постоянно и быстро перемешивайте яйца, наклоняя сковороду, пока дно не схватится, но верхняя часть останется влажной и кремовой.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Приготовление Яиц",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Прекратите перемешивание и дайте омлету готовиться без помех еще 30 секунд, чтобы дно полностью схватилось. Посыпьте нарезанным зеленым луком центральную треть омлета.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Финальное Схватывание",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Наклоните сковороду и, используя лопатку, сложите одну сторону омлета примерно на треть над центром. Аккуратно скатайте омлет со сковороды на тарелку, швом вниз, чтобы создать аккуратную форму торпеды. Подавайте немедленно.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Классические Спагетти с Чесноком и Оливковым Маслом (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Паста Спагетти",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Оливковое Масло Экстра Вирджин",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Чеснок",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Хлопья Красного Перца (Чили)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Соль",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Свежая Петрушка (Нарезанная)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Черный Перец",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Доведите до кипения большую кастрюлю воды. Посолите воду (она должна быть такой же соленой, как морская вода). Добавьте спагетти и варите согласно инструкции на упаковке до состояния al dente. Отложите около 1 чашки воды, в которой варилась паста.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Варка Пасты",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Пока паста варится, тонко нарежьте чеснок. Разогрейте большую сковороду на среднем огне и добавьте 0,75 чашки оливкового масла экстра вирджин. Добавьте нарезанный чеснок и 1 чайную ложку хлопьев красного перца на сковороду.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Обжаривайте чеснок до золотистого цвета и аромата, около 2-3 минут. **Будьте осторожны, чтобы не сжечь его**, иначе он станет горьким. Добавьте 0,5 чашки зарезервированной воды для варки пасты на сковороду. Доведите до легкого кипения.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Обжарка Чеснока",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Слейте воду с готовой пасты (не промывайте) и немедленно переложите ее на сковороду с чесночным соусом. Добавьте оставшиеся 4 столовые ложки нарезанной свежей петрушки. Быстро перемешайте и подбросьте пасту в сковороде, чтобы покрыть всю пасту соусом.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "При необходимости добавьте еще немного зарезервированной воды от пасты, чтобы отрегулировать консистенцию соуса. Попробуйте и добавьте 1 щепотку черного перца и дополнительную соль, если нужно. Подавайте немедленно, пока горячее.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Сливочная Паста с Курицей и Песто",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Паста Феттуччине",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Куриная Грудка (без кости, без кожи)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Густые Сливки (Сметана)",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Базиликовый Песто",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Тертый Сыр Пармезан",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Оливковое Масло",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Чесночный Порошок",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Соль",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Черный Перец",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Нарежьте 500 граммов куриной грудки кубиками по 1 дюйму. В миске смешайте курицу с 1 столовой ложкой оливкового масла, 0,5 чайной ложки соли, 1 чайной ложкой чесночного порошка и 1 щепоткой черного перца.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Разогрейте оставшуюся 1 столовую ложку оливкового масла в большой сковороде на средне-сильном огне. Добавьте приправленную курицу и жарьте 6-8 минут, периодически переворачивая, пока она не станет золотисто-коричневой и полностью приготовленной.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Жарка Курицы",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Пока курица готовится, доведите до кипения большую кастрюлю соленой воды. Добавьте 350 граммов феттуччине и варите до состояния al dente. Слейте воду с пасты, отложив 1 чашку воды для варки.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Варка Пасты",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Уменьшите огонь на сковороде (с курицей) до минимума. Влейте 250 миллилитров густых сливок и 0,5 чашки базиликового песто. Хорошо перемешайте до однородности. Дайте соусу слегка покипеть 2 минуты, чтобы он немного загустел.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Тушение Соуса",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Добавьте слитую пасту в сливочный соус песто и перемешайте, чтобы покрыть. Вмешайте 0,5 чашки тертого сыра Пармезан и около 0,25 чашки зарезервированной воды от пасты. Добавьте больше воды, если необходимо, чтобы достичь желаемой консистенции. Подавайте немедленно.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Жареный Сырный Сэндвич (Гриль-Чиз)",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Хлеб на Закваске",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Сыр Чеддер (острый)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Сыр Монтерей Джек",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Несоленое Сливочное Масло (размягченное)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Майонез (по желанию для вкуса)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Соль",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Натрите оба сыра Чеддер и Монтерей Джек и смешайте их в небольшой миске. Натирание обеспечивает равномерное плавление.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Равномерно распределите сливочное масло на одной стороне каждого ломтика хлеба. Эта сторона будет соприкасаться со сковородой. По желанию, намажьте тонкий слой майонеза на противоположную сторону (внутреннюю) одного ломтика для дополнительного вкуса.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Положите один ломтик хлеба (стороной с маслом вниз) на антипригарную сковороду на средне-слабом огне. Равномерно посыпьте смешанным сыром поверх хлеба, затем добавьте щепотку соли.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Накройте вторым ломтиком хлеба (стороной с маслом вверх). Жарьте 3-4 минуты, пока нижний ломтик не станет золотисто-коричневым, а сыр не начнет таять.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Время Жарки Первой Стороны",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Осторожно переверните сэндвич с помощью лопатки. Жарьте еще 3-4 минуты, пока вторая сторона не станет золотисто-коричневой, а сыр полностью не расплавится и не будет тянуться. Если внешняя сторона румянится слишком быстро, уменьшите огонь.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Время Жарки Второй Стороны",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Снимите со сковороды, нарежьте по диагонали и подавайте немедленно.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Идеальный Стейк Рибай, Обжаренный на Сковороде, с Чесночным и Травяным Маслом",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Стейк Рибай (толщиной 1,5 дюйма)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Кошерная Соль",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Свежемолотый Черный Перец",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Растительное Масло (с высокой точкой дымления)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Несоленое Сливочное Масло",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Зубчики Чеснока (раздавленные)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Свежие Веточки Тимьяна",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Полностью просушите стейки бумажными полотенцами. Щедро приправьте со всех сторон кошерной солью и черным перцем. Дайте стейкам постоять при комнатной температуре 30 минут перед приготовлением.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Разогрейте растительное масло в чугунной сковороде на сильном огне, пока оно не начнет мерцать и слегка дымиться. Осторожно поместите приправленные стейки на горячую сковороду. Обжаривайте 3-4 минуты, пока не образуется глубокая, темно-коричневая корочка.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Время Обжарки Первой Стороны",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Переверните стейки. Уменьшите огонь до среднего. Добавьте сливочное масло, раздавленные зубчики чеснока и веточки тимьяна на сковороду. Слегка наклоните сковороду и используйте большую ложку, чтобы постоянно поливать стейки растопленным травяным маслом в течение 1-2 минут или до достижения желаемой внутренней температуры (например, 54°C для средней прожарки с кровью).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Время Поливания/Приготовления",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Снимите стейки со сковороды и положите их на разделочную доску. Полейте стейки оставшимся травяным маслом со сковороды. Дайте им отдохнуть 5-10 минут, чтобы соки перераспределились, прежде чем нарезать и подавать.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Время Отдыха",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Классическая Курица в Масле (Баттер Чикен)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Куриные Бедра без Кости и Кожи (нарезанные кубиками)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Натуральный Йогурт",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Имбирно-Чесночная Паста",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Порошок Чили",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Порошок Куркумы",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Гарам Масала (для маринада)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Томатное Пюре",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Несоленое Сливочное Масло",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Густые Сливки",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Касури Мети (Сушеные Листья Пажитника)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Сахар",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Замаринуйте курицу: В большой миске смешайте курицу с йогуртом, имбирно-чесночной пастой, порошком чили, порошком куркумы и гарам масалой для маринада. Накройте и поставьте в холодильник минимум на 30 минут или до 4 часов.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Время Маринования",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Приготовьте курицу: Обжарьте, запеките или пожарьте на сковороде маринованную курицу до полной готовности и легкого обугливания по краям. Отложите в сторону.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Время Приготовления Курицы",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Подготовьте основу соуса: В большой кастрюле растопите половину сливочного масла. Добавьте томатное пюре и готовьте, пока не отделится масло (около 10 минут). Добавьте 1/2 чашки воды, доведите до кипения, затем взбейте соус до абсолютно гладкого состояния. Процедите взбитый соус обратно в кастрюлю.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Время Тушения Соуса",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Завершите соус: Добавьте оставшееся сливочное масло, сахар и оставшуюся гарам масалу (по желанию) в процеженный соус. Хорошо перемешайте. Добавьте приготовленные кусочки курицы и тушите 5 минут.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Финальное Тушение с Курицей",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Подача: Вмешайте густые сливки и разотрите касури мети между ладонями, прежде чем добавить. Хорошо прогрейте, но не кипятите. Подавайте немедленно с рисом или хлебом наан.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Сливочный Томатный Суп-Пюре",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Консервированные Помидоры в Кубиках",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Куриный или Овощной Бульон",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Лук, нарезанный",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Чеснок, мелко нарезанный",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Густые Сливки",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Оливковое Масло",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Сушеный Базилик",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Соль",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Черный Перец",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Разогрейте оливковое масло в большой кастрюле на среднем огне. Добавьте нарезанный лук и пассеруйте до размягчения, около 5-7 минут. Добавьте мелко нарезанный чеснок и пассеруйте еще 1 минуту.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Пассеровка Лука",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Вмешайте консервированные помидоры в кубиках, бульон, сушеный базилик, соль и перец. Доведите смесь до кипения, затем уменьшите огонь и тушите 20 минут.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Тушение Супа",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Осторожно перелейте суп в блендер или используйте погружной блендер, чтобы взбить суп до гладкого состояния. Верните суп в кастрюлю.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Вмешайте густые сливки и прогрейте в течение 2-3 минут, но не доводите до кипения. Подавайте горячим, по желанию украсив свежим базиликом или сухариками.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

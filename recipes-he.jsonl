@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "צ'יזבורגר קלאסי נוסח דיינר",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "בשר טחון (80% רזה / 20% שומן)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "רוטב ווסטרשייר",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "אבקת בצל",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "אבקת שום",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "מלח (כשר או ים)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "פלפל שחור, טחון טרי",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "גבינה אמריקאית",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "לחמניות תפוחי אדמה או לחמניות המבורגר",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "מיונז",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "חמוצים פרוסים (Dill Pickle Chips)",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "שלב את 680 גרם הבשר הטחון עם 1 כף רוטב ווסטרשייר, 0.5 כפית אבקת בצל, 0.5 כפית אבקת שום, 1 כפית מלח ו-0.25 כפית פלפל שחור. ערבב **בעדינות** עם הידיים עד לאיחוד קל. [cite_start]ערבוב יתר יהפוך את הקציצות לקשות. [cite: 13, 14]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "חלק את התערובת ל-4 מנות שוות וצור קציצות בעובי של כ-2 סנטימטרים. [cite_start]צור שקע קטן במרכז כל קציצה עם האגודל כדי למנוע מהן להתנפח במהלך הבישול. [cite: 16]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "חמם מחבת או גריל לחום בינוני-גבוה. [cite_start]בשל את הקציצות במשך 3-5 דקות לכל צד לדרגת עשייה בינונית, או עד שהטמפרטורה הפנימית מגיעה ל-71 מעלות. [cite: 18]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "זמן בישול קציצה",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "במהלך הדקה האחרונה של הבישול, הנח יחידה אחת של גבינה אמריקאית על כל קציצה. [cite_start]כסה את הגריל או המחבת לזמן קצר כדי להבטיח שהגבינה תימס יפה. [cite: 22]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "התכת גבינה",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "קלה את 4 הלחמניות כשהצד החתוך כלפי מטה על הגריל או במחבת יבשה במשך כ-30 שניות. להרכבה, מרח 1 כף מיונז על שני חצאי הלחמנייה. [cite_start]הנח את קציצת הצ'יזבורגר על החצי התחתון של הלחמנייה, הוסף מעל מעט מ-1 כוס חמוצים פרוסים (Dill Pickle Chips), וסגור עם החצי העליון של הלחמנייה. [cite: 25, 26, 27]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "טאקוס קלאסי מבשר טחון",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "בשר בקר טחון רזה (80/20 או רזה יותר)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "שמן זית",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "אבקת צ'ילי",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "כמון טחון",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "אורגנו מיובש",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "אבקת שום",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "מלח",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "פלפל שחור",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "רסק עגבניות",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "מים",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "קונכיות טאקו או טורטיות (תירס או קמח)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "חסה מגוררת",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "גבינת צ'דר מגוררת או תערובת מקסיקנית",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "קוביות עגבניות",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "שמנת חמוצה (Sour Cream) או יוגורט יווני (אופציונלי)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "חמם את שמן הזית במחבת גדולה על אש בינונית-גבוהה. [cite_start]הוסף את הבשר הטחון ובשל, תוך פירוק שלו בעזרת כף, עד שהוא משחים לחלוטין ואין בו עוד צבע ורוד. [cite: 44, 45]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    [cite_start]"stepDescription": "סנן כל עודף שומן מהמחבת והחזר את הבשר לחום. [cite: 46]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "ערבב פנימה את אבקת הצ'ילי, הכמון, האורגנו, אבקת השום, המלח והפלפל השחור. [cite_start]בשל במשך דקה אחת, כדי לאפשר לתבלינים להיצלות. [cite: 47, 48]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "קליית תבלינים",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "הוסף את רסק העגבניות והמים. ערבב היטב לציפוי הבשר. [cite_start]הבא את התערובת לרתיחה עדינה, ואז הפחת את החום לנמוך ובשל עד שהרוטב מסמיך והנוזל נספג ברובו (הבשר צריך להישאר לח, לא יבש). [cite: 51, 52]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "בישול איטי של הבשר",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    [cite_start]"stepDescription": "בזמן שהבשר מתבשל, חמם את קונכיות הטאקו או הטורטיות לפי הוראות האריזה. [cite: 55]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "הנח בשר טאקו מתובל בתוך הקונכיות או הטורטיות בעזרת כף. הוסף מעל חסה מגוררת, גבינה, קוביות עגבניות, וכף שמנת חמוצה או יוגורט (אופציונלי). [cite_start]הגש מיד. [cite: 57, 58]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "פיצה מרגריטה קלאסית",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "קמח לכל מטרה",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "מים חמימים",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "שמרים יבשים פעילים",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "מלח",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "שמן זית (לבצק)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "עגבניות מרוסקות",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "גבינת מוצרלה טרייה",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "עלי בזיליקום טריים",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "שמן זית (לציפוי)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "פלפל שחור",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "הפעל את השמרים על ידי ערבובם עם מים חמימים וקורט סוכר (לא רשום במרכיבים, אך נדרש להפעלת שמרים) בקערה. [cite_start]המתן 5-10 דקות עד שיהפכו קצף. [cite: 70, 71]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "הפעלת שמרים",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "בקערה גדולה, שלב את הקמח והמלח. שפוך פנימה את תערובת השמרים ואת 2 כפות שמן הזית. [cite_start]ערבב עד שנוצר בצק מחוספס. [cite: 74, 75, 76]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "העבר את הבצק למשטח מקומח קלות ולש אותו במשך 8-10 דקות עד שהוא חלק ואלסטי. [cite_start]הנח בקערה משומנת, כסה, והניח להתפחה במקום חמים עד להכפלת הנפח. [cite: 78]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "התפחת בצק",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "חמם מראש את התנור שלך לטמפרטורה הגבוהה ביותר (בדרך כלל 250°C/480°F) והנח אבן פיצה או תבנית אפייה בפנים כדי שתתחמם. [cite_start]לחץ על הבצק כלפי מטה, חלק אותו לשני כדורים (לשתי פיצות בינוניות), ואפשר להם לנוח 10 דקות. [cite: 81, 82]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "חימום מראש של התנור",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "מתח או גלגל כדור בצק אחד לעיגול בגודל 12 אינץ'. העבר אותו למרדה מקומחת או לנייר אפייה. [cite_start]מרח מחצית מהעגבניות המרוסקות באופן שווה, הוסף מעל מחצית מהמוצרלה הקרועה, וזלף מעט שמן זית וקורט פלפל. [cite: 86, 87]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "אפה את הפיצה במשך 12-15 דקות עד שהקרום זהוב והגבינה מבעבעת. ברגע שמוציאים מהתנור, קשט מיד עם עלי בזיליקום טריים. [cite_start]פרוס והגש. [cite: 88, 89, 90]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "זמן אפייה",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "טורטיה פיקנטית עם עוף ורוטב ראנץ'",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "חזה עוף (ללא עצמות, ללא עור)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "טורטיות (גדולות)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "רוטב ראנץ'",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "רוטב חריף (לדוגמה, בסגנון באפלו)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "חסה רומית (מגוררת)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "גבינת צ'דר מגוררת",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "פפריקה מעושנת",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "אבקת שום",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "מלח",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "שמן זית",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "חתך את חזה העוף לרצועות בגודל 1 אינץ'. [cite_start]בקערה, ערבב את העוף עם שמן זית, פפריקה מעושנת, אבקת שום וקורט מלח עד לציפוי טוב. [cite: 104, 105]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "חמם מחבת גדולה על אש בינונית-גבוהה. [cite_start]הוסף את רצועות העוף המתובלות ובשל במשך 5-7 דקות, תוך הפיכה מדי פעם, עד שהן שחומות ומוכנות לחלוטין (טמפרטורה פנימית של 74°C/165°F). [cite: 107]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "בישול עוף",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "בזמן שהעוף עדיין חם, הסר אותו מהחום והעבר אותו לקערה נקייה. שפוך את רוטב הראנץ' והרוטב החריף על העוף. [cite_start]ערבב עד שכל חתיכה מצופה בתערובת הראנץ' הפיקנטית. [cite: 111, 112]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "פרש טורטיה אחת. מרח שכבה דקה של חסה מגוררת במרכז, ואחריה רבע מגבינת הצ'דר המגוררת. [cite_start]זה יוצר את בסיס הטורטיה. [cite: 114, 115]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "הנח רבע מתערובת העוף הפיקנטית עם ראנץ' מעל הגבינה והחסה. [cite_start]היזהר לא למלא יתר על המידה את הטורטיה. [cite: 116, 117]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "כדי לגלגל, קפל את שני צידי הטורטיה מעל המילוי, ואז גלגל את הטורטיה בחוזקה מלמטה למעלה. [cite_start]חתוך את הטורטיה המוכנה לחצי באלכסון והגש מיד. [cite: 118, 119]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "חביתית צרפתית קלאסית (אומלט)",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "ביצים (גדולות)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "חמאה",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "מלח",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "פלפל שחור",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "עירית (טרייה, קצוצה)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "שבור את הביצים לקערה. הוסף מלח ופלפל. [cite_start]טרוף במרץ עד שהחלמונים והחלבונים מתאחדים לחלוטין ומקציפים מעט, אך הימנע משילוב יתר של אוויר. [cite: 127]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "טריפה",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "חמם מחבת נון-סטיק (כ-8 אינץ') על אש בינונית. [cite_start]הוסף את החמאה וסובב אותה עד שהיא נמסה, מקציפה, ואז שוככת, והופכת לצבע ברור ואגוזי. [cite: 131]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "התכת חמאה",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "שפוך את תערובת הביצים למחבת החמה. אפשר לביצים להתייצב במשך כ-10 שניות. [cite_start]לאחר מכן, באמצעות מזלג או מרית גומי, ערבב את הביצים כל הזמן ובמהירות, תוך הטיית המחבת, עד שהתחתית מתייצבת אך החלק העליון עדיין לח וקרמי. [cite: 134, 135]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "בישול ביצים",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "הפסק לערבב ואפשר לחביתית להתבשל ללא הפרעה במשך 30 שניות נוספות כדי לייצב לחלוטין את התחתית. [cite_start]פזר את העירית הקצוצה על פני השליש המרכזי של החביתית. [cite: 138, 139]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "ייצוב סופי",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "הטה את המחבת, ובעזרת מרית, קפל צד אחד של החביתית כשליש מהדרך מעל המרכז. גלגל בעדינות את החביתית מהמחבת לצלחת, כשהתפר כלפי מטה, כדי ליצור צורה מסודרת דמוית טורפדו. [cite_start]הגש מיד. [cite: 142, 143, 144]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "ספגטי קלאסי עם שום ושמן זית (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "פסטה ספגטי",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "שמן זית כתית מעולה",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "שום",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "פתיתי פלפל אדום (צ'ילי)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "מלח",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "פטרוזיליה טרייה (קצוצה)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "פלפל שחור",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "הרתיח סיר גדול של מים. המלח את המים (הם צריכים להיות מלוחים כמו מי ים). הוסף את הספגטי ובשל לפי הוראות האריזה עד לדרגת אל דנטה. [cite_start]שמור כ-1 כוס ממי הבישול של הפסטה. [cite: 154, 155, 156]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "בישול פסטה",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "בזמן שהפסטה מתבשלת, פרוס את השום דק. חמם מחבת גדולה על אש בינונית והוסף 0.75 כוס שמן זית כתית מעולה. [cite_start]הוסף את השום הפרוס ואת 1 כפית פתיתי הפלפל האדום למחבת. [cite: 160, 161]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "טגן קלות את השום עד שהוא זהוב ומפיץ ריח, כ-2-3 דקות. **היזהר לא לשרוף אותו**, אחרת הוא יהפוך מר. הוסף 0.5 כוס ממי הבישול השמורים של הפסטה למחבת. [cite_start]הבא לרתיחה עדינה. [cite: 162, 163, 164, 165]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "טיגון שום",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "סנן את הפסטה המבושלת (אל תשטוף) והעבר אותה מיד למחבת עם רוטב השום. הוסף את 4 כפות הפטרוזיליה הטרייה הקצוצה הנותרות. [cite_start]ערבב במהירות וטלטל את המחבת לציפוי כל הפסטה ברוטב. [cite: 168, 169]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "הוסף עוד מעט ממי הפסטה השמורים במידת הצורך כדי לכוונן את סמיכות הרוטב. טעם והוסף 1 קורט פלפל שחור ומלח נוסף אם צריך. [cite_start]הגש מיד כשהוא חם. [cite: 171, 172]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "פסטה עם עוף ורוטב פסטו קרמי",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "פסטה פטוצ'יני",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "חזה עוף (ללא עצמות, ללא עור)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "שמנת מתוקה",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "פסטו בזיליקום",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "גבינת פרמזן (מגוררת)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "שמן זית",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "אבקת שום",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "מלח",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "פלפל שחור",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "חותכים את 500 גרם חזה העוף לקוביות בגודל 1 אינץ'. [cite_start]בקערה, זורקים את העוף עם 1 כף שמן זית, 0.5 כפית מלח, 1 כפית אבקת שום וקורט פלפל שחור. [cite: 183, 184]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "חמם את 1 כף שמן הזית הנותרת במחבת גדולה על אש בינונית-גבוהה. [cite_start]הוסף את העוף המתובל ובשל במשך 6-8 דקות, תוך הפיכה מדי פעם, עד שהוא משחים ומוכן לחלוטין. [cite: 185, 186]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "בישול עוף",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "בזמן שהעוף מתבשל, הרתיח סיר גדול של מים מומלחים. הוסף את 350 גרם הפטוצ'יני ובשל עד לדרגת אל דנטה. [cite_start]סנן את הפסטה, ושמור 1 כוס ממי הבישול. [cite: 189, 190, 191]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "בישול פסטה",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "הפחת את החום במחבת (עם העוף) לנמוך. שפוך פנימה את 250 מיליליטר השמנת המתוקה ו-0.5 כוס פסטו בזיליקום. ערבב היטב עד לאיחוד. [cite_start]אפשר לרוטב להתבשל בעדינות במשך 2 דקות כדי שיסמיך מעט. [cite: 194, 195, 196]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "בישול איטי של הרוטב",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "הוסף את הפסטה המסוננת לרוטב הפסטו הקרמי וערבב לציפוי. ערבב פנימה את 0.5 כוס גבינת פרמזן מגוררת וכ-0.25 כוס ממי הפסטה השמורים. הוסף עוד מים אם יש צורך כדי להגיע לסמיכות הרצויה. [cite_start]הגש מיד. [cite: 199, 200, 201, 202]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "כריך גבינה בגריל (Grilled Cheese Sandwich)",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "לחם מחמצת (Sourdough)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "גבינת צ'דר (חריפה)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "גבינת מונטריי ג'ק",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "חמאה ללא מלח (מומסת)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "מיונז (אופציונלי לטעם)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "מלח",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "גרר את גבינות הצ'דר והמונטריי ג'ק וערבב אותן יחד בקערה קטנה. [cite_start]גירוד מבטיח המסה אחידה. [cite: 211]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "מרח את החמאה באופן שווה על צד אחד של כל פרוסת לחם. זה הצד שיגע במחבת. [cite_start]לחילופין, מרח שכבה דקה של מיונז על הצד הנגדי (הפנימי) של פרוסה אחת לתוספת טעם. [cite: 212, 213]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "הנח פרוסת לחם אחת (כשהצד עם החמאה כלפי מטה) במחבת נון-סטיק על אש בינונית-נמוכה. [cite_start]פזר את הגבינה המעורבת באופן שווה מעל הלחם, ואז הוסף קורט מלח. [cite: 215]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "כסה עם פרוסת הלחם השנייה (כשהצד עם החמאה כלפי מעלה). [cite_start]בשל במשך 3 עד 4 דקות עד שהפרוסה התחתונה זהובה והגבינה מתחילה להימס. [cite: 217]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "זמן בישול צד ראשון",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "הפוך בזהירות את הכריך באמצעות מרית. בשל במשך 3 עד 4 דקות נוספות עד שהצד השני זהוב והגבינה נמסה לחלוטין ונוזלית. [cite_start]אם החלק החיצוני משחים מהר מדי, הנמך את החום. [cite: 222, 223]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "זמן בישול צד שני",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    [cite_start]"stepDescription": "הסר מהמחבת, חתוך באלכסון, והגש מיד. [cite: 226]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "סטייק ריביי מושלם צרוב במחבת עם חמאת שום ועשבי תיבול",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "סטייק ריביי (בעובי 1.5 אינץ')",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "מלח כשר",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "פלפל שחור טחון טרי",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "שמן צמחי (נקודת עישון גבוהה)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "חמאה ללא מלח",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "שיני שום (מעוכות)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "ענפי תימין טריים",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "יבש את הסטייקים לחלוטין עם מגבות נייר. תבל בנדיבות מכל הצדדים במלח כשר ופלפל שחור. [cite_start]אפשר לסטייקים לשבת בטמפרטורת החדר במשך 30 דקות לפני הבישול. [cite: 237, 238]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "חמם את השמן הצמחי במחבת ברזל יצוק על אש גבוהה עד שהוא מתחיל לנצנץ ולעשן מעט. הנח בזהירות את הסטייקים המתובלים במחבת החמה. [cite_start]צרוב במשך 3 עד 4 דקות עד שנוצר קרום חום עמוק וכהה. [cite: 240]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "זמן צריבה צד ראשון",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "הפוך את הסטייקים. הפחת את החום לבינוני. הוסף את החמאה, שיני השום המעוכות וענפי התימין למחבת. [cite_start]הטה מעט את המחבת והשתמש בכף גדולה כדי להזליף ברציפות את חמאת עשבי התיבול המומסת מעל הסטייקים במשך 1 עד 2 דקות, או עד שהטמפרטורה הפנימית הרצויה מושגת (לדוגמה, 130°F לדרגת מדיום-רייר). [cite: 244, 245]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "זמן הזלפה/בישול",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "הסר את הסטייקים מהמחבת והנח אותם על קרש חיתוך. שפוך את חמאת עשבי התיבול הנותרת מהמחבת על הסטייקים. [cite_start]אפשר להם לנוח במשך 5 עד 10 דקות כדי לאפשר למיצים להתפזר מחדש לפני הפריסה וההגשה. [cite: 249, 250]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "זמן מנוחה",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "עוף בחמאה קלאסי (Classic Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "ירכי עוף ללא עצמות, ללא עור (קוביות)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "יוגורט רגיל",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "משחת ג'ינג'ר-שום",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "אבקת צ'ילי",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "אבקת כורכום",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "גראם מסאלה (למרינדה)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "מחית עגבניות",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "חמאה ללא מלח",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "שמנת מתוקה",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "קאסורי מת'י (עלי חילבה מיובשים)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "סוכר",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "השריית העוף: בקערה גדולה, ערבב את העוף עם יוגורט, משחת ג'ינג'ר-שום, אבקת צ'ילי, אבקת כורכום וגראם מסאלה למרינדה. [cite_start]כסה והכנס למקרר למשך 30 דקות לפחות, או עד 4 שעות. [cite: 265, 266]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "זמן השרייה",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "בישול העוף: צלה, אפה או טגן את העוף המושאר עד שהוא מבושל לחלוטין ושחום מעט בקצוות. [cite_start]הנח בצד. [cite: 269, 270]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "זמן בישול עוף",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "הכנת בסיס הרוטב: בסיר גדול, המיס חצי מהחמאה. הוסף את מחית העגבניות ובשל עד שהשמן נפרד (כ-10 דקות). הוסף 1/2 כוס מים, הרתח, ואז טחן את הרוטב עד שהוא חלק לחלוטין. [cite_start]סנן את הרוטב הטחון בחזרה לסיר. [cite: 273, 274, 275, 276]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "זמן בישול איטי של רוטב",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "סיום הרוטב: הוסף את החמאה הנותרת, הסוכר, ואת הגראם מסאלה הנותרת (אם רוצים) לרוטב המסונן. ערבב היטב. [cite_start]הוסף את חתיכות העוף המבושלות ובשל בבעבוע עדין במשך 5 דקות. [cite: 279, 280]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "בישול איטי סופי עם עוף",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "הגשה: ערבב פנימה את השמנת המתוקה ורסק את הקאסורי מת'י בין כפות הידיים לפני הוספתו. חמם, אך אל תרתיח. [cite_start]הגש מיד עם אורז או לחם נאאן. [cite: 283, 284]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "מרק עגבניות קרמי",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "עגבניות קצוצות משומרות",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "ציר עוף או ירקות",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "בצל, קצוץ",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "שום, כתוש",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "שמנת מתוקה",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "שמן זית",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "בזיליקום יבש",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "מלח",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "פלפל שחור",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "חמם שמן זית בסיר גדול על אש בינונית. הוסף בצל קצוץ וטגן קלות עד שהוא מתרכך, כ-5-7 דקות. [cite_start]הוסף שום כתוש וטגן קלות דקה נוספת. [cite: 296, 297]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "טיגון בצל",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "ערבב פנימה את העגבניות הקצוצות המשומרות, הציר, הבזיליקום היבש, המלח והפלפל. [cite_start]הבא את התערובת לרתיחה, ואז הפחת את החום ובשל בבעבוע עדין במשך 20 דקות. [cite: 300, 301]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "בישול איטי של מרק",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "העבר בזהירות את המרק לבלנדר או השתמש בבלנדר מוט לטחינת המרק עד שהוא חלק. [cite_start]החזר את המרק לסיר. [cite: 304, 305]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "ערבב פנימה את השמנת המתוקה וחמם במשך 2-3 דקות, אך אל תרתיח. [cite_start]הגש חם, בתוספת קישוט אופציונלי של בזיליקום טרי או קרוטונים. [cite: 307]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Clássico Cheeseburger de Lanchonete",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Carne Picada (80% magra / 20% gorda)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Molho Worcestershire",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Cebola em Pó",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Alho em Pó",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal (Kosher ou Marinho)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pimenta Preta, moída na hora",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Queijo Americano",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Pãezinhos de Batata ou Pães de Hambúrguer",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Maionese",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Fatias de Picles de Endro",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Combine os 680 gramas de carne picada com 1 colher de sopa de molho Worcestershire, 0,5 colher de chá de cebola em pó, 0,5 colher de chá de alho em pó, 1 colher de chá de sal e 0,25 colher de chá de pimenta preta. Misture **suavemente** com as mãos até estar apenas combinado. Misturar em excesso tornará os hambúrgueres duros.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Divida a mistura em 4 porções iguais e forme em pastéis com cerca de 2 centímetros de espessura. Faça uma pequena depressão no centro de cada pastel com o polegar para evitar que inchem durante a cozedura.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Aqueça uma frigideira ou grelhador a lume médio-alto. Cozinhe os pastéis por 3-5 minutos de cada lado para um ponto médio, ou até que a temperatura interna atinja os 71 graus.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo de Cozedura do Pastel",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Durante o último minuto de cozedura, coloque 1 fatia de queijo americano em cada pastel. Cubra o grelhador ou frigideira brevemente para garantir que o queijo derrete bem.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Derreter o Queijo",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Toste os 4 pães com o lado cortado para baixo no grelhador ou numa frigideira seca por cerca de 30 segundos. Para montar, espalhe 1 colher de sopa de maionese em ambas as metades do pão. Coloque o pastel de cheeseburger no pão de baixo, cubra com algumas das 1 chávena de fatias de picles de endro e feche com o pão de cima.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Clássicos Tacos de Carne Picada",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Carne Picada Magra (80/20 ou mais magra)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Azeite",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pimenta Chili em Pó",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Cominhos Moídos",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Orégãos Secos",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Alho em Pó",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pimenta Preta",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Extrato de Tomate",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Água",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Conchas de Taco ou Tortilhas (Milho ou Farinha)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Alface Desfiada",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Queijo Cheddar Desfiado ou Mistura Mexicana",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Tomates em Cubos",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Natas Azedas ou Iogurte Grego (opcional)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Aqueça o azeite numa frigideira grande em lume médio-alto. Adicione a carne picada e cozinhe, desfazendo-a com uma colher, até estar totalmente dourada e sem vestígios de rosa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Escorra qualquer excesso de gordura da frigideira e volte a colocar a carne no lume.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Misture a pimenta chili em pó, os cominhos, os orégãos, o alho em pó, o sal e a pimenta preta. Cozinhe por 1 minuto, permitindo que as especiarias tostem.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tostar Especiarias",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Adicione o extrato de tomate e a água. Mexa bem para cobrir a carne. Deixe a mistura ferver, depois reduza o lume para baixo e cozinhe até o molho engrossar e o líquido ser maioritariamente absorvido (a carne deve ainda estar húmida, não seca).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Ferver em Lume Brando",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Enquanto a carne ferve em lume brando, aqueça as conchas de taco ou tortilhas de acordo com as instruções da embalagem.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Coloque a carne de taco temperada nas conchas ou tortilhas. Cubra com alface desfiada, queijo, tomates em cubos e uma colher de natas azedas ou iogurte (opcional). Sirva imediatamente.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Clássica Pizza Margherita",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Farinha para Todos os Fins",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Água Morna",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Fermento Seco Ativo",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Azeite (Massa)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Tomates Esmagados",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Queijo Mozzarella Fresco",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Folhas de Manjericão Fresco",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Azeite (Cobertura)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pimenta Preta",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Ative o fermento misturando-o com água morna e uma pitada de açúcar (não listado nos ingredientes, mas assumido para a ativação do fermento) numa tigela. Deixe repousar por 5-10 minutos até ficar espumoso.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Ativação do Fermento",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Numa tigela grande, combine a farinha e o sal. Verta a mistura de fermento e as 2 colheres de sopa de azeite. Misture até formar uma massa rugosa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Vire a massa para uma superfície levemente enfarinhada e amasse por 8-10 minutos até ficar lisa e elástica. Coloque numa tigela untada, cubra e deixe levedar num local quente até duplicar de tamanho.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Crescimento da Massa",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Pré-aqueça o seu forno à temperatura mais alta (normalmente 250°C/480°F) e coloque uma pedra de pizza ou tabuleiro de forno dentro para aquecer. Dê um murro na massa, divida-a em duas bolas (para duas pizzas médias) e deixe-as repousar por 10 minutos.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Pré-aquecimento do Forno",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Estique ou role uma bola de massa num círculo de 12 polegadas. Transfira-a para uma pá de pizza enfarinhada ou papel vegetal. Espalhe metade dos tomates esmagados uniformemente, cubra com metade da mozzarella rasgada e regue com um pouco de azeite e uma pitada de pimenta.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Asse a pizza por 12-15 minutos até a crosta estar dourada e o queijo borbulhante. Assim que sair do forno, decore imediatamente com folhas de manjericão fresco. Fatie e sirva.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo de Cozedura",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Wrap de Frango Picante Ranch",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Peito de Frango (sem osso, sem pele)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortilhas (grandes)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Molho Ranch",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Molho Picante (ex: estilo Buffalo)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Alface Romana (desfiada)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Queijo Cheddar Desfiado",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pimentão Doce Fumado",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Alho em Pó",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Azeite",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Corte o peito de frango em tiras de 1 polegada. Numa tigela, envolva o frango com azeite, pimentão doce fumado, alho em pó e uma pitada de sal até estar bem revestido.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Aqueça uma frigideira grande em lume médio-alto. Adicione as tiras de frango temperadas e cozinhe por 5-7 minutos, virando ocasionalmente, até ficarem douradas e totalmente cozidas (temperatura interna de 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cozinhar Frango",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Enquanto o frango ainda estiver quente, retire-o do lume e transfira-o para uma tigela limpa. Verta o molho ranch e o molho picante sobre o frango. Envolva até que cada pedaço esteja coberto pela mistura picante ranch.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Estenda uma tortilha. Espalhe uma fina camada de alface desfiada no centro, seguida por um quarto do queijo cheddar desfiado. Isto forma a base do wrap.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Coloque um quarto da mistura de frango picante ranch sobre o queijo e a alface. Tenha cuidado para não encher demasiado o wrap.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Para embrulhar, dobre os dois lados da tortilha sobre o recheio e, em seguida, enrole o wrap firmemente de baixo para cima. Corte o wrap acabado ao meio na diagonal e sirva imediatamente.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Clássica Omelete Francesa",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Ovos (grandes)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Manteiga",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pimenta Preta",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Cebolinho (fresco, picado)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Parta os ovos para uma tigela. Adicione sal e pimenta. Bata vigorosamente até as gemas e claras estarem totalmente combinadas e ligeiramente espumosas, mas evite incorporar demasiado ar.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Bater",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Aqueça uma frigideira antiaderente (cerca de 8 polegadas) em lume médio. Adicione a manteiga e gire-a até derreter, espumar e depois assentar, tornando-se uma cor clara e aveludada.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Derreter Manteiga",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Verta a mistura de ovos na frigideira quente. Deixe os ovos assentar por cerca de 10 segundos. Em seguida, usando um garfo ou espátula de borracha, mexa os ovos constante e rapidamente, inclinando a frigideira, até o fundo estar firme, mas o topo ainda estar húmido e cremoso.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cozinhar Ovos",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Pare de mexer e deixe a omelete cozinhar sem perturbações por mais 30 segundos para firmar totalmente o fundo. Polvilhe o cebolinho picado sobre o terço central da omelete.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Assentar Final",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Incline a frigideira e, usando uma espátula, dobre um lado da omelete cerca de um terço sobre o centro. Enrole suavemente a omelete para fora da frigideira e para um prato, com a costura para baixo, para criar uma forma de torpedo elegante. Sirva imediatamente.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Clássico Spaghetti com Alho e Azeite (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Massa Spaghetti",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Azeite Virgem Extra",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Alho",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Flocos de Pimenta Vermelha (Chili)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salsa Fresca (Picada)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pimenta Preta",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Leve uma panela grande com água a ferver. Salgue a água (deve ser tão salgada quanto a água do mar). Adicione o spaghetti e cozinhe de acordo com as instruções da embalagem até ficar al dente. Reserve cerca de 1 chávena da água de cozedura da massa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cozinhar Massa",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Enquanto a massa está a cozinhar, corte o alho em fatias finas. Aqueça uma frigideira grande em lume médio e adicione 0,75 chávena de azeite virgem extra. Adicione o alho fatiado e 1 colher de chá de flocos de pimenta vermelha à frigideira.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Salteie o alho até ficar dourado e perfumado, cerca de 2-3 minutos. **Tenha cuidado para não o queimar**, caso contrário, ficará amargo. Adicione 0,5 chávena da água de cozedura da massa reservada à frigideira. Deixe ferver em lume brando.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Saltear Alho",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Escorra a massa cozida (não lave) e transfira-a imediatamente para a frigideira com o molho de alho. Adicione as restantes 4 colheres de sopa de salsa fresca picada. Misture rapidamente e salteie a frigideira para cobrir toda a massa com o molho.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Adicione um pouco mais de água de cozedura da massa reservada, se necessário, para ajustar a consistência do molho. Prove e adicione 1 pitada de pimenta preta e sal adicional, se necessário. Sirva imediatamente enquanto estiver quente.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Massa Cremosa de Frango com Pesto",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Massa Fettuccine",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Peito de Frango (sem osso, sem pele)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Natas",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Pesto de Manjericão",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Queijo Parmesão (ralado)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Azeite",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Alho em Pó",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pimenta Preta",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Corte os 500 gramas de peito de frango em cubos de 1 polegada. Numa tigela, envolva o frango com 1 colher de sopa de azeite, 0,5 colher de chá de sal, 1 colher de chá de alho em pó e 1 pitada de pimenta preta.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Aqueça a 1 colher de sopa restante de azeite numa frigideira grande em lume médio-alto. Adicione o frango temperado e cozinhe por 6-8 minutos, virando ocasionalmente, até ficar dourado e totalmente cozido.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cozinhar Frango",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Enquanto o frango cozinha, leve uma panela grande com água salgada a ferver. Adicione os 350 gramas de fettuccine e cozinhe até ficar al dente. Escorra a massa, reservando 1 chávena da água de cozedura.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cozinhar Massa",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Reduza o lume da frigideira (com o frango) para baixo. Verta os 250 mililitros de natas e 0,5 chávena de pesto de manjericão. Mexa bem até combinar. Deixe o molho ferver suavemente por 2 minutos para engrossar ligeiramente.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Ferver Molho",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Adicione a massa escorrida ao molho cremoso de pesto e misture para cobrir. Misture 0,5 chávena de queijo parmesão ralado e cerca de 0,25 chávena da água de cozedura da massa reservada. Adicione mais água, se necessário, para atingir a consistência desejada. Sirva imediatamente.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Tosta Mista Grelhada",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Pão de Massa Mãe",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Queijo Cheddar (forte)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Queijo Monterey Jack",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Manteiga Sem Sal (amolecida)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Maionese (opcional para sabor)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Rale os queijos Cheddar e Monterey Jack e misture-os numa tigela pequena. Ralar garante que derretem uniformemente.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Espalhe a manteiga uniformemente num lado de cada fatia de pão. Este é o lado que tocará na frigideira. Opcionalmente, espalhe uma fina camada de maionese no lado oposto (o interior) de uma fatia para sabor extra.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Coloque uma fatia de pão (lado da manteiga para baixo) numa frigideira antiaderente em lume médio-baixo. Polvilhe o queijo misturado uniformemente sobre o pão e, em seguida, adicione uma pitada de sal.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Cubra com a segunda fatia de pão (lado da manteiga para cima). Cozinhe por 3 a 4 minutos até a fatia de baixo estar dourada e o queijo começar a derreter.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo de Cozedura do Primeiro Lado",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Vire cuidadosamente a tosta usando uma espátula. Cozinhe por mais 3 a 4 minutos até o segundo lado estar dourado e o queijo estar totalmente derretido e a escorrer. Se o exterior alourar muito rapidamente, baixe o lume.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo de Cozedura do Segundo Lado",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Retire da frigideira, fatie na diagonal e sirva imediatamente.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Bife Ribeye Perfeito Selado na Frigideira com Manteiga de Alho e Ervas",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Bife Ribeye (1,5 polegadas de espessura)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Sal Kosher",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pimenta Preta Moída na Hora",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Óleo Vegetal (alto ponto de fumo)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Manteiga Sem Sal",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Dentes de Alho (esmagados)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ramos de Tomilho Fresco",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Seque completamente os bifes com papel absorvente. Tempere generosamente em todos os lados com sal kosher e pimenta preta. Deixe os bifes repousar à temperatura ambiente por 30 minutos antes de cozinhar.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Aqueça o óleo vegetal numa frigideira de ferro fundido em lume alto até começar a brilhar e a fumegar ligeiramente. Coloque cuidadosamente os bifes temperados na frigideira quente. Sele por 3 a 4 minutos até que se forme uma crosta escura e profunda.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo de Selagem do Primeiro Lado",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Vire os bifes. Reduza o lume para médio. Adicione a manteiga, os dentes de alho esmagados e os ramos de tomilho à frigideira. Incline a frigideira ligeiramente e use uma colher grande para regar continuamente os bifes com a manteiga de ervas derretida por 1 a 2 minutos, ou até que a temperatura interna desejada seja atingida (ex: 54°C para mal passado).",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo de Rega/Cozedura",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Retire os bifes da frigideira e coloque-os numa tábua de cortar. Verta a restante manteiga de ervas da frigideira sobre os bifes. Deixe-os repousar por 5 a 10 minutos para permitir que os sucos se redistribuam antes de fatiar e servir.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo de Repouso",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Clássico Frango com Manteiga (Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Coxas de Frango sem Osso e sem Pele (em cubos)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Iogurte Natural",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pasta de Gengibre e Alho",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Pimenta Chili em Pó",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Açafrão das Índias em Pó",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (para marinada)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Puré de Tomate",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Manteiga Sem Sal",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Natas",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (Folhas de Feno-grego Secas)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Açúcar",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Marine o frango: Numa tigela grande, misture o frango com iogurte, pasta de gengibre e alho, pimenta chili em pó, açafrão das índias em pó e o garam masala para marinada. Cubra e refrigere por pelo menos 30 minutos, ou até 4 horas.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo de Marinada",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Cozinhe o frango: Grelhe, asse ou frite na frigideira o frango marinado até estar totalmente cozido e ligeiramente carbonizado nas bordas. Reserve.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo de Cozedura do Frango",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Prepare a base do molho: Numa panela grande, derreta metade da manteiga. Adicione o puré de tomate e cozinhe até o óleo se separar (cerca de 10 minutos). Adicione 1/2 chávena de água, deixe ferver, depois triture o molho até ficar completamente liso. Coe o molho triturado de volta para a panela.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tempo de Ferver Molho",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Finalize o molho: Adicione o restante da manteiga, açúcar e o garam masala restante (se desejar) ao molho coado. Mexa bem. Adicione os pedaços de frango cozidos e deixe ferver por 5 minutos.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Ferver Final com Frango",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Sirva: Misture as natas e esmague o Kasuri Methi entre as palmas das mãos antes de adicioná-lo. Aqueça, mas não deixe ferver. Sirva imediatamente com arroz ou pão naan.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Sopa Cremosa de Tomate",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Tomates em Cubos Enlatados",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Caldo de Galinha ou Vegetais",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Cebola, picada",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Alho, picado",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Natas",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Azeite",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Manjericão Seco",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pimenta Preta",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Aqueça o azeite numa panela grande em lume médio. Adicione a cebola picada e salteie até amolecer, cerca de 5-7 minutos. Adicione o alho picado e salteie por mais 1 minuto.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Saltear Cebola",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Misture os tomates em cubos enlatados, o caldo, o manjericão seco, o sal e a pimenta. Deixe a mistura ferver, depois reduza o lume e ferva em lume brando por 20 minutos.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Ferver Sopa em Lume Brando",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Transfira cuidadosamente a sopa para um liquidificador ou use uma varinha mágica para triturar a sopa até ficar lisa. Volte a colocar a sopa na panela.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Misture as natas e aqueça por 2-3 minutos, mas não deixe ferver. Sirva quente, opcionalmente guarnecido com manjericão fresco ou croutons.",
+                    "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

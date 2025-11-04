@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Cheeseburger Klasik Diner",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Daging Kisar (80% tanpa lemak / 20% lemak)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Sos Worcestershire",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Serbuk Bawang",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Serbuk Bawang Putih",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam (Kosher atau Laut)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Lada Hitam, baru dikisar",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Keju Amerika",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Roti Kentang atau Ban Hamburger",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Mayonis",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Hirisan Acar Dill",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Gabungkan 680 gram daging kisar dengan 1 sudu besar Sos Worcestershire, 0.5 sudu teh Serbuk Bawang, 0.5 sudu teh Serbuk Bawang Putih, 1 sudu teh garam, dan 0.25 sudu teh lada hitam. Gaul **perlahan-lahan** dengan tangan anda sehingga ia sebati. Menguli berlebihan akan menyebabkan patti menjadi keras.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Bahagikan campuran kepada 4 bahagian yang sama dan bentukkan patti dengan ketebalan kira-kira 2 sentimeter. Buat sedikit lekukan di tengah setiap patti dengan ibu jari anda untuk mengelakkannya daripada mengembung semasa memasak.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Panaskan kuali besi tuang atau gril di atas api sederhana-tinggi. Masak patti selama 3-5 minit setiap sisi untuk kematangan sederhana (medium doneness), atau sehingga suhu dalaman mencapai 71 darjah.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Masa Memasak Patti",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Semasa minit terakhir memasak, letakkan 1 keping Keju Amerika di atas setiap patti. Tutup gril atau kuali sebentar untuk memastikan keju cair dengan baik.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cairkan Keju",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Bakar 4 roti dengan bahagian yang dipotong menghadap ke bawah di atas gril atau kuali kering selama kira-kira 30 saat. Untuk memasang, sapukan 1 sudu besar Mayonis pada kedua-dua bahagian roti. Letakkan patti cheeseburger di atas roti bawah, tambah beberapa Hirisan Acar Dill (1 cawan), dan tutup dengan roti atas.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Taco Daging Kisar Klasik",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Daging Kisar Tanpa Lemak (80/20 atau lebih tanpa lemak)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Minyak Zaitun",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Serbuk Cili",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Jintan Manis Kisar",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Oregano Kering",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Serbuk Bawang Putih",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Lada Hitam",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pes Tomato",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Air",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Cengkerang Taco atau Tortilla (Jagung atau Tepung)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Salad Carik",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Keju Cheddar Parut atau Campuran Mexico",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Tomato Didadu",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Krim Masam (Sour Cream) atau Yogurt Greek (pilihan)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Panaskan Minyak Zaitun dalam kuali besar di atas api sederhana-tinggi. Masukkan Daging Kisar dan masak, sambil dihancurkan dengan sudu, sehingga ia perang sepenuhnya dan tiada lagi warna merah jambu.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Tapis sebarang lebihan lemak dari kuali dan kembalikan daging ke api.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Kacau Serbuk Cili, Jintan Manis, Oregano, Serbuk Bawang Putih, Garam, dan Lada Hitam. Masak selama 1 minit, biarkan rempah ratus dipanggang.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Panggang Rempah",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Tambahkan Pes Tomato dan Air. Kacau rata untuk menyaluti daging. Didihkan campuran, kemudian kecilkan api menjadi perlahan dan reneh sehingga sos menjadi pekat dan cecair sebahagian besarnya diserap (daging masih perlu lembap, tidak kering).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Reneh Daging",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Semasa daging sedang mereneh, panaskan Cengkerang Taco atau Tortilla mengikut arahan pada pembungkusan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Ceduk Daging Taco yang berperisa ke dalam cengkerang atau tortilla. Hias dengan Salad Carik, Keju, Tomato Didadu, dan sesudu Krim Masam atau Yogurt (pilihan). Hidangkan segera.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Piza Margherita Klasik",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Tepung Serbaguna",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Air Suam",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Yis Kering Aktif",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Minyak Zaitun (Doh)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Tomato Hancur",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Keju Mozzarella Segar",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Daun Basil Segar",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Minyak Zaitun (Topping)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Lada Hitam",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Aktifkan Yis dengan mencampurkannya dengan Air Suam dan secubit gula (tidak disenaraikan dalam bahan, tetapi diandaikan untuk pengaktifan yis) dalam mangkuk. Biarkan selama 5-10 minit sehingga berbuih.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Pengaktifan Yis",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Dalam mangkuk besar, gabungkan Tepung dan Garam. Tuang campuran yis dan 2 sudu besar Minyak Zaitun. Kacau sehingga terbentuk doh yang kasar.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Terbalikkan doh ke permukaan yang ditabur tepung sedikit dan uli selama 8-10 minit sehingga licin dan elastik. Letakkan dalam mangkuk berminyak, tutup, dan biarkan naik di tempat yang hangat sehingga saiznya berganda.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Doh Naik",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Panaskan ketuhar anda pada suhu tertinggi (biasanya 250°C/480°F) dan letakkan batu piza atau loyang di dalamnya untuk dipanaskan. Tumbuk doh, bahagikan kepada dua bebola (untuk dua piza bersaiz sederhana), dan biarkan berehat selama 10 minit.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Panaskan Ketuhar",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Regangkan atau gulung satu bebola doh menjadi bulatan 12 inci. Pindahkan ke sekop piza yang ditabur tepung atau kertas pembakar. Sebarkan separuh daripada Tomato Hancur secara rata, tambah separuh daripada Mozzarella yang dicarik, dan taburkan sedikit Minyak Zaitun dan secubit Lada.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Bakar piza selama 12-15 minit sehingga kerak menjadi perang keemasan dan keju menggelegak. Sejurus dikeluarkan dari ketuhar, hias segera dengan Daun Basil Segar. Hiris dan hidangkan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Masa Membakar",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Wrap Ayam Ranch Pedas",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Dada Ayam (tanpa tulang, tanpa kulit)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortilla (besar)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Saus Ranch",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Sos Pedas (cth., gaya Buffalo)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Salad Romaine (carik)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Keju Cheddar Parut",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Paprika Asap",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Serbuk Bawang Putih",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Minyak Zaitun",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Potong Dada Ayam menjadi jalur setebal 1 inci. Dalam mangkuk, gaulkan ayam dengan Minyak Zaitun, Paprika Asap, Serbuk Bawang Putih, dan secubit Garam sehingga disalut dengan baik.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Panaskan kuali besar di atas api sederhana-tinggi. Masukkan jalur ayam yang telah diperisakan dan masak selama 5-7 minit, balikkan sekali-sekala, sehingga perang keemasan dan masak sepenuhnya (suhu dalaman 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Memasak Ayam",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Semasa ayam masih panas, angkat dari api dan pindahkan ke mangkuk bersih. Tuang Sos Ranch dan Sos Pedas ke atas ayam. Gaul sehingga setiap bahagian disalut dengan campuran Ranch Pedas.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Bentangkan satu Tortilla. Sebarkan lapisan nipis Salad Carik di tengah, diikuti dengan satu perempat daripada Keju Cheddar Parut. Ini membentuk asas wrap.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Letakkan satu perempat daripada campuran Ayam Ranch Pedas di atas keju dan salad. Berhati-hati agar tidak mengisi wrap terlalu banyak.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Untuk menggulung, lipat kedua-dua belah Tortilla di atas inti, kemudian gulung wrap dengan ketat dari bawah ke atas. Potong wrap yang telah siap menjadi dua secara pepenjuru dan hidangkan segera.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Omelet Perancis Klasik",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Telur (besar)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Mentega",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Garam",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Lada Hitam",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Daun Kucai (segar, cincang)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Pecahkan Telur ke dalam mangkuk. Tambahkan Garam dan Lada. Pukul dengan kuat sehingga kuning telur dan putih telur sebati sepenuhnya dan sedikit berbuih, tetapi elakkan daripada memasukkan terlalu banyak udara.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Memukul",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Panaskan kuali tidak melekat (kira-kira 8 inci) di atas api sederhana. Masukkan Mentega dan pusingkan sehingga cair, berbuih, dan kemudian surut, mengambil warna yang jernih dan seperti kacang.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Cairkan Mentega",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Tuang campuran telur ke dalam kuali panas. Biarkan telur mengeras selama kira-kira 10 saat. Kemudian, menggunakan garpu atau spatula getah, kacau telur secara berterusan dan cepat, sambil mencondongkan kuali, sehingga bahagian bawah mengeras tetapi bahagian atas kekal lembap dan berkrim.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Memasak Telur",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Berhenti mengacau dan biarkan Omelet masak tanpa diganggu selama 30 saat lagi untuk bahagian bawah mengeras sepenuhnya. Taburkan Daun Kucai cincang di atas sepertiga bahagian tengah omelet.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Pengerasaan Akhir",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Condongkan kuali, dan menggunakan spatula, lipat satu sisi Omelet kira-kira satu pertiga ke atas tengah. Tolak Omelet keluar dari kuali ke atas pinggan dengan perlahan-lahan, dengan bahagian lipatan menghadap ke bawah, untuk mencipta bentuk torpedo yang kemas. Hidangkan segera.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Spaghetti Bawang Putih dan Minyak Zaitun Klasik (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Pasta Spaghetti",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Minyak Zaitun Dara Tambahan",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Bawang Putih",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Serpihan Cili Merah",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Pasli Segar (Cincang)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Lada Hitam",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Didihkan periuk besar berisi air. Garamkan air (ia sepatutnya masin seperti air laut). Masukkan Spaghetti dan masak mengikut arahan pembungkusan sehingga al dente. Simpan kira-kira 1 cawan air rebusan pasta.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Memasak Pasta",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Semasa pasta sedang dimasak, hiris Bawang Putih nipis-nipis. Panaskan kuali besar di atas api sederhana dan masukkan 0.75 cawan Minyak Zaitun Dara Tambahan. Masukkan Bawang Putih yang dihiris dan 1 sudu teh Serpihan Cili Merah ke dalam kuali.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Tumis Bawang Putih sehingga keemasan dan wangi, kira-kira 2-3 minit. **Berhati-hati agar tidak hangus**, jika tidak ia akan menjadi pahit. Masukkan 0.5 cawan air rebusan pasta yang disimpan ke dalam kuali. Didihkan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Menumis Bawang Putih",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Tapis pasta yang telah dimasak (jangan bilas) dan segera pindahkan ke kuali dengan sos Bawang Putih. Tambahkan baki 4 sudu besar Pasli Segar yang dicincang. Gaul dengan cepat dan goyangkan kuali untuk menyaluti semua spaghetti dengan sos.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Tambahkan sedikit lagi air pasta yang disimpan jika perlu untuk menyesuaikan konsistensi sos. Rasa dan tambahkan 1 cubit Lada Hitam dan Garam tambahan jika perlu. Hidangkan segera semasa panas.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Pasta Ayam Pesto Berkrim",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Pasta Fettuccine",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Dada Ayam (tanpa tulang, tanpa kulit)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Krim Penuh Lemak",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Pesto Basil",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Keju Parmesan (parut)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Minyak Zaitun",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Serbuk Bawang Putih",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Lada Hitam",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Potong 500 gram Dada Ayam menjadi kiub 1 inci. Dalam mangkuk, gaulkan ayam dengan 1 sudu besar Minyak Zaitun, 0.5 sudu teh Garam, 1 sudu teh Serbuk Bawang Putih, dan 1 cubit Lada Hitam.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Panaskan baki 1 sudu besar Minyak Zaitun dalam kuali besar di atas api sederhana-tinggi. Masukkan Ayam yang telah diperisakan dan masak selama 6-8 minit, balikkan sekali-sekala, sehingga perang keemasan dan masak sepenuhnya.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Memasak Ayam",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Semasa ayam sedang dimasak, didihkan periuk besar berisi air masin. Masukkan 350 gram Pasta Fettuccine dan masak sehingga al dente. Tapis pasta, simpan 1 cawan air rebusan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Memasak Pasta",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Kecilkan api pada kuali (dengan ayam) menjadi perlahan. Tuang 250 mililiter Krim Penuh Lemak dan 0.5 cawan Pesto Basil. Kacau rata sehingga sebati. Biarkan sos mereneh perlahan selama 2 minit untuk memekatkannya sedikit.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Mereneh Sos",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Tambahkan pasta yang telah ditapis ke dalam sos pesto berkrim dan gaul untuk menyalut. Kacau 0.5 cawan Keju Parmesan parut dan kira-kira 0.25 cawan air pasta yang disimpan. Tambah lebih banyak air jika perlu untuk mencapai konsistensi yang dikehendaki. Hidangkan segera.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Sandwich Keju Bakar (Grilled Cheese Sandwich)",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Roti Sourdough",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Keju Cheddar (tajam)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Keju Monterey Jack",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Mentega Tawar (dilembutkan)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Mayonis (pilihan untuk rasa)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Parut kedua-dua Keju Cheddar dan Monterey Jack, dan campurkannya bersama dalam mangkuk kecil. Memarut memastikan pencairan yang sekata.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Sapukan Mentega secara rata pada satu sisi setiap hirisan roti. Ini adalah sisi yang akan menyentuh kuali. Secara pilihan, sapukan lapisan nipis Mayonis di sisi bertentangan (bahagian dalam) salah satu hirisan untuk rasa tambahan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Letakkan satu hirisan Roti (sisi mentega ke bawah) dalam kuali tidak melekat di atas api sederhana-perlahan. Taburkan Keju campuran secara rata di atas roti, kemudian tambah secubit Garam.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Tutup dengan hirisan roti kedua (sisi mentega ke atas). Masak selama 3 hingga 4 minit sehingga hirisan bawah perang keemasan dan Keju mula mencair.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Masa Memasak Sisi Pertama",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Balikkan sandwich dengan berhati-hati menggunakan spatula. Masak selama 3 hingga 4 minit lagi sehingga sisi kedua perang keemasan dan Keju cair sepenuhnya dan meleleh. Jika bahagian luar menjadi perang terlalu cepat, kecilkan api.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Masa Memasak Sisi Kedua",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Angkat dari kuali, potong secara pepenjuru, dan hidangkan segera.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Steak Ribeye Bakar Kuali Sempurna dengan Mentega Herba Bawang Putih",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Steak Ribeye (tebal 1.5 inci)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Garam Kosher",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Lada Hitam Baru Digiling",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Minyak Sayuran (titik asap tinggi)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Mentega Tawar",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Ulas Bawang Putih (dihancurkan)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ranting Thyme Segar",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Keringkan Steak sepenuhnya dengan tuala kertas. Perasakan dengan murah hati di semua sisi dengan Garam Kosher dan Lada Hitam. Biarkan steak pada suhu bilik selama 30 minit sebelum memasak.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Panaskan Minyak Sayuran dalam kuali besi tuang di atas api yang tinggi sehingga ia mula berkilauan dan sedikit berasap. Letakkan steak yang telah diperisakan dengan berhati-hati ke dalam kuali panas. Bakar selama 3 hingga 4 minit sehingga kerak perang gelap yang mendalam terbentuk.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Masa Membakar Sisi Pertama",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Balikkan Steak. Kecilkan api menjadi sederhana. Masukkan Mentega, Ulas Bawang Putih yang dihancurkan, dan Ranting Thyme ke dalam kuali. Condongkan kuali sedikit dan gunakan sudu besar untuk menuangkan mentega herba yang dicairkan secara berterusan ke atas steak selama 1 hingga 2 minit, atau sehingga suhu dalaman yang dikehendaki dicapai (cth., 130°F untuk sederhana-mentah).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Masa Menyiram/Memasak",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Angkat Steak dari kuali dan letakkan di atas papan pemotong. Tuang baki Mentega herba dari kuali ke atas steak. Biarkan ia berehat selama 5 hingga 10 minit untuk membolehkan jus diedarkan semula sebelum dihiris dan dihidangkan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Masa Berehat",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Ayam Mentega Klasik (Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Paha Ayam Tanpa Tulang, Tanpa Kulit (didadu)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Yogurt Biasa",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Pes Halia-Bawang Putih",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Serbuk Cili",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Serbuk Kunyit",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (untuk perapan)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Puri Tomato",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Mentega Tawar",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Krim Penuh Lemak",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (Daun Halba Kering)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Gula",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Perap Ayam: Dalam mangkuk besar, campurkan ayam dengan Yogurt, Pes Halia-Bawang Putih, Serbuk Cili, Serbuk Kunyit, dan Garam Masala untuk perapan. Tutup dan sejukkan selama sekurang-kurangnya 30 minit, atau sehingga 4 jam.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Masa Perapan",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Masak Ayam: Panggang, bakar atau goreng ayam yang telah diperap sehingga masak sepenuhnya dan sedikit hangus di bahagian tepi. Ketepikan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Masa Memasak Ayam",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Sediakan Asas Sos: Dalam periuk besar, cairkan separuh daripada Mentega. Tambahkan Puri Tomato dan masak sehingga minyak terpisah (kira-kira 10 minit). Tambahkan 1/2 cawan air, didihkan, kemudian kisar sos sehingga benar-benar licin. Tapis sos yang telah dikisar kembali ke dalam periuk.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Masa Mereneh Sos",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Selesaikan Sos: Tambahkan baki Mentega, Gula, dan baki Garam Masala (jika dikehendaki) ke dalam sos yang telah ditapis. Kacau rata. Masukkan kepingan ayam yang telah dimasak dan reneh perlahan selama 5 minit.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Reneh Akhir dengan Ayam",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Hidangkan: Kacau Krim Penuh Lemak dan hancurkan Kasuri Methi di antara tapak tangan anda sebelum menambahkannya. Panaskan, tetapi jangan didihkan. Hidangkan segera dengan nasi atau naan.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Sup Tomato Berkrim",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Tomato Didadu Tin",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Stok Ayam atau Sayuran",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Bawang Bombay, cincang",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Bawang Putih, cincang",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Krim Penuh Lemak",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Minyak Zaitun",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Basil Kering",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Lada Hitam",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Panaskan Minyak Zaitun dalam periuk besar di atas api sederhana. Masukkan Bawang Bombay cincang dan tumis sehingga lembut, kira-kira 5-7 minit. Masukkan Bawang Putih cincang dan tumis 1 minit lagi.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Menumis Bawang Bombay",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Kacau Tomato Didadu Tin, Stok, Basil Kering, Garam, dan Lada. Didihkan campuran, kemudian kecilkan api dan reneh selama 20 minit.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Mereneh Sup",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Pindahkan sup dengan berhati-hati ke pengisar atau gunakan pengisar celup untuk mengisar sup sehingga licin. Kembalikan sup ke dalam periuk.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Kacau Krim Penuh Lemak dan panaskan selama 2-3 minit, tetapi jangan didihkan. Hidangkan panas, secara pilihan dihiasi dengan Basil segar atau kruton.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

@@ -2,7 +2,7 @@
   "request": [
     {
       "id": 1,
-      "recipeName": "Klasik Lokanta Çizburgeri",
+      "recipeName": "Cheeseburger Classique de Diner",
       "calories": 620,
       "prepTime": 10,
       "cookTime": 10,
@@ -10,52 +10,52 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
       "ingredients": [
         {
-          "name": "Kıyma ( %80 yağsız / %20 yağlı)",
+          "name": "Bœuf Haché (80% maigre / 20% gras)",
           "quantity": 680.0,
           "type": "gram"
         },
         {
-          "name": "Worcestershire Sosu",
+          "name": "Sauce Worcestershire",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Soğan Tozu",
+          "name": "Poudre d'Oignon",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Poudre d'Ail",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz (Koşer veya Deniz)",
+          "name": "Sel (Casher ou Marin)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Taze Çekilmiş Karabiber",
+          "name": "Poivre Noir Fraîchement Moulu",
           "quantity": 0.25,
           "type": "teaspoon"
         },
         {
-          "name": "Amerikan Peyniri",
+          "name": "Fromage Américain (American Cheese)",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Patatesli Ekmekler veya Hamburger Ekmeği",
+          "name": "Pains à Pomme de Terre ou Pains à Hamburger",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Mayonez",
+          "name": "Mayonnaise",
           "quantity": 4.0,
           "type": "tablespoon"
         },
         {
-          "name": "Dereotu Turşusu Dilimleri",
+          "name": "Cornichons à l'Aneth (en tranches)",
           "quantity": 1.0,
           "type": "cup"
         }
@@ -63,23 +63,23 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "680 gram kıymayı 1 yemek kaşığı Worcestershire sosu, 0.5 çay kaşığı soğan tozu, 0.5 çay kaşığı sarımsak tozu, 1 çay kaşığı tuz ve 0.25 çay kaşığı karabiber ile birleştirin. Sadece birleşene kadar ellerinizle **nazikçe** karıştırın. Aşırı karıştırmak burgerlerin sertleşmesine neden olur.",
+          "stepDescription": "Combinez les 680 grammes de bœuf haché avec 1 cuillère à soupe de sauce Worcestershire, 0.5 cuillère à café de poudre d'oignon, 0.5 cuillère à café de poudre d'ail, 1 cuillère à café de sel et 0.25 cuillère à café de poivre noir. Mélangez **délicatement** avec les mains jusqu'à ce que ce soit juste combiné. Trop mélanger rendra les hamburgers coriaces.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Karışımı 4 eşit porsiyona bölün ve yaklaşık 2 santimetre kalınlığında köfteler haline getirin. Pişirme sırasında şişmelerini önlemek için her köftenin ortasına baş parmağınızla küçük bir girinti yapın.",
+          "stepDescription": "Divisez le mélange en 4 portions égales et formez des galettes d'environ 2 centimètres d'épaisseur. Faites une petite indentation au centre de chaque galette avec votre pouce pour les empêcher de gonfler pendant la cuisson.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Bir tavayı veya ızgarayı orta-yüksek ateşte ısıtın. Orta pişmişlik için köfteleri her iki tarafı 3-5 dakika pişirin veya iç sıcaklıkları 71 dereceye ulaşana kadar pişirin.",
+          "stepDescription": "Préchauffez une poêle ou un gril à feu moyen-vif. Faites cuire les galettes 3 à 5 minutes par côté pour une cuisson moyenne, ou jusqu'à ce que la température interne atteigne 71 degrés.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Köfte Pişirme Süresi",
+              "timerName": "Temps de cuisson de la galette",
               "timerHours": 0,
               "timerMinutes": 8,
               "timerSeconds": 0
@@ -88,11 +88,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Pişirmenin son dakikasında, her köftenin üzerine 1 dilim Amerikan peyniri koyun. Peynirin güzelce erimesini sağlamak için ızgaranın veya tavanın üzerini kısaca kapatın.",
+          "stepDescription": "Pendant la dernière minute de cuisson, placez 1 tranche de fromage américain sur chaque galette. Couvrez brièvement le gril ou la poêle pour vous assurer que le fromage fond joliment.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Peynir Eritme",
+              "timerName": "Fonte du fromage",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 0
@@ -101,7 +101,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "4 adet ekmeği kesik tarafı aşağı bakacak şekilde ızgarada veya kuru bir tavada yaklaşık 30 saniye kızartın. Birleştirmek için, ekmeğin her iki yarısına 1 yemek kaşığı mayonez sürün. Çizburger köftesini alt ekmeğe yerleştirin, üzerine 1 su bardağı dereotu turşusu dilimlerinden biraz koyun ve üst ekmekle kapatın.",
+          "stepDescription": "Faites griller les 4 pains, côté coupé vers le bas, sur le gril ou dans une poêle sèche pendant environ 30 secondes. Pour assembler : Étalez 1 cuillère à soupe de mayonnaise sur les deux moitiés du pain. Placez la galette de cheeseburger sur le pain inférieur, garnissez de quelques tranches de cornichons à l'aneth (1 tasse au total) et recouvrez du pain supérieur.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
           "recipeTimer": []
         }
@@ -109,7 +109,7 @@
     },
     {
       "id": 2,
-      "recipeName": "Klasik Kıymalı Taco",
+      "recipeName": "Tacos Classiques au Bœuf Haché",
       "calories": 300,
       "prepTime": 15,
       "cookTime": 20,
@@ -117,77 +117,77 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
       "ingredients": [
         {
-          "name": "Yağsız Kıyma (80/20 veya daha az yağlı)",
+          "name": "Bœuf haché maigre (80/20 ou plus maigre)",
           "quantity": 0.45,
           "type": "kilogram"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Huile d'Olive",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Biber Tozu",
+          "name": "Poudre de Chili",
           "quantity": 2.0,
           "type": "teaspoon"
         },
         {
-          "name": "Öğütülmüş Kimyon",
+          "name": "Cumin Moulu",
           "quantity": 2.0,
           "type": "teaspoon"
         },
         {
-          "name": "Kuru Kekik",
+          "name": "Origan Séché",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Poudre d'Ail",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sel",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Poivre Noir",
           "quantity": 0.25,
           "type": "teaspoon"
         },
         {
-          "name": "Domates Salçası",
+          "name": "Concentré de Tomate",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Su",
+          "name": "Eau",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Taco Kabukları veya Tortillalar (Mısır veya Un)",
+          "name": "Coques à Tacos ou Tortillas (Maïs ou Farine)",
           "quantity": 8.0,
           "type": "piece"
         },
         {
-          "name": "Rendelenmiş Marul",
+          "name": "Laitue Émincée",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Rendelenmiş Çedar Peyniri veya Meksika Karışımı",
+          "name": "Fromage Cheddar Râpé ou Mélange Mexicain",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Doğranmış Domates",
+          "name": "Tomates Coupées en Dés",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Ekşi Krema veya Yunan Yoğurdu (isteğe bağlı)",
+          "name": "Crème Aigre ou Yogourt Grec (facultatif)",
           "quantity": 4.0,
           "type": "tablespoon"
         }
@@ -195,23 +195,23 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Zeytinyağını büyük bir tavada orta-yüksek ateşte ısıtın. Kıymayı ekleyin ve kaşıkla parçalayarak tamamen kızarana ve artık pembe kalmayana kadar pişirin.",
+          "stepDescription": "Faites chauffer l'huile d'olive dans une grande poêle à feu moyen-vif. Ajoutez le bœuf haché et faites-le cuire, en le brisant avec une cuillère, jusqu'à ce qu'il soit complètement bruni et n'ait plus de couleur rose.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Tavadan fazla yağı süzün ve eti tekrar ateşe koyun.",
+          "stepDescription": "Égouttez l'excès de graisse de la poêle et remettez la viande sur le feu.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Biber tozu, kimyon, kekik, sarımsak tozu, tuz ve karabiberi karıştırın. Baharatların kavrulması için 1 dakika pişirin.",
+          "stepDescription": "Incorporez la poudre de chili, le cumin, l'origan, la poudre d'ail, le sel et le poivre noir. Cuire pendant 1 minute, pour faire torréfier les épices.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Baharatları Kavurma",
+              "timerName": "Torréfaction des épices",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 0
@@ -220,11 +220,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Domates salçası ve suyu ekleyin. Eti kaplamak için iyice karıştırın. Karışımı kaynamaya bırakın, ardından ateşi kısın ve sos kalınlaşana ve sıvı çoğunlukla emilene kadar pişirin (et hala nemli olmalı, kuru değil).",
+          "stepDescription": "Ajoutez le concentré de tomate et l'eau. Remuez bien pour enrober la viande. Portez le mélange à ébullition, puis réduisez le feu à doux et laissez mijoter jusqu'à ce que la sauce ait épaissi et que le liquide soit majoritairement absorbé (la viande doit rester humide, pas sèche).",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Eti Kaynatma",
+              "timerName": "Mijotage de la viande",
               "timerHours": 0,
               "timerMinutes": 5,
               "timerSeconds": 0
@@ -233,13 +233,13 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Et kaynarken, taco kabuklarını veya tortillaları paket talimatlarına göre ısıtın.",
+          "stepDescription": "Pendant que la viande mijote, réchauffez les coques à tacos ou les tortillas selon les instructions de l'emballage.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Baharatlı taco etini kabuklara veya tortillalara kaşıkla koyun. Üzerine rendelenmiş marul, peynir, doğranmış domates ve bir kaşık ekşi krema veya yoğurt (isteğe bağlı) ekleyin. Hemen servis yapın.",
+          "stepDescription": "Versez la viande à tacos assaisonnée dans les coques ou les tortillas. Garnissez de laitue émincée, de fromage, de tomates coupées en dés et d'une cuillerée de crème aigre ou de yogourt (facultatif). Servez immédiatement.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
           "recipeTimer": []
         }
@@ -247,7 +247,7 @@
     },
     {
       "id": 3,
-      "recipeName": "Klasik Margherita Pizza",
+      "recipeName": "Pizza Margherita Classique",
       "calories": 350,
       "prepTime": 30,
       "cookTime": 15,
@@ -255,52 +255,52 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
       "ingredients": [
         {
-          "name": "Çok Amaçlı Un",
+          "name": "Farine tout usage",
           "quantity": 3.0,
           "type": "cup"
         },
         {
-          "name": "Ilık Su",
+          "name": "Eau Tiède",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Aktif Kuru Maya",
+          "name": "Levure Sèche Active",
           "quantity": 2.25,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sel",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Zeytinyağı (Hamur)",
+          "name": "Huile d'Olive (pour la pâte)",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Ezilmiş Domates",
+          "name": "Tomates Concassées",
           "quantity": 400.0,
           "type": "gram"
         },
         {
-          "name": "Taze Mozzarella Peyniri",
+          "name": "Mozzarella Fraîche",
           "quantity": 250.0,
           "type": "gram"
         },
         {
-          "name": "Taze Fesleğen Yaprakları",
+          "name": "Feuilles de Basilic Frais",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Zeytinyağı (Üst Malzeme)",
+          "name": "Huile d'Olive (pour la garniture)",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Poivre Noir",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -308,11 +308,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Mayayı ılık su ve bir tutam şekerle (malzemelerde listelenmemiştir, ancak maya aktivasyonu için varsayılmıştır) bir kapta karıştırarak aktive edin. Köpürene kadar 5-10 dakika bekletin.",
+          "stepDescription": "Activez la levure en la mélangeant avec l'eau tiède et une pincée de sucre (non listé dans les ingrédients, mais supposé pour l'activation de la levure) dans un bol. Laissez reposer 5 à 10 minutes jusqu'à ce que le mélange soit mousseux.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Maya Aktivasyonu",
+              "timerName": "Activation de la levure",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -321,17 +321,17 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Büyük bir kapta unu ve tuzu birleştirin. Maya karışımını ve 2 yemek kaşığı zeytinyağını dökün. Kaba bir hamur oluşana kadar karıştırın.",
+          "stepDescription": "Dans un grand bol, mélangez la farine et le sel. Versez le mélange de levure et les 2 cuillères à soupe d'huile d'olive. Mélangez jusqu'à ce qu'une pâte grossière se forme.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Hamuru hafifçe unlanmış bir yüzeye alın ve pürüzsüz ve elastik olana kadar 8-10 dakika yoğurun. Yağlanmış bir kaba koyun, üzerini kapatın ve boyutunun iki katına çıkana kadar ılık bir yerde kabarmaya bırakın.",
+          "stepDescription": "Versez la pâte sur une surface légèrement farinée et pétrissez pendant 8 à 10 minutes jusqu'à ce qu'elle soit lisse et élastique. Placez-la dans un bol huilé, couvrez et laissez-la lever dans un endroit chaud jusqu'à ce qu'elle double de volume.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Hamur Kabartma",
+              "timerName": "Levée de la pâte",
               "timerHours": 1,
               "timerMinutes": 30,
               "timerSeconds": 0
@@ -340,11 +340,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Fırınınızı en yüksek sıcaklığa (genellikle 250°C/480°F) önceden ısıtın ve bir pizza taşını veya fırın tepsisini ısınması için içine yerleştirin. Hamurun havasını alın, iki topa (iki orta boy pizza için) bölün ve 10 dakika dinlenmeye bırakın.",
+          "stepDescription": "Préchauffez votre four à la température la plus élevée (généralement 250°C/480°F) et placez-y une pierre à pizza ou une plaque de cuisson pour qu'elle chauffe. Dégazez la pâte, divisez-la en deux boules (pour deux pizzas moyennes) et laissez-les reposer pendant 10 minutes.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Fırın Ön Isıtma",
+              "timerName": "Préchauffage du four",
               "timerHours": 0,
               "timerMinutes": 30,
               "timerSeconds": 0
@@ -353,17 +353,17 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Bir hamur topunu 12 inçlik bir daire şeklinde gerin veya açın. Unlanmış bir pizza küreği veya parşömen kağıdı üzerine aktarın. Ezilmiş domateslerin yarısını eşit şekilde yayın, üzerine yırtılmış mozzarellanın yarısını ekleyin ve biraz zeytinyağı ve bir tutam karabiber gezdirin.",
+          "stepDescription": "Étirez ou abaissez une des boules de pâte en un cercle de 30 cm. Transférez-la sur une pelle à pizza farinée ou du papier sulfurisé. Étalez uniformément la moitié des tomates concassées, garnissez de la moitié de la mozzarella déchirée, et arrosez d'un peu d'huile d'olive et d'une pincée de poivre.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Kabuk altın rengini alana ve peynir köpürene kadar pizzayı 12-15 dakika pişirin. Fırından çıktıktan hemen sonra taze fesleğen yapraklarıyla süsleyin. Dilimleyin ve servis yapın.",
+          "stepDescription": "Faites cuire la pizza pendant 12 à 15 minutes, jusqu'à ce que la croûte soit dorée et que le fromage bouillonne. Dès la sortie du four, garnissez immédiatement de feuilles de basilic frais. Coupez en tranches et servez.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Pişirme Süresi",
+              "timerName": "Temps de cuisson",
               "timerHours": 0,
               "timerMinutes": 15,
               "timerSeconds": 0
@@ -374,7 +374,7 @@
     },
     {
       "id": 4,
-      "recipeName": "Baharatlı Tavuk Ranch Dürümü",
+      "recipeName": "Wrap Épicé au Poulet et à la Sauce Ranch",
       "calories": 450,
       "prepTime": 15,
       "cookTime": 10,
@@ -382,52 +382,52 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
       "ingredients": [
         {
-          "name": "Tavuk Göğsü (kemiksiz, derisiz)",
+          "name": "Poitrines de Poulet (désossées, sans peau)",
           "quantity": 500.0,
           "type": "gram"
         },
         {
-          "name": "Tortillalar (büyük)",
+          "name": "Tortillas (grandes)",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Ranch Sosu",
+          "name": "Sauce Ranch",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Acı Sos (örneğin, Buffalo tarzı)",
+          "name": "Sauce Piquante (ex. style Buffalo)",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Romaine Marul (doğranmış)",
+          "name": "Laitue Romaine (émincée)",
           "quantity": 2.0,
           "type": "cup"
         },
         {
-          "name": "Rendelenmiş Çedar Peyniri",
+          "name": "Fromage Cheddar Râpé",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "İsli Biberiye",
+          "name": "Paprika Fumé",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Poudre d'Ail",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sel",
           "quantity": 1.0,
           "type": "pinch"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Huile d'Olive",
           "quantity": 1.0,
           "type": "tablespoon"
         }
@@ -435,17 +435,17 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Tavuk göğsünü 1 inçlik şeritler halinde kesin. Bir kapta tavuğu zeytinyağı, isli biberiye, sarımsak tozu ve bir tutam tuz ile iyice kaplanana kadar karıştırın.",
+          "stepDescription": "Coupez les poitrines de poulet en lanières de 2.5 cm. Dans un bol, mélangez le poulet avec l'huile d'olive, le paprika fumé, la poudre d'ail et une pincée de sel jusqu'à ce qu'il soit bien enrobé.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Büyük bir tavayı orta-yüksek ateşte ısıtın. Baharatlı tavuk şeritlerini ekleyin ve altın rengi kahverengi olana ve tamamen pişene kadar (iç sıcaklık 74°C/165°F) ara sıra çevirerek 5-7 dakika pişirin.",
+          "stepDescription": "Faites chauffer une grande poêle à feu moyen-vif. Ajoutez les lanières de poulet assaisonnées et faites-les cuire pendant 5 à 7 minutes, en les retournant de temps en temps, jusqu'à ce qu'elles soient dorées et complètement cuites (température interne de 74°C/165°F).",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "Tavuk Pişirme",
+              "timerName": "Temps de cuisson du poulet",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 0
@@ -454,25 +454,25 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Tavuk hala sıcakken, ısıdan alın ve temiz bir kaba aktarın. Tavuğun üzerine ranch sosu ve acı sosu dökün. Her parçası baharatlı ranch karışımıyla kaplanana kadar karıştırın.",
+          "stepDescription": "Tant que le poulet est chaud, retirez-le du feu et transférez-le dans un bol propre. Versez la sauce ranch et la sauce piquante sur le poulet. Mélangez jusqu'à ce que chaque morceau soit recouvert du mélange ranch épicé.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Bir tortilla açın. Ortasına ince bir kat doğranmış marul yayın, ardından rendelenmiş çedar peynirinin dörtte birini ekleyin. Bu, dürümün tabanını oluşturur.",
+          "stepDescription": "Étalez une tortilla. Étalez une fine couche de laitue romaine émincée au centre, suivie d'un quart du fromage cheddar râpé. Cela forme la base du wrap.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Baharatlı ranch tavuk karışımının dörtte birini peynir ve marulun üzerine yerleştirin. Dürümü aşırı doldurmamaya dikkat edin.",
+          "stepDescription": "Placez un quart du mélange de poulet ranch épicé sur le fromage et la laitue. Faites attention à ne pas trop remplir le wrap.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Dürümlemek için, tortillanın iki yanını iç harcın üzerine katlayın, ardından dürümu alttan başlayarak sıkıca sarın. Bitmiş dürümu çapraz olarak ikiye kesin ve hemen servis yapın.",
+          "stepDescription": "Pour l'emballer, pliez les deux côtés de la tortilla vers l'intérieur sur la garniture, puis roulez le wrap fermement du bas vers le haut. Coupez le wrap fini en diagonale en deux et servez immédiatement.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -480,7 +480,7 @@
     },
     {
       "id": 5,
-      "recipeName": "Klasik Fransız Omleti",
+      "recipeName": "Omelette Française Classique",
       "calories": 250,
       "prepTime": 5,
       "cookTime": 8,
@@ -488,27 +488,27 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
       "ingredients": [
         {
-          "name": "Yumurta (büyük)",
+          "name": "Œufs (gros)",
           "quantity": 3.0,
           "type": "piece"
         },
         {
-          "name": "Tereyağı",
+          "name": "Beurre",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sel",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Poivre Noir",
           "quantity": 1.0,
           "type": "pinch"
         },
         {
-          "name": "Frenk Soğanı (taze, doğranmış)",
+          "name": "Ciboulette (fraîche, hachée)",
           "quantity": 0.5,
           "type": "tablespoon"
         }
@@ -516,11 +516,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Yumurtaları bir kaseye kırın. Tuz ve karabiber ekleyin. Sarısı ve beyazı tamamen birleşene ve hafifçe köpürene kadar kuvvetlice çırpın, ancak çok fazla hava katmaktan kaçının.",
+          "stepDescription": "Cassez les œufs dans un bol. Ajoutez le sel et le poivre. Fouettez vigoureusement jusqu'à ce que les jaunes et les blancs soient complètement combinés et légèrement mousseux, mais évitez d'incorporer trop d'air.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Çırpma",
+              "timerName": "Fouetter",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 0
@@ -529,11 +529,11 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Yapışmaz bir tavayı (yaklaşık 8 inç) orta ateşte ısıtın. Tereyağını ekleyin ve eriyip köpürene ve ardından köpüğü azalana, berrak, cevizli bir renk alana kadar döndürün.",
+          "stepDescription": "Faites chauffer une poêle antiadhésive (environ 20 cm) à feu moyen. Ajoutez le beurre et faites-le tournoyer jusqu'à ce qu'il soit fondu, mousse et s'affaisse, prenant une couleur claire et noisettée.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "Tereyağı Eritme",
+              "timerName": "Fonte du beurre",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 30
@@ -542,11 +542,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Yumurta karışımını sıcak tavaya dökün. Yumurtaların yaklaşık 10 saniye donmasına izin verin. Ardından, bir çatal veya silikon spatula kullanarak, tavanın altı donmuş ancak üstü hala nemli ve kremsi olana kadar yumurtaları sürekli ve hızlı bir şekilde karıştırın, tavayı eğin.",
+          "stepDescription": "Versez le mélange d'œufs dans la poêle chaude. Laissez les œufs se fixer pendant environ 10 secondes. Ensuite, utilisez une fourchette ou une spatule en caoutchouc pour remuer les œufs rapidement et constamment, tout en inclinant la poêle, jusqu'à ce que le fond soit fixé mais que le dessus soit encore humide et crémeux.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Yumurta Pişirme",
+              "timerName": "Cuisson des œufs",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 30
@@ -555,11 +555,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Karıştırmayı bırakın ve omletin altının tamamen donması için 30 saniye daha pişmesine izin verin. Doğranmış frenk soğanını omletin orta üçte birlik kısmına serpin.",
+          "stepDescription": "Arrêtez de remuer et laissez l'omelette cuire sans être dérangée pendant 30 secondes supplémentaires pour fixer complètement le fond. Parsemez la ciboulette hachée sur le tiers central de l'omelette.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Son Donma",
+              "timerName": "Fixation finale",
               "timerHours": 0,
               "timerMinutes": 0,
               "timerSeconds": 30
@@ -568,7 +568,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Tavayı eğin ve bir spatula kullanarak omletin bir tarafını ortanın yaklaşık üçte biri kadar üzerine katlayın. Omleti tavadan nazikçe bir tabağa, dikiş tarafı aşağı bakacak şekilde yuvarlayın, böylece düzgün bir torpido şekli oluşur. Hemen servis yapın.",
+          "stepDescription": "Inclinez la poêle et utilisez une spatule pour plier un côté de l'omelette sur environ un tiers vers le centre. Roulez délicatement l'omelette hors de la poêle et sur une assiette, le joint vers le bas, pour créer une forme de torpille soignée. Servez immédiatement.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
           "recipeTimer": []
         }
@@ -576,7 +576,7 @@
     },
     {
       "id": 6,
-      "recipeName": "Klasik Sarımsaklı ve Zeytinyağlı Spagetti (Aglio e Olio)",
+      "recipeName": "Spaghetti Classiques Ail et Huile d'Olive (Aglio e Olio)",
       "calories": 480,
       "prepTime": 10,
       "cookTime": 15,
@@ -584,37 +584,37 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
       "ingredients": [
         {
-          "name": "Spagetti Makarna",
+          "name": "Pâtes Spaghetti",
           "quantity": 400.0,
           "type": "gram"
         },
         {
-          "name": "Sızma Zeytinyağı",
+          "name": "Huile d'Olive Vierge Extra",
           "quantity": 0.75,
           "type": "cup"
         },
         {
-          "name": "Sarımsak",
+          "name": "Ail",
           "quantity": 6.0,
           "type": "piece"
         },
         {
-          "name": "Kırmızı Biber Pul Biberi (Chili)",
+          "name": "Flocons de Piment Rouge (Chili)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sel",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Taze Maydanoz (Doğranmış)",
+          "name": "Persil Frais (haché)",
           "quantity": 4.0,
           "type": "tablespoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Poivre Noir",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -622,11 +622,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Büyük bir tencere suyu kaynatın. Suyu tuzlayın (deniz suyu kadar tuzlu olmalıdır). Spagettiyi ekleyin ve al dente olana kadar paket talimatlarına göre pişirin. Yaklaşık 1 su bardağı makarna pişirme suyunu ayırın.",
+          "stepDescription": "Portez une grande casserole d'eau à ébullition. Salez l'eau (elle doit être salée comme l'eau de mer). Ajoutez les spaghettis et faites-les cuire selon les instructions du paquet jusqu'à ce qu'elles soient al dente. Réservez environ 1 tasse de l'eau de cuisson des pâtes.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Makarna Pişirme",
+              "timerName": "Cuisson des pâtes",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -635,17 +635,17 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Makarna pişerken, sarımsağı ince ince dilimleyin. Büyük bir tavayı orta ateşte ısıtın ve 0.75 su bardağı sızma zeytinyağı ekleyin. Dilimlenmiş sarımsak ve 1 çay kaşığı kırmızı biber pul biberini tavaya ekleyin.",
+          "stepDescription": "Pendant que les pâtes cuisent, coupez l'ail en fines tranches. Faites chauffer une grande poêle à feu moyen et ajoutez 0.75 tasse d'huile d'olive vierge extra. Ajoutez l'ail tranché et 1 cuillère à café de flocons de piment rouge dans la poêle.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Sarımsağı altın rengi ve kokusu çıkana kadar yaklaşık 2-3 dakika soteleyin. **Yakmamaya dikkat edin**, aksi takdirde acı olur. Ayrılan makarna pişirme suyunun 0.5 su bardağını tavaya ekleyin. Kaynamaya bırakın.",
+          "stepDescription": "Faites sauter l'ail jusqu'à ce qu'il soit doré et aromatique, environ 2 à 3 minutes. **Attention à ne pas le brûler**, sinon il deviendra amer. Ajoutez 0.5 tasse de l'eau de cuisson des pâtes réservée dans la poêle. Portez à ébullition.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Sarımsak Soteleme",
+              "timerName": "Sauter l'ail",
               "timerHours": 0,
               "timerMinutes": 2,
               "timerSeconds": 30
@@ -654,13 +654,13 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Pişmiş makarnayı süzün (durulamayın) ve hemen sarımsak soslu tavaya aktarın. Kalan 4 yemek kaşığı doğranmış taze maydanozu ekleyin. Hızla karıştırın ve tüm makarnayı sosla kaplamak için tavayı sallayın.",
+          "stepDescription": "Égouttez les pâtes cuites (ne pas rincer) et transférez-les immédiatement dans la poêle avec la sauce à l'ail. Ajoutez les 4 cuillères à soupe restantes de persil frais haché. Mélangez rapidement et secouez la poêle pour enrober toutes les pâtes de sauce.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Sosun kıvamını ayarlamak için gerekirse biraz daha ayrılmış makarna suyu ekleyin. Tadına bakın ve gerekirse 1 tutam karabiber ve ilave tuz ekleyin. Sıcakken hemen servis yapın.",
+          "stepDescription": "Ajoutez un peu plus d'eau de cuisson des pâtes réservée si nécessaire pour ajuster la consistance de la sauce. Goûtez et ajoutez 1 pincée de poivre noir et du sel supplémentaire si nécessaire. Servez immédiatement pendant que c'est chaud.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -668,7 +668,7 @@
     },
     {
       "id": 7,
-      "recipeName": "Kremalı Pesto Tavuklu Makarna",
+      "recipeName": "Pâtes Crémeuses au Poulet et au Pesto",
       "calories": 750,
       "prepTime": 15,
       "cookTime": 20,
@@ -676,47 +676,47 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
       "ingredients": [
         {
-          "name": "Fettuccine Makarna",
+          "name": "Pâtes Fettuccine",
           "quantity": 350.0,
           "type": "gram"
         },
         {
-          "name": "Tavuk Göğsü (kemiksiz, derisiz)",
+          "name": "Poitrines de Poulet (désossées, sans peau)",
           "quantity": 500.0,
           "type": "gram"
         },
         {
-          "name": "Krema",
+          "name": "Crème Épaisse (Heavy Cream)",
           "quantity": 250.0,
           "type": "milliliter"
         },
         {
-          "name": "Fesleğen Pesto",
+          "name": "Pesto au Basilic",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Parmesan Peyniri (rendelenmiş)",
+          "name": "Fromage Parmesan (râpé)",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Huile d'Olive",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Poudre d'Ail",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sel",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Poivre Noir",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -724,17 +724,17 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "500 gram tavuk göğsünü 1 inçlik küpler halinde kesin. Bir kapta tavuğu 1 yemek kaşığı zeytinyağı, 0.5 çay kaşığı tuz, 1 çay kaşığı sarımsak tozu ve 1 tutam karabiber ile karıştırın.",
+          "stepDescription": "Coupez les 500 grammes de poitrine de poulet en cubes de 2.5 cm. Dans un bol, mélangez le poulet avec 1 cuillère à soupe d'huile d'olive, 0.5 cuillère à café de sel, 1 cuillère à café de poudre d'ail et 1 pincée de poivre noir.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Kalan 1 yemek kaşığı zeytinyağını büyük bir tavada orta-yüksek ateşte ısıtın. Baharatlanmış tavuğu ekleyin ve altın rengi kahverengi olana ve tamamen pişene kadar ara sıra çevirerek 6-8 dakika pişirin.",
+          "stepDescription": "Faites chauffer la cuillère à soupe d'huile d'olive restante dans une grande poêle à feu moyen-vif. Ajoutez le poulet assaisonné et faites-le cuire pendant 6 à 8 minutes, en le retournant de temps en temps, jusqu'à ce qu'il soit doré et complètement cuit.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "Tavuk Pişirme",
+              "timerName": "Temps de cuisson du poulet",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 0
@@ -743,11 +743,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Tavuk pişerken, büyük bir tencere tuzlu suyu kaynatın. 350 gram fettuccine makarnayı ekleyin ve al dente olana kadar pişirin. Makarnayı süzün, 1 su bardağı pişirme suyunu ayırın.",
+          "stepDescription": "Pendant que le poulet cuit, portez une grande casserole d'eau salée à ébullition. Ajoutez les 350 grammes de fettuccine et faites-les cuire al dente. Égouttez les pâtes en réservant 1 tasse de l'eau de cuisson.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Makarna Pişirme",
+              "timerName": "Cuisson des pâtes",
               "timerHours": 0,
               "timerMinutes": 9,
               "timerSeconds": 0
@@ -756,11 +756,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Tavadaki (tavuklu) ateşi kısın. 250 mililitre krema ve 0.5 su bardağı fesleğen pestoyu dökün. Birleşene kadar iyice karıştırın. Sosun hafifçe koyulaşması için 2 dakika yavaşça kaynamasına izin verin.",
+          "stepDescription": "Baissez le feu de la poêle (avec le poulet) à doux. Versez les 250 millilitres de crème épaisse et 0.5 tasse de pesto au basilic. Remuez bien jusqu'à ce que ce soit mélangé. Laissez la sauce mijoter doucement pendant 2 minutes pour qu'elle épaississe légèrement.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Sos Kaynatma",
+              "timerName": "Mijotage de la sauce",
               "timerHours": 0,
               "timerMinutes": 2,
               "timerSeconds": 0
@@ -769,7 +769,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Süzülmüş makarnayı kremalı pesto sosa ekleyin ve kaplamak için karıştırın. 0.5 su bardağı rendelenmiş Parmesan peynirini ve ayrılmış makarna suyunun yaklaşık 0.25 su bardağını karıştırın. İstenilen kıvama ulaşmak için gerekirse daha fazla su ekleyin. Hemen servis yapın.",
+          "stepDescription": "Ajoutez les pâtes égouttées à la sauce pesto crémeuse et mélangez pour les enrober. Incorporez 0.5 tasse de parmesan râpé et environ 0.25 tasse de l'eau de cuisson des pâtes réservée. Ajoutez plus d'eau si nécessaire pour obtenir la consistance souhaitée. Servez immédiatement.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -777,7 +777,7 @@
     },
     {
       "id": 8,
-      "recipeName": "Izgara Peynirli Sandviç",
+      "recipeName": "Sandwich au Fromage Grillé",
       "calories": 480,
       "prepTime": 5,
       "cookTime": 8,
@@ -785,32 +785,32 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
       "ingredients": [
         {
-          "name": "Ekşi Maya Ekmeği",
+          "name": "Pain au Levain (Sourdough Bread)",
           "quantity": 2.0,
           "type": "piece"
         },
         {
-          "name": "Çedar Peyniri (keskin)",
+          "name": "Fromage Cheddar (fort)",
           "quantity": 50.0,
           "type": "gram"
         },
         {
-          "name": "Monterey Jack Peyniri",
+          "name": "Fromage Monterey Jack",
           "quantity": 50.0,
           "type": "gram"
         },
         {
-          "name": "Tuzsuz Tereyağı (yumuşatılmış)",
+          "name": "Beurre Non Salé (ramolli)",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Mayonez (tat için isteğe bağlı)",
+          "name": "Mayonnaise (facultatif pour le goût)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sel",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -818,29 +818,29 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Hem Çedar hem de Monterey Jack peynirlerini rendeleyin ve küçük bir kapta karıştırın. Rendelenmiş olması eşit erimeyi sağlar.",
+          "stepDescription": "Râpez le fromage Cheddar et le Monterey Jack et mélangez-les dans un petit bol. Le râpage assure une fonte uniforme.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Tereyağını her bir dilimin bir tarafına eşit şekilde yayın. Bu, tavaya değecek olan taraftır. İsteğe bağlı olarak, ekstra lezzet için bir dilimin karşı tarafına (iç tarafına) ince bir kat mayonez sürün.",
+          "stepDescription": "Étalez uniformément le beurre sur un côté de chaque tranche de pain. C'est le côté qui touchera la poêle. Facultativement, étalez une fine couche de mayonnaise sur le côté opposé (intérieur) d'une tranche pour plus de saveur.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Bir dilim ekmeği (tereyağlı tarafı aşağı bakacak şekilde) orta-kısık ateşte yapışmaz bir tavaya koyun. Karışık peyniri ekmeğin üzerine eşit şekilde serpin, ardından bir tutam tuz ekleyin.",
+          "stepDescription": "Placez une tranche de pain (côté beurré vers le bas) dans une poêle antiadhésive à feu moyen-doux. Saupoudrez uniformément le fromage mélangé sur le pain, puis ajoutez une pincée de sel.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 4,
-          "stepDescription": "İkinci dilim ekmekle (tereyağlı tarafı yukarı bakacak şekilde) üstünü kapatın. Alt dilim altın rengi kahverengi olana ve peynir erimeye başlayana kadar 3 ila 4 dakika pişirin.",
+          "stepDescription": "Recouvrez de la deuxième tranche de pain (côté beurré vers le haut). Cuire pendant 3 à 4 minutes, jusqu'à ce que la tranche du bas soit dorée et que le fromage commence à fondre.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "İlk taraf pişirme süresi",
+              "timerName": "Temps de cuisson du premier côté",
               "timerHours": 0,
               "timerMinutes": 3,
               "timerSeconds": 30
@@ -849,11 +849,11 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Bir spatula kullanarak sandviçi dikkatlice çevirin. İkinci taraf altın rengi kahverengi olana ve peynir tamamen eriyip akışkan hale gelene kadar 3 ila 4 dakika daha pişirin. Dış yüzey çok hızlı kızarırsa, ateşi kısın.",
+          "stepDescription": "Retournez délicatement le sandwich à l'aide d'une spatule. Cuire pendant 3 à 4 minutes supplémentaires, jusqu'à ce que le deuxième côté soit doré et que le fromage soit complètement fondu et coulant. Si l'extérieur brunit trop vite, baissez le feu.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "İkinci taraf pişirme süresi",
+              "timerName": "Temps de cuisson du deuxième côté",
               "timerHours": 0,
               "timerMinutes": 3,
               "timerSeconds": 30
@@ -862,7 +862,7 @@
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Tavadan alın, çapraz olarak dilimleyin ve hemen servis yapın.",
+          "stepDescription": "Retirez de la poêle, coupez en diagonale et servez immédiatement.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -870,7 +870,7 @@
     },
     {
       "id": 9,
-      "recipeName": "Sarımsaklı Otlu Tereyağlı Mükemmel Tavada Mühürlenmiş Ribeye Biftek",
+      "recipeName": "Bavette d'Aloyau (Ribeye) Parfaitement Saisie à la Poêle avec Beurre Aillé aux Herbes",
       "calories": 750,
       "prepTime": 10,
       "cookTime": 10,
@@ -878,37 +878,37 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
       "ingredients": [
         {
-          "name": "Ribeye Biftek (1.5 inç kalınlığında)",
+          "name": "Bavette d'Aloyau (Ribeye) (3,8 cm d'épaisseur)",
           "quantity": 2.0,
           "type": "piece"
         },
         {
-          "name": "Koşer Tuz",
+          "name": "Sel Casher",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Taze Çekilmiş Karabiber",
+          "name": "Poivre Noir Fraîchement Moulu",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Bitkisel Yağ (yüksek dumanlanma noktası)",
+          "name": "Huile Végétale (point de fumée élevé)",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Tuzsuz Tereyağı",
+          "name": "Beurre Non Salé",
           "quantity": 60.0,
           "type": "gram"
         },
         {
-          "name": "Sarımsak Dişleri (ezilmiş)",
+          "name": "Gousses d'Ail (écrasées)",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Taze Kekik Dalları",
+          "name": "Brins de Thym Frais",
           "quantity": 3.0,
           "type": "piece"
         }
@@ -916,17 +916,17 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Biftekleri kağıt havlularla tamamen kurulayın. Her tarafını koşer tuz ve karabiberle cömertçe baharatlayın. Pişirmeden önce biftekleri oda sıcaklığında 30 dakika bekletin.",
+          "stepDescription": "Séchez complètement les steaks avec des essuie-tout. Assaisonnez généreusement de sel casher et de poivre noir sur toutes les faces. Laissez les steaks reposer à température ambiante pendant 30 minutes avant de cuire.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Bitkisel yağı dökme demir bir tavada yüksek ateşte parlamaya ve hafifçe dumanlanmaya başlayana kadar ısıtın. Baharatlanmış biftekleri dikkatlice sıcak tavaya yerleştirin. Derin, koyu kahverengi bir kabuk oluşana kadar 3 ila 4 dakika mühürleyin.",
+          "stepDescription": "Faites chauffer l'huile végétale dans une poêle en fonte à feu vif jusqu'à ce qu'elle commence à scintiller et à fumer légèrement. Placez délicatement les steaks assaisonnés dans la poêle chaude. Saisissez pendant 3 à 4 minutes jusqu'à ce qu'une croûte profonde et brun foncé se soit formée.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "İlk taraf mühürleme süresi",
+              "timerName": "Temps de saisie du premier côté",
               "timerHours": 0,
               "timerMinutes": 3,
               "timerSeconds": 30
@@ -935,11 +935,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Biftekleri çevirin. Ateşi orta seviyeye indirin. Tavaya tereyağı, ezilmiş sarımsak dişleri ve kekik dallarını ekleyin. Tavayı hafifçe eğin ve eritilmiş otlu tereyağını büyük bir kaşık kullanarak bifteklerin üzerine sürekli olarak 1 ila 2 dakika boyunca gezdirin veya istenen iç sıcaklığa ulaşılana kadar (örneğin, az pişmiş-orta için 130°F).",
+          "stepDescription": "Retournez les steaks. Réduisez le feu à moyen. Ajoutez le beurre, les gousses d'ail écrasées et les brins de thym dans la poêle. Inclinez légèrement la poêle et utilisez une grande cuillère pour arroser constamment le beurre aux herbes fondu sur les steaks pendant 1 à 2 minutes, ou jusqu'à ce que la température interne désirée soit atteinte (par exemple, 130°F pour saignant/medium-rare).",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Tereyağ Gezdirme/Pişirme Süresi",
+              "timerName": "Arrosage/Temps de cuisson",
               "timerHours": 0,
               "timerMinutes": 2,
               "timerSeconds": 0
@@ -948,11 +948,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Biftekleri tavadan alın ve bir kesme tahtasına yerleştirin. Tavadan kalan otlu tereyağını bifteklerin üzerine dökün. Dilimlemeden ve servis yapmadan önce suların yeniden dağılması için 5 ila 10 dakika dinlenmeye bırakın.",
+          "stepDescription": "Retirez les steaks de la poêle et placez-les sur une planche à découper. Versez le reste du beurre aux herbes de la poêle sur les steaks. Laissez-les reposer pendant 5 à 10 minutes pour permettre aux jus de se redistribuer avant de trancher et de servir.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Dinlenme Süresi",
+              "timerName": "Temps de repos",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 30
@@ -963,7 +963,7 @@
     },
     {
       "id": 10,
-      "recipeName": "Klasik Tereyağlı Tavuk (Butter Chicken)",
+      "recipeName": "Poulet au Beurre (Butter Chicken) Classique",
       "calories": 680,
       "prepTime": 25,
       "cookTime": 35,
@@ -971,57 +971,57 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
       "ingredients": [
         {
-          "name": "Kemiksiz, Derisiz Tavuk Butları (küp doğranmış)",
+          "name": "Cuisses de Poulet Désossées et sans Peau (coupées en cubes)",
           "quantity": 1.0,
           "type": "kilogram"
         },
         {
-          "name": "Sade Yoğurt",
+          "name": "Yogourt Nature",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Zencefil-Sarımsak Ezmesi",
+          "name": "Pâte de Gingembre et Ail",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Biber Tozu",
+          "name": "Poudre de Chili",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Zerdeçal Tozu",
+          "name": "Poudre de Curcuma",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Garam Masala (marinasyon için)",
+          "name": "Garam Masala (pour la marinade)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Domates Püresi",
+          "name": "Purée de Tomates",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Tuzsuz Tereyağı",
+          "name": "Beurre Non Salé",
           "quantity": 120.0,
           "type": "gram"
         },
         {
-          "name": "Krema",
+          "name": "Crème Épaisse (Heavy Cream)",
           "quantity": 0.75,
           "type": "cup"
         },
         {
-          "name": "Kasuri Methi (Kurutulmuş Çemen Yaprakları)",
+          "name": "Kasuri Methi (Feuilles de Fenugrec Séchées)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Şeker",
+          "name": "Sucre",
           "quantity": 1.0,
           "type": "teaspoon"
         }
@@ -1029,11 +1029,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Tavuğu marine edin: Büyük bir kapta tavuğu yoğurt, zencefil-sarımsak ezmesi, biber tozu, zerdeçal tozu ve marinasyon garam masalası ile karıştırın. Üzerini kapatın ve en az 30 dakika veya 4 saate kadar buzdolabında bekletin.",
+          "stepDescription": "Marinez le poulet : Dans un grand bol, mélangez le poulet avec le yogourt, la pâte de gingembre et d'ail, la poudre de chili, la poudre de curcuma et le Garam Masala pour la marinade. Couvrez et réfrigérez pendant au moins 30 minutes, ou jusqu'à 4 heures.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Marinasyon süresi",
+              "timerName": "Temps de marinade",
               "timerHours": 0,
               "timerMinutes": 30,
               "timerSeconds": 0
@@ -1042,11 +1042,11 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Tavuğu pişirin: Marine edilmiş tavuğu tamamen pişene ve kenarları hafifçe kömürleşene kadar ızgarada, fırında veya tavada kızartın. Bir kenara koyun.",
+          "stepDescription": "Cuire le poulet : Grillez, faites cuire au four ou poêlez le poulet mariné jusqu'à ce qu'il soit complètement cuit et légèrement carbonisé sur les bords. Mettez de côté.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Tavuk pişirme süresi",
+              "timerName": "Temps de cuisson du poulet",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -1055,11 +1055,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Sos tabanını hazırlayın: Büyük bir tencerede tereyağının yarısını eritin. Domates püresini ekleyin ve yağ ayrılana kadar (yaklaşık 10 dakika) pişirin. 1/2 su bardağı su ekleyin, kaynamaya bırakın, ardından sosu tamamen pürüzsüz olana kadar karıştırın. Karışımı tekrar tencereye süzün.",
+          "stepDescription": "Préparez la base de sauce : Dans une grande casserole, faites fondre la moitié du beurre. Ajoutez la purée de tomates et laissez cuire jusqu'à ce que l'huile se sépare (environ 10 minutes). Ajoutez 1/2 tasse d'eau, laissez mijoter, puis mixez la sauce jusqu'à ce qu'elle soit complètement lisse. Filtrez la sauce mixée et remettez-la dans la casserole.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Sos kaynatma süresi",
+              "timerName": "Temps de mijotage de la sauce",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -1068,11 +1068,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Sosu tamamlayın: Kalan tereyağını, şekeri ve kalan garam masalayı (istenirse) süzülmüş sosa ekleyin. İyice karıştırın. Pişmiş tavuk parçalarını ekleyin ve 5 dakika kaynatın.",
+          "stepDescription": "Terminez la sauce : Ajoutez le reste du beurre, le sucre et le Garam Masala restant (si désiré) à la sauce filtrée. Remuez bien. Ajoutez les morceaux de poulet cuits et laissez mijoter pendant 5 minutes.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Tavukla son kaynatma",
+              "timerName": "Mijotage final avec poulet",
               "timerHours": 0,
               "timerMinutes": 5,
               "timerSeconds": 0
@@ -1081,7 +1081,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Servis: Kremayı karıştırın ve Kasuri Methi'yi eklemeden önce avuçlarınız arasında ezerek ufalayın. Kaynatmadan ısıtın. Pirinç veya naan ekmeği ile hemen servis yapın.",
+          "stepDescription": "Servez : Incorporez la crème épaisse et émiettez le Kasuri Methi entre vos paumes avant de l'ajouter. Réchauffez sans faire bouillir. Servez immédiatement avec du riz ou du pain naan.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -1089,7 +1089,7 @@
     },
     {
       "id": 11,
-      "recipeName": "Kremalı Domates Çorbası",
+      "recipeName": "Soupe à la Tomate Crémeuse",
       "calories": 250,
       "prepTime": 10,
       "cookTime": 30,
@@ -1097,47 +1097,47 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
       "ingredients": [
         {
-          "name": "Konserve Doğranmış Domates",
+          "name": "Tomates en Dés en Conserve",
           "quantity": 28.0,
           "type": "ounce"
         },
         {
-          "name": "Tavuk veya Sebze Suyu",
+          "name": "Bouillon de Poulet ou de Légumes",
           "quantity": 4.0,
           "type": "cup"
         },
         {
-          "name": "Soğan, doğranmış",
+          "name": "Oignon, haché",
           "quantity": 1.0,
           "type": "piece"
         },
         {
-          "name": "Sarımsak, kıyılmış",
+          "name": "Ail, haché",
           "quantity": 2.0,
           "type": "cloves"
         },
         {
-          "name": "Krema",
+          "name": "Crème Épaisse (Heavy Cream)",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Huile d'Olive",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Kuru Fesleğen",
+          "name": "Basilic Séché",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sel",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Poivre Noir",
           "quantity": 0.25,
           "type": "teaspoon"
         }
@@ -1145,11 +1145,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Büyük bir tencerede zeytinyağını orta ateşte ısıtın. Doğranmış soğanı ekleyin ve yaklaşık 5-7 dakika yumuşayana kadar soteleyin. Kıyılmış sarımsağı ekleyin ve 1 dakika daha soteleyin.",
+          "stepDescription": "Faites chauffer l'huile d'olive dans une grande casserole à feu moyen. Ajoutez l'oignon haché et faites-le sauter jusqu'à ce qu'il soit ramolli, environ 5 à 7 minutes. Ajoutez l'ail haché et faites-le sauter pendant 1 minute supplémentaire.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Soğanı Soteleme",
+              "timerName": "Sauter l'oignon",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 0
@@ -1158,11 +1158,11 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Konserve doğranmış domates, et suyu, kuru fesleğen, tuz ve karabiberi karıştırın. Karışımı kaynamaya bırakın, ardından ateşi kısın ve 20 dakika kaynatın.",
+          "stepDescription": "Incorporez les tomates en dés en conserve, le bouillon, le basilic séché, le sel et le poivre. Portez le mélange à ébullition, puis réduisez le feu et laissez mijoter pendant 20 minutes.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Çorbayı Kaynatma",
+              "timerName": "Mijotage de la soupe",
               "timerHours": 0,
               "timerMinutes": 20,
               "timerSeconds": 0
@@ -1171,13 +1171,13 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Çorbayı dikkatlice bir blendere aktarın veya bir el blenderı kullanarak çorbayı pürüzsüz olana kadar karıştırın. Çorbayı tekrar tencereye alın.",
+          "stepDescription": "Transférez délicatement la soupe dans un mélangeur ou utilisez un mixeur plongeant pour mixer la soupe jusqu'à ce qu'elle soit lisse. Remettez la soupe dans la casserole.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Kremayı karıştırın ve 2-3 dakika ısıtın, ancak kaynatmayın. İsteğe bağlı olarak taze fesleğen veya krutonlarla süsleyerek sıcak servis yapın.",
+          "stepDescription": "Incorporez la crème épaisse et faites chauffer pendant 2 à 3 minutes, mais ne faites pas bouillir. Servez chaud, éventuellement garni de basilic frais ou de croûtons.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }

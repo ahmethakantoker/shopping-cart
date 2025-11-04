@@ -2,7 +2,7 @@
   "request": [
     {
       "id": 1,
-      "recipeName": "Klasik Lokanta Çizburgeri",
+      "recipeName": "Klassieke Diner Cheeseburger",
       "calories": 620,
       "prepTime": 10,
       "cookTime": 10,
@@ -10,52 +10,52 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
       "ingredients": [
         {
-          "name": "Kıyma ( %80 yağsız / %20 yağlı)",
+          "name": "Rundergehakt (80% mager / 20% vet)",
           "quantity": 680.0,
           "type": "gram"
         },
         {
-          "name": "Worcestershire Sosu",
+          "name": "Worcestershiresaus",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Soğan Tozu",
+          "name": "Uienpoeder",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Knoflookpoeder",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz (Koşer veya Deniz)",
+          "name": "Zout (Kosjer of Zeezout)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Taze Çekilmiş Karabiber",
+          "name": "Versgemalen Zwarte Peper",
           "quantity": 0.25,
           "type": "teaspoon"
         },
         {
-          "name": "Amerikan Peyniri",
+          "name": "Amerikaanse Kaas",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Patatesli Ekmekler veya Hamburger Ekmeği",
+          "name": "Aardappelbroodjes of Hamburgerbroodjes",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Mayonez",
+          "name": "Mayonaise",
           "quantity": 4.0,
           "type": "tablespoon"
         },
         {
-          "name": "Dereotu Turşusu Dilimleri",
+          "name": "Dille-augurkenplakjes (Dill Pickle Chips)",
           "quantity": 1.0,
           "type": "cup"
         }
@@ -63,23 +63,23 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "680 gram kıymayı 1 yemek kaşığı Worcestershire sosu, 0.5 çay kaşığı soğan tozu, 0.5 çay kaşığı sarımsak tozu, 1 çay kaşığı tuz ve 0.25 çay kaşığı karabiber ile birleştirin. Sadece birleşene kadar ellerinizle **nazikçe** karıştırın. Aşırı karıştırmak burgerlerin sertleşmesine neden olur.",
+          "stepDescription": "Combineer de 680 gram rundergehakt met 1 eetlepel Worcestershiresaus, 0.5 theelepel uienpoeder, 0.5 theelepel knoflookpoeder, 1 theelepel zout en 0.25 theelepel zwarte peper. Meng **voorzichtig** met uw handen tot het net gecombineerd is. Te veel mengen maakt de burgers taai.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Karışımı 4 eşit porsiyona bölün ve yaklaşık 2 santimetre kalınlığında köfteler haline getirin. Pişirme sırasında şişmelerini önlemek için her köftenin ortasına baş parmağınızla küçük bir girinti yapın.",
+          "stepDescription": "Verdeel het mengsel in 4 gelijke porties en vorm er burgers van ongeveer 2 centimeter dik van. Maak met uw duim een kleine kuiltje in het midden van elke burger om te voorkomen dat ze opzwellen tijdens het koken.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Bir tavayı veya ızgarayı orta-yüksek ateşte ısıtın. Orta pişmişlik için köfteleri her iki tarafı 3-5 dakika pişirin veya iç sıcaklıkları 71 dereceye ulaşana kadar pişirin.",
+          "stepDescription": "Verhit een koekenpan of grill op middelhoog vuur. Bak de burgers 3-5 minuten per kant voor medium, of tot de interne temperatuur 71 graden bereikt.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Köfte Pişirme Süresi",
+              "timerName": "Baktijd Burger",
               "timerHours": 0,
               "timerMinutes": 8,
               "timerSeconds": 0
@@ -88,11 +88,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Pişirmenin son dakikasında, her köftenin üzerine 1 dilim Amerikan peyniri koyun. Peynirin güzelce erimesini sağlamak için ızgaranın veya tavanın üzerini kısaca kapatın.",
+          "stepDescription": "Plaats tijdens de laatste minuut van het koken 1 plak Amerikaanse kaas op elke burger. Dek de grill of koekenpan kort af om ervoor te zorgen dat de kaas mooi smelt.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Peynir Eritme",
+              "timerName": "Kaas Smelttijd",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 0
@@ -101,7 +101,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "4 adet ekmeği kesik tarafı aşağı bakacak şekilde ızgarada veya kuru bir tavada yaklaşık 30 saniye kızartın. Birleştirmek için, ekmeğin her iki yarısına 1 yemek kaşığı mayonez sürün. Çizburger köftesini alt ekmeğe yerleştirin, üzerine 1 su bardağı dereotu turşusu dilimlerinden biraz koyun ve üst ekmekle kapatın.",
+          "stepDescription": "Rooster de 4 broodjes met de snijkant naar beneden op de grill of in een droge koekenpan gedurende ongeveer 30 seconden. Voor het samenstellen: smeer 1 eetlepel mayonaise op beide helften van het broodje. Plaats de cheeseburger op het onderste broodje, beleg met een deel van de 1 kop dille-augurkenplakjes en dek af met het bovenste broodje.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
           "recipeTimer": []
         }
@@ -109,7 +109,7 @@
     },
     {
       "id": 2,
-      "recipeName": "Klasik Kıymalı Taco",
+      "recipeName": "Klassieke Taco's met Rundergehakt",
       "calories": 300,
       "prepTime": 15,
       "cookTime": 20,
@@ -117,77 +117,77 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
       "ingredients": [
         {
-          "name": "Yağsız Kıyma (80/20 veya daha az yağlı)",
+          "name": "Mager Rundergehakt (80/20 of magerder)",
           "quantity": 0.45,
           "type": "kilogram"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Olijfolie",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Biber Tozu",
+          "name": "Chilipoeder",
           "quantity": 2.0,
           "type": "teaspoon"
         },
         {
-          "name": "Öğütülmüş Kimyon",
+          "name": "Gemalen Komijn",
           "quantity": 2.0,
           "type": "teaspoon"
         },
         {
-          "name": "Kuru Kekik",
+          "name": "Gedroogde Oregano",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Knoflookpoeder",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Zout",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Zwarte Peper",
           "quantity": 0.25,
           "type": "teaspoon"
         },
         {
-          "name": "Domates Salçası",
+          "name": "Tomatenpuree",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Su",
+          "name": "Water",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Taco Kabukları veya Tortillalar (Mısır veya Un)",
+          "name": "Taco Schelpen of Tortilla's (Maïs of Tarwe)",
           "quantity": 8.0,
           "type": "piece"
         },
         {
-          "name": "Rendelenmiş Marul",
+          "name": "Gesnipperde Sla",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Rendelenmiş Çedar Peyniri veya Meksika Karışımı",
+          "name": "Geraspte Cheddar Kaas of Mexicaanse mix",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Doğranmış Domates",
+          "name": "In Blokjes Gesneden Tomaten",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Ekşi Krema veya Yunan Yoğurdu (isteğe bağlı)",
+          "name": "Zure Room of Griekse Yoghurt (optioneel)",
           "quantity": 4.0,
           "type": "tablespoon"
         }
@@ -195,23 +195,23 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Zeytinyağını büyük bir tavada orta-yüksek ateşte ısıtın. Kıymayı ekleyin ve kaşıkla parçalayarak tamamen kızarana ve artık pembe kalmayana kadar pişirin.",
+          "stepDescription": "Verhit de olijfolie in een grote koekenpan op middelhoog vuur. Voeg het rundergehakt toe en bak het, terwijl u het met een lepel uit elkaar haalt, totdat het volledig bruin is en niet meer roze.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Tavadan fazla yağı süzün ve eti tekrar ateşe koyun.",
+          "stepDescription": "Giet het overtollige vet uit de pan en zet het vlees terug op het vuur.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Biber tozu, kimyon, kekik, sarımsak tozu, tuz ve karabiberi karıştırın. Baharatların kavrulması için 1 dakika pişirin.",
+          "stepDescription": "Roer het chilipoeder, komijn, oregano, knoflookpoeder, zout en zwarte peper erdoor. Kook 1 minuut om de kruiden te roosteren.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Baharatları Kavurma",
+              "timerName": "Kruiden Roosteren",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 0
@@ -220,11 +220,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Domates salçası ve suyu ekleyin. Eti kaplamak için iyice karıştırın. Karışımı kaynamaya bırakın, ardından ateşi kısın ve sos kalınlaşana ve sıvı çoğunlukla emilene kadar pişirin (et hala nemli olmalı, kuru değil).",
+          "stepDescription": "Voeg de tomatenpuree en het water toe. Roer goed om het vlees te bedekken. Breng het mengsel aan de kook, zet het vuur dan laag en laat het sudderen totdat de saus is ingedikt en het vocht grotendeels is opgenomen (het vlees moet vochtig blijven, niet droog).",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Eti Kaynatma",
+              "timerName": "Vlees Sudderen",
               "timerHours": 0,
               "timerMinutes": 5,
               "timerSeconds": 0
@@ -233,13 +233,13 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Et kaynarken, taco kabuklarını veya tortillaları paket talimatlarına göre ısıtın.",
+          "stepDescription": "Terwijl het vlees suddert, verwarmt u de taco schelpen of tortilla's volgens de instructies op de verpakking.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Baharatlı taco etini kabuklara veya tortillalara kaşıkla koyun. Üzerine rendelenmiş marul, peynir, doğranmış domates ve bir kaşık ekşi krema veya yoğurt (isteğe bağlı) ekleyin. Hemen servis yapın.",
+          "stepDescription": "Schep het gekruide tacovlees in de schelpen of tortilla's. Beleg met gesnipperde sla, kaas, in blokjes gesneden tomaten en een klodder zure room of yoghurt (optioneel). Serveer direct.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
           "recipeTimer": []
         }
@@ -247,7 +247,7 @@
     },
     {
       "id": 3,
-      "recipeName": "Klasik Margherita Pizza",
+      "recipeName": "Klassieke Pizza Margherita",
       "calories": 350,
       "prepTime": 30,
       "cookTime": 15,
@@ -255,52 +255,52 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
       "ingredients": [
         {
-          "name": "Çok Amaçlı Un",
+          "name": "Bloem",
           "quantity": 3.0,
           "type": "cup"
         },
         {
-          "name": "Ilık Su",
+          "name": "Lauw Water",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Aktif Kuru Maya",
+          "name": "Actieve Droge Gist",
           "quantity": 2.25,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Zout",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Zeytinyağı (Hamur)",
+          "name": "Olijfolie (voor deeg)",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Ezilmiş Domates",
+          "name": "Geplette Tomaten",
           "quantity": 400.0,
           "type": "gram"
         },
         {
-          "name": "Taze Mozzarella Peyniri",
+          "name": "Verse Mozzarella Kaas",
           "quantity": 250.0,
           "type": "gram"
         },
         {
-          "name": "Taze Fesleğen Yaprakları",
+          "name": "Verse Basilicumblaadjes",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Zeytinyağı (Üst Malzeme)",
+          "name": "Olijfolie (voor topping)",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Zwarte Peper",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -308,11 +308,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Mayayı ılık su ve bir tutam şekerle (malzemelerde listelenmemiştir, ancak maya aktivasyonu için varsayılmıştır) bir kapta karıştırarak aktive edin. Köpürene kadar 5-10 dakika bekletin.",
+          "stepDescription": "Activeer de gist door deze te mengen met het lauwe water en een snufje suiker (niet vermeld in ingrediënten, maar aangenomen voor gistactivatie) in een kom. Laat 5-10 minuten staan tot het schuimt.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Maya Aktivasyonu",
+              "timerName": "Gist Activatie",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -321,17 +321,17 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Büyük bir kapta unu ve tuzu birleştirin. Maya karışımını ve 2 yemek kaşığı zeytinyağını dökün. Kaba bir hamur oluşana kadar karıştırın.",
+          "stepDescription": "Meng in een grote kom de bloem en het zout. Giet het gistmengsel en de 2 eetlepels olijfolie erbij. Roer tot een ruw deeg is gevormd.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Hamuru hafifçe unlanmış bir yüzeye alın ve pürüzsüz ve elastik olana kadar 8-10 dakika yoğurun. Yağlanmış bir kaba koyun, üzerini kapatın ve boyutunun iki katına çıkana kadar ılık bir yerde kabarmaya bırakın.",
+          "stepDescription": "Stort het deeg op een licht bebloemd oppervlak en kneed 8-10 minuten tot het glad en elastisch is. Plaats in een met olie ingevette kom, dek af en laat het op een warme plaats rijzen tot het in omvang is verdubbeld.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Hamur Kabartma",
+              "timerName": "Deeg Rijzen",
               "timerHours": 1,
               "timerMinutes": 30,
               "timerSeconds": 0
@@ -340,11 +340,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Fırınınızı en yüksek sıcaklığa (genellikle 250°C/480°F) önceden ısıtın ve bir pizza taşını veya fırın tepsisini ısınması için içine yerleştirin. Hamurun havasını alın, iki topa (iki orta boy pizza için) bölün ve 10 dakika dinlenmeye bırakın.",
+          "stepDescription": "Verwarm uw oven voor op de hoogste temperatuur (meestal 250°C/480°F) en plaats er een pizzasteen of bakplaat in om mee op te warmen. Sla de lucht uit het deeg, verdeel het in twee ballen (voor twee middelgrote pizza's) en laat ze 10 minuten rusten.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Fırın Ön Isıtma",
+              "timerName": "Oven Voorverwarmen",
               "timerHours": 0,
               "timerMinutes": 30,
               "timerSeconds": 0
@@ -353,17 +353,17 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Bir hamur topunu 12 inçlik bir daire şeklinde gerin veya açın. Unlanmış bir pizza küreği veya parşömen kağıdı üzerine aktarın. Ezilmiş domateslerin yarısını eşit şekilde yayın, üzerine yırtılmış mozzarellanın yarısını ekleyin ve biraz zeytinyağı ve bir tutam karabiber gezdirin.",
+          "stepDescription": "Rek of rol één deegbal uit tot een cirkel van 30 cm. Breng deze over op een bebloemde pizzaschep of bakpapier. Verdeel de helft van de geplette tomaten gelijkmatig, beleg met de helft van de gescheurde mozzarella en besprenkel met een beetje olijfolie en een snufje peper.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Kabuk altın rengini alana ve peynir köpürene kadar pizzayı 12-15 dakika pişirin. Fırından çıktıktan hemen sonra taze fesleğen yapraklarıyla süsleyin. Dilimleyin ve servis yapın.",
+          "stepDescription": "Bak de pizza 12-15 minuten, tot de korst goudbruin is en de kaas bubbelt. Zodra hij uit de oven komt, onmiddellijk garneren met verse basilicumblaadjes. Snijd in plakken en serveer.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Pişirme Süresi",
+              "timerName": "Baktijd",
               "timerHours": 0,
               "timerMinutes": 15,
               "timerSeconds": 0
@@ -374,7 +374,7 @@
     },
     {
       "id": 4,
-      "recipeName": "Baharatlı Tavuk Ranch Dürümü",
+      "recipeName": "Pittige Kip Ranch Wrap",
       "calories": 450,
       "prepTime": 15,
       "cookTime": 10,
@@ -382,52 +382,52 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
       "ingredients": [
         {
-          "name": "Tavuk Göğsü (kemiksiz, derisiz)",
+          "name": "Kippenborst (zonder been, zonder vel)",
           "quantity": 500.0,
           "type": "gram"
         },
         {
-          "name": "Tortillalar (büyük)",
+          "name": "Tortilla's (groot)",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Ranch Sosu",
+          "name": "Ranch Dressing",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Acı Sos (örneğin, Buffalo tarzı)",
+          "name": "Pittige Saus (bijv. Buffalo stijl)",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Romaine Marul (doğranmış)",
+          "name": "Romeinse Sla (gesnipperd)",
           "quantity": 2.0,
           "type": "cup"
         },
         {
-          "name": "Rendelenmiş Çedar Peyniri",
+          "name": "Geraspte Cheddar Kaas",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "İsli Biberiye",
+          "name": "Gerookte Paprika Poeder",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Knoflookpoeder",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Zout",
           "quantity": 1.0,
           "type": "pinch"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Olijfolie",
           "quantity": 1.0,
           "type": "tablespoon"
         }
@@ -435,17 +435,17 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Tavuk göğsünü 1 inçlik şeritler halinde kesin. Bir kapta tavuğu zeytinyağı, isli biberiye, sarımsak tozu ve bir tutam tuz ile iyice kaplanana kadar karıştırın.",
+          "stepDescription": "Snijd de kippenborst in reepjes van 2.5 cm. Doe de kip in een kom en meng deze met olijfolie, gerookte paprikapoeder, knoflookpoeder en een snufje zout, totdat deze goed bedekt is.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Büyük bir tavayı orta-yüksek ateşte ısıtın. Baharatlı tavuk şeritlerini ekleyin ve altın rengi kahverengi olana ve tamamen pişene kadar (iç sıcaklık 74°C/165°F) ara sıra çevirerek 5-7 dakika pişirin.",
+          "stepDescription": "Verhit een grote koekenpan op middelhoog vuur. Voeg de gekruide kipreepjes toe en bak ze 5-7 minuten, af en toe omdraaiend, totdat ze goudbruin en volledig gaar zijn (interne temperatuur van 74°C/165°F).",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "Tavuk Pişirme",
+              "timerName": "Kip Baktijd",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 0
@@ -454,25 +454,25 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Tavuk hala sıcakken, ısıdan alın ve temiz bir kaba aktarın. Tavuğun üzerine ranch sosu ve acı sosu dökün. Her parçası baharatlı ranch karışımıyla kaplanana kadar karıştırın.",
+          "stepDescription": "Terwijl de kip nog heet is, haalt u deze van het vuur en brengt u deze over naar een schone kom. Giet de ranch dressing en de pittige saus over de kip. Roer totdat elk stuk bedekt is met het pittige ranch-mengsel.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Bir tortilla açın. Ortasına ince bir kat doğranmış marul yayın, ardından rendelenmiş çedar peynirinin dörtte birini ekleyin. Bu, dürümün tabanını oluşturur.",
+          "stepDescription": "Leg een tortilla plat. Verspreid een dunne laag gesnipperde Romeinse sla in het midden, gevolgd door een kwart van de geraspte cheddar kaas. Dit vormt de basis van de wrap.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Baharatlı ranch tavuk karışımının dörtte birini peynir ve marulun üzerine yerleştirin. Dürümü aşırı doldurmamaya dikkat edin.",
+          "stepDescription": "Plaats een kwart van het pittige kip ranch-mengsel op de kaas en sla. Pas op dat u de wrap niet te vol vult.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Dürümlemek için, tortillanın iki yanını iç harcın üzerine katlayın, ardından dürümu alttan başlayarak sıkıca sarın. Bitmiş dürümu çapraz olarak ikiye kesin ve hemen servis yapın.",
+          "stepDescription": "Om de wrap te sluiten, vouwt u de twee zijkanten van de tortilla over de vulling naar binnen, en rolt u de wrap vervolgens strak van de onderkant naar boven op. Snijd de afgewerkte wrap diagonaal doormidden en serveer direct.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -480,7 +480,7 @@
     },
     {
       "id": 5,
-      "recipeName": "Klasik Fransız Omleti",
+      "recipeName": "Klassieke Franse Omelet",
       "calories": 250,
       "prepTime": 5,
       "cookTime": 8,
@@ -488,27 +488,27 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
       "ingredients": [
         {
-          "name": "Yumurta (büyük)",
+          "name": "Eieren (groot)",
           "quantity": 3.0,
           "type": "piece"
         },
         {
-          "name": "Tereyağı",
+          "name": "Boter",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Tuz",
+          "name": "Zout",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Zwarte Peper",
           "quantity": 1.0,
           "type": "pinch"
         },
         {
-          "name": "Frenk Soğanı (taze, doğranmış)",
+          "name": "Bieslook (vers, gehakt)",
           "quantity": 0.5,
           "type": "tablespoon"
         }
@@ -516,11 +516,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Yumurtaları bir kaseye kırın. Tuz ve karabiber ekleyin. Sarısı ve beyazı tamamen birleşene ve hafifçe köpürene kadar kuvvetlice çırpın, ancak çok fazla hava katmaktan kaçının.",
+          "stepDescription": "Breek de eieren in een kom. Voeg het zout en de peper toe. Klop krachtig totdat de dooiers en eiwitten volledig zijn gemengd en licht schuimig, maar vermijd het inbrengen van te veel lucht.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Çırpma",
+              "timerName": "Kloppen",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 0
@@ -529,11 +529,11 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Yapışmaz bir tavayı (yaklaşık 8 inç) orta ateşte ısıtın. Tereyağını ekleyin ve eriyip köpürene ve ardından köpüğü azalana, berrak, cevizli bir renk alana kadar döndürün.",
+          "stepDescription": "Verhit een anti-aanbakpan (ongeveer 20 cm) op middelhoog vuur. Voeg de boter toe en zwenk de pan totdat deze is gesmolten, schuimt en dan inzakt, en een heldere, nootachtige kleur krijgt.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "Tereyağı Eritme",
+              "timerName": "Boter Smelten",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 30
@@ -542,11 +542,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Yumurta karışımını sıcak tavaya dökün. Yumurtaların yaklaşık 10 saniye donmasına izin verin. Ardından, bir çatal veya silikon spatula kullanarak, tavanın altı donmuş ancak üstü hala nemli ve kremsi olana kadar yumurtaları sürekli ve hızlı bir şekilde karıştırın, tavayı eğin.",
+          "stepDescription": "Giet het eimengsel in de hete koekenpan. Laat de eieren ongeveer 10 seconden stollen. Gebruik vervolgens een vork of een rubberen spatel om de eieren constant en snel te roeren, terwijl u de pan kantelt, totdat de onderkant is gestold, maar de bovenkant nog vochtig en romig is.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Yumurta Pişirme",
+              "timerName": "Eieren Koken",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 30
@@ -555,11 +555,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Karıştırmayı bırakın ve omletin altının tamamen donması için 30 saniye daha pişmesine izin verin. Doğranmış frenk soğanını omletin orta üçte birlik kısmına serpin.",
+          "stepDescription": "Stop met roeren en laat de omelet nog 30 seconden ongestoord koken om de onderkant volledig te laten stollen. Strooi de gehakte bieslook over het middelste derde deel van de omelet.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Son Donma",
+              "timerName": "Definitieve Stolling",
               "timerHours": 0,
               "timerMinutes": 0,
               "timerSeconds": 30
@@ -568,7 +568,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Tavayı eğin ve bir spatula kullanarak omletin bir tarafını ortanın yaklaşık üçte biri kadar üzerine katlayın. Omleti tavadan nazikçe bir tabağa, dikiş tarafı aşağı bakacak şekilde yuvarlayın, böylece düzgün bir torpido şekli oluşur. Hemen servis yapın.",
+          "stepDescription": "Kantel de pan en gebruik een spatel om één kant van de omelet ongeveer een derde over het midden te vouwen. Rol de omelet voorzichtig uit de pan op een bord, met de naad naar beneden, om een nette torpedovorm te creëren. Serveer direct.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
           "recipeTimer": []
         }
@@ -576,7 +576,7 @@
     },
     {
       "id": 6,
-      "recipeName": "Klasik Sarımsaklı ve Zeytinyağlı Spagetti (Aglio e Olio)",
+      "recipeName": "Klassieke Spaghetti met Knoflook en Olijfolie (Aglio e Olio)",
       "calories": 480,
       "prepTime": 10,
       "cookTime": 15,
@@ -584,37 +584,37 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
       "ingredients": [
         {
-          "name": "Spagetti Makarna",
+          "name": "Spaghetti",
           "quantity": 400.0,
           "type": "gram"
         },
         {
-          "name": "Sızma Zeytinyağı",
+          "name": "Extra Vierge Olijfolie",
           "quantity": 0.75,
           "type": "cup"
         },
         {
-          "name": "Sarımsak",
+          "name": "Knoflook",
           "quantity": 6.0,
           "type": "piece"
         },
         {
-          "name": "Kırmızı Biber Pul Biberi (Chili)",
+          "name": "Rode Pepervlokken (Chili)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Zout",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Taze Maydanoz (Doğranmış)",
+          "name": "Verse Peterselie (gehakt)",
           "quantity": 4.0,
           "type": "tablespoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Zwarte Peper",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -622,11 +622,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Büyük bir tencere suyu kaynatın. Suyu tuzlayın (deniz suyu kadar tuzlu olmalıdır). Spagettiyi ekleyin ve al dente olana kadar paket talimatlarına göre pişirin. Yaklaşık 1 su bardağı makarna pişirme suyunu ayırın.",
+          "stepDescription": "Breng een grote pan water aan de kook. Zout het water (het moet zo zout zijn als zeewater). Voeg de spaghetti toe en kook deze volgens de aanwijzingen op de verpakking tot deze al dente is. Bewaar ongeveer 1 kop van het pastakookwater.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Makarna Pişirme",
+              "timerName": "Pasta Koken",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -635,17 +635,17 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Makarna pişerken, sarımsağı ince ince dilimleyin. Büyük bir tavayı orta ateşte ısıtın ve 0.75 su bardağı sızma zeytinyağı ekleyin. Dilimlenmiş sarımsak ve 1 çay kaşığı kırmızı biber pul biberini tavaya ekleyin.",
+          "stepDescription": "Snijd, terwijl de pasta kookt, de knoflook in dunne plakjes. Verhit een grote koekenpan op middelhoog vuur en voeg 0.75 kop extra vierge olijfolie toe. Voeg de gesneden knoflook en 1 theelepel rode pepervlokken toe aan de pan.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Sarımsağı altın rengi ve kokusu çıkana kadar yaklaşık 2-3 dakika soteleyin. **Yakmamaya dikkat edin**, aksi takdirde acı olur. Ayrılan makarna pişirme suyunun 0.5 su bardağını tavaya ekleyin. Kaynamaya bırakın.",
+          "stepDescription": "Fruit de knoflook tot deze goudbruin en aromatisch is, ongeveer 2-3 minuten. **Pas op dat u het niet verbrandt**, anders wordt het bitter. Voeg 0.5 kop van het bewaarde pastakookwater toe aan de pan. Breng aan de kook.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Sarımsak Soteleme",
+              "timerName": "Knoflook Fruiten",
               "timerHours": 0,
               "timerMinutes": 2,
               "timerSeconds": 30
@@ -654,13 +654,13 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Pişmiş makarnayı süzün (durulamayın) ve hemen sarımsak soslu tavaya aktarın. Kalan 4 yemek kaşığı doğranmış taze maydanozu ekleyin. Hızla karıştırın ve tüm makarnayı sosla kaplamak için tavayı sallayın.",
+          "stepDescription": "Giet de gekookte pasta af (niet afspoelen) en breng deze onmiddellijk over naar de pan met de knoflooksaus. Voeg de resterende 4 eetlepels gehakte verse peterselie toe. Meng snel en schud de pan om alle pasta met de saus te bedekken.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Sosun kıvamını ayarlamak için gerekirse biraz daha ayrılmış makarna suyu ekleyin. Tadına bakın ve gerekirse 1 tutam karabiber ve ilave tuz ekleyin. Sıcakken hemen servis yapın.",
+          "stepDescription": "Voeg indien nodig nog een beetje van het bewaarde pastawater toe om de consistentie van de saus aan te passen. Proef en voeg indien nodig 1 snufje zwarte peper en extra zout toe. Serveer direct terwijl het heet is.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -668,7 +668,7 @@
     },
     {
       "id": 7,
-      "recipeName": "Kremalı Pesto Tavuklu Makarna",
+      "recipeName": "Romige Pesto Kip Pasta",
       "calories": 750,
       "prepTime": 15,
       "cookTime": 20,
@@ -676,47 +676,47 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
       "ingredients": [
         {
-          "name": "Fettuccine Makarna",
+          "name": "Fettuccine Pasta",
           "quantity": 350.0,
           "type": "gram"
         },
         {
-          "name": "Tavuk Göğsü (kemiksiz, derisiz)",
+          "name": "Kippenborst (zonder been, zonder vel)",
           "quantity": 500.0,
           "type": "gram"
         },
         {
-          "name": "Krema",
+          "name": "Slagroom (Heavy Cream)",
           "quantity": 250.0,
           "type": "milliliter"
         },
         {
-          "name": "Fesleğen Pesto",
+          "name": "Basilicum Pesto",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Parmesan Peyniri (rendelenmiş)",
+          "name": "Parmezaanse Kaas (geraspt)",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Olijfolie",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Knoflookpoeder",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Zout",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Zwarte Peper",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -724,17 +724,17 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "500 gram tavuk göğsünü 1 inçlik küpler halinde kesin. Bir kapta tavuğu 1 yemek kaşığı zeytinyağı, 0.5 çay kaşığı tuz, 1 çay kaşığı sarımsak tozu ve 1 tutam karabiber ile karıştırın.",
+          "stepDescription": "Snijd de 500 gram kippenborst in blokjes van 2.5 cm. Doe de kip in een kom en meng deze met 1 eetlepel olijfolie, 0.5 theelepel zout, 1 theelepel knoflookpoeder en 1 snufje zwarte peper.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Kalan 1 yemek kaşığı zeytinyağını büyük bir tavada orta-yüksek ateşte ısıtın. Baharatlanmış tavuğu ekleyin ve altın rengi kahverengi olana ve tamamen pişene kadar ara sıra çevirerek 6-8 dakika pişirin.",
+          "stepDescription": "Verhit de resterende 1 eetlepel olijfolie in een grote koekenpan op middelhoog vuur. Voeg de gekruide kip toe en bak deze 6-8 minuten, af en toe omdraaiend, totdat deze goudbruin en volledig gaar is.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "Tavuk Pişirme",
+              "timerName": "Kip Baktijd",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 0
@@ -743,11 +743,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Tavuk pişerken, büyük bir tencere tuzlu suyu kaynatın. 350 gram fettuccine makarnayı ekleyin ve al dente olana kadar pişirin. Makarnayı süzün, 1 su bardağı pişirme suyunu ayırın.",
+          "stepDescription": "Breng, terwijl de kip kookt, een grote pan gezouten water aan de kook. Voeg de 350 gram fettuccine toe en kook deze al dente. Giet de pasta af en bewaar 1 kop van het kookwater.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Makarna Pişirme",
+              "timerName": "Pasta Koken",
               "timerHours": 0,
               "timerMinutes": 9,
               "timerSeconds": 0
@@ -756,11 +756,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Tavadaki (tavuklu) ateşi kısın. 250 mililitre krema ve 0.5 su bardağı fesleğen pestoyu dökün. Birleşene kadar iyice karıştırın. Sosun hafifçe koyulaşması için 2 dakika yavaşça kaynamasına izin verin.",
+          "stepDescription": "Zet het vuur van de koekenpan (met de kip) laag. Giet de 250 milliliter slagroom en 0.5 kop basilicumpesto erbij. Roer goed tot het gemengd is. Laat de saus zachtjes 2 minuten sudderen om iets in te dikken.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Sos Kaynatma",
+              "timerName": "Saus Sudderen",
               "timerHours": 0,
               "timerMinutes": 2,
               "timerSeconds": 0
@@ -769,7 +769,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Süzülmüş makarnayı kremalı pesto sosa ekleyin ve kaplamak için karıştırın. 0.5 su bardağı rendelenmiş Parmesan peynirini ve ayrılmış makarna suyunun yaklaşık 0.25 su bardağını karıştırın. İstenilen kıvama ulaşmak için gerekirse daha fazla su ekleyin. Hemen servis yapın.",
+          "stepDescription": "Voeg de afgegoten pasta toe aan de romige pestosaus en meng totdat deze bedekt is. Roer de 0.5 kop geraspte Parmezaanse kaas en ongeveer 0.25 kop van het bewaarde pastawater erdoor. Voeg indien nodig meer water toe om de gewenste consistentie te bereiken. Serveer direct.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -777,7 +777,7 @@
     },
     {
       "id": 8,
-      "recipeName": "Izgara Peynirli Sandviç",
+      "recipeName": "Gegrilde Kaasboterham",
       "calories": 480,
       "prepTime": 5,
       "cookTime": 8,
@@ -785,32 +785,32 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
       "ingredients": [
         {
-          "name": "Ekşi Maya Ekmeği",
+          "name": "Zuurdesembrood",
           "quantity": 2.0,
           "type": "piece"
         },
         {
-          "name": "Çedar Peyniri (keskin)",
+          "name": "Cheddar Kaas (scherp)",
           "quantity": 50.0,
           "type": "gram"
         },
         {
-          "name": "Monterey Jack Peyniri",
+          "name": "Monterey Jack Kaas",
           "quantity": 50.0,
           "type": "gram"
         },
         {
-          "name": "Tuzsuz Tereyağı (yumuşatılmış)",
+          "name": "Ongezouten Boter (verzacht)",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Mayonez (tat için isteğe bağlı)",
+          "name": "Mayonaise (optioneel voor smaak)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Zout",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -818,29 +818,29 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Hem Çedar hem de Monterey Jack peynirlerini rendeleyin ve küçük bir kapta karıştırın. Rendelenmiş olması eşit erimeyi sağlar.",
+          "stepDescription": "Rasp zowel de Cheddar als de Monterey Jack kaas en meng ze in een kleine kom. Raspen zorgt voor gelijkmatig smelten.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Tereyağını her bir dilimin bir tarafına eşit şekilde yayın. Bu, tavaya değecek olan taraftır. İsteğe bağlı olarak, ekstra lezzet için bir dilimin karşı tarafına (iç tarafına) ince bir kat mayonez sürün.",
+          "stepDescription": "Smeer de boter gelijkmatig uit op één kant van elke snee brood. Dit is de kant die de pan zal raken. Smeer eventueel een dun laagje mayonaise op de tegenovergestelde kant (binnenkant) van één snee voor extra smaak.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Bir dilim ekmeği (tereyağlı tarafı aşağı bakacak şekilde) orta-kısık ateşte yapışmaz bir tavaya koyun. Karışık peyniri ekmeğin üzerine eşit şekilde serpin, ardından bir tutam tuz ekleyin.",
+          "stepDescription": "Plaats één snee brood (boterkant naar beneden) in een anti-aanbakpan op middellaag vuur. Bestrooi het brood gelijkmatig met de gemengde kaas en voeg een snufje zout toe.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 4,
-          "stepDescription": "İkinci dilim ekmekle (tereyağlı tarafı yukarı bakacak şekilde) üstünü kapatın. Alt dilim altın rengi kahverengi olana ve peynir erimeye başlayana kadar 3 ila 4 dakika pişirin.",
+          "stepDescription": "Dek af met de tweede snee brood (boterkant naar boven). Bak 3 tot 4 minuten, totdat de onderste snee goudbruin is en de kaas begint te smelten.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "İlk taraf pişirme süresi",
+              "timerName": "Baktijd Eerste Kant",
               "timerHours": 0,
               "timerMinutes": 3,
               "timerSeconds": 30
@@ -849,11 +849,11 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Bir spatula kullanarak sandviçi dikkatlice çevirin. İkinci taraf altın rengi kahverengi olana ve peynir tamamen eriyip akışkan hale gelene kadar 3 ila 4 dakika daha pişirin. Dış yüzey çok hızlı kızarırsa, ateşi kısın.",
+          "stepDescription": "Draai de sandwich voorzichtig om met een spatel. Bak nog 3 tot 4 minuten totdat de tweede kant goudbruin is en de kaas volledig gesmolten en vloeibaar is. Als de buitenkant te snel bruin wordt, zet u het vuur lager.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "İkinci taraf pişirme süresi",
+              "timerName": "Baktijd Tweede Kant",
               "timerHours": 0,
               "timerMinutes": 3,
               "timerSeconds": 30
@@ -862,7 +862,7 @@
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Tavadan alın, çapraz olarak dilimleyin ve hemen servis yapın.",
+          "stepDescription": "Haal uit de pan, snijd diagonaal en serveer direct.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -870,7 +870,7 @@
     },
     {
       "id": 9,
-      "recipeName": "Sarımsaklı Otlu Tereyağlı Mükemmel Tavada Mühürlenmiş Ribeye Biftek",
+      "recipeName": "Perfect Gebakken Ribeye Steak met Knoflook-Kruidenboter",
       "calories": 750,
       "prepTime": 10,
       "cookTime": 10,
@@ -878,37 +878,37 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
       "ingredients": [
         {
-          "name": "Ribeye Biftek (1.5 inç kalınlığında)",
+          "name": "Ribeye Steak (3,8 cm dik)",
           "quantity": 2.0,
           "type": "piece"
         },
         {
-          "name": "Koşer Tuz",
+          "name": "Kosjer Zout",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Taze Çekilmiş Karabiber",
+          "name": "Versgemalen Zwarte Peper",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Bitkisel Yağ (yüksek dumanlanma noktası)",
+          "name": "Plantaardige Olie (hoog rookpunt)",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Tuzsuz Tereyağı",
+          "name": "Ongezouten Boter",
           "quantity": 60.0,
           "type": "gram"
         },
         {
-          "name": "Sarımsak Dişleri (ezilmiş)",
+          "name": "Knoflooktenen (geplet)",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Taze Kekik Dalları",
+          "name": "Verse Tijmtakjes",
           "quantity": 3.0,
           "type": "piece"
         }
@@ -916,17 +916,17 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Biftekleri kağıt havlularla tamamen kurulayın. Her tarafını koşer tuz ve karabiberle cömertçe baharatlayın. Pişirmeden önce biftekleri oda sıcaklığında 30 dakika bekletin.",
+          "stepDescription": "Dep de steaks helemaal droog met keukenpapier. Breng ze aan alle kanten royaal op smaak met kosjer zout en zwarte peper. Laat de steaks 30 minuten op kamertemperatuur rusten voordat u gaat koken.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Bitkisel yağı dökme demir bir tavada yüksek ateşte parlamaya ve hafifçe dumanlanmaya başlayana kadar ısıtın. Baharatlanmış biftekleri dikkatlice sıcak tavaya yerleştirin. Derin, koyu kahverengi bir kabuk oluşana kadar 3 ila 4 dakika mühürleyin.",
+          "stepDescription": "Verhit de plantaardige olie in een gietijzeren koekenpan op hoog vuur totdat deze begint te glinsteren en licht te roken. Leg de gekruide steaks voorzichtig in de hete pan. Schroei 3 tot 4 minuten, totdat een diepe, donkerbruine korst is gevormd.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "İlk taraf mühürleme süresi",
+              "timerName": "Eerste Kant Schroei Tijd",
               "timerHours": 0,
               "timerMinutes": 3,
               "timerSeconds": 30
@@ -935,11 +935,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Biftekleri çevirin. Ateşi orta seviyeye indirin. Tavaya tereyağı, ezilmiş sarımsak dişleri ve kekik dallarını ekleyin. Tavayı hafifçe eğin ve eritilmiş otlu tereyağını büyük bir kaşık kullanarak bifteklerin üzerine sürekli olarak 1 ila 2 dakika boyunca gezdirin veya istenen iç sıcaklığa ulaşılana kadar (örneğin, az pişmiş-orta için 130°F).",
+          "stepDescription": "Draai de steaks om. Verlaag het vuur naar medium. Voeg de boter, de geplette knoflooktenen en de tijmtakjes toe aan de pan. Kantel de pan lichtjes en gebruik een grote lepel om het gesmolten kruidenboter constant over de steaks te scheppen gedurende 1 tot 2 minuten, of totdat de gewenste interne temperatuur is bereikt (bijv. 130°F voor medium-rare).",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Tereyağ Gezdirme/Pişirme Süresi",
+              "timerName": "Basten/Kooktijd",
               "timerHours": 0,
               "timerMinutes": 2,
               "timerSeconds": 0
@@ -948,11 +948,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Biftekleri tavadan alın ve bir kesme tahtasına yerleştirin. Tavadan kalan otlu tereyağını bifteklerin üzerine dökün. Dilimlemeden ve servis yapmadan önce suların yeniden dağılması için 5 ila 10 dakika dinlenmeye bırakın.",
+          "stepDescription": "Haal de steaks uit de pan en leg ze op een snijplank. Giet de resterende kruidenboter uit de pan over de steaks. Laat ze 5 tot 10 minuten rusten zodat de sappen zich kunnen herverdelen voordat u ze snijdt en serveert.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Dinlenme Süresi",
+              "timerName": "Rusttijd",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 30
@@ -963,7 +963,7 @@
     },
     {
       "id": 10,
-      "recipeName": "Klasik Tereyağlı Tavuk (Butter Chicken)",
+      "recipeName": "Klassieke Indiase Boter Kip (Butter Chicken)",
       "calories": 680,
       "prepTime": 25,
       "cookTime": 35,
@@ -971,57 +971,57 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
       "ingredients": [
         {
-          "name": "Kemiksiz, Derisiz Tavuk Butları (küp doğranmış)",
+          "name": "Kipdijfilet (zonder been en vel, in blokjes)",
           "quantity": 1.0,
           "type": "kilogram"
         },
         {
-          "name": "Sade Yoğurt",
+          "name": "Natuurlijke Yoghurt",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Zencefil-Sarımsak Ezmesi",
+          "name": "Gember-Knoflookpasta",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Biber Tozu",
+          "name": "Chilipoeder",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Zerdeçal Tozu",
+          "name": "Kurkumapoeder",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Garam Masala (marinasyon için)",
+          "name": "Garam Masala (voor marinade)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Domates Püresi",
+          "name": "Tomatenpuree",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Tuzsuz Tereyağı",
+          "name": "Ongezouten Boter",
           "quantity": 120.0,
           "type": "gram"
         },
         {
-          "name": "Krema",
+          "name": "Slagroom (Heavy Cream)",
           "quantity": 0.75,
           "type": "cup"
         },
         {
-          "name": "Kasuri Methi (Kurutulmuş Çemen Yaprakları)",
+          "name": "Kasuri Methi (Gedroogde Fenegriekblaadjes)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Şeker",
+          "name": "Suiker",
           "quantity": 1.0,
           "type": "teaspoon"
         }
@@ -1029,11 +1029,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Tavuğu marine edin: Büyük bir kapta tavuğu yoğurt, zencefil-sarımsak ezmesi, biber tozu, zerdeçal tozu ve marinasyon garam masalası ile karıştırın. Üzerini kapatın ve en az 30 dakika veya 4 saate kadar buzdolabında bekletin.",
+          "stepDescription": "Marineer de kip: Meng in een grote kom de kip met yoghurt, gember-knoflookpasta, chilipoeder, kurkumapoeder en Garam Masala voor de marinade. Dek af en zet minstens 30 minuten, of maximaal 4 uur, in de koelkast.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Marinasyon süresi",
+              "timerName": "Marineertijd",
               "timerHours": 0,
               "timerMinutes": 30,
               "timerSeconds": 0
@@ -1042,11 +1042,11 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Tavuğu pişirin: Marine edilmiş tavuğu tamamen pişene ve kenarları hafifçe kömürleşene kadar ızgarada, fırında veya tavada kızartın. Bir kenara koyun.",
+          "stepDescription": "Kook de kip: Grill, bak of paneer de gemarineerde kip tot deze volledig gaar is en de randen licht verkoold zijn. Zet apart.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Tavuk pişirme süresi",
+              "timerName": "Kip Kooktijd",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -1055,11 +1055,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Sos tabanını hazırlayın: Büyük bir tencerede tereyağının yarısını eritin. Domates püresini ekleyin ve yağ ayrılana kadar (yaklaşık 10 dakika) pişirin. 1/2 su bardağı su ekleyin, kaynamaya bırakın, ardından sosu tamamen pürüzsüz olana kadar karıştırın. Karışımı tekrar tencereye süzün.",
+          "stepDescription": "Bereid de sausbasis: Smelt in een grote pan de helft van de boter. Voeg de tomatenpuree toe en kook tot de olie zich scheidt (ongeveer 10 minuten). Voeg 1/2 kop water toe, laat sudderen en pureer de saus vervolgens totdat deze volledig glad is. Zeef de gepureerde saus terug in de pan.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Sos kaynatma süresi",
+              "timerName": "Saus Sudder Tijd",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -1068,11 +1068,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Sosu tamamlayın: Kalan tereyağını, şekeri ve kalan garam masalayı (istenirse) süzülmüş sosa ekleyin. İyice karıştırın. Pişmiş tavuk parçalarını ekleyin ve 5 dakika kaynatın.",
+          "stepDescription": "Maak de saus af: Voeg de resterende boter, suiker en de resterende Garam Masala (indien gewenst) toe aan de gezeefde saus. Roer goed. Voeg de gekookte kipblokjes toe en laat 5 minuten sudderen.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Tavukla son kaynatma",
+              "timerName": "Laatste Sudder Tijd met Kip",
               "timerHours": 0,
               "timerMinutes": 5,
               "timerSeconds": 0
@@ -1081,7 +1081,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Servis: Kremayı karıştırın ve Kasuri Methi'yi eklemeden önce avuçlarınız arasında ezerek ufalayın. Kaynatmadan ısıtın. Pirinç veya naan ekmeği ile hemen servis yapın.",
+          "stepDescription": "Serveren: Roer de slagroom erdoor en verkruimel de Kasuri Methi tussen uw handpalmen voordat u deze toevoegt. Verwarm door, maar laat het niet koken. Serveer direct met rijst of naanbrood.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -1089,7 +1089,7 @@
     },
     {
       "id": 11,
-      "recipeName": "Kremalı Domates Çorbası",
+      "recipeName": "Romige Tomatensoep",
       "calories": 250,
       "prepTime": 10,
       "cookTime": 30,
@@ -1097,47 +1097,47 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
       "ingredients": [
         {
-          "name": "Konserve Doğranmış Domates",
+          "name": "In Blik Gesneden Tomaten",
           "quantity": 28.0,
           "type": "ounce"
         },
         {
-          "name": "Tavuk veya Sebze Suyu",
+          "name": "Kippen- of Groentebouillon",
           "quantity": 4.0,
           "type": "cup"
         },
         {
-          "name": "Soğan, doğranmış",
+          "name": "Ui, gehakt",
           "quantity": 1.0,
           "type": "piece"
         },
         {
-          "name": "Sarımsak, kıyılmış",
+          "name": "Knoflook, gehakt",
           "quantity": 2.0,
           "type": "cloves"
         },
         {
-          "name": "Krema",
+          "name": "Slagroom (Heavy Cream)",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Olijfolie",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Kuru Fesleğen",
+          "name": "Gedroogde Basilicum",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Zout",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Zwarte Peper",
           "quantity": 0.25,
           "type": "teaspoon"
         }
@@ -1145,11 +1145,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Büyük bir tencerede zeytinyağını orta ateşte ısıtın. Doğranmış soğanı ekleyin ve yaklaşık 5-7 dakika yumuşayana kadar soteleyin. Kıyılmış sarımsağı ekleyin ve 1 dakika daha soteleyin.",
+          "stepDescription": "Verhit de olijfolie in een grote pan op middelhoog vuur. Voeg de gehakte ui toe en fruit deze tot deze zacht is, ongeveer 5-7 minuten. Voeg de gehakte knoflook toe en fruit deze nog 1 minuut.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Soğanı Soteleme",
+              "timerName": "Ui Fruiten",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 0
@@ -1158,11 +1158,11 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Konserve doğranmış domates, et suyu, kuru fesleğen, tuz ve karabiberi karıştırın. Karışımı kaynamaya bırakın, ardından ateşi kısın ve 20 dakika kaynatın.",
+          "stepDescription": "Roer de in blik gesneden tomaten, bouillon, gedroogde basilicum, zout en peper erdoor. Breng het mengsel aan de kook, zet het vuur dan lager en laat het 20 minuten sudderen.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Çorbayı Kaynatma",
+              "timerName": "Soep Sudderen",
               "timerHours": 0,
               "timerMinutes": 20,
               "timerSeconds": 0
@@ -1171,13 +1171,13 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Çorbayı dikkatlice bir blendere aktarın veya bir el blenderı kullanarak çorbayı pürüzsüz olana kadar karıştırın. Çorbayı tekrar tencereye alın.",
+          "stepDescription": "Breng de soep voorzichtig over naar een blender of gebruik een staafmixer om de soep glad te pureren. Giet de soep terug in de pan.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Kremayı karıştırın ve 2-3 dakika ısıtın, ancak kaynatmayın. İsteğe bağlı olarak taze fesleğen veya krutonlarla süsleyerek sıcak servis yapın.",
+          "stepDescription": "Roer de slagroom erdoor en verwarm 2-3 minuten door, maar laat het niet koken. Serveer warm, eventueel gegarneerd met verse basilicum of croutons.",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }

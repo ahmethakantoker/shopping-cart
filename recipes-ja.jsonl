@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "クラシック・ダイナー・チーズバーガー",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "牛ひき肉 (赤身80% / 脂肪20%)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "ウスターソース",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "オニオンパウダー",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ガーリックパウダー",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "塩 (コーシャーまたはシーソルト)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "黒こしょう (挽きたて)",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "アメリカンチーズ (スライス)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "ポテトバンズまたはハンバーガーバンズ",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "マヨネーズ",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "ディルピクルスチップス",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "680グラムの牛ひき肉を、ウスターソース大さじ1、オニオンパウダー小さじ0.5、ガーリックパウダー小さじ0.5、塩小さじ1、黒こしょう小さじ0.25と混ぜ合わせます。手で**やさしく**混ぜ、かろうじてまとまる程度にします。混ぜすぎるとパティが固くなります。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "混ぜたものを4等分にし、厚さ約2センチのパティを成形します。調理中にパティが膨らむのを防ぐため、親指で各パティの中心に小さなくぼみを作ります。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "鋳鉄製のフライパンまたはグリルを中強火で熱します。パティを片面3〜5分ずつ焼き、ミディアムレアの焼き加減にします。または、中心温度が71度に達するまで焼きます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "パティの調理時間",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "調理の最後の1分で、各パティの上にアメリカンチーズを1枚置きます。チーズがきれいに溶けるよう、グリルまたはフライパンを一時的に覆います。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "チーズを溶かす",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "4つのバンズをカット面を下にして、グリルまたは乾いたフライパンで約30秒間トーストします。組み立てるには、バンズの両半分にマヨネーズ大さじ1を塗ります。チーズバーガーパティを下側のバンズに乗せ、ディルピクルスチップス（1カップ）をいくつか加え、上側のバンズで閉じます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "クラシック・ビーフタコス",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "赤身牛ひき肉 (80/20またはそれ以上赤身)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "オリーブオイル",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "チリパウダー",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "クミン (ひき肉用)",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "乾燥オレガノ",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ガーリックパウダー",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "塩",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "黒こしょう",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "トマトペースト",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "水",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "タコシェルまたはトルティーヤ (コーンまたは小麦粉)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "細切りレタス",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "シュレッドチェダーチーズまたはメキシカンブレンド",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "角切りトマト",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "サワークリームまたはギリシャヨーグルト (オプション)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "大きなフライパンにオリーブオイルを中強火で熱します。牛ひき肉を加え、スプーンで崩しながら、完全にきつね色になり、ピンク色がなくなるまで炒めます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "フライパンから余分な脂をすべて取り除き、肉を火に戻します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "チリパウダー、クミン、オレガノ、ガーリックパウダー、塩、黒こしょうを混ぜ合わせます。1分間炒め、スパイスをトーストさせます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "スパイスのトースト",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "トマトペーストと水を加えます。肉にコーティングされるようによく混ぜます。混合物を煮立たせ、その後火を弱めて、ソースが濃くなり、水分がほぼ吸収されるまで煮込みます（肉は乾燥せず、まだしっとりしている必要があります）。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "肉の煮込み",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "肉を煮込んでいる間に、タコシェルまたはトルティーヤをパッケージの指示に従って温めます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "味付けしたタコ肉をスプーンでシェルまたはトルティーヤに入れます。細切りレタス、チーズ、角切りトマト、そしてサワークリームまたはヨーグルト（オプション）をトッピングします。すぐに提供します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "クラシック・マルゲリータ・ピザ",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "中力粉",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "ぬるま湯",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "ドライイースト (活性)",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "塩",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "オリーブオイル (生地用)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "クラッシュトマト",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "フレッシュモッツァレラチーズ",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "フレッシュバジル",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "オリーブオイル (トッピング用)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "黒こしょう",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "ボウルにぬるま湯とひとつまみの砂糖（材料には記載されていませんが、イーストの活性化に必要とされます）と一緒にイーストを混ぜて活性化させます。5〜10分間放置し、泡立つまで待ちます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "イーストの活性化",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "大きなボウルに薄力粉と塩を合わせます。イーストミックスとオリーブオイル大さじ2を注ぎます。ざっくりとした生地ができるまで混ぜます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "生地を軽く打ち粉をした台に出し、滑らかで弾力が出るまで8〜10分間こねます。油を塗ったボウルに入れ、覆いをして、サイズが2倍になるまで暖かい場所で発酵させます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "生地の発酵",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "オーブンを最高温度（通常250°C/480°F）に予熱し、ピザストーンまたは天板を中に入れて温めます。生地をパンチしてガスを抜き、2つの玉（中サイズのピザ2枚分）に分け、10分間休ませます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "オーブンの予熱",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "生地玉の一つを12インチの円形に伸ばすか、広げます。打ち粉をしたピザピールまたはベーキングシートに移します。クラッシュトマトの半分を均等に塗り広げ、ちぎったモッツァレラチーズの半分を加え、オリーブオイルを少しと黒こしょうを少々かけます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "ピザを12〜15分間焼きます。クラストがきつね色になり、チーズが泡立つまで焼きます。オーブンから取り出したら、すぐにフレッシュバジルを飾り付けます。スライスしてすぐに提供します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "焼き時間",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "スパイシー・チキン・ランチ・ラップ",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "鶏むね肉 (骨なし、皮なし)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "トルティーヤ (大)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "ランチドレッシング",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "ホットソース (例: バッファローソース風)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "ロメインレタス (千切り)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "シュレッドチェダーチーズ",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "スモークパプリカ",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ガーリックパウダー",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "塩",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "オリーブオイル",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "鶏むね肉を1インチ幅の細切りにします。ボウルで、鶏肉をオリーブオイル、スモークパプリカ、ガーリックパウダー、ひとつまみの塩とよく絡めます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "大きなフライパンを中強火で熱します。味付けした鶏肉の細切りを加え、時々裏返しながら5〜7分間、きつね色になり完全に火が通るまで（中心温度74°C/165°F）焼きます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "鶏肉の調理",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "鶏肉がまだ熱いうちに火から下ろし、きれいなボウルに移します。ランチドレッシングとホットソースを鶏肉の上からかけます。すべてのピースがスパイシーなランチミックスでコーティングされるまで混ぜます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "トルティーヤを広げます。中央に細切りレタスを薄く広げ、次にシュレッドチェダーチーズの4分の1を置きます。これがラップの土台になります。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "チーズとレタスの上にスパイシー・チキン・ランチミックスの4分の1を乗せます。ラップに詰めすぎないように注意してください。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "巻くには、トルティーヤの両側を具材の上に折り込み、その後、下から上に向かってラップをきつく巻きます。完成したラップを斜めに半分にカットし、すぐに提供します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "クラシック・フレンチ・オムレツ",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "卵 (大)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "バター",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "塩",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "黒こしょう",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "チャイブ (フレッシュ、みじん切り)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "ボウルに卵を割ります。塩とこしょうを加えます。卵黄と卵白が完全に混ざり、少し泡立つまで勢いよくかき混ぜますが、空気を入れすぎないように注意します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "かき混ぜる",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "ノンスティックフライパン（約8インチ）を中火で熱します。バターを加え、溶けて泡立ち、その後落ち着いて、澄んだナッツのような色になるまで回します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "バターを溶かす",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "卵液を熱いフライパンに注ぎます。卵が固まり始めるまで約10秒間待ちます。その後、フォークまたはゴムベラを使って、フライパンを傾けながら、底が固まるが上がまだ湿ってクリーミーな状態になるまで、卵を絶えず素早くかき混ぜます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "卵の調理",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "かき混ぜるのをやめ、底が完全に固まるまでオムレツをさらに30秒間そのままにして調理します。みじん切りにしたチャイブをオムレツの中央3分の1の上に散らします。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "最終的な凝固",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "フライパンを傾け、ヘラを使ってオムレツの片側を中央の上に約3分の1折り込みます。オムレツをフライパンから皿の上に、縫い目を下にして優しく押し出し、きれいな魚雷形を作ります。すぐに提供します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "クラシック・ガーリック＆オリーブオイル・スパゲッティ (アーリオ・オーリオ)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "スパゲッティパスタ",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "エキストラバージンオリーブオイル",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "ニンニク",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "赤唐辛子フレーク",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "塩",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "フレッシュパセリ (みじん切り)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "黒こしょう",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "大きな鍋に湯を沸騰させます。水を塩で味付けします（海水くらいの塩加減に）。スパゲッティを加え、パッケージの指示に従ってアルデンテになるまで茹でます。パスタの茹で汁を約1カップ取っておきます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "パスタの調理",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "パスタを茹でている間に、ニンニクを薄切りにします。大きなフライパンを中火で熱し、エキストラバージンオリーブオイル0.75カップを加えます。スライスしたニンニクと赤唐辛子フレーク小さじ1をフライパンに入れます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "ニンニクがきつね色になり、香りが立つまで約2〜3分間ソテーします。**焦がさないように注意してください**。焦げると苦くなります。取っておいたパスタの茹で汁0.5カップをフライパンに加えます。煮立たせます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "ニンニクのソテー",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "茹で上がったパスタを水気を切り（すすがない）、すぐにニンニクソースの入ったフライパンに移します。残りのみじん切りにしたフレッシュパセリ大さじ4を加えます。素早く混ぜ合わせ、フライパンを振ってすべてのスパゲッティにソースを絡めます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "ソースの濃度を調整するために、必要に応じて取っておいたパスタの茹で汁をさらに少量加えます。味見をし、必要に応じて黒こしょうひとつまみと追加の塩を加えます。熱いうちにすぐに提供します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "クリーミー・ペスト・チキン・パスタ",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "フェットチーネパスタ",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "鶏むね肉 (骨なし、皮なし)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "ヘビークリーム",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "バジルペスト",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "パルメザンチーズ (すりおろし)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "オリーブオイル",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "ガーリックパウダー",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "塩",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "黒こしょう",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "鶏むね肉500グラムを1インチの角切りにします。ボウルで、鶏肉をオリーブオイル大さじ1、塩小さじ0.5、ガーリックパウダー小さじ1、黒こしょうひとつまみと絡めます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "残りのオリーブオイル大さじ1を大きなフライパンで中強火で熱します。味付けした鶏肉を加え、時々裏返しながら6〜8分間、きつね色になり完全に火が通るまで焼きます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "鶏肉の調理",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "鶏肉を焼いている間に、大きな鍋に塩水を沸騰させます。フェットチーネ350グラムを加え、アルデンテになるまで茹でます。パスタを水切りし、茹で汁を1カップ取っておきます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "パスタの調理",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "フライパン（鶏肉入り）の火を弱火に落とします。ヘビークリーム250ミリリットルとバジルペスト0.5カップを注ぎます。よく混ぜて合わせます。ソースを2分間ゆっくり煮立たせて、少し濃くします。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "ソースの煮込み",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "水気を切ったパスタをクリーミーなペストソースに加え、絡めます。すりおろしたパルメザンチーズ0.5カップと、取っておいたパスタの茹で汁約0.25カップを混ぜ入れます。必要に応じてさらに水を加え、お好みの濃度にします。すぐに提供します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "グリルドチーズサンドイッチ",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "サワードウブレッド",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "チェダーチーズ (シャープ)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "モントレージャックチーズ",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "無塩バター (柔らかくした)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "マヨネーズ (味付け用オプション)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "塩",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "チェダーチーズとモントレージャックチーズの両方をすりおろし、小さなボウルで混ぜ合わせます。すりおろすことで均一に溶けます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "バターをパンのスライス両面の片側に均等に塗ります。これがフライパンに触れる側になります。オプションとして、追加の風味のために、片方のスライスの反対側（内側）にマヨネーズを薄く塗ります。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "パンのスライス一つを（バター面を下にして）中弱火のノンスティックフライパンに置きます。混ぜたチーズをパンの上に均等に振りかけ、次に塩をひとつまみ加えます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "2枚目のパンのスライスを（バター面を上にして）かぶせます。下のスライスがきつね色になり、チーズが溶け始めるまで3〜4分間焼きます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "片面目の調理時間",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "ヘラを使ってサンドイッチを慎重にひっくり返します。2枚目の面がきつね色になり、チーズが完全に溶けてとろけるまでさらに3〜4分間焼きます。外側がきつね色になりすぎる場合は、火を弱めます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "両面目の調理時間",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "フライパンから取り出し、斜めにカットしてすぐに提供します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "ガーリックハーブバター添え完璧なリブアイステーキのフライパン焼き",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "リブアイステーキ (厚さ1.5インチ)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "コーシャーソルト",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "黒こしょう (挽きたて)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "植物油 (発煙点が高いもの)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "無塩バター",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "ニンニクのクローブ (潰したもの)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "フレッシュタイムの小枝",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "ペーパータオルでステーキの水分を完全に拭き取ります。コーシャーソルトと黒こしょうをすべての面にたっぷり振ります。調理する前に、ステーキを30分間室温で休ませます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "鋳鉄製のフライパンで植物油を強火で熱し、きらめき始め、わずかに煙が出るまで加熱します。味付けしたステーキを熱いフライパンに慎重に置きます。濃いきつね色の分厚い焼き色が付くまで、3〜4分間焼きます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "片面目の焼付け時間",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "ステーキを裏返します。火を中火に落とします。バター、潰したニンニクのクローブ、タイムの小枝をフライパンに加えます。フライパンをわずかに傾け、大きなスプーンを使って、溶けたハーブバターをステーキの上に1〜2分間、または希望の内部温度（例：ミディアムレアの場合は130°F）に達するまで絶えずかけ続けます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "バターかけ/調理時間",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "ステーキをフライパンから取り出し、まな板の上に置きます。フライパンに残ったハーブバターをステーキの上からかけます。スライスして提供する前に、肉汁が再び分散するように5〜10分間休ませます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "休ませる時間",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "クラシック・バターチキン",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "鶏もも肉 (骨なし、皮なし、角切り)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "プレーンヨーグルト",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "ショウガとニンニクのペースト",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "チリパウダー",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ターメリックパウダー",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ガラムマサラ (マリネ用)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "トマトピューレ",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "無塩バター",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "ヘビークリーム",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "カスリメティ (乾燥フェヌグリークの葉)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "砂糖",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "鶏肉をマリネします：大きなボウルで、鶏肉をヨーグルト、ショウガとニンニクのペースト、チリパウダー、ターメリックパウダー、マリネ用のガラムマサラと混ぜ合わせます。蓋をして、最低30分、または最大4時間冷蔵庫で冷やします。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "マリネ時間",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "鶏肉を焼きます：マリネした鶏肉をグリル、オーブン、またはフライパンで、完全に火が通り、端が少し焦げ付くまで焼きます。脇に置きます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "鶏肉の調理時間",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "ソースのベースを準備します：大きな鍋に残りのバターの半分を溶かします。トマトピューレを加え、油が分離するまで（約10分）炒めます。水0.5カップを加え、煮立たせ、その後ソースが完全に滑らかになるまでブレンダーで混ぜます。ブレンダーにかけたソースを鍋に戻し、こします。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "ソースの煮込み時間",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "ソースを仕上げます：残りのバター、砂糖、残りのガラムマサラ（お好みで）を漉したソースに加えます。よく混ぜます。焼いた鶏肉を加え、5分間ゆっくり煮込みます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "鶏肉との最終煮込み",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "提供：ヘビークリームを混ぜ込み、カスリメティを手のひらで砕いてから加えます。温めますが、沸騰させないようにします。ライスまたはナンと一緒にすぐに提供します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "クリーミー・トマトスープ",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "缶詰の角切りトマト",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "鶏肉または野菜のブイヨン",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "タマネギ (みじん切り)",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "ニンニク (みじん切り)",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "ヘビークリーム",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "オリーブオイル",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "乾燥バジル",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "塩",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "黒こしょう",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "大きな鍋にオリーブオイルを中火で熱します。みじん切りにしたタマネギを加え、柔らかくなるまで約5〜7分間ソテーします。みじん切りにしたニンニクを加え、さらに1分間ソテーします。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "タマネギのソテー",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "缶詰の角切りトマト、ブイヨン、乾燥バジル、塩、黒こしょうを混ぜ合わせます。混合物を沸騰させ、その後火を弱めて20分間煮込みます。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "スープの煮込み",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "スープを慎重にブレンダーに移すか、またはブレンダーを使ってスープが滑らかになるまで混ぜます。スープを鍋に戻します。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "ヘビークリームを混ぜ込み、2〜3分間温めますが、沸騰させないようにします。温かい状態で提供し、お好みでフレッシュバジルやクルトンを飾ります。",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

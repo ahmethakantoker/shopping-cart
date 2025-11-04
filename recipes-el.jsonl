@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Κλασικό Diner Τσίζμπεργκερ",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Κιμάς (80% άπαχος / 20% λιπαρός)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Σάλτσα Worcestershire",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Σκόνη Κρεμμυδιού",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Σκόνη Σκόρδου",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Αλάτι (Κόσερ ή Θαλασσινό)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Φρεσκοτριμμένο Μαύρο Πιπέρι",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Αμερικάνικο Τυρί (σε φέτες)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ψωμάκια Πατάτας ή Ψωμάκια Χάμπουργκερ",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Μαγιονέζα",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Τσιπς Αγγουράκι Τουρσί (Dill Pickle Chips)",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Συνδυάστε τα 680 γραμμάρια κιμά με τη 1 κουταλιά της σούπας σάλτσα Worcestershire, 0,5 κουταλάκι του γλυκού σκόνη κρεμμυδιού, 0,5 κουταλάκι του γλυκού σκόνη σκόρδου, 1 κουταλάκι του γλυκού αλάτι και 0,25 κουταλάκι του γλυκού μαύρο πιπέρι. Ανακατέψτε **απαλά** με τα χέρια σας μέχρι να ενωθούν ελαφρώς. [cite_start]Το υπερβολικό ανακάτεμα θα κάνει τα μπιφτέκια σκληρά. [cite: 12, 13, 14]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Χωρίστε το μείγμα σε 4 ίσες μερίδες και σχηματίστε μπιφτέκια πάχους περίπου 2 εκατοστών. [cite_start]Κάντε μια μικρή εσοχή στο κέντρο κάθε μπιφτεκιού με τον αντίχειρά σας για να αποτρέψετε να φουσκώσουν κατά το μαγείρεμα. [cite: 15, 16]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Ζεστάνετε ένα τηγάνι ή μια σχάρα σε μέτρια-υψηλή φωτιά. [cite_start]Μαγειρέψτε τα μπιφτέκια για 3-5 λεπτά ανά πλευρά για μεσαίο ψήσιμο (medium doneness), ή μέχρι η εσωτερική θερμοκρασία να φτάσει τους 71 βαθμούς. [cite: 17, 18]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χρόνος Μαγειρέματος Μπιφτεκιού",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Κατά το τελευταίο λεπτό του μαγειρέματος, τοποθετήστε 1 φέτα αμερικάνικο τυρί σε κάθε μπιφτέκι. [cite_start]Καλύψτε τη σχάρα ή το τηγάνι στιγμιαία για να βεβαιωθείτε ότι το τυρί λιώνει όμορφα. [cite: 21, 22]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Λιώσιμο Τυριού",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Ψήστε τα 4 ψωμάκια με την κομμένη πλευρά προς τα κάτω στη σχάρα ή σε ένα στεγνό τηγάνι για περίπου 30 δευτερόλεπτα. Για τη συναρμολόγηση, απλώστε 1 κουταλιά της σούπας μαγιονέζα και στα δύο μισά του ψωμιού. [cite_start]Τοποθετήστε το τσίζμπεργκερ στο κάτω ψωμάκι, προσθέστε μερικά από τα 1 φλιτζάνι τσιπς αγγουράκι τουρσί και κλείστε με το πάνω ψωμάκι. [cite: 25, 26, 27]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Κλασικά Τάκος με Κιμά",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Άπαχος Κιμάς (80/20 ή πιο άπαχος)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Ελαιόλαδο",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Σκόνη Τσίλι",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Τριμμένο Κύμινο",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Ξερή Ρίγανη",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Σκόνη Σκόρδου",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Αλάτι",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Μαύρο Πιπέρι",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Πολτός Ντομάτας",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Νερό",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Κελύφη Τάκο ή Τορτίγιες (Καλαμποκιού ή Αλευριού)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ψιλοκομμένο Μαρούλι",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Τριμμένο Τυρί Cheddar ή Mexican Blend",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Κομμένες Ντομάτες σε Κύβους",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ξινή Κρέμα (Sour Cream) ή Ελληνικό Γιαούρτι (προαιρετικό)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Ζεστάνετε το ελαιόλαδο σε ένα μεγάλο τηγάνι σε μέτρια-υψηλή φωτιά. [cite_start]Προσθέστε τον κιμά και μαγειρέψτε, σπάζοντάς τον με ένα κουτάλι, μέχρι να ροδίσει πλήρως και να μην είναι πλέον ροζ. [cite: 44, 45]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    [cite_start]"stepDescription": "Στραγγίστε τυχόν περίσσεια λίπους από το τηγάνι και επιστρέψτε το κρέας στη φωτιά. [cite: 46, 47]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Ανακατέψτε τη σκόνη τσίλι, το κύμινο, τη ρίγανη, τη σκόνη σκόρδου, το αλάτι και το μαύρο πιπέρι. [cite_start]Μαγειρέψτε για 1 λεπτό, αφήνοντας τα μπαχαρικά να καβουρδιστούν. [cite: 47, 48]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Καβούρδισμα Μπαχαρικών",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Προσθέστε τον πολτό ντομάτας και το νερό. Ανακατέψτε καλά για να επικαλυφθεί το κρέας. [cite_start]Αφήστε το μείγμα να σιγοβράσει, στη συνέχεια μειώστε τη φωτιά σε χαμηλή και μαγειρέψτε μέχρι η σάλτσα να πήξει και το υγρό να απορροφηθεί κυρίως (το κρέας πρέπει να είναι ακόμα υγρό, όχι στεγνό). [cite: 51, 52]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Σιγοβράσιμο Κρέατος",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    [cite_start]"stepDescription": "Ενώ το κρέας σιγοβράζει, ζεστάνετε τα κελύφη τάκο ή τις τορτίγιες σύμφωνα με τις οδηγίες της συσκευασίας. [cite: 55]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Βάλτε το καρυκευμένο κρέας τάκο στα κελύφη ή στις τορτίγιες με ένα κουτάλι. Γαρνίρετε με ψιλοκομμένο μαρούλι, τυρί, κομμένες ντομάτες και μια κουταλιά ξινή κρέμα ή γιαούρτι (προαιρετικό). [cite_start]Σερβίρετε αμέσως. [cite: 56, 57, 58]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Κλασική Μαργαρίτα Πίτσα",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Αλεύρι για Όλες τις Χρήσεις",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ζεστό Νερό",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ενεργή Ξηρή Μαγιά",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Αλάτι",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Ελαιόλαδο (Ζύμη)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Τριμμένες Ντομάτες",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Φρέσκια Μοτσαρέλα",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Φύλλα Φρέσκου Βασιλικού",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ελαιόλαδο (Επικάλυψη)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Μαύρο Πιπέρι",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Ενεργοποιήστε τη μαγιά αναμειγνύοντάς την με ζεστό νερό και μια πρέζα ζάχαρη (δεν αναφέρεται στα υλικά, αλλά υποτίθεται για την ενεργοποίηση της μαγιάς) σε ένα μπολ. [cite_start]Αφήστε το να καθίσει για 5-10 λεπτά μέχρι να αφρίσει. [cite: 70, 71]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Ενεργοποίηση Μαγιάς",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Σε ένα μεγάλο μπολ, συνδυάστε το αλεύρι και το αλάτι. Ρίξτε το μείγμα της μαγιάς και τις 2 κουταλιές της σούπας ελαιόλαδο. [cite_start]Ανακατέψτε μέχρι να σχηματιστεί μια τραχιά ζύμη. [cite: 74, 75, 76]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Αδειάστε τη ζύμη σε μια ελαφρώς αλευρωμένη επιφάνεια και ζυμώστε για 8-10 λεπτά μέχρι να γίνει λεία και ελαστική. [cite_start]Τοποθετήστε τη σε ένα λαδωμένο μπολ, καλύψτε και αφήστε τη να φουσκώσει σε ζεστό μέρος μέχρι να διπλασιαστεί σε μέγεθος. [cite: 77, 78]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Φούσκωμα Ζύμης",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Προθερμάνετε τον φούρνο σας στην υψηλότερη θερμοκρασία (συνήθως 250°C/480°F) και τοποθετήστε μια πέτρα πίτσας ή ένα ταψί μέσα για να ζεσταθεί. [cite_start]Πατήστε τη ζύμη προς τα κάτω, χωρίστε τη σε δύο μπάλες (για δύο μεσαίες πίτσες) και αφήστε τις να ξεκουραστούν για 10 λεπτά. [cite: 81, 82]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Προθέρμανση Φούρνου",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Τεντώστε ή ανοίξτε μία μπάλα ζύμης σε κύκλο 12 ιντσών. Μεταφέρετέ την σε ένα αλευρωμένο φτυάρι πίτσας ή λαδόκολλα. [cite_start]Απλώστε ομοιόμορφα τη μισή ποσότητα από τις τριμμένες ντομάτες, προσθέστε τη μισή ποσότητα από την κομμένη μοτσαρέλα, και περιχύστε με λίγο ελαιόλαδο και μια πρέζα πιπέρι. [cite: 85, 86, 87]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Ψήστε την πίτσα για 12-15 λεπτά μέχρι η κρούστα να γίνει χρυσαφένια και το τυρί να αφρίσει. Μόλις βγει από τον φούρνο, γαρνίρετε αμέσως με φρέσκα φύλλα βασιλικού. [cite_start]Κόψτε και σερβίρετε. [cite: 88, 89, 90]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χρόνος Ψησίματος",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Πικάντικη Κοτοσαλάτα σε Τορτίγια με Ranch (Spicy Chicken Ranch Wrap)",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Στήθος Κοτόπουλου (χωρίς κόκαλα, χωρίς πέτσα)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Τορτίγιες (μεγάλες)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Σάλτσα Ranch",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Καυτερή Σάλτσα (π.χ., τύπου Buffalo)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Μαρούλι Romaine (ψιλοκομμένο)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Τριμμένο Τυρί Cheddar",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Καπνιστή Πάπρικα",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Σκόνη Σκόρδου",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Αλάτι",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Ελαιόλαδο",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Κόψτε το στήθος κοτόπουλου σε λωρίδες 1 ίντσας. [cite_start]Σε ένα μπολ, ανακατέψτε το κοτόπουλο με ελαιόλαδο, καπνιστή πάπρικα, σκόνη σκόρδου και μια πρέζα αλάτι μέχρι να καλυφθεί καλά. [cite: 104, 105]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Ζεστάνετε ένα μεγάλο τηγάνι σε μέτρια-υψηλή φωτιά. [cite_start]Προσθέστε τις καρυκευμένες λωρίδες κοτόπουλου και μαγειρέψτε για 5-7 λεπτά, γυρίζοντας περιστασιακά, μέχρι να ροδίσουν και να ψηθούν πλήρως (εσωτερική θερμοκρασία 74°C/165°F). [cite: 106, 107]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Μαγείρεμα Κοτόπουλου",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Ενώ το κοτόπουλο είναι ακόμα ζεστό, αφαιρέστε το από τη φωτιά και μεταφέρετέ το σε ένα καθαρό μπολ. Ρίξτε τη σάλτσα ranch και την καυτερή σάλτσα πάνω από το κοτόπουλο. [cite_start]Ανακατέψτε μέχρι κάθε κομμάτι να επικαλυφθεί στο πικάντικο μείγμα ranch. [cite: 110, 111, 112]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Απλώστε μία τορτίγια. Απλώστε μια λεπτή στρώση ψιλοκομμένου μαρουλιού στο κέντρο, ακολουθούμενη από το ένα τέταρτο του τριμμένου τυριού cheddar. [cite_start]Αυτό σχηματίζει τη βάση της τορτίγιας. [cite: 113, 114, 115]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Τοποθετήστε το ένα τέταρτο του πικάντικου μείγματος κοτόπουλου ranch πάνω από το τυρί και το μαρούλι. [cite_start]Προσέξτε να μην παραγεμίσετε την τορτίγια. [cite: 116, 117]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Για να τυλίξετε, διπλώστε τις δύο πλευρές της τορτίγιας πάνω από τη γέμιση, στη συνέχεια τυλίξτε σφιχτά την τορτίγια από κάτω προς τα πάνω. [cite_start]Κόψτε την τελειωμένη τορτίγια στη μέση διαγώνια και σερβίρετε αμέσως. [cite: 118, 119]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Κλασική Γαλλική Ομελέτα",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Αυγά (μεγάλα)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Βούτυρο",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Αλάτι",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Μαύρο Πιπέρι",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Σχοινόπρασο (φρέσκο, ψιλοκομμένο)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Σπάστε τα αυγά σε ένα μπολ. Προσθέστε αλάτι και πιπέρι. [cite_start]Χτυπήστε δυνατά μέχρι οι κρόκοι και τα ασπράδια να ενωθούν πλήρως και να αφρίσουν ελαφρώς, αλλά αποφύγετε να ενσωματώσετε πολύ αέρα. [cite: 126, 127]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χτύπημα",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Ζεστάνετε ένα αντικολλητικό τηγάνι (περίπου 8 ίντσες) σε μέτρια φωτιά. [cite_start]Προσθέστε το βούτυρο και περιστρέψτε το μέχρι να λιώσει, να αφρίσει, και στη συνέχεια να κατακαθίσει, αποκτώντας ένα καθαρό, ξηρό χρώμα. [cite: 130, 131]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Λιώσιμο Βουτύρου",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Ρίξτε το μείγμα των αυγών στο ζεστό τηγάνι. Αφήστε τα αυγά να σταθεροποιηθούν για περίπου 10 δευτερόλεπτα. [cite_start]Στη συνέχεια, χρησιμοποιώντας ένα πιρούνι ή μια λαστιχένια σπάτουλα, ανακατέψτε τα αυγά συνεχώς και γρήγορα, γέρνοντας το τηγάνι, μέχρι ο πάτος να σταθεροποιηθεί αλλά η κορυφή να παραμείνει υγρή και κρεμώδης. [cite: 134, 135]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Μαγείρεμα Αυγών",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Σταματήστε το ανακάτεμα και αφήστε την ομελέτα να μαγειρευτεί ανενόχλητη για άλλα 30 δευτερόλεπτα για να σταθεροποιηθεί πλήρως ο πάτος. [cite_start]Πασπαλίστε το ψιλοκομμένο σχοινόπρασο πάνω από το κεντρικό τρίτο της ομελέτας. [cite: 138, 139]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Τελική Σταθεροποίηση",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Γείρετε το τηγάνι, και χρησιμοποιώντας μια σπάτουλα, διπλώστε τη μία πλευρά της ομελέτας περίπου το ένα τρίτο πάνω από το κέντρο. Σπρώξτε απαλά την ομελέτα έξω από το τηγάνι και σε ένα πιάτο, με την ραφή προς τα κάτω, για να δημιουργήσετε ένα τακτοποιημένο σχήμα τορπίλης. [cite_start]Σερβίρετε αμέσως. [cite: 142, 143, 144]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Κλασικά Σπαγγέτι με Σκόρδο και Ελαιόλαδο (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Σπαγγέτι",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Εξαιρετικό Παρθένο Ελαιόλαδο",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Σκόρδο",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Νιφάδες Κόκκινου Πιπεριού (Τσίλι)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Αλάτι",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Φρέσκο Μαϊντανό (Ψιλοκομμένο)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Μαύρο Πιπέρι",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Φέρτε μια μεγάλη κατσαρόλα με νερό σε βρασμό. Αλατίστε το νερό (πρέπει να είναι τόσο αλμυρό όσο το θαλασσινό νερό). Προσθέστε τα σπαγγέτι και μαγειρέψτε σύμφωνα με τις οδηγίες της συσκευασίας μέχρι να γίνουν al dente. [cite_start]Κρατήστε περίπου 1 φλιτζάνι από το νερό μαγειρέματος των ζυμαρικών. [cite: 153, 154, 155, 156]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Μαγείρεμα Ζυμαρικών",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Ενώ τα ζυμαρικά μαγειρεύονται, κόψτε το σκόρδο σε λεπτές φέτες. Ζεστάνετε ένα μεγάλο τηγάνι σε μέτρια φωτιά και προσθέστε 0,75 φλιτζάνι εξαιρετικό παρθένο ελαιόλαδο. [cite_start]Προσθέστε το κομμένο σκόρδο και 1 κουταλάκι του γλυκού νιφάδες κόκκινου πιπεριού στο τηγάνι. [cite: 159, 160, 161]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Σοτάρετε το σκόρδο μέχρι να γίνει χρυσαφένιο και αρωματικό, περίπου 2-3 λεπτά. **Προσοχή μην το κάψετε**, αλλιώς θα γίνει πικρό. Προσθέστε 0,5 φλιτζάνι από το κρατημένο νερό μαγειρέματος των ζυμαρικών στο τηγάνι. [cite_start]Αφήστε το να σιγοβράσει. [cite: 162, 163, 164, 165]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Σοτάρισμα Σκόρδου",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Στραγγίστε τα μαγειρεμένα ζυμαρικά (μην τα ξεπλύνετε) και μεταφέρετέ τα αμέσως στο τηγάνι με τη σάλτσα σκόρδου. Προσθέστε τις υπόλοιπες 4 κουταλιές της σούπας ψιλοκομμένο φρέσκο μαϊντανό. [cite_start]Ανακατέψτε γρήγορα και ανακινήστε το τηγάνι για να καλυφθούν όλα τα ζυμαρικά με τη σάλτσα. [cite: 168, 169]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Προσθέστε λίγο ακόμα κρατημένο νερό ζυμαρικών εάν είναι απαραίτητο για να ρυθμίσετε τη συνοχή της σάλτσας. Δοκιμάστε και προσθέστε 1 πρέζα μαύρο πιπέρι και επιπλέον αλάτι εάν χρειάζεται. [cite_start]Σερβίρετε αμέσως όσο είναι ζεστό. [cite: 170, 171, 172]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Κρεμώδη Ζυμαρικά με Κοτόπουλο και Pesto",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Ζυμαρικά Φετουτσίνι",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Στήθος Κοτόπουλου (χωρίς κόκαλα, χωρίς πέτσα)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Κρέμα Γάλακτος",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Pesto Βασιλικού",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Τυρί Παρμεζάνα (τριμμένο)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ελαιόλαδο",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Σκόνη Σκόρδου",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Αλάτι",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Μαύρο Πιπέρι",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Κόψτε τα 500 γραμμάρια στήθος κοτόπουλου σε κύβους 1 ίντσας. [cite_start]Σε ένα μπολ, ανακατέψτε το κοτόπουλο με 1 κουταλιά της σούπας ελαιόλαδο, 0,5 κουταλάκι του γλυκού αλάτι, 1 κουταλάκι του γλυκού σκόνη σκόρδου και 1 πρέζα μαύρο πιπέρι. [cite: 183, 184]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Ζεστάνετε την υπόλοιπη 1 κουταλιά της σούπας ελαιόλαδο σε ένα μεγάλο τηγάνι σε μέτρια-υψηλή φωτιά. [cite_start]Προσθέστε το καρυκευμένο κοτόπουλο και μαγειρέψτε για 6-8 λεπτά, γυρίζοντας περιστασιακά, μέχρι να ροδίσει και να ψηθεί πλήρως. [cite: 185, 186]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Μαγείρεμα Κοτόπουλου",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Ενώ το κοτόπουλο μαγειρεύεται, φέρτε μια μεγάλη κατσαρόλα με αλατισμένο νερό σε βρασμό. Προσθέστε τα 350 γραμμάρια φετουτσίνι και μαγειρέψτε μέχρι να γίνουν al dente. [cite_start]Στραγγίστε τα ζυμαρικά, κρατώντας 1 φλιτζάνι από το νερό μαγειρέματος. [cite: 189, 190, 191]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Μαγείρεμα Ζυμαρικών",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Χαμηλώστε τη φωτιά στο τηγάνι (με το κοτόπουλο) σε χαμηλή. Ρίξτε τα 250 χιλιοστόλιτρα κρέμα γάλακτος και 0,5 φλιτζάνι pesto βασιλικού. Ανακατέψτε καλά μέχρι να ενωθούν. [cite_start]Αφήστε τη σάλτσα να σιγοβράσει απαλά για 2 λεπτά για να πήξει ελαφρώς. [cite: 194, 195, 196]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Σιγοβράσιμο Σάλτσας",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Προσθέστε τα στραγγισμένα ζυμαρικά στην κρεμώδη σάλτσα pesto και ανακατέψτε για να καλυφθούν. Ανακατέψτε το 0,5 φλιτζάνι τριμμένη παρμεζάνα και περίπου 0,25 φλιτζάνι από το κρατημένο νερό ζυμαρικών. Προσθέστε περισσότερο νερό αν χρειάζεται για να φτάσετε στην επιθυμητή συνοχή. [cite_start]Σερβίρετε αμέσως. [cite: 199, 200, 201, 202]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Τοστ Τυριού στο Τηγάνι (Grilled Cheese Sandwich)",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Ψωμί Sourdough",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Τυρί Cheddar (έντονο)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Τυρί Monterey Jack",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Ανάλατο Βούτυρο (μαλακωμένο)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Μαγιονέζα (προαιρετική για γεύση)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Αλάτι",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Τρίψτε και τα δύο τυριά Cheddar και Monterey Jack και ανακατέψτε τα σε ένα μικρό μπολ. [cite_start]Το τρίψιμο εξασφαλίζει ομοιόμορφο λιώσιμο. [cite: 210, 211]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Απλώστε το βούτυρο ομοιόμορφα στη μία πλευρά κάθε φέτας ψωμιού. Αυτή είναι η πλευρά που θα αγγίξει το τηγάνι. [cite_start]Προαιρετικά, απλώστε μια λεπτή στρώση μαγιονέζας στην αντίθετη πλευρά (την εσωτερική) της μιας φέτας για επιπλέον γεύση. [cite: 212, 213]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Τοποθετήστε τη μία φέτα ψωμιού (με τη βουτυρωμένη πλευρά προς τα κάτω) σε ένα αντικολλητικό τηγάνι σε μέτρια-χαμηλή φωτιά. [cite_start]Πασπαλίστε το ανακατεμένο τυρί ομοιόμορφα πάνω από το ψωμί, στη συνέχεια προσθέστε μια πρέζα αλάτι. [cite: 214, 215]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Καλύψτε με τη δεύτερη φέτα ψωμιού (με τη βουτυρωμένη πλευρά προς τα πάνω). [cite_start]Μαγειρέψτε για 3 έως 4 λεπτά μέχρι η κάτω φέτα να ροδίσει και το τυρί να αρχίσει να λιώνει. [cite: 216, 217]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χρόνος μαγειρέματος πρώτης πλευράς",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Αναποδογυρίστε προσεκτικά το σάντουιτς χρησιμοποιώντας μια σπάτουλα. Μαγειρέψτε για άλλα 3 έως 4 λεπτά μέχρι η δεύτερη πλευρά να ροδίσει και το τυρί να λιώσει πλήρως και να τρέχει. [cite_start]Εάν το εξωτερικό ροδίσει πολύ γρήγορα, χαμηλώστε τη φωτιά. [cite: 221, 222, 223]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χρόνος μαγειρέματος δεύτερης πλευράς",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    [cite_start]"stepDescription": "Αφαιρέστε από το τηγάνι, κόψτε διαγώνια και σερβίρετε αμέσως. [cite: 226, 227]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Τέλεια Μπριζόλα Ribeye Ψητή στο Τηγάνι με Βούτυρο Σκόρδου και Βοτάνων",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Μπριζόλα Ribeye (πάχους 1,5 ίντσας)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Αλάτι Kosher",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Φρεσκοτριμμένο Μαύρο Πιπέρι",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Φυτικό Λάδι (υψηλό σημείο καπνού)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Ανάλατο Βούτυρο",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Σκελίδες Σκόρδου (σπασμένες)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Κλαδάκια Φρέσκου Θυμαριού",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Στεγνώστε εντελώς τις μπριζόλες με χαρτί κουζίνας. Καρυκεύστε γενναιόδωρα από όλες τις πλευρές με αλάτι kosher και μαύρο πιπέρι. [cite_start]Αφήστε τις μπριζόλες να καθίσουν σε θερμοκρασία δωματίου για 30 λεπτά πριν το μαγείρεμα. [cite: 236, 237, 238]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Ζεστάνετε το φυτικό λάδι σε ένα μαντεμένιο τηγάνι σε δυνατή φωτιά μέχρι να αρχίσει να τρεμοπαίζει και να καπνίζει ελαφρώς. Τοποθετήστε προσεκτικά τις καρυκευμένες μπριζόλες στο καυτό τηγάνι. [cite_start]Ψήστε για 3 έως 4 λεπτά μέχρι να σχηματιστεί μια βαθιά, σκούρα καφέ κρούστα. [cite: 239, 240]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χρόνος Ψησίματος πρώτης πλευράς",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Γυρίστε τις μπριζόλες. Μειώστε τη φωτιά σε μέτρια. Προσθέστε το βούτυρο, τις σπασμένες σκελίδες σκόρδου και τα κλαδάκια θυμαριού στο τηγάνι. [cite_start]Γείρετε ελαφρώς το τηγάνι και χρησιμοποιήστε ένα μεγάλο κουτάλι για να περιχύσετε συνεχώς το λιωμένο βούτυρο βοτάνων πάνω από τις μπριζόλες για 1 έως 2 λεπτά, ή μέχρι να επιτευχθεί η επιθυμητή εσωτερική θερμοκρασία (π.χ., 130°F για medium-rare). [cite: 243, 244, 245]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χρόνος Περιχύματος/Μαγειρέματος",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Αφαιρέστε τις μπριζόλες από το τηγάνι και τοποθετήστε τις σε μια επιφάνεια κοπής. Ρίξτε το υπόλοιπο βούτυρο βοτάνων από το τηγάνι πάνω από τις μπριζόλες. [cite_start]Αφήστε τις να ξεκουραστούν για 5 έως 10 λεπτά για να αναδιανεμηθούν οι χυμοί πριν τις κόψετε και τις σερβίρετε. [cite: 248, 249, 250]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χρόνος Ξεκούρασης",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Κλασικό Βούτυρο Κοτόπουλο (Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Μπούτια Κοτόπουλου χωρίς Κόκαλα, χωρίς Πέτσα (κομμένα σε κύβους)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Απλό Γιαούρτι",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Πάστα Τζίντζερ-Σκόρδου",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Σκόνη Τσίλι",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Σκόνη Κουρκουμά",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (για μαρινάρισμα)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Πουρές Ντομάτας",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ανάλατο Βούτυρο",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Κρέμα Γάλακτος",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (Αποξηραμένα Φύλλα Τριγωνέλλας)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Ζάχαρη",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Μαρινάρετε το κοτόπουλο: Σε ένα μεγάλο μπολ, ανακατέψτε το κοτόπουλο με γιαούρτι, πάστα τζίντζερ-σκόρδου, σκόνη τσίλι, σκόνη κουρκουμά και το garam masala για τη μαρινάδα. [cite_start]Καλύψτε και βάλτε το στο ψυγείο για τουλάχιστον 30 λεπτά, ή έως και 4 ώρες. [cite: 265, 266]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χρόνος Μαριναρίσματος",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Μαγειρέψτε το κοτόπουλο: Ψήστε στη σχάρα, στο φούρνο ή στο τηγάνι το μαριναρισμένο κοτόπουλο μέχρι να ψηθεί πλήρως και να καψαλιστεί ελαφρώς στις άκρες. [cite_start]Αφήστε το στην άκρη. [cite: 269, 270]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χρόνος μαγειρέματος κοτόπουλου",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Ετοιμάστε τη βάση της σάλτσας: Σε μια μεγάλη κατσαρόλα, λιώστε το μισό βούτυρο. Προσθέστε τον πουρέ ντομάτας και μαγειρέψτε μέχρι να διαχωριστεί το λάδι (περίπου 10 λεπτά). Προσθέστε 1/2 φλιτζάνι νερό, σιγοβράστε, στη συνέχεια αναμείξτε τη σάλτσα μέχρι να γίνει εντελώς λεία. [cite_start]Σουρώστε την ανάμεικτη σάλτσα πίσω στην κατσαρόλα. [cite: 273, 274, 275, 276]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Χρόνος σιγοβρασμού σάλτσας",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Ολοκληρώστε τη σάλτσα: Προσθέστε το υπόλοιπο βούτυρο, τη ζάχαρη και το υπόλοιπο garam masala (αν επιθυμείτε) στη σουρωμένη σάλτσα. Ανακατέψτε καλά. [cite_start]Προσθέστε τα μαγειρεμένα κομμάτια κοτόπουλου και σιγοβράστε για 5 λεπτά. [cite: 279, 280]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Τελικό σιγοβράσιμο με κοτόπουλο",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Σερβίρετε: Ανακατέψτε την κρέμα γάλακτος και θρυμματίστε το Kasuri Methi ανάμεσα στις παλάμες σας πριν το προσθέσετε. Ζεστάνετε, αλλά μην το αφήσετε να βράσει. [cite_start]Σερβίρετε αμέσως με ρύζι ή naan. [cite: 283, 284]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Κρεμώδης Σούπα Ντομάτας",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Κονσερβοποιημένες Ντομάτες σε Κύβους",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Ζωμός Κοτόπουλου ή Λαχανικών",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Κρεμμύδι, ψιλοκομμένο",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Σκόρδο, ψιλοκομμένο",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Κρέμα Γάλακτος",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ελαιόλαδο",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Ξερός Βασιλικός",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Αλάτι",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Μαύρο Πιπέρι",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Ζεστάνετε το ελαιόλαδο σε μια μεγάλη κατσαρόλα σε μέτρια φωτιά. Προσθέστε το ψιλοκομμένο κρεμμύδι και σοτάρετε μέχρι να μαλακώσει, περίπου 5-7 λεπτά. [cite_start]Προσθέστε το ψιλοκομμένο σκόρδο και σοτάρετε για 1 λεπτό ακόμα. [cite: 295, 296, 297]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Σοτάρισμα Κρεμμυδιού",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Ανακατέψτε τις κονσερβοποιημένες ντομάτες σε κύβους, τον ζωμό, τον ξερό βασιλικό, το αλάτι και το πιπέρι. [cite_start]Φέρτε το μείγμα σε βρασμό, στη συνέχεια μειώστε τη φωτιά και σιγοβράστε για 20 λεπτά. [cite: 300, 301]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Σιγοβράσιμο Σούπας",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Μεταφέρετε προσεκτικά τη σούπα σε ένα μπλέντερ ή χρησιμοποιήστε ένα ραβδομπλέντερ για να αναμίξετε τη σούπα μέχρι να γίνει λεία. [cite_start]Επιστρέψτε τη σούπα στην κατσαρόλα. [cite: 304, 305]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Ανακατέψτε την κρέμα γάλακτος και ζεστάνετε για 2-3 λεπτά, αλλά μην την αφήσετε να βράσει. [cite_start]Σερβίρετε ζεστή, προαιρετικά γαρνιρισμένη με φρέσκο βασιλικό ή κρουτόν. [cite: 306, 307]",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

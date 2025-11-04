@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "تشيز برجر كلاسيكي على طريقة المطاعم",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "لحم بقري مفروم (80٪ قليل الدهن / 20٪ دهن)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "صلصة وورشيسترشاير",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "مسحوق البصل",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "مسحوق الثوم",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ملح (كوشير أو بحري)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "فلفل أسود، مطحون طازجًا",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "جبنة أمريكية",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "خبز البطاطس أو خبز الهامبرغر",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "مايونيز",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "شرائح مخلل الشبت",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "اخلط 680 غرام من اللحم المفروم مع 1 ملعقة كبيرة من صلصة وورشيسترشاير، 0.5 ملعقة صغيرة من مسحوق البصل، 0.5 ملعقة صغيرة من مسحوق الثوم، 1 ملعقة صغيرة من الملح، و 0.25 ملعقة صغيرة من الفلفل الأسود. اخلط **بلطف** بيديك حتى تتجانس المكونات فقط. الإفراط في الخلط سيجعل البرغر قاسيًا.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "قسّم الخليط إلى 4 حصص متساوية وشكلها على شكل أقراص بسماكة حوالي 2 سم. قم بعمل تجويف صغير في منتصف كل قرص بإبهامك لمنعها من الانتفاخ أثناء الطهي.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "سخن مقلاة أو شواية على نار متوسطة إلى عالية. اطهُ الأقراص لمدة 3-5 دقائق لكل جانب للحصول على درجة نضج متوسطة، أو حتى تصل درجة الحرارة الداخلية إلى 71 درجة مئوية.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "وقت طهي القرص",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "خلال الدقيقة الأخيرة من الطهي، ضع قطعة واحدة من الجبنة الأمريكية على كل قرص. غطِ الشواية أو المقلاة لفترة وجيزة لضمان ذوبان الجبن بشكل جيد.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "ذوبان الجبن",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "قم بتحميص 4 قطع من الخبز بحيث يكون الجانب المقطوع للأسفل على الشواية أو مقلاة جافة لمدة 30 ثانية تقريبًا. للتجميع، قم بفرد 1 ملعقة كبيرة من المايونيز على كلا نصفي الخبز. ضع قرص التشيز برغر على النصف السفلي من الخبز، ثم غطِه ببعض من 1 كوب شرائح مخلل الشبت، وأغلق بالنصف العلوي من الخبز.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "تاكو اللحم المفروم الكلاسيكي",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "لحم بقري مفروم قليل الدهن (80/20 أو أقل دهنًا)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "زيت الزيتون",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "مسحوق الفلفل الحار (تشيلي)",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "كمون مطحون",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "أوريجانو مجفف",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "مسحوق الثوم",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ملح",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "فلفل أسود",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "معجون الطماطم",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "ماء",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "قشور التاكو أو التورتيلا (الذرة أو الطحين)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "خس مبشور",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "جبنة شيدر مبشورة أو مزيج مكسيكي",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "طماطم مقطعة مكعبات",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "كريمة حامضة أو زبادي يوناني (اختياري)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "سخن زيت الزيتون في مقلاة كبيرة على نار متوسطة إلى عالية. أضف اللحم المفروم واطهه، مع تفتيته بالملعقة، حتى يصبح بنيًا بالكامل ولا يبقى ورديًا.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "صفِ أي دهون زائدة من المقلاة وأعد اللحم إلى النار.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "قلب مسحوق الفلفل الحار والكمون والأوريجانو ومسحوق الثوم والملح والفلفل الأسود. اطهه لمدة دقيقة واحدة، مما يسمح للتوابل بالتحميص.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "تحميص التوابل",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "أضف معجون الطماطم والماء. قلّب جيدًا لتغليف اللحم. اترك الخليط يغلي برفق، ثم اخفض الحرارة إلى منخفضة واطهه حتى يتكاثف الصلصة ويمتص معظم السائل (يجب أن يظل اللحم رطبًا وليس جافًا).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "غلي اللحم",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "أثناء غلي اللحم، قم بتدفئة قشور التاكو أو التورتيلا وفقًا لتعليمات العبوة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "اغرف لحم التاكو المتبل في القشور أو التورتيلا. ضعه فوق الخس المبشور والجبن والطماطم المقطعة ومغرفة من الكريمة الحامضة أو الزبادي (اختياري). قدمه على الفور.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "بيتزا مارجريتا كلاسيكية",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "دقيق لجميع الأغراض",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "ماء دافئ",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "خميرة جافة نشطة",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ملح",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "زيت الزيتون (للعجين)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "طماطم مهروسة",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "جبنة موزاريلا طازجة",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "أوراق الريحان الطازجة",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "زيت الزيتون (للتزيين)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "فلفل أسود",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "قم بتنشيط الخميرة عن طريق خلطها بالماء الدافئ ورشة سكر (غير مدرجة في المكونات، ولكن يُفترض لتنشيط الخميرة) في وعاء. اتركها لمدة 5-10 دقائق حتى تصبح رغوية.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "تنشيط الخميرة",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "في وعاء كبير، اخلط الدقيق والملح. اسكب خليط الخميرة و 2 ملعقة كبيرة من زيت الزيتون. اخلط حتى تتشكل عجينة خشنة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "أخرج العجينة على سطح مرشوش بالدقيق واعجنها لمدة 8-10 دقائق حتى تصبح ناعمة ومرنة. ضعها في وعاء مدهون، غطها، واتركها تتخمر في مكان دافئ حتى يتضاعف حجمها.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "تخمير العجين",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "سخن الفرن إلى أعلى درجة حرارة (عادة 250 درجة مئوية / 480 درجة فهرنهايت) وضع حجر بيتزا أو صفيحة خبز بالداخل لتسخينها. قم بضغط العجينة لأسفل، وقسّمها إلى كرتين (لتحضير قطعتين بيتزا متوسطتين)، واتركها ترتاح لمدة 10 دقائق.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "تسخين الفرن",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "افرد أو دحرج إحدى كرات العجين في دائرة قطرها 12 بوصة. انقلها إلى قشرة بيتزا مرشوشة بالدقيق أو ورق زبدة. افرد نصف الطماطم المهروسة بالتساوي، وغطها بنصف جبنة الموزاريلا الممزقة، ورش عليها القليل من زيت الزيتون ورشة فلفل.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "اخبز البيتزا لمدة 12-15 دقيقة حتى يصبح القشرة ذهبية اللون والجبن فقاعيًا. بمجرد إخراجها من الفرن، قم بتزيينها فورًا بأوراق الريحان الطازجة. قطعها وقدمها.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "وقت الخبز",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "لفائف الدجاج الحارة بالرانش",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "صدر دجاج (بدون عظم، بدون جلد)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "تورتيلا (كبيرة)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "صلصة الرانش",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "صلصة حارة (مثل بوفالو)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "خس روماني (مبشور)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "جبنة شيدر مبشورة",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "بابريكا مدخنة",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "مسحوق الثوم",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ملح",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "زيت الزيتون",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "قطّع صدر الدجاج إلى شرائح بطول 1 بوصة. في وعاء، اخلط الدجاج مع زيت الزيتون والبابريكا المدخنة ومسحوق الثوم ورشة ملح حتى يتغطى بالكامل.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "سخن مقلاة كبيرة على نار متوسطة إلى عالية. أضف شرائح الدجاج المتبلة واطهها لمدة 5-7 دقائق، مع التقليب من حين لآخر، حتى يصبح لونها بنيًا ذهبيًا وتُطهى بالكامل (درجة الحرارة الداخلية 74 درجة مئوية / 165 درجة فهرنهايت).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "طهي الدجاج",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "بينما الدجاج لا يزال ساخنًا، أزله من على النار وانقله إلى وعاء نظيف. اسكب صلصة الرانش والصلصة الحارة فوق الدجاج. قلب حتى تتغطى كل قطعة بمزيج الرانش الحار.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "افرد تورتيلا واحدة. انشر طبقة رقيقة من الخس المبشور في المنتصف، تليها ربع جبنة الشيدر المبشورة. هذا يشكل قاعدة اللفافة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "ضع ربع مزيج دجاج الرانش الحار فوق الجبن والخس. كن حذراً من الإفراط في ملء اللفافة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "للف اللفافة، قم بطي الجانبين من التورتيلا فوق الحشوة، ثم قم بلف اللفافة بإحكام من الأسفل للأعلى. قطّع اللفافة الجاهزة إلى نصفين قطريًا وقدمها على الفور.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "عجة فرنسية كلاسيكية",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "بيض (كبير)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "زبدة",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "ملح",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "فلفل أسود",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "ثوم معمر (طازج، مفروم)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "اكسر البيض في وعاء. أضف الملح والفلفل. اخفق بقوة حتى يمتزج الصفار والبياض بالكامل ويصبح رغويًا قليلاً، ولكن تجنب إدخال الكثير من الهواء.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "الخفق",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "سخن مقلاة غير لاصقة (حوالي 8 بوصات) على نار متوسطة. أضف الزبدة وقم بتدويرها حتى تذوب وتصبح رغوية، ثم تهدأ وتصبح بلون الجوز الصافي.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "ذوبان الزبدة",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "اسكب خليط البيض في المقلاة الساخنة. اترك البيض يتصلب لمدة 10 ثوانٍ تقريبًا. ثم، باستخدام شوكة أو ملعقة مطاطية، قلب البيض باستمرار وبسرعة، مع إمالة المقلاة، حتى يتصلب القاع ويبقى الجزء العلوي رطبًا وكريميًا.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "طهي البيض",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "توقف عن التقليب واترك العجة تُطهى دون إزعاج لمدة 30 ثانية أخرى لتثبيت القاع بالكامل. رش الثوم المعمر المفروم فوق الثلث الأوسط من العجة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "التثبيت النهائي",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "أمل المقلاة، وباستخدام ملعقة مسطحة، اطوِ أحد جانبي العجة حوالي ثلث المسافة فوق المنتصف. دحرج العجة برفق من المقلاة على طبق، بحيث يكون الجانب المطوي للأسفل، لإنشاء شكل طوربيد أنيق. قدمها على الفور.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "سباغيتي كلاسيكية بالثوم وزيت الزيتون (أليو إي أوليو)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "مكرونة سباغيتي",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "زيت زيتون بكر ممتاز",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "ثوم",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "رقائق فلفل أحمر (تشيلي)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ملح",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "بقدونس طازج (مفروم)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "فلفل أسود",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "اغلِ قدرًا كبيرًا من الماء. ملّح الماء (يجب أن يكون مالحًا كماء البحر). أضف السباغيتي واطهها وفقًا لتعليمات العبوة حتى تصبح 'آل دينتي'. احتفظ بحوالي 1 كوب من ماء سلق المعكرونة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "طهي المعكرونة",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "بينما تُطهى المعكرونة، قم بتقطيع الثوم إلى شرائح رقيقة. سخن مقلاة كبيرة على نار متوسطة وأضف 0.75 كوب من زيت الزيتون البكر الممتاز. أضف شرائح الثوم و 1 ملعقة صغيرة من رقائق الفلفل الأحمر إلى المقلاة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "قلّب الثوم حتى يصبح ذهبيًا وعطريًا، حوالي 2-3 دقائق. **كن حذرًا من حرقه**، وإلا سيصبح مرًا. أضف 0.5 كوب من ماء سلق المعكرونة المحفوظ إلى المقلاة. دعه يغلي برفق.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "تقليب الثوم",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "صفّ المعكرونة المطهوة (لا تغسلها) وانقلها فورًا إلى المقلاة مع صلصة الثوم. أضف 4 ملاعق كبيرة المتبقية من البقدونس الطازج المفروم. اخلط بسرعة وقلّب المقلاة لتغطية كل المعكرونة بالصلصة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "أضف القليل من ماء المعكرونة المحفوظ إذا لزم الأمر لضبط قوام الصلصة. تذوق وأضف 1 رشة من الفلفل الأسود وملحًا إضافيًا إذا لزم الأمر. قدمها فورًا وهي ساخنة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "مكرونة بيستو الدجاج الكريمية",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "مكرونة فيتوتشيني",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "صدر دجاج (بدون عظم، بدون جلد)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "كريمة ثقيلة",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "بيستو الريحان",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "جبنة بارميزان (مبشورة)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "زيت الزيتون",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "مسحوق الثوم",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ملح",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "فلفل أسود",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "قطّع 500 غرام من صدر الدجاج إلى مكعبات بحجم 1 بوصة. في وعاء، اخلط الدجاج مع 1 ملعقة كبيرة من زيت الزيتون، 0.5 ملعقة صغيرة من الملح، 1 ملعقة صغيرة من مسحوق الثوم، و 1 رشة من الفلفل الأسود.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "سخن 1 ملعقة كبيرة المتبقية من زيت الزيتون في مقلاة كبيرة على نار متوسطة إلى عالية. أضف الدجاج المتبل واطهه لمدة 6-8 دقائق، مع التقليب من حين لآخر، حتى يصبح لونه بنيًا ذهبيًا ويُطهى بالكامل.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "طهي الدجاج",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "أثناء طهي الدجاج، اغلِ قدرًا كبيرًا من الماء المملح. أضف 350 غرام من الفيتوتشيني واطهها حتى تصبح 'آل دينتي'. صفّ المعكرونة، مع الاحتفاظ بـ 1 كوب من ماء السلق.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "طهي المعكرونة",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "اخفض الحرارة على المقلاة (مع الدجاج) إلى منخفضة. اسكب 250 مليلتر من الكريمة الثقيلة و 0.5 كوب من بيستو الريحان. قلب جيدًا حتى يمتزج. اترك الصلصة تغلي برفق لمدة دقيقتين لتتكثف قليلاً.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "غلي الصلصة",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "أضف المعكرونة المصفاة إلى صلصة البيستو الكريمية وقلّب لتتغطى. أضف 0.5 كوب من جبنة البارميزان المبشورة وحوالي 0.25 كوب من ماء المعكرونة المحفوظ. أضف المزيد من الماء إذا لزم الأمر للوصول إلى القوام المطلوب. قدمها على الفور.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "شطيرة جبن مشوي",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "خبز العجين المخمر (ساور دو)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "جبنة شيدر (حادة)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "جبنة مونتيري جاك",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "زبدة غير مملحة (مُليّنة)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "مايونيز (اختياري للنكهة)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ملح",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "ابشر جبنة الشيدر والمونتيري جاك واخلطهما معًا في وعاء صغير. يضمن البشر ذوبانًا متساويًا.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "افرد الزبدة بالتساوي على جانب واحد من كل شريحة خبز. هذا هو الجانب الذي سيلامس المقلاة. اختياريًا، افرد طبقة رقيقة من المايونيز على الجانب المقابل (الداخلي) لشريحة واحدة لمزيد من النكهة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "ضع شريحة خبز واحدة (الجانب المُدهون بالزبدة للأسفل) في مقلاة غير لاصقة على نار متوسطة منخفضة. رش الجبن المخلوط بالتساوي فوق الخبز، ثم أضف رشة ملح.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "غطِ بالشريحة الثانية من الخبز (الجانب المُدهون بالزبدة للأعلى). اطهُ لمدة 3 إلى 4 دقائق حتى يصبح الجزء السفلي ذهبيًا وتزداد سخونة الجبن ويبدأ بالذوبان.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "وقت طهي الجانب الأول",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "اقلب الشطيرة بحذر باستخدام ملعقة مسطحة. اطهُ لمدة 3 إلى 4 دقائق أخرى حتى يصبح الجانب الثاني بنيًا ذهبيًا ويذوب الجبن بالكامل ويسيل. إذا احترق الجزء الخارجي بسرعة كبيرة، اخفض الحرارة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "وقت طهي الجانب الثاني",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "أزلها من المقلاة، قطّعها قطريًا، وقدمها على الفور.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "شريحة لحم ريب آي مشوية مثالية مع زبدة الأعشاب والثوم",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "شريحة لحم ريب آي (سمك 1.5 بوصة)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "ملح خشن (كوشير)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "فلفل أسود مطحون طازجًا",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "زيت نباتي (نقطة دخان عالية)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "زبدة غير مملحة",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "فصوص ثوم (مهروسة)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "أغصان زعتر طازج",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "جفف شرائح اللحم تمامًا بالمناشف الورقية. تبّلها بسخاء على جميع الجوانب بالملح الخشن والفلفل الأسود. اترك شرائح اللحم تجلس في درجة حرارة الغرفة لمدة 30 دقيقة قبل الطهي.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "سخن مقلاة من الحديد الزهر على نار عالية حتى تبدأ باللمعان والتدخين قليلاً. ضع شرائح اللحم المتبلة بحذر في المقلاة الساخنة. اشوِ لمدة 3 إلى 4 دقائق حتى تتكون قشرة بنية داكنة عميقة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "وقت الشواء للجانب الأول",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "اقلب شرائح اللحم. خفّض الحرارة إلى متوسطة. أضف الزبدة وفصوص الثوم المهروسة وأغصان الزعتر إلى المقلاة. أمل المقلاة قليلاً واستخدم ملعقة كبيرة لدهن الزبدة العشبية الذائبة فوق شرائح اللحم باستمرار لمدة 1 إلى 2 دقيقة، أو حتى يتم الوصول إلى درجة الحرارة الداخلية المطلوبة (على سبيل المثال، 130 درجة فهرنهايت للنضج المتوسط-النادر).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "وقت الدهن/الطهي",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "أزل شرائح اللحم من المقلاة وضعها على لوح تقطيع. اسكب ما تبقى من زبدة الأعشاب من المقلاة فوق شرائح اللحم. اتركها ترتاح لمدة 5 إلى 10 دقائق للسماح للعصائر بإعادة التوزيع قبل التقطيع والتقديم.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "وقت الراحة",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "دجاج بالزبدة الكلاسيكي",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "أفخاذ دجاج بدون عظم وبدون جلد (مكعبة)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "زبادي عادي",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "معجون الزنجبيل والثوم",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "مسحوق الفلفل الحار (تشيلي)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "مسحوق الكركم",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "جارام ماسالا (للتتبيلة)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "بوريه الطماطم",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "زبدة غير مملحة",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "كريمة ثقيلة",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "كاسوري ميثي (أوراق الحلبة المجففة)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "سكر",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "تتبيل الدجاج: في وعاء كبير، اخلط الدجاج مع الزبادي، معجون الزنجبيل والثوم، مسحوق الفلفل الحار، مسحوق الكركم، وجارام ماسالا التتبيلة. غطّه وضعه في الثلاجة لمدة 30 دقيقة على الأقل، أو حتى 4 ساعات.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "وقت التتبيل",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "طهي الدجاج: اشوِ، اخبز، أو اقلي الدجاج المتبل حتى ينضج تمامًا ويتفحم قليلاً على الحواف. ضعه جانبًا.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "وقت طهي الدجاج",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "تحضير قاعدة الصلصة: في قدر كبير، ذوّب نصف الزبدة. أضف بوريه الطماطم واطهه حتى ينفصل الزيت (حوالي 10 دقائق). أضف 1/2 كوب من الماء، واتركه يغلي برفق، ثم اخلط الصلصة حتى تصبح ناعمة تمامًا. صفّ الصلصة المخلوطة مرة أخرى في القدر.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "وقت غلي الصلصة",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "إنهاء الصلصة: أضف ما تبقى من الزبدة، السكر، وما تبقى من جارام ماسالا (إذا رغبت) إلى الصلصة المصفاة. قلب جيدًا. أضف قطع الدجاج المطهوة واتركها تغلي برفق لمدة 5 دقائق.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "الغلي النهائي مع الدجاج",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "التقديم: قلب الكريمة الثقيلة واطحن الكاسوري ميثي بين راحة يديك قبل إضافته. سخّنه جيدًا ولكن لا تدعه يغلي. قدمه فورًا مع الأرز أو خبز النان.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "شوربة الطماطم الكريمية",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "طماطم معلبة مقطعة",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "مرق دجاج أو خضار",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "بصل، مفروم",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "ثوم، مفروم ناعماً",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "كريمة ثقيلة",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "زيت الزيتون",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "ريحان مجفف",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ملح",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "فلفل أسود",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "سخن زيت الزيتون في قدر كبير على نار متوسطة. أضف البصل المفروم وقلّبه حتى يلين، حوالي 5-7 دقائق. أضف الثوم المفروم وقلّبه لمدة دقيقة إضافية.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "تقليب البصل",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "قلّب الطماطم المعلبة المقطعة، المرق، الريحان المجفف، الملح، والفلفل. اغلِ الخليط، ثم خفّض الحرارة واتركه يغلي برفق لمدة 20 دقيقة.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "غلي الشوربة",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "انقل الشوربة بحذر إلى خلاط أو استخدم خلاطًا يدويًا لمزج الشوربة حتى تصبح ناعمة. أعد الشوربة إلى القدر.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "قلّب الكريمة الثقيلة وسخّنها لمدة 2-3 دقائق، ولكن لا تدعها تغلي. قدمها ساخنة، وزيّنها بالريحان الطازج أو الخبز المحمص (كروتون) اختياريًا.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

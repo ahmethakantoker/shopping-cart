@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Klasszikus Diner Sajtburger",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Darált marhahús (80% sovány / 20% zsíros)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Worcestershire szósz",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Hagymapor",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Fokhagymapor",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Só (Kóser vagy tengeri)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Frissen őrölt fekete bors",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Amerikai sajt (szelet)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Burgonyás zsemle vagy hamburger zsemle",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Majonéz",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Kapros uborkaszeletek (Dill Pickle Chips)",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Keverje össze a 680 gramm darált marhahúst 1 evőkanál Worcestershire szósszal, 0,5 teáskanál hagymaporral, 0,5 teáskanál fokhagymaporral, 1 teáskanál sóval és 0,25 teáskanál fekete borssal. **Óvatosan** keverje össze a kezével, amíg éppen össze nem áll. A túlzott keverés keménnyé teszi a pogácsákat.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Ossza a keveréket 4 egyenlő részre, és formáljon belőlük körülbelül 2 centiméter vastag pogácsákat. Hogy megakadályozza a pogácsák felpúposodását főzés közben, nyomjon a közepükbe egy kis mélyedést a hüvelykujjával.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Melegítsen fel egy serpenyőt vagy grillt közepesen magas hőfokra. Főzze a pogácsákat oldalanként 3-5 percig közepesen átsült (medium doneness) állapothoz, vagy amíg a belső hőmérséklet el nem éri a 71 fokot.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Pogácsa főzési idő",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "A főzés utolsó percében helyezzen 1 szelet amerikai sajtot minden pogácsára. Rövid időre fedje le a grillt vagy serpenyőt, hogy a sajt szépen megolvadjon.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sajt olvasztása",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Pirítsa meg a 4 zsemlét vágott oldalával lefelé a grillen vagy egy száraz serpenyőben körülbelül 30 másodpercig. Az összeállításhoz kenjen 1 evőkanál majonézt a zsemle mindkét felére. Helyezze a sajtburger pogácsát az alsó zsemlére, tegyen rá a 1 csésze kapros uborkaszeletből, és fedje be a felső zsemlével.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Klasszikus darált marhahús tacó",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Sovány darált marhahús (80/20 vagy soványabb)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Olívaolaj",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Chili por",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Őrölt római kömény",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Szárított oregánó",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Fokhagymapor",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Só",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Fekete bors",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Paradicsompüré",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Víz",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Tacó kagyló vagy tortilla (kukorica vagy liszt)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Tépett saláta",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Reszelt cheddar sajt vagy mexikói keverék",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kockára vágott paradicsom",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Tejföl (Sour Cream) vagy görög joghurt (opcionális)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Melegítse fel az olívaolajat egy nagy serpenyőben közepesen magas hőfokon. Adja hozzá a darált marhahúst, és főzze, kanállal széttörve, amíg teljesen meg nem barnul és már nem rózsaszín.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Öntse le a felesleges zsírt a serpenyőből, és tegye vissza a húst a hőre.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Keverje bele a chili port, római köményt, oregánót, fokhagymaport, sót és fekete borsot. Főzze 1 percig, hogy a fűszerek megpiruljanak.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Fűszerek pirítása",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Adja hozzá a paradicsompürét és a vizet. Keverje jól össze, hogy bevonja a húst. Hagyja, hogy a keverék gyöngyözzön, majd csökkentse a hőt alacsonyra, és főzze addig, amíg a szósz besűrűsödik és a folyadék nagyrészt felszívódik (a hús még mindig nedves legyen, ne száraz).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Hús párolása",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Amíg a hús párolódik, melegítse fel a tacó kagylókat vagy tortillákat a csomagoláson lévő utasítások szerint.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Kanállal adagolja a fűszeres tacó húst a kagylókba vagy tortillákba. Tetejére tegyen tépett salátát, sajtot, kockára vágott paradicsomot, és egy kanálnyi tejfölt vagy joghurtot (opcionális). Azonnal tálalja.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Klasszikus Margherita pizza",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Finomliszt",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Langyos víz",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Aktív száraz élesztő",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Só",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Olívaolaj (tészta)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Zúzott paradicsom",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Friss mozzarella sajt",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Friss bazsalikom levelek",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olívaolaj (feltét)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Fekete bors",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Aktiválja az élesztőt: keverje össze langyos vízzel és egy csipet cukorral (nincs felsorolva az összetevők között, de feltételezhető az élesztő aktiválásához) egy tálban. Hagyja állni 5-10 percig, amíg habos nem lesz.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Élesztő aktiválása",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Egy nagy tálban keverje össze a lisztet és a sót. Öntse bele az élesztős keveréket és a 2 evőkanál olívaolajat. Keverje addig, amíg egy rongyos tészta nem képződik.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Tegye a tésztát egy enyhén lisztezett felületre, és gyúrja 8-10 percig, amíg sima és rugalmas nem lesz. Helyezze egy kizsírozott tálba, takarja le, és hagyja meleg helyen megkelni, amíg a mérete meg nem duplázódik.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tészta kelesztése",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Melegítse elő a sütőt a legmagasabb hőfokra (általában 250°C/480°F), és tegyen be egy pizzakövet vagy tepsit, hogy felmelegedjen. Nyomja le a tésztát, ossza két gombócra (két közepes pizzához), és hagyja pihenni 10 percig.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sütő előmelegítése",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Nyújtsa vagy sodorja az egyik tésztagombócot 12 hüvelykes körré. Vigye át egy lisztezett pizzalapátra vagy sütőpapírra. Kenje szét a zúzott paradicsom felét egyenletesen, tegye rá a tépett mozzarella felét, és csorgasson rá egy kevés olívaolajat és egy csipet borsot.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Süsse a pizzát 12-15 percig, amíg a kéreg aranybarna nem lesz, és a sajt buborékos nem lesz. Amint kiveszi a sütőből, azonnal díszítse friss bazsalikom levelekkel. Szeletelje fel és tálalja.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sütési idő",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Fűszeres csirke Ranch Wrap",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Csirkemell (csont és bőr nélkül)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortillák (nagy)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ranch öntet",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Csípős szósz (pl. Buffalo stílusú)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Római saláta (tépett)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Reszelt cheddar sajt",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Füstölt paprika",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Fokhagymapor",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Só",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Olívaolaj",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Vágja a csirkemellet 1 hüvelykes csíkokra. Egy tálban forgassa össze a csirkét olívaolajjal, füstölt paprikával, fokhagymaporral és egy csipet sóval, amíg jól be nem vonódik.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Melegítsen fel egy nagy serpenyőt közepesen magas hőfokon. Adja hozzá a fűszerezett csirkecsíkokat, és főzze 5-7 percig, időnként megforgatva, amíg aranybarnák nem lesznek és teljesen át nem sülnek (belső hőmérséklet 74°C/165°F).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Csirke főzése",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Amíg a csirke még forró, vegye le a tűzről, és tegye át egy tiszta tálba. Öntse a ranch öntetet és a csípős szószt a csirkére. Forgassa össze, amíg minden darab be nem vonódik a fűszeres ranch keverékkel.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Terítsen ki egy tortillát. Kenjen egy vékony réteg tépett salátát a közepére, majd tegye rá a reszelt cheddar sajt negyedét. Ez adja a wrap alapját.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Helyezze a fűszeres ranch csirke keverék negyedét a sajt és a saláta tetejére. Ügyeljen arra, hogy ne töltse túl a wrapet.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "A becsomagoláshoz hajtsa be a tortilla két oldalát a töltelék fölé, majd tekerje fel szorosan a wrapet alulról felfelé. Vágja ketté a kész wrapet átlósan, és azonnal tálalja.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Klasszikus francia omlett",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Tojás (nagy)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Vaj",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Só",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Fekete bors",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Snidling (friss, apróra vágott)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Törje fel a tojásokat egy tálba. Adjon hozzá sót és borsot. Erőteljesen verje fel, amíg a sárgája és a fehérje teljesen össze nem áll, és enyhén habos nem lesz, de kerülje a túl sok levegő beépítését.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Habverés",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Melegítsen fel egy tapadásmentes serpenyőt (körülbelül 8 hüvelyk) közepes hőfokon. Adja hozzá a vajat, és forgassa meg, amíg el nem olvad, fel nem habzik, majd le nem ülepedik, és tiszta, diós színt nem kap.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Vaj olvasztása",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Öntse a tojáskeveréket a forró serpenyőbe. Hagyja a tojásokat körülbelül 10 másodpercig megkötni. Ezután egy villa vagy gumi spatula segítségével folyamatosan és gyorsan keverje a tojásokat, miközben dönti a serpenyőt, amíg az alja meg nem köt, de a teteje még mindig nedves és krémes.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tojás főzése",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Hagyja abba a keverést, és hagyja az omlettet további 30 másodpercig zavartalanul főni, hogy az alja teljesen megkössön. Szórja az apróra vágott snidlinget az omlett középső harmadára.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Végső kötés",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Döntse meg a serpenyőt, és egy spatula segítségével hajtsa az omlett egyik oldalát körülbelül egy harmadával a középre. Óvatosan görgesse ki az omlettet a serpenyőből egy tányérra, a varrat oldalával lefelé, hogy szép torpedó alakot hozzon létre. Azonnal tálalja.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Klasszikus fokhagymás és olívaolajos spagetti (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Spagetti tészta",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Extra szűz olívaolaj",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Fokhagyma",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Vörös paprika pehely (chili)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Só",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Friss petrezselyem (apróra vágott)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Fekete bors",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Forraljon fel egy nagy fazék vizet. Sózza meg a vizet (legyen olyan sós, mint a tengervíz). Adja hozzá a spagettit, és a csomagoláson lévő utasítások szerint főzze al dente-re. Tartson vissza körülbelül 1 csésze tészta főzővizet.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tészta főzése",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Amíg a tészta fő, vékonyra szeletelje a fokhagymát. Melegítsen fel egy nagy serpenyőt közepes hőfokon, és adjon hozzá 0,75 csésze extra szűz olívaolajat. Adja hozzá a felszeletelt fokhagymát és 1 teáskanál vörös paprika pelyhet a serpenyőhöz.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Pirítsa a fokhagymát aranybarnára és illatosra, körülbelül 2-3 percig. **Ügyeljen arra, hogy ne égjen meg**, különben keserűvé válik. Adjon 0,5 csésze visszatartott tészta főzővizet a serpenyőhöz. Forralja fel.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Fokhagyma pirítása",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Szűrje le a főtt tésztát (ne öblítse le), és azonnal tegye át a fokhagymás szósszal teli serpenyőbe. Adja hozzá a maradék 4 evőkanál apróra vágott friss petrezselymet. Gyorsan keverje össze, és dobja fel a serpenyőben, hogy az összes tészta bevonódjon a szósszal.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Szükség esetén adjon hozzá még egy kevés visszatartott tészta vizet a szósz állagának beállításához. Kóstolja meg, és szükség esetén adjon hozzá 1 csipet fekete borsot és további sót. Tálalja azonnal, melegen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Krémes pesto csirkés tészta",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Fettuccine tészta",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Csirkemell (csont és bőr nélkül)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tejszín",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Bazsalikomos pesto",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Parmezán sajt (reszelt)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olívaolaj",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Fokhagymapor",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Só",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Fekete bors",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Vágja az 500 gramm csirkemellet 1 hüvelykes kockákra. Egy tálban forgassa össze a csirkét 1 evőkanál olívaolajjal, 0,5 teáskanál sóval, 1 teáskanál fokhagymaporral és 1 csipet fekete borssal.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Melegítse fel a maradék 1 evőkanál olívaolajat egy nagy serpenyőben közepesen magas hőfokon. Adja hozzá a fűszerezett csirkét, és főzze 6-8 percig, időnként megforgatva, amíg aranybarna nem lesz és teljesen át nem sül.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Csirke főzése",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Amíg a csirke fő, forraljon fel egy nagy fazék sós vizet. Adja hozzá a 350 gramm fettuccine tésztát, és főzze al dente-re. Szűrje le a tésztát, és tartson vissza 1 csésze főzővizet.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Tészta főzése",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Csökkentse a serpenyő (a csirkével) hőfokát alacsonyra. Öntse bele a 250 milliliter tejszínt és 0,5 csésze bazsalikomos pestót. Jól keverje össze. Hagyja a szószt gyengéden gyöngyözni 2 percig, hogy kissé besűrűsödjön.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Szósz párolása",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Adja a lecsepegtetett tésztát a krémes pesto szószhoz, és keverje össze. Keverje bele a 0,5 csésze reszelt parmezán sajtot és körülbelül 0,25 csésze visszatartott tészta vizet. Ha szükséges, adjon hozzá még vizet, hogy elérje a kívánt állagot. Azonnal tálalja.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Grillezett sajtos szendvics",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Kovászos kenyér",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Cheddar sajt (erős)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Monterey Jack sajt",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Sózatlan vaj (puha)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Majonéz (opcionális az ízért)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Só",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Reszelje le mind a cheddar, mind a Monterey Jack sajtot, és keverje össze őket egy kis tálban. A reszelés biztosítja az egyenletes olvadást.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Kenje a vajat egyenletesen a kenyérszeletek egyik oldalára. Ez az az oldal, amelyik érintkezni fog a serpenyővel. Opcionálisan kenjen vékony réteg majonézt az egyik szelet ellentétes oldalára (a belső oldalra) az extra ízért.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Helyezze az egyik szelet kenyeret (vajas oldalával lefelé) egy tapadásmentes serpenyőbe közepesen alacsony hőfokon. Szórja rá a kevert sajtot egyenletesen a kenyérre, majd adjon hozzá egy csipet sót.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Tegye rá a második szelet kenyeret (vajas oldalával felfelé). Főzze 3-4 percig, amíg az alsó szelet aranybarna nem lesz, és a sajt el nem kezd olvadni.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Első oldal sütési ideje",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Óvatosan fordítsa meg a szendvicset egy spatula segítségével. Főzze további 3-4 percig, amíg a második oldal is aranybarna nem lesz, és a sajt teljesen meg nem olvad és folyóssá nem válik. Ha a külső része túl gyorsan barnul, csökkentse a hőt.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Második oldal sütési ideje",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Vegye ki a serpenyőből, vágja átlósan ketté, és azonnal tálalja.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Tökéletes serpenyőben sült Ribeye steak fokhagymás fűszervajjal",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Ribeye steak (1,5 hüvelyk vastag)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Kóser só",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Frissen őrölt fekete bors",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Növényi olaj (magas füstpontú)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Sózatlan vaj",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Fokhagymagerezdek (összezúzva)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Friss kakukkfű ágak",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Szárítsa meg a steakeket teljesen papírtörlővel. Bőven fűszerezze minden oldalát kóser sóval és fekete borssal. Hagyja a steakeket szobahőmérsékleten állni 30 percig a főzés előtt.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Melegítse fel a növényi olajat egy öntöttvas serpenyőben magas hőfokon, amíg csillogni és enyhén füstölni nem kezd. Óvatosan helyezze a fűszerezett steakeket a forró serpenyőbe. Süsse 3-4 percig, amíg mély, sötétbarna kéreg nem képződik.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Első oldal sütési ideje",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Fordítsa meg a steakeket. Csökkentse a hőt közepesre. Adja hozzá a vajat, az összezúzott fokhagymagerezdeket és a kakukkfű ágakat a serpenyőhöz. Döntse meg kissé a serpenyőt, és egy nagy kanállal folyamatosan öntözze a megolvadt fűszervajat a steakekre 1-2 percig, vagy amíg el nem éri a kívánt belső hőmérsékletet (pl. 130°F a medium-rare-hez).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Öntözési/főzési idő",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Vegye ki a steakeket a serpenyőből, és helyezze őket egy vágódeszkára. Öntse rá a serpenyőben maradt fűszervajat a steakekre. Hagyja őket pihenni 5-10 percig, hogy a levek újra eloszolhassanak szeletelés és tálalás előtt.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Pihenési idő",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Klasszikus vajas csirke (Butter Chicken)",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Csont nélküli, bőr nélküli csirkecombok (kockára vágva)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Natúr joghurt",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Gyömbér-fokhagyma paszta",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Chili por",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Kurkuma por",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (pácoláshoz)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Paradicsompüré",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Sózatlan vaj",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tejszín",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (szárított görögszéna levél)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Cukor",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Pácolja a csirkét: Egy nagy tálban keverje össze a csirkét joghurttal, gyömbér-fokhagyma pasztával, chili porral, kurkuma porral és a páchoz való garam masalával. Fedje le és tegye hűtőbe legalább 30 percre, vagy akár 4 órára is.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Pácolási idő",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Főzze meg a csirkét: Grillezze, süsse vagy serpenyőben süsse meg a pácolt csirkét, amíg teljesen át nem sül és a szélei enyhén meg nem pirulnak. Tegye félre.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Csirke főzési idő",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Készítse el a szósz alapot: Egy nagy fazékban olvassza fel a vaj felét. Adja hozzá a paradicsompürét, és főzze addig, amíg az olaj el nem válik (kb. 10 perc). Adjon hozzá 1/2 csésze vizet, párolja, majd turmixolja le a szószt, amíg teljesen sima nem lesz. Szűrje vissza a leturmixolt szószt a fazékba.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Szósz párolási idő",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Fejezze be a szószt: Adja hozzá a maradék vajat, cukrot és a maradék garam masalát (ha kívánja) a leszűrt szószhoz. Jól keverje össze. Adja hozzá a főtt csirkedarabokat, és párolja 5 percig.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Végső párolás csirkével",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Tálalja: Keverje bele a tejszínt, és törje össze a Kasuri Methit a tenyerei között, mielőtt hozzáadja. Melegítse át, de ne forralja fel. Azonnal tálalja rizzsel vagy naan kenyérrel.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Krémes paradicsomleves",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Konzerv kockára vágott paradicsom",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Csirke- vagy zöldségalaplé",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Hagyma, apróra vágva",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Fokhagyma, apróra vágva",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Tejszín",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olívaolaj",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Szárított bazsalikom",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Só",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Fekete bors",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Melegítsen olívaolajat egy nagy fazékban közepes hőfokon. Adja hozzá az apróra vágott hagymát, és pirítsa, amíg megpuhul, körülbelül 5-7 percig. Adja hozzá az apróra vágott fokhagymát, és pirítsa még 1 percig.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Hagyma pirítása",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Keverje bele a konzerv kockára vágott paradicsomot, az alaplét, a szárított bazsalikomot, a sót és a borsot. Forralja fel a keveréket, majd csökkentse a hőt, és párolja 20 percig.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Leves párolása",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Óvatosan öntse át a levest egy turmixgépbe, vagy használjon botmixert a leves simára turmixolásához. Tegye vissza a levest a fazékba.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Keverje bele a tejszínt, és melegítse át 2-3 percig, de ne forralja fel. Melegen tálalja, opcionálisan friss bazsalikommal vagy krutonnal díszítve.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

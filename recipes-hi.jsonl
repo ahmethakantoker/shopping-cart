@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "क्लासिक डाइनर चीज़बर्गर",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "पिसा हुआ गोमांस (80% पतला / 20% वसा)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "वोरचेस्टरशायर सॉस",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "प्याज का पाउडर",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "लहसुन का पाउडर",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "नमक (कोषेर या समुद्री)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "काली मिर्च, ताज़ी पिसी हुई",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "अमेरिकन चीज़",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "आलू रोल या हैम्बर्गर बन",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "मेयोनेज़",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "डिल अचार चिप्स",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "680 ग्राम पिसे हुए गोमांस को 1 बड़े चम्मच वोरचेस्टरशायर सॉस, 0.5 चम्मच प्याज का पाउडर, 0.5 चम्मच लहसुन का पाउडर, 1 चम्मच नमक और 0.25 चम्मच काली मिर्च के साथ मिलाएं। **धीरे** से अपने हाथों से मिलाएं जब तक कि वह मिल न जाए। ज़्यादा मिलाने से बर्गर सख्त हो जाएंगे।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "मिश्रण को 4 बराबर भागों में बाँट लें और लगभग 2 सेंटीमीटर मोटे पैटीज़ (patties) बना लें। पकने के दौरान उन्हें फूलने से रोकने के लिए अपने अंगूठे से प्रत्येक पैटी के केंद्र में एक छोटा सा गड्ढा बनाएं।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "एक कड़ाही या ग्रिल को मध्यम-तेज आंच पर गरम करें। मध्यम पकने (medium doneness) के लिए पैटीज़ को प्रति तरफ 3-5 मिनट तक पकाएं, या जब तक आंतरिक तापमान 71 डिग्री तक न पहुँच जाए।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "पैटी पकाने का समय",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "पकाने के आखिरी मिनट के दौरान, प्रत्येक पैटी पर अमेरिकन चीज़ का 1 टुकड़ा रखें। चीज़ को अच्छी तरह से पिघलने देने के लिए ग्रिल या कड़ाही को संक्षेप में ढक दें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "चीज़ पिघलाओ",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "4 बन के टुकड़ों को कटे हुए भाग को ग्रिल या सूखी कड़ाही पर लगभग 30 सेकंड के लिए टोस्ट करें। इकट्ठा करने के लिए, बन के दोनों हिस्सों पर 1 बड़ा चम्मच मेयोनेज़ फैलाएं। चीज़बर्गर पैटी को नीचे वाले बन पर रखें, ऊपर से 1 कप डिल अचार चिप्स डालें, और ऊपरी बन से ढक दें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "क्लासिक पिसे हुए गोमांस टैकोस",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "पतला पिसा हुआ गोमांस (80/20 या अधिक पतला)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "जैतून का तेल",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "मिर्च पाउडर",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "पिसा हुआ जीरा",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "सूखी अजवायन",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "लहसुन का पाउडर",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "नमक",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "काली मिर्च",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "टमाटर का पेस्ट",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "पानी",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "टैको खोल या टॉर्टिला (मक्का या मैदा)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "कटी हुई सलाद पत्ता",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "कद्दूकस किया हुआ चेडर चीज़ या मैक्सिकन मिश्रण",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "कटे हुए टमाटर",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "खट्टी क्रीम या ग्रीक दही (वैकल्पिक)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "एक बड़ी कड़ाही में जैतून का तेल मध्यम-तेज आंच पर गरम करें। पिसा हुआ गोमांस डालें और चम्मच से तोड़ते हुए तब तक पकाएं जब तक वह पूरी तरह से भूरा न हो जाए और गुलाबी न रहे।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "कड़ाही से किसी भी अतिरिक्त तेल को निकाल दें और मांस को वापस आंच पर रखें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "मिर्च पाउडर, जीरा, अजवायन, लहसुन पाउडर, नमक और काली मिर्च मिलाएं। 1 मिनट तक पकाएं, जिससे मसालों को भूनने का मौका मिले।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "मसालों को भूनें",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "टमाटर का पेस्ट और पानी डालें। मांस को कोट करने के लिए अच्छी तरह से हिलाएं। मिश्रण को उबाल आने दें, फिर आंच धीमी कर दें और तब तक पकाएं जब तक सॉस गाढ़ा न हो जाए और तरल ज़्यादातर सोख न लिया जाए (मांस अभी भी नम होना चाहिए, सूखा नहीं)।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "मांस को उबालें",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "जब मांस धीमी आंच पर पक रहा हो, तो टैको खोल या टॉर्टिला को पैकेज के निर्देशों के अनुसार गरम करें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "तैयार टैको मांस को खोल या टॉर्टिला में चम्मच से डालें। ऊपर से कटी हुई सलाद पत्ता, चीज़, कटे हुए टमाटर, और एक गुड़िया खट्टी क्रीम या दही (वैकल्पिक) डालें। तुरंत परोसें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "क्लासिक मार्गेरिटा पिज़्ज़ा",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "मैदा",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "गुनगुना पानी",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "सक्रिय सूखा खमीर",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "नमक",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "जैतून का तेल (आटा)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "कुचले हुए टमाटर",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "ताज़ा मोत्ज़ारेला चीज़",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "ताज़े तुलसी के पत्ते",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "जैतून का तेल (टॉपिंग)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "काली मिर्च",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "खमीर को गुनगुने पानी और एक चुटकी चीनी (सामग्री में सूचीबद्ध नहीं है, लेकिन खमीर सक्रियण के लिए माना जाता है) के साथ मिलाकर सक्रिय करें। इसे झागदार होने तक 5-10 मिनट के लिए छोड़ दें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "खमीर सक्रियण",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "एक बड़े कटोरे में, मैदा और नमक मिलाएं। खमीर का मिश्रण और 2 बड़े चम्मच जैतून का तेल डालें। एक खुरदरा आटा बनने तक मिलाएं।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "आटे को हल्के से मैदा छिड़के हुए सतह पर पलटें और चिकना और लोचदार होने तक 8-10 मिनट तक गूंथें। इसे एक चिकने किए हुए कटोरे में रखें, ढक दें, और आकार में दोगुना होने तक एक गर्म जगह पर उठने दें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "आटा फूलना",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "अपने ओवन को उच्चतम तापमान (आमतौर पर 250°C/480°F) पर प्रीहीट करें और गर्म होने के लिए अंदर एक पिज़्ज़ा स्टोन या बेकिंग शीट रखें। आटे को पंच करें, इसे दो गेंदों में विभाजित करें (दो मध्यम पिज़्ज़ा के लिए), और उन्हें 10 मिनट के लिए आराम दें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "ओवन को गरम करना",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "एक आटे की गेंद को 12 इंच के गोल आकार में खींचें या रोल करें। इसे मैदा छिड़के हुए पिज़्ज़ा पील या चर्मपत्र कागज पर स्थानांतरित करें। आधे कुचले हुए टमाटर को समान रूप से फैलाएं, ऊपर से आधी फटी हुई मोत्ज़ारेला डालें, और थोड़ा जैतून का तेल और एक चुटकी काली मिर्च छिड़कें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "पिज़्ज़ा को 12-15 मिनट तक बेक करें जब तक कि क्रस्ट सुनहरा न हो जाए और चीज़ में बुलबुले न आ जाएं। ओवन से निकालने के तुरंत बाद, ताज़े तुलसी के पत्तों से गार्निश करें। टुकड़ों में काट कर परोसें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "बेक करने का समय",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "मसालेदार चिकन रैंच रैप",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "चिकन ब्रेस्ट (बिना हड्डी, बिना चमड़ी)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "टॉर्टिला (बड़ी)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "रैंच ड्रेसिंग",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "गर्म सॉस (जैसे, बफ़ेलो स्टाइल)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "रोमेन सलाद पत्ता (कटा हुआ)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "कद्दूकस किया हुआ चेडर चीज़",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "स्मोक्ड पेपरिका",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "लहसुन का पाउडर",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "नमक",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "जैतून का तेल",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "चिकन ब्रेस्ट को 1 इंच की पट्टियों में काटें। एक कटोरे में, चिकन को जैतून का तेल, स्मोक्ड पेपरिका, लहसुन पाउडर और एक चुटकी नमक के साथ टॉस करें जब तक कि वह अच्छी तरह से कोट न हो जाए।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "एक बड़ी कड़ाही को मध्यम-तेज आंच पर गरम करें। मसालेदार चिकन स्ट्रिप्स डालें और 5-7 मिनट तक पकाएं, कभी-कभी पलटते रहें, जब तक कि वे सुनहरे भूरे न हो जाएं और पूरी तरह से पक न जाएं (आंतरिक तापमान 74°C/165°F)।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "चिकन पकाओ",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "जब चिकन अभी भी गरम हो, तो इसे आंच से हटा दें और एक साफ कटोरे में स्थानांतरित करें। चिकन पर रैंच ड्रेसिंग और गर्म सॉस डालें। तब तक टॉस करें जब तक कि हर टुकड़ा मसालेदार रैंच मिश्रण में न लिपट जाए।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "एक टॉर्टिला फैलाएं। केंद्र में कटी हुई सलाद पत्ता की एक पतली परत फैलाएं, जिसके बाद कद्दूकस किए हुए चेडर चीज़ का एक चौथाई हिस्सा डालें। यह रैप का आधार बनता है।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "चीज़ और सलाद पत्ता के ऊपर मसालेदार रैंच चिकन मिश्रण का एक चौथाई हिस्सा रखें। ध्यान रहे कि रैप को ज़्यादा न भरें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "रैप करने के लिए, टॉर्टिला के दोनों किनारों को भरावन के ऊपर मोड़ें, फिर रैप को नीचे से ऊपर की ओर कसकर रोल करें। तैयार रैप को तिरछे आधे में काटें और तुरंत परोसें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "क्लासिक फ्रेंच आमलेट",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "अंडे (बड़े)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "मक्खन",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "नमक",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "काली मिर्च",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "चाइव्स (ताज़ी, कटी हुई)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "एक कटोरे में अंडे फोड़ें। नमक और काली मिर्च डालें। ज़ोर से फेंटें जब तक कि जर्दी और सफेदी पूरी तरह से मिल न जाएं और हल्के झागदार न हो जाएं, लेकिन बहुत अधिक हवा शामिल करने से बचें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "फेंटना",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "एक नॉन-स्टिक कड़ाही (लगभग 8 इंच) को मध्यम आंच पर गरम करें। मक्खन डालें और तब तक घुमाएं जब तक वह पिघल न जाए, झाग न बन जाए, और फिर शांत न हो जाए, एक स्पष्ट, अखरोट जैसा रंग न ले ले।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "मक्खन पिघलना",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "अंडे के मिश्रण को गर्म कड़ाही में डालें। अंडों को लगभग 10 सेकंड के लिए जमने दें। फिर, कांटे या रबर स्पैटुला का उपयोग करके, अंडों को लगातार और तेज़ी से हिलाएं, कड़ाही को झुकाते हुए, जब तक कि नीचे का हिस्सा जम न जाए, लेकिन ऊपर का हिस्सा अभी भी नम और मलाईदार रहे।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "अंडे पकाना",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "हिलाना बंद कर दें और आमलेट को पूरी तरह से जमने के लिए 30 सेकंड और बिना छेड़े पकने दें। आमलेट के केंद्रीय तिहाई हिस्से पर कटी हुई चाइव्स छिड़कें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "अंतिम सेट",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "कड़ाही को झुकाएं, और एक स्पैटुला का उपयोग करके, आमलेट के एक तरफ को केंद्र के ऊपर लगभग एक तिहाई मोड़ें। एक साफ टॉरपीडो आकार बनाने के लिए, आमलेट को धीरे से कड़ाही से बाहर और एक प्लेट पर रोल करें, सीम-साइड नीचे। तुरंत परोसें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "क्लासिक लहसुन और जैतून का तेल स्पेगेटी (एग्लियो ई ओलियो)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "स्पेगेटी पास्ता",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "एक्स्ट्रा वर्जिन जैतून का तेल",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "लहसुन",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "लाल मिर्च के गुच्छे (मिर्च)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "नमक",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "ताज़ी अजमोद (कटी हुई)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "काली मिर्च",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "एक बड़े बर्तन में पानी उबालें। पानी में नमक डालें (यह समुद्री पानी जितना नमकीन होना चाहिए)। स्पेगेटी डालें और अल डेंटे (al dente) होने तक पैकेज के निर्देशों के अनुसार पकाएं। पास्ता पकाने का लगभग 1 कप पानी बचा लें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "पास्ता पकाना",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "जब पास्ता पक रहा हो, तो लहसुन को पतला काट लें। एक बड़ी कड़ाही को मध्यम आंच पर गरम करें और 0.75 कप एक्स्ट्रा वर्जिन जैतून का तेल डालें। कटी हुई लहसुन और 1 चम्मच लाल मिर्च के गुच्छे कड़ाही में डालें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "लहसुन को सुनहरा और खुशबूदार होने तक, लगभग 2-3 मिनट तक भूनें। **ध्यान रहे कि इसे जलाएं नहीं**, अन्यथा यह कड़वा हो जाएगा। कड़ाही में पास्ता पकाने का 0.5 कप बचाया हुआ पानी डालें। उबाल आने दें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "लहसुन भूनना",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "पके हुए पास्ता को छान लें (धोएं नहीं) और तुरंत लहसुन सॉस के साथ कड़ाही में स्थानांतरित करें। बची हुई 4 बड़े चम्मच कटी हुई ताज़ी अजमोद डालें। सॉस के साथ सभी पास्ता को कोट करने के लिए जल्दी से मिलाएं और कड़ाही को टॉस करें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "सॉस की गाढ़ापन को समायोजित करने के लिए यदि आवश्यक हो तो थोड़ा और बचाया हुआ पास्ता पानी डालें। स्वाद लें और यदि आवश्यक हो तो 1 चुटकी काली मिर्च और अतिरिक्त नमक डालें। गरम रहते हुए तुरंत परोसें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "मलाईदार पेस्टो चिकन पास्ता",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "फेटुचीनी पास्ता",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "चिकन ब्रेस्ट (बिना हड्डी, बिना चमड़ी)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "गाढ़ी क्रीम",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "तुलसी पेस्टो",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "परमेसन चीज़ (कद्दूकस किया हुआ)",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "जैतून का तेल",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "लहसुन का पाउडर",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "नमक",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "काली मिर्च",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "500 ग्राम चिकन ब्रेस्ट को 1 इंच के क्यूब्स में काटें। एक कटोरे में, चिकन को 1 बड़ा चम्मच जैतून का तेल, 0.5 चम्मच नमक, 1 चम्मच लहसुन पाउडर और 1 चुटकी काली मिर्च के साथ टॉस करें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "बचे हुए 1 बड़े चम्मच जैतून का तेल एक बड़ी कड़ाही में मध्यम-तेज आंच पर गरम करें। मसालेदार चिकन डालें और 6-8 मिनट तक पकाएं, कभी-कभी पलटते रहें, जब तक कि वह सुनहरा भूरा न हो जाए और पूरी तरह से पक न जाए।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "चिकन पकाओ",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "जब चिकन पक रहा हो, तो नमकीन पानी का एक बड़ा बर्तन उबालें। 350 ग्राम फेटुचीनी डालें और अल डेंटे होने तक पकाएं। पास्ता को छान लें, पकाने का 1 कप पानी बचा लें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "पास्ता पकाना",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "कड़ाही (चिकन के साथ) पर आंच धीमी कर दें। 250 मिलीलीटर गाढ़ी क्रीम और 0.5 कप तुलसी पेस्टो डालें। अच्छी तरह मिलाएं जब तक कि वह मिल न जाए। सॉस को धीरे से 2 मिनट के लिए उबाल आने दें ताकि वह थोड़ा गाढ़ा हो जाए।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "सॉस को उबालें",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "छानने के बाद पास्ता को मलाईदार पेस्टो सॉस में डालें और टॉस करें ताकि वह कोट हो जाए। 0.5 कप कद्दूकस किया हुआ परमेसन चीज़ और लगभग 0.25 कप बचाया हुआ पास्ता पानी मिलाएं। यदि आवश्यक हो तो वांछित गाढ़ापन तक पहुँचने के लिए और पानी डालें। तुरंत परोसें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "ग्रिल्ड चीज़ सैंडविच",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "खट्टा आटा ब्रेड",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "चेडर चीज़ (तेज)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "मॉन्टेरे जैक चीज़",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "बिना नमक का मक्खन (नरम किया हुआ)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "मेयोनेज़ (स्वाद के लिए वैकल्पिक)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "नमक",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "चेडर और मॉन्टेरे जैक दोनों चीज़ों को कद्दूकस करें और एक छोटे कटोरे में एक साथ मिलाएं। कद्दूकस करने से समान रूप से पिघलना सुनिश्चित होता है।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "मक्खन को ब्रेड के प्रत्येक स्लाइस के एक तरफ समान रूप से फैलाएं। यह वह तरफ है जो पैन को छुएगा। वैकल्पिक रूप से, अतिरिक्त स्वाद के लिए एक स्लाइस के विपरीत तरफ (अंदरूनी) पर मेयोनेज़ की एक पतली परत फैलाएं।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "ब्रेड के एक स्लाइस को (मक्खन वाली तरफ नीचे) मध्यम-धीमी आंच पर एक नॉन-स्टिक कड़ाही में रखें। ब्रेड के ऊपर मिश्रित चीज़ को समान रूप से छिड़कें, फिर एक चुटकी नमक डालें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "ऊपर से ब्रेड का दूसरा स्लाइस रखें (मक्खन वाली तरफ ऊपर)। 3 से 4 मिनट तक पकाएं जब तक कि नीचे का स्लाइस सुनहरा भूरा न हो जाए और चीज़ पिघलना शुरू न हो जाए।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "पहले तरफ का पकने का समय",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "एक स्पैटुला का उपयोग करके सैंडविच को सावधानीपूर्वक पलटें। 3 से 4 मिनट और पकाएं जब तक कि दूसरा तरफ सुनहरा भूरा न हो जाए और चीज़ पूरी तरह से पिघल न जाए और बहने न लगे। यदि बाहर का हिस्सा बहुत जल्दी भूरा हो जाता है, तो आंच धीमी कर दें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "दूसरे तरफ का पकने का समय",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "कड़ाही से निकालें, तिरछे काटें, और तुरंत परोसें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "लहसुन हर्ब बटर के साथ परफेक्ट पैन-सियर्ड रिबeye स्टेक",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "रिबeye स्टेक (1.5 इंच मोटा)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "कोषेर नमक",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "ताज़ी पिसी हुई काली मिर्च",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "वनस्पति तेल (उच्च धूम्रपान बिंदु)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "बिना नमक का मक्खन",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "लहसुन की कलियाँ (कुचली हुई)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "ताज़ी अजवायन की टहनी",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "स्टेक को कागज़ के तौलिये से पूरी तरह सुखा लें। कोषेर नमक और काली मिर्च के साथ सभी तरफ उदारतापूर्वक मसाला डालें। पकने से पहले स्टेक को 30 मिनट के लिए कमरे के तापमान पर बैठने दें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "एक कास्ट-आयरन कड़ाही में वनस्पति तेल को तेज़ आंच पर गरम करें जब तक कि वह चमकने न लगे और थोड़ा धुआं न छोड़ने लगे। मसालेदार स्टेक को सावधानी से गर्म पैन में रखें। 3 से 4 मिनट तक भूनें जब तक कि एक गहरा, गहरा भूरा क्रस्ट न बन जाए।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "पहली तरफ़ सीयर करने का समय",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "स्टेक को पलटें। आंच को मध्यम करें। पैन में मक्खन, कुचली हुई लहसुन की कलियाँ और अजवायन की टहनी डालें। पैन को थोड़ा झुकाएं और एक बड़े चम्मच का उपयोग करके पिघले हुए हर्ब बटर को स्टेक पर लगातार 1 से 2 मिनट तक डालें, या जब तक वांछित आंतरिक तापमान (जैसे, मध्यम-दुर्लभ के लिए 130°F) तक न पहुँच जाए।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "बास्टिंग/पकाने का समय",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "स्टेक को पैन से हटा दें और उन्हें एक कटिंग बोर्ड पर रखें। पैन से बचे हुए हर्ब बटर को स्टेक पर डालें। टुकड़ों में काटने और परोसने से पहले रसों को फिर से वितरित करने की अनुमति देने के लिए उन्हें 5 से 10 मिनट के लिए आराम दें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "आराम का समय",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "क्लासिक बटर चिकन",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "बिना हड्डी, बिना चमड़ी वाली चिकन जांघें (क्यूब्स में कटी हुई)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "सादा दही",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "अदरक-लहसुन का पेस्ट",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "मिर्च पाउडर",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "हल्दी पाउडर",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "गरम मसाला (मॅरीनेड के लिए)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "टमाटर प्यूरी",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "बिना नमक का मक्खन",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "गाढ़ी क्रीम",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "कसूरी मेथी (सूखे मेथी के पत्ते)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "चीनी",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "चिकन को मैरीनेट करें: एक बड़े कटोरे में, चिकन को दही, अदरक-लहसुन का पेस्ट, मिर्च पाउडर, हल्दी पाउडर, और मॅरीनेड गरम मसाला के साथ मिलाएं। ढक दें और कम से कम 30 मिनट या 4 घंटे तक फ्रिज में रखें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "मैरीनेशन का समय",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "चिकन पकाएं: मैरीनेट किए हुए चिकन को ग्रिल करें, बेक करें या पैन-फ्राई करें जब तक कि वह पूरी तरह से पक न जाए और किनारों पर थोड़ा जल न जाए। एक तरफ रख दें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "चिकन पकाने का समय",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "सॉस का आधार तैयार करें: एक बड़े बर्तन में, आधा मक्खन पिघलाएं। टमाटर प्यूरी डालें और तब तक पकाएं जब तक कि तेल अलग न हो जाए (लगभग 10 मिनट)। 1/2 कप पानी डालें, उबाल आने दें, फिर सॉस को पूरी तरह से चिकना होने तक ब्लेंड करें। ब्लेंड किए गए सॉस को वापस बर्तन में छान लें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "सॉस को उबालने का समय",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "सॉस को पूरा करें: बचे हुए मक्खन, चीनी, और बचे हुए गरम मसाला (यदि वांछित हो) को छाने हुए सॉस में डालें। अच्छी तरह मिलाएं। पके हुए चिकन के टुकड़े डालें और 5 मिनट के लिए धीमी आंच पर पकाएं।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "चिकन के साथ अंतिम उबाल",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "परोसें: क्रीम मिलाएं और कसूरी मेथी को डालने से पहले अपनी हथेलियों के बीच कुचल दें। गरम करें लेकिन उबालें नहीं। चावल या नान ब्रेड के साथ तुरंत परोसें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "मलाईदार टमाटर का सूप",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "डिब्बाबंद कटे हुए टमाटर",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "चिकन या सब्जी शोरबा",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "प्याज, कटा हुआ",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "लहसुन, बारीक कटा हुआ",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "गाढ़ी क्रीम",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "जैतून का तेल",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "सूखी तुलसी",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "नमक",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "काली मिर्च",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "एक बड़े बर्तन में मध्यम आंच पर जैतून का तेल गरम करें। कटा हुआ प्याज डालें और नरम होने तक, लगभग 5-7 मिनट तक भूनें। बारीक कटा हुआ लहसुन डालें और 1 मिनट और भूनें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "प्याज भूनें",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "डिब्बाबंद कटे हुए टमाटर, शोरबा, सूखी तुलसी, नमक और काली मिर्च मिलाएं। मिश्रण को उबाल आने दें, फिर आंच कम करें और 20 मिनट तक धीमी आंच पर पकाएं।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "सूप को उबालें",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "सूप को सावधानीपूर्वक एक ब्लेंडर में स्थानांतरित करें या सूप को चिकना होने तक ब्लेंड करने के लिए इमर्शन ब्लेंडर का उपयोग करें। सूप को वापस बर्तन में डालें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "गाढ़ी क्रीम मिलाएं और 2-3 मिनट तक गरम करें, लेकिन उबालें नहीं। गरमागरम परोसें, वैकल्पिक रूप से ताज़ी तुलसी या क्रूटोंस से गार्निश करें।",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

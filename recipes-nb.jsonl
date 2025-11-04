@@ -1,0 +1,1187 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "recipeName": "Klassisk Diner Cheeseburger",
+            "calories": 620,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
+            "ingredients": [
+                {
+                    "name": "Kjøttdeig (80% magert / 20% fett)",
+                    "quantity": 680.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Worcestershiresaus",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Løkpulver",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Hvitløkspulver",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt (Kosher eller Havsalt)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Svart Pepper, nykvernet",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Amerikansk Ost",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Potetrundstykker eller Hamburgerbrød",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Majones",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Dillagurkskiver (Pickles)",
+                    "quantity": 1.0,
+                    "type": "cup"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Kombiner de 680 grammene kjøttdeig med 1 spiseskje Worcestershire-saus, 0,5 teskje løkpulver, 0,5 teskje hvitløkspulver, 1 teskje salt og 0,25 teskje svart pepper. Bland **forsiktig** med hendene til det akkurat er blandet. Overmiksing vil gjøre burgerne seige.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Del blandingen i 4 like porsjoner og form til burgere, ca. 2 centimeter tykke. Lag en liten fordypning i midten av hver burger med tommelen for å hindre at de blåser seg opp under steking.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Varm en stekepanne eller grill til middels høy varme. Stek burgerne i 3-5 minutter per side for medium steking, eller til kjernetemperaturen når 71 grader.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Steketid for Burger",
+                            "timerHours": 0,
+                            "timerMinutes": 8,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "I løpet av det siste minuttet av steketiden, legg 1 stykke Amerikansk ost på hver burger. Dekk grillen eller stekepannen kortvarig for å sikre at osten smelter fint.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Smelting av Ost",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Rist de 4 stykkene brød med skjæresiden ned på grillen eller i en tørr stekepanne i ca. 30 sekunder. For å sette sammen, smør 1 spiseskje majones på begge halvdelene av brødet. Plasser osteburgeren på bunnen av brødet, topp med noen av de 1 koppen med dillagurkskivene, og dekk med toppen av brødet.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipeName": "Klassiske Tacoer med Kjøttdeig",
+            "calories": 300,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 8,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
+            "ingredients": [
+                {
+                    "name": "Mager Kjøttdeig (80/20 eller magrere)",
+                    "quantity": 0.45,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Olivenolje",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Chilipulver",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Spisskummen (Malt)",
+                    "quantity": 2.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Tørket Oregano",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Hvitløkspulver",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Svart Pepper",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Tomatpuré",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Vann",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Taco-skjell eller Tortillaer (Mais eller Hvete)",
+                    "quantity": 8.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Revet Isbergsalat",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Revet Cheddarost eller Mexicansk blanding",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Oppskårne Tomater",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Rømme eller Gresk Yoghurt (valgfritt)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Varm olivenoljen i en stor stekepanne over middels høy varme. Tilsett kjøttdeigen og stek, mens du bryter den opp med en skje, til den er gjennombrunet og ikke lenger rosa.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Tøm av overflødig fett fra stekepannen og returner kjøttet til varmen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Rør inn chilipulver, spisskummen, oregano, hvitløkspulver, salt og svart pepper. Stek i 1 minutt for å la krydderet ristes.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Rist Krydder",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Tilsett tomatpuré og vann. Rør godt for å dekke kjøttet. Kok opp blandingen, reduser deretter varmen til lav og kok til sausen har tyknet og væsken er nesten absorbert (kjøttet skal fortsatt være fuktig, ikke tørt).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Småkok Kjøtt",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Mens kjøttet småkoker, varm taco-skjellene eller tortillaene i henhold til instruksjonene på pakken.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Ha den krydrede taco-kjøttblandingen i skjellene eller tortillaene. Topp med revet salat, ost, oppskårne tomater og en klatt rømme eller yoghurt (valgfritt). Server umiddelbart.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipeName": "Klassisk Margherita Pizza",
+            "calories": 350,
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
+            "ingredients": [
+                {
+                    "name": "Hvetemel",
+                    "quantity": 3.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Varmt Vann",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Tørrgjær (Aktiv)",
+                    "quantity": 2.25,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Olivenolje (Deig)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Knuste Tomater",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Fersk Mozzarellaost",
+                    "quantity": 250.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Ferske Basilikumblader",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olivenolje (Topping)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Svart Pepper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Aktiver gjæren ved å blande den med varmt vann og en klype sukker (ikke oppført i ingredienser, men antatt for gjæraktivisering) i en bolle. La det stå i 5-10 minutter til det skummer.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Gjæraktivisering",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "I en stor bolle, bland mel og salt. Hell i gjærblandingen og de 2 spiseskjeene olivenolje. Bland til en ragget deig dannes.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Vend deigen ut på et lett melet underlag og elt i 8-10 minutter til den er glatt og elastisk. Legg i en smurt bolle, dekk til, og la heve på et varmt sted til den er doblet i størrelse.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Deigheving",
+                            "timerHours": 1,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Forvarm ovnen til høyeste temperatur (vanligvis 250°C) og plasser en pizzastein eller bakeplate inni for å varme opp. Slå luften ut av deigen, del den i to baller (for to mellomstore pizzaer), og la dem hvile i 10 minutter.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Forvarming av Ovn",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Strekk eller rull en deigball til en 12-tommers sirkel. Overfør den til en melet pizzaspade eller bakepapir. Fordel halvparten av de knuste tomatene jevnt, topp med halvparten av den revne mozzarellaen, og drypp over litt olivenolje og en klype pepper.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Stek pizzaen i 12-15 minutter til skorpen er gyllen og osten bobler. Når den er ute av ovnen, pynt umiddelbart med ferske basilikumblader. Skjær opp og server.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Steketid",
+                            "timerHours": 0,
+                            "timerMinutes": 15,
+                            "timerSeconds": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipeName": "Sterk Kylling Ranch Wrap",
+            "calories": 450,
+            "prepTime": 15,
+            "cookTime": 10,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
+            "ingredients": [
+                {
+                    "name": "Kyllingbryst (uten bein, uten skinn)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Tortillaer (store)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ranch Dressing",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Sterk Saus (f.eks. Buffalo stil)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Romansalat (strimlet)",
+                    "quantity": 2.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Revet Cheddarost",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Røkt Paprikapulver",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Hvitløkspulver",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Olivenolje",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Kutt kyllingbrystet i 1-tommers strimler. I en bolle, vend kyllingen med olivenolje, røkt paprikapulver, hvitløkspulver og en klype salt til den er godt dekket.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Varm en stor stekepanne over middels høy varme. Tilsett de krydrede kyllingstrimlene og stek i 5-7 minutter, snu av og til, til de er gyllenbrune og gjennomstekte (kjernetemperatur på 74°C).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Stek Kylling",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Mens kyllingen fortsatt er varm, ta den ut av varmen og overfør den til en ren bolle. Hell ranch dressing og sterk saus over kyllingen. Vend til hvert stykke er dekket av den sterke ranchblandingen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Legg ut en tortilla. Spre et tynt lag revet salat ned midten, etterfulgt av en fjerdedel av den revne cheddarosten. Dette danner basen av wrapen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Plasser en fjerdedel av den sterke ranch kyllingblandingen over osten og salaten. Vær forsiktig så du ikke overfyller wrapen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "For å rulle, brett inn de to sidene av tortillaen over fyllet, rull deretter wrapen stramt fra bunnen opp. Skjær den ferdige wrapen i to diagonalt og server umiddelbart.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipeName": "Klassisk Fransk Omelett",
+            "calories": 250,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
+            "ingredients": [
+                {
+                    "name": "Egg (store)",
+                    "quantity": 3.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Smør",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Svart Pepper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                },
+                {
+                    "name": "Gressløk (fersk, hakket)",
+                    "quantity": 0.5,
+                    "type": "tablespoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Knekk eggene i en bolle. Tilsett salt og pepper. Visp kraftig til eggeplommer og eggehviter er helt kombinert og litt skummende, men unngå å inkorporere for mye luft.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Visping",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Varm en non-stick stekepanne (ca. 8 tommer) over middels varme. Tilsett smøret og virvl det rundt til det smelter, skummer opp, og deretter legger seg, og får en klar, nøtteaktig farge.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Smørsmelting",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Hell eggeblandingen i den varme stekepannen. La eggene sette seg i ca. 10 sekunder. Bruk deretter en gaffel eller slikkepott til å røre eggene konstant og raskt, mens du vipper pannen, til bunnen er satt, men toppen fortsatt er fuktig og kremet.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Koking av Egg",
+                            "timerHours": 0,
+                            "timerMinutes": 1,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Slutt å røre og la omeletten steke uforstyrret i ytterligere 30 sekunder for å sette bunnen helt. Dryss den hakkede gressløken over den midtre tredjedelen av omeletten.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Sette Omeletten Ferdig",
+                            "timerHours": 0,
+                            "timerMinutes": 0,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Vipp pannen, og bruk en slikkepott til å brette den ene siden av omeletten omtrent en tredjedel over midten. Rull forsiktig omeletten ut av pannen og over på en tallerken, med skjøten ned, for å skape en pen torpedoform. Server umiddelbart.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipeName": "Klassisk Spaghetti med Hvitløk og Olivenolje (Aglio e Olio)",
+            "calories": 480,
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
+            "ingredients": [
+                {
+                    "name": "Spaghetti Pasta",
+                    "quantity": 400.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Extra Virgin Olivenolje",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Hvitløk",
+                    "quantity": 6.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Rød Pepperflak (Chili)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Fersk Persille (Hakket)",
+                    "quantity": 4.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Svart Pepper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Kok opp en stor kjele med vann. Salt vannet (det skal være like salt som sjøvann). Tilsett spaghettien og kok i henhold til pakkens anvisning til den er al dente. Ta vare på ca. 1 kopp av pastakokevannet.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Koking av Pasta",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Mens pastaen koker, skjær hvitløken tynt. Varm en stor stekepanne over middels varme og tilsett 0,75 kopp extra virgin olivenolje. Tilsett den skivede hvitløken og 1 teskje rød pepperflak i stekepannen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Surr hvitløken til den er gyllen og dufter, ca. 2-3 minutter. **Vær forsiktig så du ikke brenner den**, ellers blir den bitter. Tilsett 0,5 kopp av det reserverte pastakokevannet i stekepannen. Kok opp.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Surr Hvitløk",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Sil av den kokte pastaen (ikke skyll) og overfør den umiddelbart til stekepannen med hvitløkssausen. Tilsett de resterende 4 spiseskjeene hakket fersk persille. Bland raskt og kast pastaen i pannen for å dekke all pastaen med sausen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Tilsett litt mer reservert pastavann om nødvendig for å justere konsistensen på sausen. Smak til og tilsett 1 klype svart pepper og ekstra salt om nødvendig. Server umiddelbart mens det er varmt.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "recipeName": "Kremet Pesto Kyllingpasta",
+            "calories": 750,
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
+            "ingredients": [
+                {
+                    "name": "Fettuccine Pasta",
+                    "quantity": 350.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Kyllingbryst (uten bein, uten skinn)",
+                    "quantity": 500.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Fløte",
+                    "quantity": 250.0,
+                    "type": "milliliter"
+                },
+                {
+                    "name": "Basilikumpesto",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Revet Parmesanost",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olivenolje",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Hvitløkspulver",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Svart Pepper",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Kutt de 500 grammene kyllingbryst i 1-tommers terninger. I en bolle, vend kyllingen med 1 spiseskje olivenolje, 0,5 teskje salt, 1 teskje hvitløkspulver og 1 klype svart pepper.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Varm den resterende 1 spiseskjeen olivenolje i en stor stekepanne over middels høy varme. Tilsett den krydrede kyllingen og stek i 6-8 minutter, snu av og til, til den er gyllenbrun og gjennomstekt.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Stek Kylling",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Mens kyllingen steker, kok opp en stor kjele med saltet vann. Tilsett de 350 grammene fettuccine og kok til al dente. Sil av pastaen, og ta vare på 1 kopp av kokevannet.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Kok Pasta",
+                            "timerHours": 0,
+                            "timerMinutes": 9,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Reduser varmen på stekepannen (med kyllingen) til lav. Hell i de 250 milliliterne fløte og 0,5 kopp basilikumpesto. Rør godt til det er kombinert. La sausen småkoke forsiktig i 2 minutter for å tykne litt.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Småkok Saus",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Tilsett den avsilte pastaen i den kremede pestosausen og kast for å dekke. Rør inn 0,5 kopp revet parmesanost og ca. 0,25 kopp av det reserverte pastavannet. Tilsett mer vann om nødvendig for å oppnå ønsket konsistens. Server umiddelbart.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "recipeName": "Grillet Ostesmørbrød",
+            "calories": 480,
+            "prepTime": 5,
+            "cookTime": 8,
+            "servings": 1,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
+            "ingredients": [
+                {
+                    "name": "Surdeigsbrød",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Cheddarost (skarp)",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Monterey Jack Ost",
+                    "quantity": 50.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Usaltet Smør (myknet)",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Majones (valgfritt for smak)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 1.0,
+                    "type": "pinch"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Riv både Cheddar- og Monterey Jack-ostene og bland dem sammen i en liten bolle. Rivning sikrer jevn smelting.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Smør smøret jevnt på én side av hver brødskive. Dette er siden som vil berøre pannen. Valgfritt, smør et tynt lag majones på motsatt side (innsiden) av den ene skiven for ekstra smak.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Plasser én skive brød (smørsiden ned) i en non-stick stekepanne over middels lav varme. Dryss den blandede osten jevnt over brødet, og tilsett deretter en klype salt.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Topp med den andre brødskiven (smørsiden opp). Stek i 3 til 4 minutter til bunnskiven er gyllenbrun og osten begynner å smelte.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Steketid Første Side",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Snu forsiktig smørbrødet med en slikkepott. Stek i ytterligere 3 til 4 minutter til den andre siden er gyllenbrun og osten er helt smeltet og rennende. Hvis utsiden blir brun for raskt, senk varmen.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Steketid Andre Side",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 6,
+                    "stepDescription": "Fjern fra stekepannen, skjær diagonalt og server umiddelbart.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "recipeName": "Perfekt Pannestekt Ribeye Steak med Hvitløk og Urtesmør",
+            "calories": 750,
+            "prepTime": 10,
+            "cookTime": 10,
+            "servings": 2,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
+            "ingredients": [
+                {
+                    "name": "Ribeye Biff (1,5 tommer tykk)",
+                    "quantity": 2.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Kosher Salt",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Nykvernet Svart Pepper",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Vegetabilsk Olje (høyt røykpunkt)",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Usaltet Smør",
+                    "quantity": 60.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Hvitløksfedd (knust)",
+                    "quantity": 4.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Ferske Timiankvister",
+                    "quantity": 3.0,
+                    "type": "piece"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Klapp biffene helt tørre med tørkepapir. Krydre sjenerøst på alle sider med kosher salt og svart pepper. La biffene ligge i romtemperatur i 30 minutter før steking.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Varm vegetabilsk olje i en støpejernspanne over høy varme til den begynner å skimre og ryke litt. Plasser forsiktig de krydrede biffene i den varme pannen. Stek i 3 til 4 minutter til det har dannet seg en dyp, mørk brun skorpe.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Steketid Første Side",
+                            "timerHours": 0,
+                            "timerMinutes": 3,
+                            "timerSeconds": 30
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Snu biffene. Reduser varmen til middels. Tilsett smør, knuste hvitløksfedd og timiankvister i pannen. Vipp pannen litt og bruk en stor skje til å kontinuerlig øse det smeltede urtesmøret over biffene i 1 til 2 minutter, eller til ønsket kjernetemperatur er nådd (f.eks. 54°C for medium-rå).",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Øsing/Steketid",
+                            "timerHours": 0,
+                            "timerMinutes": 2,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Ta biffene ut av pannen og legg dem på et skjærebrett. Hell det resterende urtesmøret fra pannen over biffene. La dem hvile i 5 til 10 minutter for å la saftene fordele seg før du skjærer i dem og serverer.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Hviletid",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "recipeName": "Klassisk Butter Chicken",
+            "calories": 680,
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
+            "ingredients": [
+                {
+                    "name": "Kyllinglår uten bein og skinn (i terninger)",
+                    "quantity": 1.0,
+                    "type": "kilogram"
+                },
+                {
+                    "name": "Naturell Yoghurt",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Ingefær-Hvitløkspasta",
+                    "quantity": 1.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Chilipulver",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Gurkemeiepulver",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Garam Masala (til marinade)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Tomatpuré",
+                    "quantity": 1.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Usaltet Smør",
+                    "quantity": 120.0,
+                    "type": "gram"
+                },
+                {
+                    "name": "Fløte",
+                    "quantity": 0.75,
+                    "type": "cup"
+                },
+                {
+                    "name": "Kasuri Methi (Tørkede Bukkehornkløverblader)",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Sukker",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Mariner kyllingen: I en stor bolle, bland kyllingen med yoghurt, ingefær-hvitløkspasta, chilipulver, gurkemeiepulver og marinade garam masala. Dekk til og sett i kjøleskapet i minst 30 minutter, eller opptil 4 timer.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Marineringstid",
+                            "timerHours": 0,
+                            "timerMinutes": 30,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Stek kyllingen: Grill, bak eller pannestek den marinerte kyllingen til den er gjennomstekt og lett svidd i kantene. Sett til side.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Kylling Steketid",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Forbered sausbasen: I en stor gryte, smelt halvparten av smøret. Tilsett tomatpuréen og kok til oljen skilles (ca. 10 minutter). Tilsett 1/2 kopp vann, småkok, og blend deretter sausen til den er helt jevn. Sil den blendede sausen tilbake i gryten.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Saus Småkokingstid",
+                            "timerHours": 0,
+                            "timerMinutes": 10,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Fullfør sausen: Tilsett resten av smøret, sukkeret og den resterende garam masala (hvis ønskelig) til den silte sausen. Rør godt. Tilsett de kokte kyllingstykkene og småkok i 5 minutter.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Siste Småkoking med Kylling",
+                            "timerHours": 0,
+                            "timerMinutes": 5,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 5,
+                    "stepDescription": "Server: Rør inn fløten og knus Kasuri Methi mellom håndflatene før du tilsetter det. Varm gjennom, men ikke kok. Server umiddelbart med ris eller naanbrød.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "recipeName": "Kremet Tomatsuppe",
+            "calories": 250,
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
+            "ingredients": [
+                {
+                    "name": "Hermetiske Terninger av Tomater",
+                    "quantity": 28.0,
+                    "type": "ounce"
+                },
+                {
+                    "name": "Kylling- eller Grønnsaksbuljong",
+                    "quantity": 4.0,
+                    "type": "cup"
+                },
+                {
+                    "name": "Løk, hakket",
+                    "quantity": 1.0,
+                    "type": "piece"
+                },
+                {
+                    "name": "Hvitløk, finhakket",
+                    "quantity": 2.0,
+                    "type": "cloves"
+                },
+                {
+                    "name": "Fløte",
+                    "quantity": 0.5,
+                    "type": "cup"
+                },
+                {
+                    "name": "Olivenolje",
+                    "quantity": 2.0,
+                    "type": "tablespoon"
+                },
+                {
+                    "name": "Tørket Basilikum",
+                    "quantity": 1.0,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "type": "teaspoon"
+                },
+                {
+                    "name": "Svart Pepper",
+                    "quantity": 0.25,
+                    "type": "teaspoon"
+                }
+            ],
+            "steps": [
+                {
+                    "stepOrder": 1,
+                    "stepDescription": "Varm olivenolje i en stor gryte over middels varme. Tilsett hakket løk og surr til den er myknet, ca. 5-7 minutter. Tilsett finhakket hvitløk og surr i 1 minutt til.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Surr Løk",
+                            "timerHours": 0,
+                            "timerMinutes": 7,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 2,
+                    "stepDescription": "Rør inn hermetiske terninger av tomater, buljong, tørket basilikum, salt og pepper. Kok opp blandingen, reduser deretter varmen og småkok i 20 minutter.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": [
+                        {
+                            "timerName": "Småkok Suppe",
+                            "timerHours": 0,
+                            "timerMinutes": 20,
+                            "timerSeconds": 0
+                        }
+                    ]
+                },
+                {
+                    "stepOrder": 3,
+                    "stepDescription": "Overfør suppen forsiktig til en blender eller bruk en stavmikser for å blende suppen til den er jevn. Returner suppen til gryten.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
+                    "recipeTimer": []
+                },
+                {
+                    "stepOrder": 4,
+                    "stepDescription": "Rør inn fløten og varm gjennom i 2-3 minutter, men ikke kok. Server varmt, valgfritt pyntet med fersk basilikum eller krutonger.",
+                    "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
+                    "recipeTimer": []
+                }
+            ]
+        }
+    ]
+}

@@ -2,7 +2,7 @@
   "request": [
     {
       "id": 1,
-      "recipeName": "Klasik Lokanta Çizburgeri",
+      "recipeName": "Klasický Diner Cheeseburger",
       "calories": 620,
       "prepTime": 10,
       "cookTime": 10,
@@ -10,52 +10,52 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger.png",
       "ingredients": [
         {
-          "name": "Kıyma ( %80 yağsız / %20 yağlı)",
+          "name": "Mleté hovězí maso (80 % libové / 20 % tučné)",
           "quantity": 680.0,
           "type": "gram"
         },
         {
-          "name": "Worcestershire Sosu",
+          "name": "Worcestershire omáčka",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Soğan Tozu",
+          "name": "Cibulový prášek",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Česnekový prášek",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz (Koşer veya Deniz)",
+          "name": "Sůl (košer nebo mořská)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Taze Çekilmiş Karabiber",
+          "name": "Čerstvě mletý černý pepř",
           "quantity": 0.25,
           "type": "teaspoon"
         },
         {
-          "name": "Amerikan Peyniri",
+          "name": "Americký sýr (American Cheese)",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Patatesli Ekmekler veya Hamburger Ekmeği",
+          "name": "Bramborové housky nebo hamburgerové housky",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Mayonez",
+          "name": "Majonéza",
           "quantity": 4.0,
           "type": "tablespoon"
         },
         {
-          "name": "Dereotu Turşusu Dilimleri",
+          "name": "Nakládané okurky (Dill Pickle Chips)",
           "quantity": 1.0,
           "type": "cup"
         }
@@ -63,23 +63,23 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "680 gram kıymayı 1 yemek kaşığı Worcestershire sosu, 0.5 çay kaşığı soğan tozu, 0.5 çay kaşığı sarımsak tozu, 1 çay kaşığı tuz ve 0.25 çay kaşığı karabiber ile birleştirin. Sadece birleşene kadar ellerinizle **nazikçe** karıştırın. Aşırı karıştırmak burgerlerin sertleşmesine neden olur.",
+          "stepDescription": "Smíchejte 680 gramů mletého hovězího masa s 1 lžící Worcestershire omáčky, 0.5 lžičkou cibulového prášku, 0.5 lžičkou česnekového prášku, 1 lžičkou soli a 0.25 lžičkou černého pepře[cite: 13]. **Jemně** promíchejte rukama, dokud se ingredience nespojí[cite: 14]. Přílišné míchání způsobí, že burgery budou tuhé[cite: 14].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Karışımı 4 eşit porsiyona bölün ve yaklaşık 2 santimetre kalınlığında köfteler haline getirin. Pişirme sırasında şişmelerini önlemek için her köftenin ortasına baş parmağınızla küçük bir girinti yapın.",
+          "stepDescription": "Směs rozdělte na 4 stejné porce a vytvarujte placky silné asi 2 centimetry[cite: 16]. Uprostřed každé placky udělejte palcem malý důlek, abyste zabránili jejich nafouknutí během vaření[cite: 16].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_2.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Bir tavayı veya ızgarayı orta-yüksek ateşte ısıtın. Orta pişmişlik için köfteleri her iki tarafı 3-5 dakika pişirin veya iç sıcaklıkları 71 dereceye ulaşana kadar pişirin.",
+          "stepDescription": "Rozpalte pánev nebo gril na středně vysokou teplotu[cite: 17]. Opékejte placky 3-5 minut z každé strany pro střední propečení, nebo dokud vnitřní teplota nedosáhne 71 stupňů[cite: 18].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Köfte Pişirme Süresi",
+              "timerName": "Patty Cook Time",
               "timerHours": 0,
               "timerMinutes": 8,
               "timerSeconds": 0
@@ -88,11 +88,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Pişirmenin son dakikasında, her köftenin üzerine 1 dilim Amerikan peyniri koyun. Peynirin güzelce erimesini sağlamak için ızgaranın veya tavanın üzerini kısaca kapatın.",
+          "stepDescription": "Během poslední minuty vaření položte 1 kus amerického sýra na každou placku[cite: 21]. Krátce přiklopte gril nebo pánev, aby se sýr pěkně rozpustil[cite: 22].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Peynir Eritme",
+              "timerName": "Cheese Melt",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 0
@@ -101,7 +101,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "4 adet ekmeği kesik tarafı aşağı bakacak şekilde ızgarada veya kuru bir tavada yaklaşık 30 saniye kızartın. Birleştirmek için, ekmeğin her iki yarısına 1 yemek kaşığı mayonez sürün. Çizburger köftesini alt ekmeğe yerleştirin, üzerine 1 su bardağı dereotu turşusu dilimlerinden biraz koyun ve üst ekmekle kapatın.",
+          "stepDescription": "Opékejte 4 kusy housek řeznou stranou dolů na grilu nebo suché pánvi po dobu asi 30 sekund[cite: 25]. Pro sestavení rozetřete 1 lžíci majonézy na obě poloviny housky[cite: 26]. Položte placku cheeseburgeru na spodní housku, navrch dejte 1 šálek nakládaných okurek a přiklopte horní houskou[cite: 27].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_diner_cheeseburger_step_5.png",
           "recipeTimer": []
         }
@@ -109,7 +109,7 @@
     },
     {
       "id": 2,
-      "recipeName": "Klasik Kıymalı Taco",
+      "recipeName": "Klasické Taco z Mletého Hovězího Masa",
       "calories": 300,
       "prepTime": 15,
       "cookTime": 20,
@@ -117,77 +117,77 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos.png",
       "ingredients": [
         {
-          "name": "Yağsız Kıyma (80/20 veya daha az yağlı)",
+          "name": "Libové mleté hovězí maso (80/20 nebo libovější)",
           "quantity": 0.45,
           "type": "kilogram"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Olivový olej",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Biber Tozu",
+          "name": "Chilli prášek",
           "quantity": 2.0,
           "type": "teaspoon"
         },
         {
-          "name": "Öğütülmüş Kimyon",
+          "name": "Mletý kmín",
           "quantity": 2.0,
           "type": "teaspoon"
         },
         {
-          "name": "Kuru Kekik",
+          "name": "Sušené oregano",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Česnekový prášek",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sůl",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Černý pepř",
           "quantity": 0.25,
           "type": "teaspoon"
         },
         {
-          "name": "Domates Salçası",
+          "name": "Rajčatový protlak",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Su",
+          "name": "Voda",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Taco Kabukları veya Tortillalar (Mısır veya Un)",
+          "name": "Taco skořápky nebo tortilly (kukuřičné nebo pšeničné)",
           "quantity": 8.0,
           "type": "piece"
         },
         {
-          "name": "Rendelenmiş Marul",
+          "name": "Nastrouhaný hlávkový salát",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Rendelenmiş Çedar Peyniri veya Meksika Karışımı",
+          "name": "Strouhaný sýr Cheddar nebo mexická směs",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Doğranmış Domates",
+          "name": "Rajčata nakrájená na kostičky",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Ekşi Krema veya Yunan Yoğurdu (isteğe bağlı)",
+          "name": "Zakysaná smetana nebo řecký jogurt (volitelné)",
           "quantity": 4.0,
           "type": "tablespoon"
         }
@@ -195,23 +195,23 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Zeytinyağını büyük bir tavada orta-yüksek ateşte ısıtın. Kıymayı ekleyin ve kaşıkla parçalayarak tamamen kızarana ve artık pembe kalmayana kadar pişirin.",
+          "stepDescription": "Na velké pánvi rozehřejte olivový olej na středně vysokou teplotu[cite: 44]. Přidejte mleté hovězí maso a vařte, rozbíjejte ho lžící, dokud se úplně nezhnědne a neztratí růžovou barvu[cite: 45].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Tavadan fazla yağı süzün ve eti tekrar ateşe koyun.",
+          "stepDescription": "Slijte přebytečný tuk z pánve a vraťte maso na plotnu[cite: 47].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Biber tozu, kimyon, kekik, sarımsak tozu, tuz ve karabiberi karıştırın. Baharatların kavrulması için 1 dakika pişirin.",
+          "stepDescription": "Vmíchejte chilli prášek, kmín, oregano, česnekový prášek, sůl a černý pepř[cite: 48]. Vařte 1 minutu, aby se koření orestovalo[cite: 48].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Baharatları Kavurma",
+              "timerName": "Toast Spices",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 0
@@ -220,11 +220,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Domates salçası ve suyu ekleyin. Eti kaplamak için iyice karıştırın. Karışımı kaynamaya bırakın, ardından ateşi kısın ve sos kalınlaşana ve sıvı çoğunlukla emilene kadar pişirin (et hala nemli olmalı, kuru değil).",
+          "stepDescription": "Přidejte rajčatový protlak a vodu[cite: 51]. Dobře promíchejte, aby se maso obalilo[cite: 52]. Přiveďte směs k varu, poté snižte teplotu na nízkou a vařte, dokud omáčka nezhoustne a tekutina se většinou neabsorbuje (maso by mělo být stále vlhké, ne suché)[cite: 52].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Eti Kaynatma",
+              "timerName": "Simmer Meat",
               "timerHours": 0,
               "timerMinutes": 5,
               "timerSeconds": 0
@@ -233,13 +233,13 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Et kaynarken, taco kabuklarını veya tortillaları paket talimatlarına göre ısıtın.",
+          "stepDescription": "Zatímco se maso dusí, ohřejte taco skořápky nebo tortilly podle pokynů na obalu[cite: 55].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Baharatlı taco etini kabuklara veya tortillalara kaşıkla koyun. Üzerine rendelenmiş marul, peynir, doğranmış domates ve bir kaşık ekşi krema veya yoğurt (isteğe bağlı) ekleyin. Hemen servis yapın.",
+          "stepDescription": "Lžící nandejte okořeněné taco maso do skořápek nebo tortill[cite: 57]. Navrch dejte strouhaný salát, sýr, nakrájená rajčata a lžíci zakysané smetany nebo jogurtu (volitelné)[cite: 57]. Podávejte ihned[cite: 58].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_ground_beef_tacos_step_6.png",
           "recipeTimer": []
         }
@@ -247,7 +247,7 @@
     },
     {
       "id": 3,
-      "recipeName": "Klasik Margherita Pizza",
+      "recipeName": "Klasická Pizza Margherita",
       "calories": 350,
       "prepTime": 30,
       "cookTime": 15,
@@ -255,52 +255,52 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza.png",
       "ingredients": [
         {
-          "name": "Çok Amaçlı Un",
+          "name": "Hladká mouka",
           "quantity": 3.0,
           "type": "cup"
         },
         {
-          "name": "Ilık Su",
+          "name": "Teplá voda",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Aktif Kuru Maya",
+          "name": "Aktivní sušené droždí",
           "quantity": 2.25,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sůl",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Zeytinyağı (Hamur)",
+          "name": "Olivový olej (těsto)",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Ezilmiş Domates",
+          "name": "Drcená rajčata",
           "quantity": 400.0,
           "type": "gram"
         },
         {
-          "name": "Taze Mozzarella Peyniri",
+          "name": "Čerstvá Mozzarella",
           "quantity": 250.0,
           "type": "gram"
         },
         {
-          "name": "Taze Fesleğen Yaprakları",
+          "name": "Čerstvé lístky bazalky",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Zeytinyağı (Üst Malzeme)",
+          "name": "Olivový olej (navrch)",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Černý pepř",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -308,11 +308,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Mayayı ılık su ve bir tutam şekerle (malzemelerde listelenmemiştir, ancak maya aktivasyonu için varsayılmıştır) bir kapta karıştırarak aktive edin. Köpürene kadar 5-10 dakika bekletin.",
+          "stepDescription": "Aktivujte droždí smícháním s teplou vodou a špetkou cukru (není uvedeno v ingrediencích, ale předpokládá se pro aktivaci droždí) v misce[cite: 70]. Nechte 5-10 minut odstát, dokud se nevytvoří pěna[cite: 71].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Maya Aktivasyonu",
+              "timerName": "Yeast Activation",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -321,17 +321,17 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Büyük bir kapta unu ve tuzu birleştirin. Maya karışımını ve 2 yemek kaşığı zeytinyağını dökün. Kaba bir hamur oluşana kadar karıştırın.",
+          "stepDescription": "Ve velké míse smíchejte mouku a sůl[cite: 74]. Nalijte směs droždí a 2 lžíce olivového oleje[cite: 75]. Míchejte, dokud se nevytvoří hrubé těsto[cite: 76].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Hamuru hafifçe unlanmış bir yüzeye alın ve pürüzsüz ve elastik olana kadar 8-10 dakika yoğurun. Yağlanmış bir kaba koyun, üzerini kapatın ve boyutunun iki katına çıkana kadar ılık bir yerde kabarmaya bırakın.",
+          "stepDescription": "Vyklopte těsto na lehce pomoučenou plochu a hněťte 8-10 minut, dokud nebude hladké a pružné[cite: 77]. Vložte do vymazané mísy, přikryjte a nechte kynout na teplém místě, dokud nezdvojnásobí svůj objem[cite: 78].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Hamur Kabartma",
+              "timerName": "Dough Rise",
               "timerHours": 1,
               "timerMinutes": 30,
               "timerSeconds": 0
@@ -340,11 +340,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Fırınınızı en yüksek sıcaklığa (genellikle 250°C/480°F) önceden ısıtın ve bir pizza taşını veya fırın tepsisini ısınması için içine yerleştirin. Hamurun havasını alın, iki topa (iki orta boy pizza için) bölün ve 10 dakika dinlenmeye bırakın.",
+          "stepDescription": "Předehřejte troubu na nejvyšší teplotu (obvykle 250 °C/480 °F) a vložte dovnitř pizza kámen nebo plech na pečení, aby se zahřál[cite: 81]. Vypusťte z těsta vzduch, rozdělte ho na dvě koule (pro dvě střední pizzy) a nechte je 10 minut odpočinout[cite: 82].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Fırın Ön Isıtma",
+              "timerName": "Oven Preheat",
               "timerHours": 0,
               "timerMinutes": 30,
               "timerSeconds": 0
@@ -353,17 +353,17 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Bir hamur topunu 12 inçlik bir daire şeklinde gerin veya açın. Unlanmış bir pizza küreği veya parşömen kağıdı üzerine aktarın. Ezilmiş domateslerin yarısını eşit şekilde yayın, üzerine yırtılmış mozzarellanın yarısını ekleyin ve biraz zeytinyağı ve bir tutam karabiber gezdirin.",
+          "stepDescription": "Vytáhněte nebo vyválejte jednu kouli těsta do kruhu o průměru 30 cm[cite: 85]. Přeneste ji na pomoučenou lopatu na pizzu nebo pečicí papír[cite: 86]. Rovnoměrně rozetřete polovinu drcených rajčat, navrch dejte polovinu natrhané mozzarelly a pokapejte trochou olivového oleje a špetkou pepře[cite: 87].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_margherita_pizza_step_5.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Kabuk altın rengini alana ve peynir köpürene kadar pizzayı 12-15 dakika pişirin. Fırından çıktıktan hemen sonra taze fesleğen yapraklarıyla süsleyin. Dilimleyin ve servis yapın.",
+          "stepDescription": "Pečte pizzu 12-15 minut, dokud kůrka není zlatavá a sýr bublá[cite: 88]. Jakmile pizzu vyndáte z trouby, ihned ji ozdobte čerstvými lístky bazalky[cite: 89]. Nakrájejte a podávejte[cite: 90].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Pişirme Süresi",
+              "timerName": "Bake Time",
               "timerHours": 0,
               "timerMinutes": 15,
               "timerSeconds": 0
@@ -374,7 +374,7 @@
     },
     {
       "id": 4,
-      "recipeName": "Baharatlı Tavuk Ranch Dürümü",
+      "recipeName": "Pikantní Kuřecí Wrap s Ranch Dresingem",
       "calories": 450,
       "prepTime": 15,
       "cookTime": 10,
@@ -382,52 +382,52 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap.png",
       "ingredients": [
         {
-          "name": "Tavuk Göğsü (kemiksiz, derisiz)",
+          "name": "Kuřecí prsa (bez kosti, bez kůže)",
           "quantity": 500.0,
           "type": "gram"
         },
         {
-          "name": "Tortillalar (büyük)",
+          "name": "Tortilly (velké)",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Ranch Sosu",
+          "name": "Ranch dresing",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Acı Sos (örneğin, Buffalo tarzı)",
+          "name": "Pikantní omáčka (např. ve stylu Buffalo)",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Romaine Marul (doğranmış)",
+          "name": "Římský salát (nastrouhaný)",
           "quantity": 2.0,
           "type": "cup"
         },
         {
-          "name": "Rendelenmiş Çedar Peyniri",
+          "name": "Strouhaný sýr Cheddar",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "İsli Biberiye",
+          "name": "Uzená paprika (Smoked Paprika)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Česnekový prášek",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sůl",
           "quantity": 1.0,
           "type": "pinch"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Olivový olej",
           "quantity": 1.0,
           "type": "tablespoon"
         }
@@ -435,17 +435,17 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Tavuk göğsünü 1 inçlik şeritler halinde kesin. Bir kapta tavuğu zeytinyağı, isli biberiye, sarımsak tozu ve bir tutam tuz ile iyice kaplanana kadar karıştırın.",
+          "stepDescription": "Kuřecí prsa nakrájejte na proužky o délce 2.5 cm[cite: 104]. V misce promíchejte kuře s olivovým olejem, uzenou paprikou, česnekovým práškem a špetkou soli, dokud se dobře neobalí[cite: 105].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Büyük bir tavayı orta-yüksek ateşte ısıtın. Baharatlı tavuk şeritlerini ekleyin ve altın rengi kahverengi olana ve tamamen pişene kadar (iç sıcaklık 74°C/165°F) ara sıra çevirerek 5-7 dakika pişirin.",
+          "stepDescription": "Rozpalte velkou pánev na středně vysokou teplotu[cite: 106]. Přidejte okořeněné kuřecí proužky a vařte 5-7 minut, občas otočte, dokud nebudou zlatohnědé a úplně propečené (vnitřní teplota 74 °C/165 °F)[cite: 107].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "Tavuk Pişirme",
+              "timerName": "Cook Chicken",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 0
@@ -454,25 +454,25 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Tavuk hala sıcakken, ısıdan alın ve temiz bir kaba aktarın. Tavuğun üzerine ranch sosu ve acı sosu dökün. Her parçası baharatlı ranch karışımıyla kaplanana kadar karıştırın.",
+          "stepDescription": "Zatímco je kuře horké, odstraňte ho z plotny a přendejte do čisté mísy[cite: 110]. Přelijte kuře Ranch dresingem a pikantní omáčkou[cite: 111]. Promíchejte, dokud nebude každý kousek obalený v pikantní Ranch směsi[cite: 112].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_3.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Bir tortilla açın. Ortasına ince bir kat doğranmış marul yayın, ardından rendelenmiş çedar peynirinin dörtte birini ekleyin. Bu, dürümün tabanını oluşturur.",
+          "stepDescription": "Rozložte jednu tortillu[cite: 113]. Uprostřed rozetřete tenkou vrstvu strouhaného římského salátu, následovanou čtvrtinou strouhaného sýra Cheddar[cite: 114]. To tvoří základ wrapu[cite: 115].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/spicy_chicken_ranch_wrap_step_4.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Baharatlı ranch tavuk karışımının dörtte birini peynir ve marulun üzerine yerleştirin. Dürümü aşırı doldurmamaya dikkat edin.",
+          "stepDescription": "Položte čtvrtinu pikantní kuřecí Ranch směsi na sýr a salát[cite: 116]. Dávejte pozor, abyste wrap nepřeplnili[cite: 117].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Dürümlemek için, tortillanın iki yanını iç harcın üzerine katlayın, ardından dürümu alttan başlayarak sıkıca sarın. Bitmiş dürümu çapraz olarak ikiye kesin ve hemen servis yapın.",
+          "stepDescription": "Pro zabalení přeložte dvě strany tortilly přes náplň a poté wrap pevně srolujte odspodu nahoru[cite: 118]. Hotový wrap rozkrojte diagonálně napůl a ihned podávejte[cite: 119].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -480,7 +480,7 @@
     },
     {
       "id": 5,
-      "recipeName": "Klasik Fransız Omleti",
+      "recipeName": "Klasická Francouzská Omeleta",
       "calories": 250,
       "prepTime": 5,
       "cookTime": 8,
@@ -488,27 +488,27 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette.png",
       "ingredients": [
         {
-          "name": "Yumurta (büyük)",
+          "name": "Vejce (velká)",
           "quantity": 3.0,
           "type": "piece"
         },
         {
-          "name": "Tereyağı",
+          "name": "Máslo",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sůl",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Černý pepř",
           "quantity": 1.0,
           "type": "pinch"
         },
         {
-          "name": "Frenk Soğanı (taze, doğranmış)",
+          "name": "Pažitka (čerstvá, nasekaná)",
           "quantity": 0.5,
           "type": "tablespoon"
         }
@@ -516,11 +516,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Yumurtaları bir kaseye kırın. Tuz ve karabiber ekleyin. Sarısı ve beyazı tamamen birleşene ve hafifçe köpürene kadar kuvvetlice çırpın, ancak çok fazla hava katmaktan kaçının.",
+          "stepDescription": "Vejce rozklepněte do mísy[cite: 127]. Přidejte sůl a pepř[cite: 127]. Vigózně šlehejte, dokud se žloutky a bílky úplně nespojí a nejsou mírně pěnivé, ale vyhněte se zapracování příliš velkého množství vzduchu[cite: 127].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Çırpma",
+              "timerName": "Whisking",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 0
@@ -529,11 +529,11 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Yapışmaz bir tavayı (yaklaşık 8 inç) orta ateşte ısıtın. Tereyağını ekleyin ve eriyip köpürene ve ardından köpüğü azalana, berrak, cevizli bir renk alana kadar döndürün.",
+          "stepDescription": "Rozehřejte nepřilnavou pánev (asi 20 cm) na střední teplotu[cite: 130]. Přidejte máslo a krouživým pohybem ho nechte rozpustit, napěnit a poté ustoupit, až získá čistou, oříškovou barvu[cite: 131].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "Tereyağı Eritme",
+              "timerName": "Butter melting",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 30
@@ -542,11 +542,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Yumurta karışımını sıcak tavaya dökün. Yumurtaların yaklaşık 10 saniye donmasına izin verin. Ardından, bir çatal veya silikon spatula kullanarak, tavanın altı donmuş ancak üstü hala nemli ve kremsi olana kadar yumurtaları sürekli ve hızlı bir şekilde karıştırın, tavayı eğin.",
+          "stepDescription": "Nalijte vaječnou směs do horké pánve[cite: 134]. Nechte vejce asi 10 sekund ztuhnout[cite: 135]. Poté pomocí vidličky nebo gumové stěrky neustále a rychle míchejte vejce, naklánějte pánev, dokud se dno neztuhne, ale vršek je stále vlhký a krémový[cite: 135].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Yumurta Pişirme",
+              "timerName": "Cooking Eggs",
               "timerHours": 0,
               "timerMinutes": 1,
               "timerSeconds": 30
@@ -555,11 +555,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Karıştırmayı bırakın ve omletin altının tamamen donması için 30 saniye daha pişmesine izin verin. Doğranmış frenk soğanını omletin orta üçte birlik kısmına serpin.",
+          "stepDescription": "Přestaňte míchat a nechte omeletu vařit dalších 30 sekund bez rušení, aby se dno úplně ztuhlo[cite: 138]. Nasekanou pažitku posypte přes střední třetinu omelety[cite: 139].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Son Donma",
+              "timerName": "Final Set",
               "timerHours": 0,
               "timerMinutes": 0,
               "timerSeconds": 30
@@ -568,7 +568,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Tavayı eğin ve bir spatula kullanarak omletin bir tarafını ortanın yaklaşık üçte biri kadar üzerine katlayın. Omleti tavadan nazikçe bir tabağa, dikiş tarafı aşağı bakacak şekilde yuvarlayın, böylece düzgün bir torpido şekli oluşur. Hemen servis yapın.",
+          "stepDescription": "Nakloňte pánev a pomocí stěrky přehněte jednu stranu omelety asi o třetinu přes střed[cite: 142]. Jemně srolujte omeletu z pánve na talíř, švem dolů, aby se vytvořil úhledný tvar torpéda[cite: 143]. Podávejte ihned[cite: 144].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_french_omelette_step_5.png",
           "recipeTimer": []
         }
@@ -576,7 +576,7 @@
     },
     {
       "id": 6,
-      "recipeName": "Klasik Sarımsaklı ve Zeytinyağlı Spagetti (Aglio e Olio)",
+      "recipeName": "Klasické špagety s česnekem a olivovým olejem (Aglio e Olio)",
       "calories": 480,
       "prepTime": 10,
       "cookTime": 15,
@@ -584,37 +584,37 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti.png",
       "ingredients": [
         {
-          "name": "Spagetti Makarna",
+          "name": "Špagety",
           "quantity": 400.0,
           "type": "gram"
         },
         {
-          "name": "Sızma Zeytinyağı",
+          "name": "Extra panenský olivový olej",
           "quantity": 0.75,
           "type": "cup"
         },
         {
-          "name": "Sarımsak",
+          "name": "Česnek",
           "quantity": 6.0,
           "type": "piece"
         },
         {
-          "name": "Kırmızı Biber Pul Biberi (Chili)",
+          "name": "Vločky červeného pepře (chilli)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sůl",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Taze Maydanoz (Doğranmış)",
+          "name": "Čerstvá petrželka (nasekaná)",
           "quantity": 4.0,
           "type": "tablespoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Černý pepř",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -622,11 +622,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Büyük bir tencere suyu kaynatın. Suyu tuzlayın (deniz suyu kadar tuzlu olmalıdır). Spagettiyi ekleyin ve al dente olana kadar paket talimatlarına göre pişirin. Yaklaşık 1 su bardağı makarna pişirme suyunu ayırın.",
+          "stepDescription": "Přiveďte velký hrnec vody k varu[cite: 153]. Osolte vodu (měla by být slaná jako mořská voda)[cite: 154]. Přidejte špagety a vařte podle pokynů na obalu, dokud nebudou al dente[cite: 155]. Odložte si asi 1 šálek vody z vaření těstovin[cite: 156].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Makarna Pişirme",
+              "timerName": "Pasta Cooking",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -635,17 +635,17 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Makarna pişerken, sarımsağı ince ince dilimleyin. Büyük bir tavayı orta ateşte ısıtın ve 0.75 su bardağı sızma zeytinyağı ekleyin. Dilimlenmiş sarımsak ve 1 çay kaşığı kırmızı biber pul biberini tavaya ekleyin.",
+          "stepDescription": "Zatímco se těstoviny vaří, nakrájejte česnek na tenké plátky[cite: 159]. Rozehřejte velkou pánev na střední teplotu a přidejte 0.75 šálku extra panenského olivového oleje[cite: 160]. Přidejte nakrájený česnek a 1 lžičku vloček červeného pepře do pánve[cite: 161].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_2.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Sarımsağı altın rengi ve kokusu çıkana kadar yaklaşık 2-3 dakika soteleyin. **Yakmamaya dikkat edin**, aksi takdirde acı olur. Ayrılan makarna pişirme suyunun 0.5 su bardağını tavaya ekleyin. Kaynamaya bırakın.",
+          "stepDescription": "Restujte česnek, dokud není zlatavý a voňavý, asi 2-3 minuty[cite: 162]. **Dávejte pozor, abyste ho nespálili**, jinak zhořkne[cite: 163]. Přidejte 0.5 šálku odložené vody z vaření těstovin do pánve[cite: 164]. Přiveďte k varu[cite: 165].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Sarımsak Soteleme",
+              "timerName": "Garlic Sautéing",
               "timerHours": 0,
               "timerMinutes": 2,
               "timerSeconds": 30
@@ -654,13 +654,13 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Pişmiş makarnayı süzün (durulamayın) ve hemen sarımsak soslu tavaya aktarın. Kalan 4 yemek kaşığı doğranmış taze maydanozu ekleyin. Hızla karıştırın ve tüm makarnayı sosla kaplamak için tavayı sallayın.",
+          "stepDescription": "Sceďte uvařené těstoviny (neoplachujte) a ihned je přendejte do pánve s česnekovou omáčkou[cite: 168]. Přidejte zbývající 4 lžíce nasekané čerstvé petrželky[cite: 169]. Rychle promíchejte a protřepejte pánev, aby se všechny těstoviny obalily omáčkou[cite: 169].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_garlic_and_olive_oil_spaghetti_step_4.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Sosun kıvamını ayarlamak için gerekirse biraz daha ayrılmış makarna suyu ekleyin. Tadına bakın ve gerekirse 1 tutam karabiber ve ilave tuz ekleyin. Sıcakken hemen servis yapın.",
+          "stepDescription": "V případě potřeby přidejte trochu více odložené vody z těstovin, abyste upravili konzistenci omáčky[cite: 170]. Ochutnejte a přidejte 1 špetku černého pepře a další sůl, pokud je potřeba[cite: 171]. Podávejte ihned, dokud je horké[cite: 172].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -668,7 +668,7 @@
     },
     {
       "id": 7,
-      "recipeName": "Kremalı Pesto Tavuklu Makarna",
+      "recipeName": "Krémové Těstoviny s Kuřecím Masem a Pestem",
       "calories": 750,
       "prepTime": 15,
       "cookTime": 20,
@@ -676,47 +676,47 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_recipe.png",
       "ingredients": [
         {
-          "name": "Fettuccine Makarna",
+          "name": "Těstoviny Fettuccine",
           "quantity": 350.0,
           "type": "gram"
         },
         {
-          "name": "Tavuk Göğsü (kemiksiz, derisiz)",
+          "name": "Kuřecí prsa (bez kosti, bez kůže)",
           "quantity": 500.0,
           "type": "gram"
         },
         {
-          "name": "Krema",
+          "name": "Smetana ke šlehání (Heavy Cream)",
           "quantity": 250.0,
           "type": "milliliter"
         },
         {
-          "name": "Fesleğen Pesto",
+          "name": "Bazalkové pesto",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Parmesan Peyniri (rendelenmiş)",
+          "name": "Parmazán (strouhaný)",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Olivový olej",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Sarımsak Tozu",
+          "name": "Česnekový prášek",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sůl",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Černý pepř",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -724,17 +724,17 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "500 gram tavuk göğsünü 1 inçlik küpler halinde kesin. Bir kapta tavuğu 1 yemek kaşığı zeytinyağı, 0.5 çay kaşığı tuz, 1 çay kaşığı sarımsak tozu ve 1 tutam karabiber ile karıştırın.",
+          "stepDescription": "Nakrájejte 500 gramů kuřecích prsou na kostky o velikosti 2.5 cm[cite: 183]. V misce promíchejte kuře s 1 lžící olivového oleje, 0.5 lžičkou soli, 1 lžičkou česnekového prášku a 1 špetkou černého pepře[cite: 184].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_1.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Kalan 1 yemek kaşığı zeytinyağını büyük bir tavada orta-yüksek ateşte ısıtın. Baharatlanmış tavuğu ekleyin ve altın rengi kahverengi olana ve tamamen pişene kadar ara sıra çevirerek 6-8 dakika pişirin.",
+          "stepDescription": "Rozehřejte zbývající 1 lžíci olivového oleje ve velké pánvi na středně vysokou teplotu[cite: 185]. Přidejte okořeněné kuře a vařte 6-8 minut, občas otočte, dokud nebude zlatohnědé a úplně propečené[cite: 186].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "Tavuk Pişirme",
+              "timerName": "Cook Chicken",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 0
@@ -743,11 +743,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Tavuk pişerken, büyük bir tencere tuzlu suyu kaynatın. 350 gram fettuccine makarnayı ekleyin ve al dente olana kadar pişirin. Makarnayı süzün, 1 su bardağı pişirme suyunu ayırın.",
+          "stepDescription": "Zatímco se kuře vaří, přiveďte velký hrnec osolené vody k varu[cite: 189]. Přidejte 350 gramů těstovin fettuccine a vařte, dokud nebudou al dente[cite: 190]. Sceďte těstoviny, odložte si 1 šálek vody z vaření[cite: 191].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Makarna Pişirme",
+              "timerName": "Cook Pasta",
               "timerHours": 0,
               "timerMinutes": 9,
               "timerSeconds": 0
@@ -756,11 +756,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Tavadaki (tavuklu) ateşi kısın. 250 mililitre krema ve 0.5 su bardağı fesleğen pestoyu dökün. Birleşene kadar iyice karıştırın. Sosun hafifçe koyulaşması için 2 dakika yavaşça kaynamasına izin verin.",
+          "stepDescription": "Snižte teplotu na pánvi (s kuřetem) na nízkou[cite: 194]. Přilijte 250 mililitrů smetany ke šlehání a 0.5 šálku bazalkového pesta[cite: 195]. Dobře promíchejte, dokud se nespojí[cite: 195]. Nechte omáčku jemně vařit 2 minuty, aby mírně zhoustla[cite: 196].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_pesto_chicken_pasta_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Sos Kaynatma",
+              "timerName": "Sauce Simmer",
               "timerHours": 0,
               "timerMinutes": 2,
               "timerSeconds": 0
@@ -769,7 +769,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Süzülmüş makarnayı kremalı pesto sosa ekleyin ve kaplamak için karıştırın. 0.5 su bardağı rendelenmiş Parmesan peynirini ve ayrılmış makarna suyunun yaklaşık 0.25 su bardağını karıştırın. İstenilen kıvama ulaşmak için gerekirse daha fazla su ekleyin. Hemen servis yapın.",
+          "stepDescription": "Přidejte scezené těstoviny do krémové pesto omáčky a promíchejte, aby se obalily[cite: 199]. Vmíchejte 0.5 šálku strouhaného parmazánu a asi 0.25 šálku odložené vody z těstovin[cite: 200]. Podle potřeby přidejte více vody, abyste dosáhli požadované konzistence[cite: 201]. Podávejte ihned[cite: 202].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -777,7 +777,7 @@
     },
     {
       "id": 8,
-      "recipeName": "Izgara Peynirli Sandviç",
+      "recipeName": "Grilovaný sýrový sendvič",
       "calories": 480,
       "prepTime": 5,
       "cookTime": 8,
@@ -785,32 +785,32 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich.png",
       "ingredients": [
         {
-          "name": "Ekşi Maya Ekmeği",
+          "name": "Kvasový chléb (Sourdough Bread)",
           "quantity": 2.0,
           "type": "piece"
         },
         {
-          "name": "Çedar Peyniri (keskin)",
+          "name": "Sýr Cheddar (ostrý)",
           "quantity": 50.0,
           "type": "gram"
         },
         {
-          "name": "Monterey Jack Peyniri",
+          "name": "Sýr Monterey Jack",
           "quantity": 50.0,
           "type": "gram"
         },
         {
-          "name": "Tuzsuz Tereyağı (yumuşatılmış)",
+          "name": "Nesolené máslo (změklé)",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Mayonez (tat için isteğe bağlı)",
+          "name": "Majonéza (volitelné pro chuť)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sůl",
           "quantity": 1.0,
           "type": "pinch"
         }
@@ -818,29 +818,29 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Hem Çedar hem de Monterey Jack peynirlerini rendeleyin ve küçük bir kapta karıştırın. Rendelenmiş olması eşit erimeyi sağlar.",
+          "stepDescription": "Nastrouhejte sýry Cheddar i Monterey Jack a smíchejte je dohromady v malé misce[cite: 210]. Strouhání zajišťuje rovnoměrné tání[cite: 211].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Tereyağını her bir dilimin bir tarafına eşit şekilde yayın. Bu, tavaya değecek olan taraftır. İsteğe bağlı olarak, ekstra lezzet için bir dilimin karşı tarafına (iç tarafına) ince bir kat mayonez sürün.",
+          "stepDescription": "Máslo rovnoměrně rozetřete na jednu stranu každého plátku chleba[cite: 212]. Tato strana se dotkne pánve[cite: 213]. Volitelně rozetřete tenkou vrstvu majonézy na opačnou stranu (vnitřní) jednoho plátku pro extra chuť[cite: 213].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/grilled_cheese_sandwich_step_2.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Bir dilim ekmeği (tereyağlı tarafı aşağı bakacak şekilde) orta-kısık ateşte yapışmaz bir tavaya koyun. Karışık peyniri ekmeğin üzerine eşit şekilde serpin, ardından bir tutam tuz ekleyin.",
+          "stepDescription": "Položte jeden plátek chleba (stranou s máslem dolů) do nepřilnavé pánve na středně nízkou teplotu[cite: 214]. Rovnoměrně posypte smíchaným sýrem chléb a poté přidejte špetku soli[cite: 215].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 4,
-          "stepDescription": "İkinci dilim ekmekle (tereyağlı tarafı yukarı bakacak şekilde) üstünü kapatın. Alt dilim altın rengi kahverengi olana ve peynir erimeye başlayana kadar 3 ila 4 dakika pişirin.",
+          "stepDescription": "Přiklopte druhým plátkem chleba (stranou s máslem nahoru)[cite: 216]. Vařte 3 až 4 minuty, dokud spodní plátek není zlatohnědý a sýr se nezačne tavit[cite: 217].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "İlk taraf pişirme süresi",
+              "timerName": "First side cook time",
               "timerHours": 0,
               "timerMinutes": 3,
               "timerSeconds": 30
@@ -849,11 +849,11 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Bir spatula kullanarak sandviçi dikkatlice çevirin. İkinci taraf altın rengi kahverengi olana ve peynir tamamen eriyip akışkan hale gelene kadar 3 ila 4 dakika daha pişirin. Dış yüzey çok hızlı kızarırsa, ateşi kısın.",
+          "stepDescription": "Opatrně otočte sendvič pomocí špachtle[cite: 221]. Vařte další 3 až 4 minuty, dokud druhá strana není zlatohnědá a sýr je zcela rozteklý a tekutý[cite: 222]. Pokud se vnější strana příliš rychle opéká, snižte teplotu[cite: 223].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "İkinci taraf pişirme süresi",
+              "timerName": "Second side cook time",
               "timerHours": 0,
               "timerMinutes": 3,
               "timerSeconds": 30
@@ -862,7 +862,7 @@
         },
         {
           "stepOrder": 6,
-          "stepDescription": "Tavadan alın, çapraz olarak dilimleyin ve hemen servis yapın.",
+          "stepDescription": "Vyjměte z pánve, nakrájejte diagonálně a ihned podávejte[cite: 226].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -870,7 +870,7 @@
     },
     {
       "id": 9,
-      "recipeName": "Sarımsaklı Otlu Tereyağlı Mükemmel Tavada Mühürlenmiş Ribeye Biftek",
+      "recipeName": "Perfektní Pánevní Ribeye Steak s Bylinkovým Máslem a Česnekem",
       "calories": 750,
       "prepTime": 10,
       "cookTime": 10,
@@ -878,37 +878,37 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak.png",
       "ingredients": [
         {
-          "name": "Ribeye Biftek (1.5 inç kalınlığında)",
+          "name": "Ribeye Steak (tloušťka 3.8 cm)",
           "quantity": 2.0,
           "type": "piece"
         },
         {
-          "name": "Koşer Tuz",
+          "name": "Košer sůl",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Taze Çekilmiş Karabiber",
+          "name": "Čerstvě mletý černý pepř",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Bitkisel Yağ (yüksek dumanlanma noktası)",
+          "name": "Rostlinný olej (vysoký kouřový bod)",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Tuzsuz Tereyağı",
+          "name": "Nesolené máslo",
           "quantity": 60.0,
           "type": "gram"
         },
         {
-          "name": "Sarımsak Dişleri (ezilmiş)",
+          "name": "Česnekové stroužky (rozmačkané)",
           "quantity": 4.0,
           "type": "piece"
         },
         {
-          "name": "Taze Kekik Dalları",
+          "name": "Čerstvé snítky tymiánu",
           "quantity": 3.0,
           "type": "piece"
         }
@@ -916,17 +916,17 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Biftekleri kağıt havlularla tamamen kurulayın. Her tarafını koşer tuz ve karabiberle cömertçe baharatlayın. Pişirmeden önce biftekleri oda sıcaklığında 30 dakika bekletin.",
+          "stepDescription": "Otřete steaky papírovými utěrkami do sucha[cite: 236]. Velkoryse okořeňte košer solí a černým pepřem ze všech stran[cite: 237]. Nechte steaky odpočívat při pokojové teplotě 30 minut před vařením[cite: 238].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Bitkisel yağı dökme demir bir tavada yüksek ateşte parlamaya ve hafifçe dumanlanmaya başlayana kadar ısıtın. Baharatlanmış biftekleri dikkatlice sıcak tavaya yerleştirin. Derin, koyu kahverengi bir kabuk oluşana kadar 3 ila 4 dakika mühürleyin.",
+          "stepDescription": "Rozehřejte rostlinný olej v litinové pánvi na vysokou teplotu, dokud se nezačne třpytit a mírně kouřit[cite: 239]. Opatrně vložte okořeněné steaky do horké pánve[cite: 240]. Opékejte 3 až 4 minuty, dokud se nevytvoří hluboká, tmavě hnědá kůrka[cite: 240].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_2.png",
           "recipeTimer": [
             {
-              "timerName": "İlk taraf mühürleme süresi",
+              "timerName": "First side sear time",
               "timerHours": 0,
               "timerMinutes": 3,
               "timerSeconds": 30
@@ -935,11 +935,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Biftekleri çevirin. Ateşi orta seviyeye indirin. Tavaya tereyağı, ezilmiş sarımsak dişleri ve kekik dallarını ekleyin. Tavayı hafifçe eğin ve eritilmiş otlu tereyağını büyük bir kaşık kullanarak bifteklerin üzerine sürekli olarak 1 ila 2 dakika boyunca gezdirin veya istenen iç sıcaklığa ulaşılana kadar (örneğin, az pişmiş-orta için 130°F).",
+          "stepDescription": "Otočte steaky[cite: 243]. Snižte teplotu na střední[cite: 244]. Přidejte máslo, rozmačkané stroužky česneku a snítky tymiánu do pánve[cite: 244]. Pánev mírně nakloňte a pomocí velké lžíce neustále polévejte rozpuštěným bylinkovým máslem steaky po dobu 1 až 2 minut, nebo dokud nedosáhnete požadované vnitřní teploty (např. 130 °F pro středně krvavé/medium-rare)[cite: 245].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Tereyağ Gezdirme/Pişirme Süresi",
+              "timerName": "Basting/Cooking Time",
               "timerHours": 0,
               "timerMinutes": 2,
               "timerSeconds": 0
@@ -948,11 +948,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Biftekleri tavadan alın ve bir kesme tahtasına yerleştirin. Tavadan kalan otlu tereyağını bifteklerin üzerine dökün. Dilimlemeden ve servis yapmadan önce suların yeniden dağılması için 5 ila 10 dakika dinlenmeye bırakın.",
+          "stepDescription": "Vyjměte steaky z pánve a položte je na prkénko[cite: 248]. Přelijte zbývající bylinkové máslo z pánve přes steaky[cite: 249]. Nechte je odpočívat 5 až 10 minut, aby se šťávy před krájením a podáváním přerozdělily[cite: 250].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/perfect_pan_seared_ribeye_steak_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Dinlenme Süresi",
+              "timerName": "Resting Time",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 30
@@ -963,7 +963,7 @@
     },
     {
       "id": 10,
-      "recipeName": "Klasik Tereyağlı Tavuk (Butter Chicken)",
+      "recipeName": "Klasické Máslové Kuře (Butter Chicken)",
       "calories": 680,
       "prepTime": 25,
       "cookTime": 35,
@@ -971,57 +971,57 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken.png",
       "ingredients": [
         {
-          "name": "Kemiksiz, Derisiz Tavuk Butları (küp doğranmış)",
+          "name": "Kuřecí stehna bez kosti a kůže (nakrájená na kostky)",
           "quantity": 1.0,
           "type": "kilogram"
         },
         {
-          "name": "Sade Yoğurt",
+          "name": "Bílý jogurt",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Zencefil-Sarımsak Ezmesi",
+          "name": "Zázvorovo-česneková pasta",
           "quantity": 1.0,
           "type": "tablespoon"
         },
         {
-          "name": "Biber Tozu",
+          "name": "Chilli prášek",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Zerdeçal Tozu",
+          "name": "Kurkuma v prášku",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Garam Masala (marinasyon için)",
+          "name": "Garam Masala (na marinádu)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Domates Püresi",
+          "name": "Rajčatové pyré",
           "quantity": 1.0,
           "type": "cup"
         },
         {
-          "name": "Tuzsuz Tereyağı",
+          "name": "Nesolené máslo",
           "quantity": 120.0,
           "type": "gram"
         },
         {
-          "name": "Krema",
+          "name": "Smetana ke šlehání (Heavy Cream)",
           "quantity": 0.75,
           "type": "cup"
         },
         {
-          "name": "Kasuri Methi (Kurutulmuş Çemen Yaprakları)",
+          "name": "Kasuri Methi (sušené pískavice řecké seno)",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Şeker",
+          "name": "Cukr",
           "quantity": 1.0,
           "type": "teaspoon"
         }
@@ -1029,11 +1029,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Tavuğu marine edin: Büyük bir kapta tavuğu yoğurt, zencefil-sarımsak ezmesi, biber tozu, zerdeçal tozu ve marinasyon garam masalası ile karıştırın. Üzerini kapatın ve en az 30 dakika veya 4 saate kadar buzdolabında bekletin.",
+          "stepDescription": "Marinujte kuře: Ve velké misce smíchejte kuře s jogurtem, zázvorovo-česnekovou pastou, chilli práškem, kurkumou v prášku a kořením Garam Masala na marinádu[cite: 265]. Přikryjte a dejte do lednice alespoň na 30 minut, nebo až na 4 hodiny[cite: 266].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Marinasyon süresi",
+              "timerName": "Marination time",
               "timerHours": 0,
               "timerMinutes": 30,
               "timerSeconds": 0
@@ -1042,11 +1042,11 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Tavuğu pişirin: Marine edilmiş tavuğu tamamen pişene ve kenarları hafifçe kömürleşene kadar ızgarada, fırında veya tavada kızartın. Bir kenara koyun.",
+          "stepDescription": "Uvařte kuře: Grilujte, pečte nebo opékejte marinované kuře, dokud není zcela uvařené a okraje mírně ožehlé[cite: 269]. Odložte stranou[cite: 270].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Tavuk pişirme süresi",
+              "timerName": "Chicken cooking time",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -1055,11 +1055,11 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Sos tabanını hazırlayın: Büyük bir tencerede tereyağının yarısını eritin. Domates püresini ekleyin ve yağ ayrılana kadar (yaklaşık 10 dakika) pişirin. 1/2 su bardağı su ekleyin, kaynamaya bırakın, ardından sosu tamamen pürüzsüz olana kadar karıştırın. Karışımı tekrar tencereye süzün.",
+          "stepDescription": "Připravte základ omáčky: Ve velkém hrnci rozpusťte polovinu másla[cite: 273]. Přidejte rajčatové pyré a vařte, dokud se neoddělí olej (asi 10 minut)[cite: 274]. Přidejte 1/2 šálku vody, nechte vařit, a poté omáčku rozmixujte do úplně hladké konzistence[cite: 275]. Přelijte rozmixovanou omáčku zpět do hrnce[cite: 276].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_3.png",
           "recipeTimer": [
             {
-              "timerName": "Sos kaynatma süresi",
+              "timerName": "Sauce simmering time",
               "timerHours": 0,
               "timerMinutes": 10,
               "timerSeconds": 0
@@ -1068,11 +1068,11 @@
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Sosu tamamlayın: Kalan tereyağını, şekeri ve kalan garam masalayı (istenirse) süzülmüş sosa ekleyin. İyice karıştırın. Pişmiş tavuk parçalarını ekleyin ve 5 dakika kaynatın.",
+          "stepDescription": "Dokončete omáčku: Přidejte zbývající máslo, cukr a zbývající Garam Masalu (pokud chcete) do přecezené omáčky[cite: 279]. Dobře promíchejte[cite: 280]. Přidejte uvařené kousky kuřete a vařte 5 minut[cite: 280].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/classic_butter_chicken_step_4.png",
           "recipeTimer": [
             {
-              "timerName": "Tavukla son kaynatma",
+              "timerName": "Final simmer with chicken",
               "timerHours": 0,
               "timerMinutes": 5,
               "timerSeconds": 0
@@ -1081,7 +1081,7 @@
         },
         {
           "stepOrder": 5,
-          "stepDescription": "Servis: Kremayı karıştırın ve Kasuri Methi'yi eklemeden önce avuçlarınız arasında ezerek ufalayın. Kaynatmadan ısıtın. Pirinç veya naan ekmeği ile hemen servis yapın.",
+          "stepDescription": "Podávejte: Vmíchejte smetanu ke šlehání a před přidáním Kasuri Methi rozdrťte mezi dlaněmi[cite: 283]. Prohřejte, ale nevařte[cite: 284]. Podávejte ihned s rýží nebo naan chlebem[cite: 284].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
@@ -1089,7 +1089,7 @@
     },
     {
       "id": 11,
-      "recipeName": "Kremalı Domates Çorbası",
+      "recipeName": "Krémová Rajčatová Polévka",
       "calories": 250,
       "prepTime": 10,
       "cookTime": 30,
@@ -1097,47 +1097,47 @@
       "image": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup.png",
       "ingredients": [
         {
-          "name": "Konserve Doğranmış Domates",
+          "name": "Konzervovaná rajčata nakrájená na kostičky",
           "quantity": 28.0,
           "type": "ounce"
         },
         {
-          "name": "Tavuk veya Sebze Suyu",
+          "name": "Kuřecí nebo zeleninový vývar",
           "quantity": 4.0,
           "type": "cup"
         },
         {
-          "name": "Soğan, doğranmış",
+          "name": "Cibule, nakrájená",
           "quantity": 1.0,
           "type": "piece"
         },
         {
-          "name": "Sarımsak, kıyılmış",
+          "name": "Česnek, mletý",
           "quantity": 2.0,
           "type": "cloves"
         },
         {
-          "name": "Krema",
+          "name": "Smetana ke šlehání (Heavy Cream)",
           "quantity": 0.5,
           "type": "cup"
         },
         {
-          "name": "Zeytinyağı",
+          "name": "Olivový olej",
           "quantity": 2.0,
           "type": "tablespoon"
         },
         {
-          "name": "Kuru Fesleğen",
+          "name": "Sušená bazalka",
           "quantity": 1.0,
           "type": "teaspoon"
         },
         {
-          "name": "Tuz",
+          "name": "Sůl",
           "quantity": 0.5,
           "type": "teaspoon"
         },
         {
-          "name": "Karabiber",
+          "name": "Černý pepř",
           "quantity": 0.25,
           "type": "teaspoon"
         }
@@ -1145,11 +1145,11 @@
       "steps": [
         {
           "stepOrder": 1,
-          "stepDescription": "Büyük bir tencerede zeytinyağını orta ateşte ısıtın. Doğranmış soğanı ekleyin ve yaklaşık 5-7 dakika yumuşayana kadar soteleyin. Kıyılmış sarımsağı ekleyin ve 1 dakika daha soteleyin.",
+          "stepDescription": "Rozehřejte olivový olej ve velkém hrnci na střední teplotu[cite: 295]. Přidejte nakrájenou cibuli a restujte, dokud nezměkne, asi 5-7 minut[cite: 296]. Přidejte mletý česnek a restujte ještě 1 minutu[cite: 297].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_1.png",
           "recipeTimer": [
             {
-              "timerName": "Soğanı Soteleme",
+              "timerName": "Sauté Onion",
               "timerHours": 0,
               "timerMinutes": 7,
               "timerSeconds": 0
@@ -1158,11 +1158,11 @@
         },
         {
           "stepOrder": 2,
-          "stepDescription": "Konserve doğranmış domates, et suyu, kuru fesleğen, tuz ve karabiberi karıştırın. Karışımı kaynamaya bırakın, ardından ateşi kısın ve 20 dakika kaynatın.",
+          "stepDescription": "Vmíchejte konzervovaná nakrájená rajčata, vývar, sušenou bazalku, sůl a pepř[cite: 300]. Přiveďte směs k varu, poté snižte teplotu a vařte 20 minut[cite: 301].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": [
             {
-              "timerName": "Çorbayı Kaynatma",
+              "timerName": "Simmer Soup",
               "timerHours": 0,
               "timerMinutes": 20,
               "timerSeconds": 0
@@ -1171,13 +1171,13 @@
         },
         {
           "stepOrder": 3,
-          "stepDescription": "Çorbayı dikkatlice bir blendere aktarın veya bir el blenderı kullanarak çorbayı pürüzsüz olana kadar karıştırın. Çorbayı tekrar tencereye alın.",
+          "stepDescription": "Opatrně přelijte polévku do mixéru nebo použijte ponorný mixér k rozmixování polévky do hladka[cite: 304]. Vraťte polévku zpět do hrnce[cite: 305].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/creamy_tomato_soup_step_3.png",
           "recipeTimer": []
         },
         {
           "stepOrder": 4,
-          "stepDescription": "Kremayı karıştırın ve 2-3 dakika ısıtın, ancak kaynatmayın. İsteğe bağlı olarak taze fesleğen veya krutonlarla süsleyerek sıcak servis yapın.",
+          "stepDescription": "Vmíchejte smetanu ke šlehání a prohřívejte 2-3 minuty, ale nevařte[cite: 306]. Podávejte horké, volitelně ozdobené čerstvou bazalkou nebo krutony[cite: 307].",
           "stepImage": "https://raw.githubusercontent.com/ahmethakantoker/shopping-cart/refs/heads/main/Recipe%20Images/",
           "recipeTimer": []
         }
